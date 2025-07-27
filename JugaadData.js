@@ -20929,5 +20929,2104 @@ export const JugaadData = [
       "health"
     ]
   },
-  
+   {
+    "id": 1361,
+    "title": "Banana Peel for Silver Polish",
+    "category": "Health",
+    "jugaad": "Is jugaad mein banana peel ka use silver polish karne ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "quick-fix",
+      "homecare",
+      "eco-friendly",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 1362,
+    "title": "Rice Water for Hair Smoothness",
+    "category": "Health",
+    "jugaad": "Is jugaad mein rice water ka use baal ko smooth banane mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "fitness",
+      "ayurveda",
+      "quick-fix",
+      "natural"
+    ]
+  },
+  {
+    "id": 1363,
+    "title": "Neem Leaves for Acne",
+    "category": "Health",
+    "jugaad": "Is jugaad mein neem leaves ka use acne ke treatment mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "eco-friendly",
+      "homecare",
+      "remedy",
+      "quick-fix"
+    ]
+  },
+  {
+    "id": 1364,
+    "title": "Orange Peel as Air Freshener",
+    "category": "Health",
+    "jugaad": "Is jugaad mein orange peel ka use room freshener banane mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "ayurveda",
+      "remedy",
+      "quick-fix",
+      "fitness"
+    ]
+  },
+  {
+    "id": 1365,
+    "title": "Used Tea Leaves for Fertilizer",
+    "category": "Health",
+    "jugaad": "Is jugaad mein used tea leaves ka use plants ke fertilizer ke roop mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "remedy",
+      "natural",
+      "eco-friendly",
+      "quick-fix"
+    ]
+  },
+  {
+    "id": 1366,
+    "title": "Egg Shell for Plant Calcium",
+    "category": "Health",
+    "jugaad": "Is jugaad mein egg shell ka use gardening mein calcium dene ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "eco-friendly",
+      "fitness",
+      "remedy",
+      "quick-fix"
+    ]
+  },
+  {
+    "id": 1367,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Health",
+    "jugaad": "Is jugaad mein cucumber slice ka use eye puffiness kam karne mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "ayurveda",
+      "remedy",
+      "homecare",
+      "natural"
+    ]
+  },
+  {
+    "id": 1368,
+    "title": "Honey for Wound Healing",
+    "category": "Health",
+    "jugaad": "Is jugaad mein honey ka use wound healing mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "homecare",
+      "quick-fix",
+      "ayurveda",
+      "eco-friendly"
+    ]
+  },
+  {
+    "id": 1369,
+    "title": "Potato Slices for Dark Circles",
+    "category": "Health",
+    "jugaad": "Is jugaad mein potato slice ka use dark circles ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "natural",
+      "fitness",
+      "quick-fix",
+      "eco-friendly"
+    ]
+  },
+  {
+    "id": 1370,
+    "title": "Alum for Post-Shave Skin",
+    "category": "Health",
+    "jugaad": "Is jugaad mein alum ka use shaving ke baad skin soothe karne ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "eco-friendly",
+      "fitness",
+      "quick-fix",
+      "natural"
+    ]
+  },
+  {
+    "id": 1371,
+    "title": "Mint Leaves for Headache",
+    "category": "Health",
+    "jugaad": "Is jugaad mein mint leaves ka use headache relief ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "ayurveda",
+      "quick-fix",
+      "remedy",
+      "natural"
+    ]
+  },
+  {
+    "id": 1372,
+    "title": "Turmeric Paste for Inflammation",
+    "category": "Health",
+    "jugaad": "Is jugaad mein turmeric paste ka use anti-inflammatory treatment mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "ayurveda",
+      "quick-fix",
+      "remedy",
+      "homecare"
+    ]
+  },
+  {
+    "id": 1373,
+    "title": "Multani Mitti for Oily Skin",
+    "category": "Health",
+    "jugaad": "Is jugaad mein multani mitti ka use oily skin control karne ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "natural",
+      "homecare",
+      "fitness",
+      "quick-fix"
+    ]
+  },
+  {
+    "id": 1374,
+    "title": "Cold Spoon for Eye Swelling",
+    "category": "Health",
+    "jugaad": "Is jugaad mein cold spoon ka use eye swelling kam karne ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "fitness",
+      "natural",
+      "eco-friendly",
+      "homecare"
+    ]
+  },
+  {
+    "id": 1375,
+    "title": "Papaya Pulp for Glowing Skin",
+    "category": "Health",
+    "jugaad": "Is jugaad mein papaya pulp ka use glowing skin ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "eco-friendly",
+      "homecare",
+      "fitness",
+      "remedy"
+    ]
+  },
+  {
+    "id": 1376,
+    "title": "Clove Oil for Toothache",
+    "category": "Health",
+    "jugaad": "Is jugaad mein clove oil ka use toothache relief ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "eco-friendly",
+      "ayurveda",
+      "fitness",
+      "natural"
+    ]
+  },
+  {
+    "id": 1377,
+    "title": "Camphor for Dandruff",
+    "category": "Health",
+    "jugaad": "Is jugaad mein camphor ka use dandruff treatment mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "quick-fix",
+      "ayurveda",
+      "fitness",
+      "remedy"
+    ]
+  },
+  {
+    "id": 1378,
+    "title": "Curd for Dry Scalp",
+    "category": "Health",
+    "jugaad": "Is jugaad mein curd ka use dry scalp ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "eco-friendly",
+      "quick-fix",
+      "ayurveda",
+      "natural"
+    ]
+  },
+  {
+    "id": 1379,
+    "title": "Tomato for Suntan",
+    "category": "Health",
+    "jugaad": "Is jugaad mein tomato ka use suntan hatane mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "homecare",
+      "remedy",
+      "fitness",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 1380,
+    "title": "Fenugreek Seeds for Hair Growth",
+    "category": "Health",
+    "jugaad": "Is jugaad mein fenugreek seed paste ka use hair growth mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "quick-fix",
+      "remedy",
+      "ayurveda",
+      "homecare"
+    ]
+  },
+  {
+    "id": 1381,
+    "title": "Banana Peel for Silver Polish",
+    "category": "Health",
+    "jugaad": "Is jugaad mein banana peel ka use silver polish karne ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "remedy",
+      "quick-fix",
+      "ayurveda",
+      "natural"
+    ]
+  },
+  {
+    "id": 1382,
+    "title": "Rice Water for Hair Smoothness",
+    "category": "Health",
+    "jugaad": "Is jugaad mein rice water ka use baal ko smooth banane mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "homecare",
+      "natural",
+      "remedy",
+      "eco-friendly"
+    ]
+  },
+  {
+    "id": 1383,
+    "title": "Neem Leaves for Acne",
+    "category": "Health",
+    "jugaad": "Is jugaad mein neem leaves ka use acne ke treatment mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "ayurveda",
+      "quick-fix",
+      "homecare",
+      "natural"
+    ]
+  },
+  {
+    "id": 1384,
+    "title": "Orange Peel as Air Freshener",
+    "category": "Health",
+    "jugaad": "Is jugaad mein orange peel ka use room freshener banane mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "homecare",
+      "quick-fix",
+      "natural",
+      "eco-friendly"
+    ]
+  },
+  {
+    "id": 1385,
+    "title": "Used Tea Leaves for Fertilizer",
+    "category": "Health",
+    "jugaad": "Is jugaad mein used tea leaves ka use plants ke fertilizer ke roop mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "fitness",
+      "quick-fix",
+      "ayurveda",
+      "remedy"
+    ]
+  },
+  {
+    "id": 1386,
+    "title": "Egg Shell for Plant Calcium",
+    "category": "Health",
+    "jugaad": "Is jugaad mein egg shell ka use gardening mein calcium dene ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "fitness",
+      "ayurveda",
+      "natural",
+      "eco-friendly"
+    ]
+  },
+  {
+    "id": 1387,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Health",
+    "jugaad": "Is jugaad mein cucumber slice ka use eye puffiness kam karne mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "eco-friendly",
+      "homecare",
+      "fitness",
+      "natural"
+    ]
+  },
+  {
+    "id": 1388,
+    "title": "Honey for Wound Healing",
+    "category": "Health",
+    "jugaad": "Is jugaad mein honey ka use wound healing mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "ayurveda",
+      "homecare",
+      "fitness",
+      "natural"
+    ]
+  },
+  {
+    "id": 1389,
+    "title": "Potato Slices for Dark Circles",
+    "category": "Health",
+    "jugaad": "Is jugaad mein potato slice ka use dark circles ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "remedy",
+      "quick-fix",
+      "fitness",
+      "natural"
+    ]
+  },
+  {
+    "id": 1390,
+    "title": "Alum for Post-Shave Skin",
+    "category": "Health",
+    "jugaad": "Is jugaad mein alum ka use shaving ke baad skin soothe karne ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "homecare",
+      "natural",
+      "quick-fix",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 1391,
+    "title": "Mint Leaves for Headache",
+    "category": "Health",
+    "jugaad": "Is jugaad mein mint leaves ka use headache relief ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "ayurveda",
+      "eco-friendly",
+      "fitness",
+      "natural"
+    ]
+  },
+  {
+    "id": 1392,
+    "title": "Turmeric Paste for Inflammation",
+    "category": "Health",
+    "jugaad": "Is jugaad mein turmeric paste ka use anti-inflammatory treatment mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "natural",
+      "homecare",
+      "fitness",
+      "remedy"
+    ]
+  },
+  {
+    "id": 1393,
+    "title": "Multani Mitti for Oily Skin",
+    "category": "Health",
+    "jugaad": "Is jugaad mein multani mitti ka use oily skin control karne ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "natural",
+      "ayurveda",
+      "homecare",
+      "remedy"
+    ]
+  },
+  {
+    "id": 1394,
+    "title": "Cold Spoon for Eye Swelling",
+    "category": "Health",
+    "jugaad": "Is jugaad mein cold spoon ka use eye swelling kam karne ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "ayurveda",
+      "quick-fix",
+      "natural",
+      "homecare"
+    ]
+  },
+  {
+    "id": 1395,
+    "title": "Papaya Pulp for Glowing Skin",
+    "category": "Health",
+    "jugaad": "Is jugaad mein papaya pulp ka use glowing skin ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "remedy",
+      "natural",
+      "quick-fix",
+      "eco-friendly"
+    ]
+  },
+  {
+    "id": 1396,
+    "title": "Clove Oil for Toothache",
+    "category": "Health",
+    "jugaad": "Is jugaad mein clove oil ka use toothache relief ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "homecare",
+      "fitness",
+      "eco-friendly",
+      "quick-fix"
+    ]
+  },
+  {
+    "id": 1397,
+    "title": "Camphor for Dandruff",
+    "category": "Health",
+    "jugaad": "Is jugaad mein camphor ka use dandruff treatment mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "natural",
+      "ayurveda",
+      "homecare",
+      "eco-friendly"
+    ]
+  },
+  {
+    "id": 1398,
+    "title": "Curd for Dry Scalp",
+    "category": "Health",
+    "jugaad": "Is jugaad mein curd ka use dry scalp ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "eco-friendly",
+      "quick-fix",
+      "fitness",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 1399,
+    "title": "Tomato for Suntan",
+    "category": "Health",
+    "jugaad": "Is jugaad mein tomato ka use suntan hatane mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "eco-friendly",
+      "ayurveda",
+      "remedy",
+      "quick-fix"
+    ]
+  },
+  {
+    "id": 1400,
+    "title": "Fenugreek Seeds for Hair Growth",
+    "category": "Health",
+    "jugaad": "Is jugaad mein fenugreek seed paste ka use hair growth mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "eco-friendly",
+      "quick-fix",
+      "remedy",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 1401,
+    "title": "Banana Peel for Silver Polish",
+    "category": "Health",
+    "jugaad": "Is jugaad mein banana peel ka use silver polish karne ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "ayurveda",
+      "fitness",
+      "natural",
+      "quick-fix"
+    ]
+  },
+  {
+    "id": 1402,
+    "title": "Rice Water for Hair Smoothness",
+    "category": "Health",
+    "jugaad": "Is jugaad mein rice water ka use baal ko smooth banane mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "remedy",
+      "homecare",
+      "quick-fix",
+      "eco-friendly"
+    ]
+  },
+  {
+    "id": 1403,
+    "title": "Neem Leaves for Acne",
+    "category": "Health",
+    "jugaad": "Is jugaad mein neem leaves ka use acne ke treatment mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "remedy",
+      "homecare",
+      "natural",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 1404,
+    "title": "Orange Peel as Air Freshener",
+    "category": "Health",
+    "jugaad": "Is jugaad mein orange peel ka use room freshener banane mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "remedy",
+      "natural",
+      "fitness",
+      "homecare"
+    ]
+  },
+  {
+    "id": 1405,
+    "title": "Used Tea Leaves for Fertilizer",
+    "category": "Health",
+    "jugaad": "Is jugaad mein used tea leaves ka use plants ke fertilizer ke roop mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "ayurveda",
+      "eco-friendly",
+      "homecare",
+      "fitness"
+    ]
+  },
+  {
+    "id": 1406,
+    "title": "Egg Shell for Plant Calcium",
+    "category": "Health",
+    "jugaad": "Is jugaad mein egg shell ka use gardening mein calcium dene ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "quick-fix",
+      "remedy",
+      "fitness",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 1407,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Health",
+    "jugaad": "Is jugaad mein cucumber slice ka use eye puffiness kam karne mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "remedy",
+      "fitness",
+      "natural",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 1408,
+    "title": "Honey for Wound Healing",
+    "category": "Health",
+    "jugaad": "Is jugaad mein honey ka use wound healing mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "homecare",
+      "remedy",
+      "natural",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 1409,
+    "title": "Potato Slices for Dark Circles",
+    "category": "Health",
+    "jugaad": "Is jugaad mein potato slice ka use dark circles ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "remedy",
+      "eco-friendly",
+      "quick-fix",
+      "natural"
+    ]
+  },
+  {
+    "id": 1410,
+    "title": "Alum for Post-Shave Skin",
+    "category": "Health",
+    "jugaad": "Is jugaad mein alum ka use shaving ke baad skin soothe karne ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "ayurveda",
+      "fitness",
+      "natural",
+      "remedy"
+    ]
+  },
+  {
+    "id": 1411,
+    "title": "Mint Leaves for Headache",
+    "category": "Health",
+    "jugaad": "Is jugaad mein mint leaves ka use headache relief ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "remedy",
+      "natural",
+      "quick-fix",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 1412,
+    "title": "Turmeric Paste for Inflammation",
+    "category": "Health",
+    "jugaad": "Is jugaad mein turmeric paste ka use anti-inflammatory treatment mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "fitness",
+      "eco-friendly",
+      "homecare",
+      "quick-fix"
+    ]
+  },
+  {
+    "id": 1413,
+    "title": "Multani Mitti for Oily Skin",
+    "category": "Health",
+    "jugaad": "Is jugaad mein multani mitti ka use oily skin control karne ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "ayurveda",
+      "fitness",
+      "homecare",
+      "eco-friendly"
+    ]
+  },
+  {
+    "id": 1414,
+    "title": "Cold Spoon for Eye Swelling",
+    "category": "Health",
+    "jugaad": "Is jugaad mein cold spoon ka use eye swelling kam karne ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "natural",
+      "homecare",
+      "eco-friendly",
+      "quick-fix"
+    ]
+  },
+  {
+    "id": 1415,
+    "title": "Papaya Pulp for Glowing Skin",
+    "category": "Health",
+    "jugaad": "Is jugaad mein papaya pulp ka use glowing skin ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "ayurveda",
+      "eco-friendly",
+      "natural",
+      "homecare"
+    ]
+  },
+  {
+    "id": 1416,
+    "title": "Clove Oil for Toothache",
+    "category": "Health",
+    "jugaad": "Is jugaad mein clove oil ka use toothache relief ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "quick-fix",
+      "remedy",
+      "natural",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 1417,
+    "title": "Camphor for Dandruff",
+    "category": "Health",
+    "jugaad": "Is jugaad mein camphor ka use dandruff treatment mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "eco-friendly",
+      "quick-fix",
+      "remedy",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 1418,
+    "title": "Curd for Dry Scalp",
+    "category": "Health",
+    "jugaad": "Is jugaad mein curd ka use dry scalp ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "quick-fix",
+      "remedy",
+      "natural",
+      "eco-friendly"
+    ]
+  },
+  {
+    "id": 1419,
+    "title": "Tomato for Suntan",
+    "category": "Health",
+    "jugaad": "Is jugaad mein tomato ka use suntan hatane mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "natural",
+      "homecare",
+      "quick-fix",
+      "eco-friendly"
+    ]
+  },
+  {
+    "id": 1420,
+    "title": "Fenugreek Seeds for Hair Growth",
+    "category": "Health",
+    "jugaad": "Is jugaad mein fenugreek seed paste ka use hair growth mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "remedy",
+      "fitness",
+      "eco-friendly",
+      "quick-fix"
+    ]
+  },
+  {
+    "id": 1421,
+    "title": "Banana Peel for Silver Polish",
+    "category": "Health",
+    "jugaad": "Is jugaad mein banana peel ka use silver polish karne ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "ayurveda",
+      "fitness",
+      "natural",
+      "eco-friendly"
+    ]
+  },
+  {
+    "id": 1422,
+    "title": "Rice Water for Hair Smoothness",
+    "category": "Health",
+    "jugaad": "Is jugaad mein rice water ka use baal ko smooth banane mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "eco-friendly",
+      "ayurveda",
+      "quick-fix",
+      "natural"
+    ]
+  },
+  {
+    "id": 1423,
+    "title": "Neem Leaves for Acne",
+    "category": "Health",
+    "jugaad": "Is jugaad mein neem leaves ka use acne ke treatment mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "quick-fix",
+      "ayurveda",
+      "natural",
+      "remedy"
+    ]
+  },
+  {
+    "id": 1424,
+    "title": "Orange Peel as Air Freshener",
+    "category": "Health",
+    "jugaad": "Is jugaad mein orange peel ka use room freshener banane mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "eco-friendly",
+      "homecare",
+      "quick-fix",
+      "natural"
+    ]
+  },
+  {
+    "id": 1425,
+    "title": "Used Tea Leaves for Fertilizer",
+    "category": "Health",
+    "jugaad": "Is jugaad mein used tea leaves ka use plants ke fertilizer ke roop mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "homecare",
+      "natural",
+      "remedy",
+      "quick-fix"
+    ]
+  },
+  {
+    "id": 1426,
+    "title": "Egg Shell for Plant Calcium",
+    "category": "Health",
+    "jugaad": "Is jugaad mein egg shell ka use gardening mein calcium dene ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "fitness",
+      "eco-friendly",
+      "quick-fix",
+      "remedy"
+    ]
+  },
+  {
+    "id": 1427,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Health",
+    "jugaad": "Is jugaad mein cucumber slice ka use eye puffiness kam karne mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "fitness",
+      "quick-fix",
+      "homecare",
+      "natural"
+    ]
+  },
+  {
+    "id": 1428,
+    "title": "Honey for Wound Healing",
+    "category": "Health",
+    "jugaad": "Is jugaad mein honey ka use wound healing mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "quick-fix",
+      "natural",
+      "remedy",
+      "homecare"
+    ]
+  },
+  {
+    "id": 1429,
+    "title": "Potato Slices for Dark Circles",
+    "category": "Health",
+    "jugaad": "Is jugaad mein potato slice ka use dark circles ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "eco-friendly",
+      "homecare",
+      "quick-fix",
+      "fitness"
+    ]
+  },
+  {
+    "id": 1430,
+    "title": "Alum for Post-Shave Skin",
+    "category": "Health",
+    "jugaad": "Is jugaad mein alum ka use shaving ke baad skin soothe karne ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "fitness",
+      "homecare",
+      "natural",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 1431,
+    "title": "Mint Leaves for Headache",
+    "category": "Health",
+    "jugaad": "Is jugaad mein mint leaves ka use headache relief ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "homecare",
+      "quick-fix",
+      "eco-friendly",
+      "natural"
+    ]
+  },
+  {
+    "id": 1432,
+    "title": "Turmeric Paste for Inflammation",
+    "category": "Health",
+    "jugaad": "Is jugaad mein turmeric paste ka use anti-inflammatory treatment mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "quick-fix",
+      "eco-friendly",
+      "ayurveda",
+      "remedy"
+    ]
+  },
+  {
+    "id": 1433,
+    "title": "Multani Mitti for Oily Skin",
+    "category": "Health",
+    "jugaad": "Is jugaad mein multani mitti ka use oily skin control karne ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "ayurveda",
+      "homecare",
+      "eco-friendly",
+      "fitness"
+    ]
+  },
+  {
+    "id": 1434,
+    "title": "Cold Spoon for Eye Swelling",
+    "category": "Health",
+    "jugaad": "Is jugaad mein cold spoon ka use eye swelling kam karne ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "eco-friendly",
+      "quick-fix",
+      "homecare",
+      "fitness"
+    ]
+  },
+  {
+    "id": 1435,
+    "title": "Papaya Pulp for Glowing Skin",
+    "category": "Health",
+    "jugaad": "Is jugaad mein papaya pulp ka use glowing skin ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "eco-friendly",
+      "homecare",
+      "remedy",
+      "natural"
+    ]
+  },
+  {
+    "id": 1436,
+    "title": "Clove Oil for Toothache",
+    "category": "Health",
+    "jugaad": "Is jugaad mein clove oil ka use toothache relief ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "ayurveda",
+      "fitness",
+      "quick-fix",
+      "eco-friendly"
+    ]
+  },
+  {
+    "id": 1437,
+    "title": "Camphor for Dandruff",
+    "category": "Health",
+    "jugaad": "Is jugaad mein camphor ka use dandruff treatment mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "eco-friendly",
+      "remedy",
+      "ayurveda",
+      "fitness"
+    ]
+  },
+  {
+    "id": 1438,
+    "title": "Curd for Dry Scalp",
+    "category": "Health",
+    "jugaad": "Is jugaad mein curd ka use dry scalp ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "homecare",
+      "ayurveda",
+      "natural",
+      "eco-friendly"
+    ]
+  },
+  {
+    "id": 1439,
+    "title": "Tomato for Suntan",
+    "category": "Health",
+    "jugaad": "Is jugaad mein tomato ka use suntan hatane mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "eco-friendly",
+      "quick-fix",
+      "natural",
+      "homecare"
+    ]
+  },
+  {
+    "id": 1440,
+    "title": "Fenugreek Seeds for Hair Growth",
+    "category": "Health",
+    "jugaad": "Is jugaad mein fenugreek seed paste ka use hair growth mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "natural",
+      "eco-friendly",
+      "quick-fix",
+      "homecare"
+    ]
+  },
+  {
+    "id": 1441,
+    "title": "Banana Peel for Silver Polish",
+    "category": "Health",
+    "jugaad": "Is jugaad mein banana peel ka use silver polish karne ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "remedy",
+      "eco-friendly",
+      "quick-fix",
+      "natural"
+    ]
+  },
+  {
+    "id": 1442,
+    "title": "Rice Water for Hair Smoothness",
+    "category": "Health",
+    "jugaad": "Is jugaad mein rice water ka use baal ko smooth banane mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "ayurveda",
+      "fitness",
+      "eco-friendly",
+      "homecare"
+    ]
+  },
+  {
+    "id": 1443,
+    "title": "Neem Leaves for Acne",
+    "category": "Health",
+    "jugaad": "Is jugaad mein neem leaves ka use acne ke treatment mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "remedy",
+      "quick-fix",
+      "ayurveda",
+      "natural"
+    ]
+  },
+  {
+    "id": 1444,
+    "title": "Orange Peel as Air Freshener",
+    "category": "Health",
+    "jugaad": "Is jugaad mein orange peel ka use room freshener banane mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "quick-fix",
+      "ayurveda",
+      "eco-friendly",
+      "fitness"
+    ]
+  },
+  {
+    "id": 1445,
+    "title": "Used Tea Leaves for Fertilizer",
+    "category": "Health",
+    "jugaad": "Is jugaad mein used tea leaves ka use plants ke fertilizer ke roop mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "quick-fix",
+      "remedy",
+      "homecare",
+      "natural"
+    ]
+  },
+  {
+    "id": 1446,
+    "title": "Egg Shell for Plant Calcium",
+    "category": "Health",
+    "jugaad": "Is jugaad mein egg shell ka use gardening mein calcium dene ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "ayurveda",
+      "eco-friendly",
+      "fitness",
+      "remedy"
+    ]
+  },
+  {
+    "id": 1447,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Health",
+    "jugaad": "Is jugaad mein cucumber slice ka use eye puffiness kam karne mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "homecare",
+      "ayurveda",
+      "remedy",
+      "quick-fix"
+    ]
+  },
+  {
+    "id": 1448,
+    "title": "Honey for Wound Healing",
+    "category": "Health",
+    "jugaad": "Is jugaad mein honey ka use wound healing mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "fitness",
+      "remedy",
+      "ayurveda",
+      "natural"
+    ]
+  },
+  {
+    "id": 1449,
+    "title": "Potato Slices for Dark Circles",
+    "category": "Health",
+    "jugaad": "Is jugaad mein potato slice ka use dark circles ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "remedy",
+      "ayurveda",
+      "quick-fix",
+      "homecare"
+    ]
+  },
+  {
+    "id": 1450,
+    "title": "Alum for Post-Shave Skin",
+    "category": "Health",
+    "jugaad": "Is jugaad mein alum ka use shaving ke baad skin soothe karne ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "homecare",
+      "eco-friendly",
+      "fitness",
+      "natural"
+    ]
+  },
+  {
+    "id": 1451,
+    "title": "Mint Leaves for Headache",
+    "category": "Health",
+    "jugaad": "Is jugaad mein mint leaves ka use headache relief ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "ayurveda",
+      "eco-friendly",
+      "quick-fix",
+      "natural"
+    ]
+  },
+  {
+    "id": 1452,
+    "title": "Turmeric Paste for Inflammation",
+    "category": "Health",
+    "jugaad": "Is jugaad mein turmeric paste ka use anti-inflammatory treatment mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "quick-fix",
+      "eco-friendly",
+      "ayurveda",
+      "remedy"
+    ]
+  },
+  {
+    "id": 1453,
+    "title": "Multani Mitti for Oily Skin",
+    "category": "Health",
+    "jugaad": "Is jugaad mein multani mitti ka use oily skin control karne ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "remedy",
+      "natural",
+      "homecare",
+      "fitness"
+    ]
+  },
+  {
+    "id": 1454,
+    "title": "Cold Spoon for Eye Swelling",
+    "category": "Health",
+    "jugaad": "Is jugaad mein cold spoon ka use eye swelling kam karne ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "quick-fix",
+      "eco-friendly",
+      "remedy",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 1455,
+    "title": "Papaya Pulp for Glowing Skin",
+    "category": "Health",
+    "jugaad": "Is jugaad mein papaya pulp ka use glowing skin ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "homecare",
+      "natural",
+      "remedy",
+      "eco-friendly"
+    ]
+  },
+  {
+    "id": 1456,
+    "title": "Clove Oil for Toothache",
+    "category": "Health",
+    "jugaad": "Is jugaad mein clove oil ka use toothache relief ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "fitness",
+      "natural",
+      "quick-fix",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 1457,
+    "title": "Camphor for Dandruff",
+    "category": "Health",
+    "jugaad": "Is jugaad mein camphor ka use dandruff treatment mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "natural",
+      "eco-friendly",
+      "remedy",
+      "homecare"
+    ]
+  },
+  {
+    "id": 1458,
+    "title": "Curd for Dry Scalp",
+    "category": "Health",
+    "jugaad": "Is jugaad mein curd ka use dry scalp ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "homecare",
+      "quick-fix",
+      "ayurveda",
+      "natural"
+    ]
+  },
+  {
+    "id": 1459,
+    "title": "Tomato for Suntan",
+    "category": "Health",
+    "jugaad": "Is jugaad mein tomato ka use suntan hatane mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "fitness",
+      "quick-fix",
+      "homecare",
+      "remedy"
+    ]
+  },
+  {
+    "id": 1460,
+    "title": "Fenugreek Seeds for Hair Growth",
+    "category": "Health",
+    "jugaad": "Is jugaad mein fenugreek seed paste ka use hair growth mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "fitness",
+      "homecare",
+      "ayurveda",
+      "quick-fix"
+    ]
+  },
+  {
+    "id": 1461,
+    "title": "Banana Peel for Silver Polish",
+    "category": "Health",
+    "jugaad": "Is jugaad mein banana peel ka use silver polish karne ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "ayurveda",
+      "homecare",
+      "fitness",
+      "natural"
+    ]
+  },
+  {
+    "id": 1462,
+    "title": "Rice Water for Hair Smoothness",
+    "category": "Health",
+    "jugaad": "Is jugaad mein rice water ka use baal ko smooth banane mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "fitness",
+      "homecare",
+      "natural",
+      "eco-friendly"
+    ]
+  },
+  {
+    "id": 1463,
+    "title": "Neem Leaves for Acne",
+    "category": "Health",
+    "jugaad": "Is jugaad mein neem leaves ka use acne ke treatment mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "ayurveda",
+      "eco-friendly",
+      "fitness",
+      "quick-fix"
+    ]
+  },
+  {
+    "id": 1464,
+    "title": "Orange Peel as Air Freshener",
+    "category": "Health",
+    "jugaad": "Is jugaad mein orange peel ka use room freshener banane mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "fitness",
+      "quick-fix",
+      "remedy",
+      "homecare"
+    ]
+  },
+  {
+    "id": 1465,
+    "title": "Used Tea Leaves for Fertilizer",
+    "category": "Health",
+    "jugaad": "Is jugaad mein used tea leaves ka use plants ke fertilizer ke roop mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "remedy",
+      "quick-fix",
+      "homecare",
+      "fitness"
+    ]
+  },
+  {
+    "id": 1466,
+    "title": "Egg Shell for Plant Calcium",
+    "category": "Health",
+    "jugaad": "Is jugaad mein egg shell ka use gardening mein calcium dene ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "quick-fix",
+      "remedy",
+      "eco-friendly",
+      "natural"
+    ]
+  },
+  {
+    "id": 1467,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Health",
+    "jugaad": "Is jugaad mein cucumber slice ka use eye puffiness kam karne mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "ayurveda",
+      "natural",
+      "eco-friendly",
+      "homecare"
+    ]
+  },
+  {
+    "id": 1468,
+    "title": "Honey for Wound Healing",
+    "category": "Health",
+    "jugaad": "Is jugaad mein honey ka use wound healing mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "quick-fix",
+      "homecare",
+      "natural",
+      "eco-friendly"
+    ]
+  },
+  {
+    "id": 1469,
+    "title": "Potato Slices for Dark Circles",
+    "category": "Health",
+    "jugaad": "Is jugaad mein potato slice ka use dark circles ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "ayurveda",
+      "quick-fix",
+      "natural",
+      "remedy"
+    ]
+  },
+  {
+    "id": 1470,
+    "title": "Alum for Post-Shave Skin",
+    "category": "Health",
+    "jugaad": "Is jugaad mein alum ka use shaving ke baad skin soothe karne ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "remedy",
+      "homecare",
+      "ayurveda",
+      "quick-fix"
+    ]
+  },
+  {
+    "id": 1471,
+    "title": "Mint Leaves for Headache",
+    "category": "Health",
+    "jugaad": "Is jugaad mein mint leaves ka use headache relief ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "quick-fix",
+      "ayurveda",
+      "eco-friendly",
+      "homecare"
+    ]
+  },
+  {
+    "id": 1472,
+    "title": "Turmeric Paste for Inflammation",
+    "category": "Health",
+    "jugaad": "Is jugaad mein turmeric paste ka use anti-inflammatory treatment mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "natural",
+      "eco-friendly",
+      "quick-fix",
+      "fitness"
+    ]
+  },
+  {
+    "id": 1473,
+    "title": "Multani Mitti for Oily Skin",
+    "category": "Health",
+    "jugaad": "Is jugaad mein multani mitti ka use oily skin control karne ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "natural",
+      "ayurveda",
+      "quick-fix",
+      "remedy"
+    ]
+  },
+  {
+    "id": 1474,
+    "title": "Cold Spoon for Eye Swelling",
+    "category": "Health",
+    "jugaad": "Is jugaad mein cold spoon ka use eye swelling kam karne ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "natural",
+      "quick-fix",
+      "remedy",
+      "fitness"
+    ]
+  },
+  {
+    "id": 1475,
+    "title": "Papaya Pulp for Glowing Skin",
+    "category": "Health",
+    "jugaad": "Is jugaad mein papaya pulp ka use glowing skin ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "ayurveda",
+      "natural",
+      "eco-friendly",
+      "homecare"
+    ]
+  },
+  {
+    "id": 1476,
+    "title": "Clove Oil for Toothache",
+    "category": "Health",
+    "jugaad": "Is jugaad mein clove oil ka use toothache relief ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "homecare",
+      "eco-friendly",
+      "ayurveda",
+      "quick-fix"
+    ]
+  },
+  {
+    "id": 1477,
+    "title": "Camphor for Dandruff",
+    "category": "Health",
+    "jugaad": "Is jugaad mein camphor ka use dandruff treatment mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "quick-fix",
+      "natural",
+      "ayurveda",
+      "homecare"
+    ]
+  },
+  {
+    "id": 1478,
+    "title": "Curd for Dry Scalp",
+    "category": "Health",
+    "jugaad": "Is jugaad mein curd ka use dry scalp ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "eco-friendly",
+      "quick-fix",
+      "homecare",
+      "fitness"
+    ]
+  },
+  {
+    "id": 1479,
+    "title": "Tomato for Suntan",
+    "category": "Health",
+    "jugaad": "Is jugaad mein tomato ka use suntan hatane mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "homecare",
+      "ayurveda",
+      "natural",
+      "fitness"
+    ]
+  },
+  {
+    "id": 1480,
+    "title": "Fenugreek Seeds for Hair Growth",
+    "category": "Health",
+    "jugaad": "Is jugaad mein fenugreek seed paste ka use hair growth mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "fitness",
+      "quick-fix",
+      "remedy",
+      "homecare"
+    ]
+  },
+  {
+    "id": 1481,
+    "title": "Banana Peel for Silver Polish",
+    "category": "Health",
+    "jugaad": "Is jugaad mein banana peel ka use silver polish karne ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "eco-friendly",
+      "homecare",
+      "remedy",
+      "fitness"
+    ]
+  },
+  {
+    "id": 1482,
+    "title": "Rice Water for Hair Smoothness",
+    "category": "Health",
+    "jugaad": "Is jugaad mein rice water ka use baal ko smooth banane mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "natural",
+      "homecare",
+      "fitness",
+      "eco-friendly"
+    ]
+  },
+  {
+    "id": 1483,
+    "title": "Neem Leaves for Acne",
+    "category": "Health",
+    "jugaad": "Is jugaad mein neem leaves ka use acne ke treatment mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "natural",
+      "quick-fix",
+      "homecare",
+      "fitness"
+    ]
+  },
+  {
+    "id": 1484,
+    "title": "Orange Peel as Air Freshener",
+    "category": "Health",
+    "jugaad": "Is jugaad mein orange peel ka use room freshener banane mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "homecare",
+      "fitness",
+      "natural",
+      "remedy"
+    ]
+  },
+  {
+    "id": 1485,
+    "title": "Used Tea Leaves for Fertilizer",
+    "category": "Health",
+    "jugaad": "Is jugaad mein used tea leaves ka use plants ke fertilizer ke roop mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "natural",
+      "eco-friendly",
+      "homecare",
+      "remedy"
+    ]
+  },
+  {
+    "id": 1486,
+    "title": "Egg Shell for Plant Calcium",
+    "category": "Health",
+    "jugaad": "Is jugaad mein egg shell ka use gardening mein calcium dene ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "homecare",
+      "remedy",
+      "quick-fix",
+      "fitness"
+    ]
+  },
+  {
+    "id": 1487,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Health",
+    "jugaad": "Is jugaad mein cucumber slice ka use eye puffiness kam karne mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "homecare",
+      "natural",
+      "eco-friendly",
+      "remedy"
+    ]
+  },
+  {
+    "id": 1488,
+    "title": "Honey for Wound Healing",
+    "category": "Health",
+    "jugaad": "Is jugaad mein honey ka use wound healing mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "quick-fix",
+      "homecare",
+      "fitness",
+      "natural"
+    ]
+  },
+  {
+    "id": 1489,
+    "title": "Potato Slices for Dark Circles",
+    "category": "Health",
+    "jugaad": "Is jugaad mein potato slice ka use dark circles ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "ayurveda",
+      "quick-fix",
+      "eco-friendly",
+      "fitness"
+    ]
+  },
+  {
+    "id": 1490,
+    "title": "Alum for Post-Shave Skin",
+    "category": "Health",
+    "jugaad": "Is jugaad mein alum ka use shaving ke baad skin soothe karne ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "fitness",
+      "quick-fix",
+      "ayurveda",
+      "eco-friendly"
+    ]
+  },
+  {
+    "id": 1491,
+    "title": "Mint Leaves for Headache",
+    "category": "Health",
+    "jugaad": "Is jugaad mein mint leaves ka use headache relief ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "ayurveda",
+      "natural",
+      "homecare",
+      "eco-friendly"
+    ]
+  },
+  {
+    "id": 1492,
+    "title": "Turmeric Paste for Inflammation",
+    "category": "Health",
+    "jugaad": "Is jugaad mein turmeric paste ka use anti-inflammatory treatment mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "quick-fix",
+      "ayurveda",
+      "homecare",
+      "natural"
+    ]
+  },
+  {
+    "id": 1493,
+    "title": "Multani Mitti for Oily Skin",
+    "category": "Health",
+    "jugaad": "Is jugaad mein multani mitti ka use oily skin control karne ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "natural",
+      "remedy",
+      "homecare",
+      "eco-friendly"
+    ]
+  },
+  {
+    "id": 1494,
+    "title": "Cold Spoon for Eye Swelling",
+    "category": "Health",
+    "jugaad": "Is jugaad mein cold spoon ka use eye swelling kam karne ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "remedy",
+      "natural",
+      "fitness",
+      "quick-fix"
+    ]
+  },
+  {
+    "id": 1495,
+    "title": "Papaya Pulp for Glowing Skin",
+    "category": "Health",
+    "jugaad": "Is jugaad mein papaya pulp ka use glowing skin ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "natural",
+      "ayurveda",
+      "quick-fix",
+      "remedy"
+    ]
+  },
+  {
+    "id": 1496,
+    "title": "Clove Oil for Toothache",
+    "category": "Health",
+    "jugaad": "Is jugaad mein clove oil ka use toothache relief ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "homecare",
+      "natural",
+      "eco-friendly",
+      "remedy"
+    ]
+  },
+  {
+    "id": 1497,
+    "title": "Camphor for Dandruff",
+    "category": "Health",
+    "jugaad": "Is jugaad mein camphor ka use dandruff treatment mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "ayurveda",
+      "homecare",
+      "eco-friendly",
+      "remedy"
+    ]
+  },
+  {
+    "id": 1498,
+    "title": "Curd for Dry Scalp",
+    "category": "Health",
+    "jugaad": "Is jugaad mein curd ka use dry scalp ke liye hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "ayurveda",
+      "homecare",
+      "eco-friendly",
+      "remedy"
+    ]
+  },
+  {
+    "id": 1499,
+    "title": "Tomato for Suntan",
+    "category": "Health",
+    "jugaad": "Is jugaad mein tomato ka use suntan hatane mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "eco-friendly",
+      "ayurveda",
+      "natural",
+      "remedy"
+    ]
+  },
+  {
+    "id": 1500,
+    "title": "Fenugreek Seeds for Hair Growth",
+    "category": "Health",
+    "jugaad": "Is jugaad mein fenugreek seed paste ka use hair growth mein hota hai. Yeh asaan aur natural upay hai jo ghar ke samanon se kiya ja sakta hai. Iska upyog karne ke liye: saman ikattha karein, use target area par apply karein aur asar dekhein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "homecare",
+      "eco-friendly",
+      "quick-fix",
+      "natural"
+    ]
+  }
 ]
