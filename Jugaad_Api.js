@@ -313,7 +313,7 @@ res.send(`
 
 
 // GET random jugaad
-app.get('/Jugaad', (req, res) => {
+app.get('/jugaad', (req, res) => {
   const index = Math.floor(Math.random() * JugaadData.length);
   const jugaad = JugaadData[index];
 
@@ -325,7 +325,7 @@ app.get('/Jugaad', (req, res) => {
 });
 
 // GET by ID
-app.get('/Jugaad/search/id/:id', (req, res) => {
+app.get('/jugaad/search/id/:id', (req, res) => {
   const ID = parseInt(req.params.id);
 
   const jugaadData = JugaadData.find(item => item.id === ID);
@@ -337,7 +337,7 @@ app.get('/Jugaad/search/id/:id', (req, res) => {
 });
 
 // GET by search query
-app.get('/Jugaad/search/:query', (req, res) => {
+app.get('/jugaad/search/:query', (req, res) => {
   const query = req.params.query.toLowerCase();
 
   const results = JugaadData.filter(item => {

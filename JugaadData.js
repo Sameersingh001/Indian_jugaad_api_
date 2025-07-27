@@ -1,12002 +1,12447 @@
 export const JugaadData = [
   {
     "id": 1,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Old Sock for Cable Management",
+    "category": "Home",
+    "jugaad": "Old Sock ka use karke aap charging cables ya earphones ko neatly band sakte hain taaki wo uljhe nahi.",
     "language": "Hinglish",
     "difficulty": "Easy",
-    "region": "South India",
+    "region": "East India",
     "tags": [
-      "easy trick",
+      "organization",
+      "repair",
       "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
+      "storage"
     ]
   },
   {
     "id": 2,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Paperclip for Phone Stand",
+    "category": "Home",
+    "jugaad": "Paperclip ko fold karke ya roll karke aap ek temporary phone stand bana sakte hain. Ye travel ke waqt ya desk par kaam aata hai.",
     "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
+    "difficulty": "Hard",
+    "region": "North India",
     "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
+      "organization",
+      "storage",
+      "repair",
+      "cleaning"
     ]
   },
   {
     "id": 3,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
+    "title": "Mobile Charger for Headlight Cleaning",
+    "category": "Fashion",
+    "jugaad": "Agar aapke car ke headlights dhundhle ho gaye hain, toh thoda sa Mobile Charger soft cloth pe lagayein aur circular motion mein saaf karein. Fir paani se dho dein – headlights firse nayi tarah chamak uthenge.",
+    "language": "English",
+    "difficulty": "Easy",
+    "region": "East India",
     "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
+      "shoes",
+      "style",
+      "accessory",
+      "clothes"
     ]
   },
   {
     "id": 4,
-    "title": "Use Lemon to Remove Rust",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Paperclip for Headlight Cleaning",
+    "category": "Home",
+    "jugaad": "Agar aapke car ke headlights dhundhle ho gaye hain, toh thoda sa Paperclip soft cloth pe lagayein aur circular motion mein saaf karein. Fir paani se dho dein – headlights firse nayi tarah chamak uthenge.",
     "language": "Hinglish",
     "difficulty": "Medium",
-    "region": "Central India",
+    "region": "North India",
     "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
       "cleaning",
-      "metal"
+      "organization",
+      "storage",
+      "repair"
     ]
   },
   {
     "id": 5,
-    "title": "Toothpaste for Headlight Cleaning",
+    "title": "Mobile Charger for Cable Management",
     "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
+    "jugaad": "Mobile Charger ka use karke aap charging cables ya earphones ko neatly band sakte hain taaki wo uljhe nahi.",
+    "language": "English",
+    "difficulty": "Easy",
+    "region": "South India",
     "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
+      "craft",
+      "reuse",
+      "hack",
+      "recycle"
     ]
   },
   {
     "id": 6,
-    "title": "Rubber Band for Cable Management",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Lemon for Cable Management",
+    "category": "Fashion",
+    "jugaad": "Lemon ka use karke aap charging cables ya earphones ko neatly band sakte hain taaki wo uljhe nahi.",
     "language": "Hinglish",
     "difficulty": "Easy",
-    "region": "East India",
+    "region": "Central India",
     "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
+      "accessory",
+      "shoes",
+      "style",
+      "clothes"
     ]
   },
   {
     "id": 7,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
+    "title": "Mobile Charger for Fridge Odor",
+    "category": "Health",
+    "jugaad": "Fridge ki badboo door karne ke liye ek cut Mobile Charger ko ek bowl mein rakh kar fridge mein chhoda ja sakta hai. Ye smell absorb karta hai.",
+    "language": "Hindi",
     "difficulty": "Hard",
-    "region": "South India",
+    "region": "North India",
     "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
+      "ayurveda",
+      "natural",
+      "remedy",
+      "fitness"
     ]
   },
   {
     "id": 8,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
+    "title": "Paperclip for Glass Shine",
+    "category": "Kitchen",
+    "jugaad": "Windows ya mirrors ko saaf karne ke liye Paperclip ka use ek cloth ke saath karke instant shine la sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "Central India",
     "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
+      "storage",
+      "cooking",
+      "utensils",
+      "cleaning"
     ]
   },
   {
     "id": 9,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "North India",
+    "title": "Rubber Band for Fridge Odor",
+    "category": "Kitchen",
+    "jugaad": "Fridge ki badboo door karne ke liye ek cut Rubber Band ko ek bowl mein rakh kar fridge mein chhoda ja sakta hai. Ye smell absorb karta hai.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "East India",
     "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
+      "storage",
+      "utensils",
+      "cooking",
+      "cleaning"
     ]
   },
   {
     "id": 10,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Toothpaste for Phone Stand",
+    "category": "Kitchen",
+    "jugaad": "Toothpaste ko fold karke ya roll karke aap ek temporary phone stand bana sakte hain. Ye travel ke waqt ya desk par kaam aata hai.",
     "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "South India",
+    "difficulty": "Medium",
+    "region": "North India",
     "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
+      "storage",
+      "cooking",
+      "cleaning",
+      "utensils"
     ]
   },
   {
     "id": 11,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Old Sock for Headlight Cleaning",
+    "category": "DIY",
+    "jugaad": "Agar aapke car ke headlights dhundhle ho gaye hain, toh thoda sa Old Sock soft cloth pe lagayein aur circular motion mein saaf karein. Fir paani se dho dein – headlights firse nayi tarah chamak uthenge.",
     "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
+    "difficulty": "Hard",
+    "region": "South India",
     "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
+      "hack",
+      "recycle",
+      "craft",
+      "reuse"
     ]
   },
   {
     "id": 12,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "South India",
+    "title": "Bottle for Glass Shine",
+    "category": "Travel",
+    "jugaad": "Windows ya mirrors ko saaf karne ke liye Bottle ka use ek cloth ke saath karke instant shine la sakte ho.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "West India",
     "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
+      "safety",
+      "navigation",
+      "packing",
+      "budget"
     ]
   },
   {
     "id": 13,
-    "title": "Rubber Band for Cable Management",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
+    "title": "Toothpaste for Cable Management",
+    "category": "Fashion",
+    "jugaad": "Toothpaste ka use karke aap charging cables ya earphones ko neatly band sakte hain taaki wo uljhe nahi.",
+    "language": "English",
+    "difficulty": "Easy",
+    "region": "East India",
     "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
+      "clothes",
+      "style",
+      "accessory",
+      "shoes"
     ]
   },
   {
     "id": 14,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
+    "title": "Paperclip for Fridge Odor",
+    "category": "Fashion",
+    "jugaad": "Fridge ki badboo door karne ke liye ek cut Paperclip ko ek bowl mein rakh kar fridge mein chhoda ja sakta hai. Ye smell absorb karta hai.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "South India",
     "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
+      "shoes",
+      "style",
+      "accessory",
+      "clothes"
     ]
   },
   {
     "id": 15,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
+    "title": "Rubber Band for Phone Stand",
+    "category": "Kitchen",
+    "jugaad": "Rubber Band ko fold karke ya roll karke aap ek temporary phone stand bana sakte hain. Ye travel ke waqt ya desk par kaam aata hai.",
+    "language": "English",
+    "difficulty": "Medium",
     "region": "Central India",
     "tags": [
-      "easy trick",
       "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
+      "utensils",
+      "storage",
+      "cooking"
     ]
   },
   {
     "id": 16,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
+    "title": "Old Sock for Fridge Odor",
+    "category": "Health",
+    "jugaad": "Fridge ki badboo door karne ke liye ek cut Old Sock ko ek bowl mein rakh kar fridge mein chhoda ja sakta hai. Ye smell absorb karta hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "North India",
     "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
+      "remedy",
+      "natural",
+      "ayurveda",
+      "fitness"
     ]
   },
   {
     "id": 17,
-    "title": "Rubber Band for Cable Management",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
+    "title": "Toothpaste for Headlight Cleaning",
+    "category": "Health",
+    "jugaad": "Agar aapke car ke headlights dhundhle ho gaye hain, toh thoda sa Toothpaste soft cloth pe lagayein aur circular motion mein saaf karein. Fir paani se dho dein – headlights firse nayi tarah chamak uthenge.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "West India",
     "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
+      "fitness",
+      "remedy",
+      "natural",
+      "ayurveda"
     ]
   },
   {
     "id": 18,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
+    "title": "Toothpaste for Keyboard Dusting",
+    "category": "Kitchen",
+    "jugaad": "Toothpaste ko halkasa moist karke keys ke beech saaf karne se dust nikalta hai bina damage kiye.",
+    "language": "Hindi",
     "difficulty": "Hard",
-    "region": "Central India",
+    "region": "South India",
     "tags": [
-      "easy trick",
       "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
+      "cooking",
+      "storage",
+      "utensils"
     ]
   },
   {
     "id": 19,
-    "title": "Rubber Band for Cable Management",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Old Sock for Glass Shine",
+    "category": "Travel",
+    "jugaad": "Windows ya mirrors ko saaf karne ke liye Old Sock ka use ek cloth ke saath karke instant shine la sakte ho.",
     "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
+    "difficulty": "Medium",
+    "region": "East India",
     "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
+      "budget",
+      "navigation",
+      "packing",
+      "safety"
     ]
   },
   {
     "id": 20,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
+    "title": "Bottle for Phone Stand",
+    "category": "Fashion",
+    "jugaad": "Bottle ko fold karke ya roll karke aap ek temporary phone stand bana sakte hain. Ye travel ke waqt ya desk par kaam aata hai.",
+    "language": "English",
+    "difficulty": "Easy",
+    "region": "East India",
     "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
+      "clothes",
+      "shoes",
+      "accessory",
+      "style"
     ]
   },
   {
     "id": 21,
-    "title": "Use Newspaper to Clean Windows",
+    "title": "Bottle for Cable Management",
     "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
+    "jugaad": "Bottle ka use karke aap charging cables ya earphones ko neatly band sakte hain taaki wo uljhe nahi.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "Central India",
     "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
+      "craft",
+      "recycle",
+      "reuse",
       "hack"
     ]
   },
   {
     "id": 22,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
+    "title": "Mobile Charger for Keyboard Dusting",
+    "category": "Kitchen",
+    "jugaad": "Mobile Charger ko halkasa moist karke keys ke beech saaf karne se dust nikalta hai bina damage kiye.",
+    "language": "English",
+    "difficulty": "Easy",
+    "region": "Central India",
     "tags": [
-      "easy trick",
+      "cooking",
       "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
+      "storage",
+      "utensils"
     ]
   },
   {
     "id": 23,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
+    "title": "Lemon for Glass Shine",
+    "category": "Home",
+    "jugaad": "Windows ya mirrors ko saaf karne ke liye Lemon ka use ek cloth ke saath karke instant shine la sakte ho.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "East India",
     "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
+      "repair",
+      "cleaning",
+      "storage",
+      "organization"
     ]
   },
   {
     "id": 24,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
+    "title": "Bottle for Keyboard Dusting",
+    "category": "Tech",
+    "jugaad": "Bottle ko halkasa moist karke keys ke beech saaf karne se dust nikalta hai bina damage kiye.",
+    "language": "Hindi",
     "difficulty": "Hard",
-    "region": "Central India",
+    "region": "West India",
     "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
+      "sound",
+      "fix",
+      "light",
+      "charger",
+      "mobile"
     ]
   },
   {
     "id": 25,
-    "title": "Toothpaste for Headlight Cleaning",
+    "title": "Rubber Band for Glass Shine",
     "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
+    "jugaad": "Windows ya mirrors ko saaf karne ke liye Rubber Band ka use ek cloth ke saath karke instant shine la sakte ho.",
+    "language": "Hindi",
     "difficulty": "Easy",
-    "region": "South India",
+    "region": "West India",
     "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
+      "hack",
+      "recycle",
+      "reuse",
+      "craft"
     ]
   },
   {
     "id": 26,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Toothpaste for Fridge Odor",
+    "category": "Health",
+    "jugaad": "Fridge ki badboo door karne ke liye ek cut Toothpaste ko ek bowl mein rakh kar fridge mein chhoda ja sakta hai. Ye smell absorb karta hai.",
     "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
+    "difficulty": "Easy",
+    "region": "West India",
     "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
+      "remedy",
+      "fitness",
+      "natural",
+      "ayurveda"
     ]
   },
   {
     "id": 27,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
+    "title": "Rubber Band for Cable Management",
+    "category": "Home",
+    "jugaad": "Rubber Band ka use karke aap charging cables ya earphones ko neatly band sakte hain taaki wo uljhe nahi.",
+    "language": "English",
+    "difficulty": "Easy",
+    "region": "West India",
     "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
+      "cleaning",
+      "storage",
+      "organization",
+      "repair"
     ]
   },
   {
     "id": 28,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
+    "title": "Old Sock for Phone Stand",
+    "category": "Travel",
+    "jugaad": "Old Sock ko fold karke ya roll karke aap ek temporary phone stand bana sakte hain. Ye travel ke waqt ya desk par kaam aata hai.",
+    "language": "English",
     "difficulty": "Medium",
     "region": "West India",
     "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
+      "packing",
+      "navigation",
+      "budget",
+      "safety"
     ]
   },
   {
     "id": 29,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
+    "title": "Bottle for Fridge Odor",
+    "category": "Tech",
+    "jugaad": "Fridge ki badboo door karne ke liye ek cut Bottle ko ek bowl mein rakh kar fridge mein chhoda ja sakta hai. Ye smell absorb karta hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "East India",
     "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
+      "light",
+      "mobile",
+      "fix",
+      "sound",
+      "charger"
     ]
   },
   {
     "id": 30,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "North India",
+    "title": "Rubber Band for Keyboard Dusting",
+    "category": "Travel",
+    "jugaad": "Rubber Band ko halkasa moist karke keys ke beech saaf karne se dust nikalta hai bina damage kiye.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "Central India",
     "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
+      "budget",
+      "packing",
+      "safety",
+      "navigation"
     ]
   },
   {
     "id": 31,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Toothpaste for Glass Shine",
+    "category": "DIY",
+    "jugaad": "Windows ya mirrors ko saaf karne ke liye Toothpaste ka use ek cloth ke saath karke instant shine la sakte ho.",
     "language": "Hinglish",
     "difficulty": "Easy",
-    "region": "Central India",
+    "region": "North India",
     "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
+      "craft",
+      "hack",
+      "reuse",
+      "recycle"
     ]
   },
   {
     "id": 32,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "North India",
+    "title": "Paperclip for Cable Management",
+    "category": "Health",
+    "jugaad": "Paperclip ka use karke aap charging cables ya earphones ko neatly band sakte hain taaki wo uljhe nahi.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "South India",
     "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
+      "natural",
+      "fitness",
+      "remedy",
+      "ayurveda"
     ]
   },
   {
     "id": 33,
-    "title": "Rubber Band for Cable Management",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
+    "title": "Old Sock for Keyboard Dusting",
+    "category": "Tech",
+    "jugaad": "Old Sock ko halkasa moist karke keys ke beech saaf karne se dust nikalta hai bina damage kiye.",
+    "language": "Hindi",
     "difficulty": "Medium",
-    "region": "Central India",
+    "region": "East India",
     "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
+      "sound",
+      "mobile",
+      "charger",
+      "light",
+      "fix"
     ]
   },
   {
     "id": 34,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "West India",
+    "title": "Mobile Charger for Phone Stand",
+    "category": "Health",
+    "jugaad": "Mobile Charger ko fold karke ya roll karke aap ek temporary phone stand bana sakte hain. Ye travel ke waqt ya desk par kaam aata hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "Central India",
     "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
+      "natural",
+      "fitness",
+      "ayurveda",
+      "remedy"
     ]
   },
   {
     "id": 35,
-    "title": "Rubber Band for Cable Management",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
+    "title": "Lemon for Headlight Cleaning",
+    "category": "DIY",
+    "jugaad": "Agar aapke car ke headlights dhundhle ho gaye hain, toh thoda sa Lemon soft cloth pe lagayein aur circular motion mein saaf karein. Fir paani se dho dein – headlights firse nayi tarah chamak uthenge.",
+    "language": "English",
     "difficulty": "Medium",
-    "region": "East India",
+    "region": "West India",
     "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
+      "craft",
+      "hack",
+      "reuse",
+      "recycle"
     ]
   },
   {
     "id": 36,
-    "title": "Use Lemon to Remove Rust",
+    "title": "Paperclip for Keyboard Dusting",
     "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
+    "jugaad": "Paperclip ko halkasa moist karke keys ke beech saaf karne se dust nikalta hai bina damage kiye.",
+    "language": "Hindi",
     "difficulty": "Medium",
-    "region": "Central India",
+    "region": "West India",
     "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
+      "mobile",
+      "light",
+      "fix",
+      "sound",
+      "charger"
     ]
   },
   {
     "id": 37,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "East India",
+    "title": "Mobile Charger for Glass Shine",
+    "category": "DIY",
+    "jugaad": "Windows ya mirrors ko saaf karne ke liye Mobile Charger ka use ek cloth ke saath karke instant shine la sakte ho.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "Central India",
     "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
+      "reuse",
+      "hack",
+      "recycle",
+      "craft"
     ]
   },
   {
     "id": 38,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Lemon for Phone Stand",
+    "category": "Fashion",
+    "jugaad": "Lemon ko fold karke ya roll karke aap ek temporary phone stand bana sakte hain. Ye travel ke waqt ya desk par kaam aata hai.",
     "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "West India",
+    "difficulty": "Hard",
+    "region": "North India",
     "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
+      "shoes",
+      "accessory",
+      "style",
+      "clothes"
     ]
   },
   {
     "id": 39,
-    "title": "Rubber Band for Cable Management",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
+    "title": "Lemon for Fridge Odor",
+    "category": "Tech",
+    "jugaad": "Fridge ki badboo door karne ke liye ek cut Lemon ko ek bowl mein rakh kar fridge mein chhoda ja sakta hai. Ye smell absorb karta hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "Central India",
     "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
+      "charger",
+      "light",
+      "fix",
+      "mobile",
+      "sound"
     ]
   },
   {
     "id": 40,
-    "title": "Use Newspaper to Clean Windows",
+    "title": "Rubber Band for Headlight Cleaning",
     "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "jugaad": "Agar aapke car ke headlights dhundhle ho gaye hain, toh thoda sa Rubber Band soft cloth pe lagayein aur circular motion mein saaf karein. Fir paani se dho dein – headlights firse nayi tarah chamak uthenge.",
     "language": "Hinglish",
     "difficulty": "Medium",
-    "region": "South India",
+    "region": "North India",
     "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
+      "mobile",
+      "charger",
+      "light",
+      "fix",
+      "sound"
     ]
   },
   {
     "id": 41,
-    "title": "Rubber Band for Cable Management",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Bottle for Headlight Cleaning",
+    "category": "Travel",
+    "jugaad": "Agar aapke car ke headlights dhundhle ho gaye hain, toh thoda sa Bottle soft cloth pe lagayein aur circular motion mein saaf karein. Fir paani se dho dein – headlights firse nayi tarah chamak uthenge.",
     "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
+    "difficulty": "Medium",
+    "region": "South India",
     "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
+      "safety",
+      "budget",
+      "packing",
+      "navigation"
     ]
   },
   {
     "id": 42,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 43,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 44,
-    "title": "Rubber Band for Cable Management",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 45,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 46,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "West India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 47,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 48,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 49,
-    "title": "Rubber Band for Cable Management",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 50,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "South India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 51,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 52,
-    "title": "Rubber Band for Cable Management",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "North India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 53,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 54,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 55,
-    "title": "Rubber Band for Cable Management",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 56,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 57,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 58,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 59,
-    "title": "Rubber Band for Cable Management",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 60,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 61,
-    "title": "Rubber Band for Cable Management",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 62,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 63,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 64,
-    "title": "Rubber Band for Cable Management",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 65,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 66,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 67,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "South India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 68,
-    "title": "Rubber Band for Cable Management",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "North India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 69,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "South India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 70,
-    "title": "Rubber Band for Cable Management",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 71,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 72,
-    "title": "Rubber Band for Cable Management",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 73,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 74,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 75,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 76,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 77,
-    "title": "Rubber Band for Cable Management",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "North India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 78,
-    "title": "Rubber Band for Cable Management",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "North India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 79,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 80,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 81,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 82,
-    "title": "Rubber Band for Cable Management",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 83,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 84,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 85,
-    "title": "Rubber Band for Cable Management",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 86,
-    "title": "Rubber Band for Cable Management",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 87,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 88,
-    "title": "Rubber Band for Cable Management",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "West India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 89,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 90,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 91,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 92,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 93,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 94,
-    "title": "Rubber Band for Cable Management",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "East India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 95,
-    "title": "Rubber Band for Cable Management",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 96,
-    "title": "Rubber Band for Cable Management",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 97,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "North India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 98,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "West India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 99,
-    "title": "Rubber Band for Cable Management",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 100,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 101,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "East India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 102,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 103,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 104,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "North India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 105,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 106,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 107,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 108,
-    "title": "Rubber Band for Cable Management",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 109,
-    "title": "Rubber Band for Cable Management",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 110,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "North India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 111,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "East India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 112,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "South India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 113,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "North India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 114,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 115,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 116,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "South India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 117,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 118,
-    "title": "Rubber Band for Cable Management",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 119,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "West India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 120,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 121,
-    "title": "Use Lemon to Remove Rust",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "West India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 122,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 123,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "South India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 124,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 125,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 126,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 127,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "South India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 128,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 129,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "South India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 130,
-    "title": "Rubber Band for Cable Management",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 131,
-    "title": "Rubber Band for Cable Management",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 132,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "South India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 133,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 134,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 135,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 136,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 137,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 138,
-    "title": "Rubber Band for Cable Management",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 139,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 140,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 141,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 142,
-    "title": "Rubber Band for Cable Management",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 143,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 144,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 145,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "North India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 146,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 147,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "West India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 148,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 149,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 150,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "West India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 151,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 152,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "North India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 153,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 154,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 155,
-    "title": "Rubber Band for Cable Management",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 156,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 157,
-    "title": "Rubber Band for Cable Management",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "South India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 158,
-    "title": "Rubber Band for Cable Management",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 159,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 160,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 161,
-    "title": "Rubber Band for Cable Management",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 162,
-    "title": "Rubber Band for Cable Management",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "North India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 163,
-    "title": "Rubber Band for Cable Management",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "South India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 164,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "West India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 165,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 166,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 167,
-    "title": "Use Lemon to Remove Rust",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 168,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "South India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 169,
-    "title": "Rubber Band for Cable Management",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 170,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 171,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 172,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 173,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 174,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 175,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 176,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 177,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 178,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 179,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 180,
-    "title": "Rubber Band for Cable Management",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 181,
-    "title": "Rubber Band for Cable Management",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 182,
-    "title": "Rubber Band for Cable Management",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "South India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 183,
-    "title": "Rubber Band for Cable Management",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "South India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 184,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "East India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 185,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 186,
-    "title": "Use Lemon to Remove Rust",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "South India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 187,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "West India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 188,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 189,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 190,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 191,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 192,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 193,
-    "title": "Rubber Band for Cable Management",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "North India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 194,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 195,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 196,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 197,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "South India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 198,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 199,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 200,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 201,
-    "title": "Rubber Band for Cable Management",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "West India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 202,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 203,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 204,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 205,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "East India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 206,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "South India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 207,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 208,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 209,
-    "title": "Rubber Band for Cable Management",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "South India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 210,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 211,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 212,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 213,
-    "title": "Rubber Band for Cable Management",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 214,
-    "title": "Rubber Band for Cable Management",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 215,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 216,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 217,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "West India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 218,
-    "title": "Rubber Band for Cable Management",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "South India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 219,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 220,
-    "title": "Rubber Band for Cable Management",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "West India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 221,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 222,
-    "title": "Rubber Band for Cable Management",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 223,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "South India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 224,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 225,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 226,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "South India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 227,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 228,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 229,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 230,
-    "title": "Use Lemon to Remove Rust",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 231,
-    "title": "Rubber Band for Cable Management",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 232,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 233,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 234,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 235,
-    "title": "Rubber Band for Cable Management",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "East India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 236,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "South India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 237,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "North India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 238,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 239,
-    "title": "Rubber Band for Cable Management",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "East India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 240,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 241,
-    "title": "Rubber Band for Cable Management",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "West India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 242,
-    "title": "Rubber Band for Cable Management",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "East India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 243,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 244,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 245,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 246,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 247,
-    "title": "Rubber Band for Cable Management",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "South India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 248,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 249,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "West India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 250,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 251,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 252,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "North India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 253,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 254,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 255,
-    "title": "Rubber Band for Cable Management",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 256,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 257,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 258,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "South India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 259,
-    "title": "Rubber Band for Cable Management",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "North India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 260,
-    "title": "Rubber Band for Cable Management",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 261,
-    "title": "Rubber Band for Cable Management",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 262,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 263,
-    "title": "Rubber Band for Cable Management",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "North India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 264,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 265,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "North India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 266,
-    "title": "Rubber Band for Cable Management",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "North India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 267,
-    "title": "Rubber Band for Cable Management",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 268,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 269,
-    "title": "Rubber Band for Cable Management",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "North India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 270,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 271,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 272,
-    "title": "Use Lemon to Remove Rust",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 273,
-    "title": "Rubber Band for Cable Management",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 274,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 275,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 276,
-    "title": "Rubber Band for Cable Management",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 277,
-    "title": "Rubber Band for Cable Management",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 278,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 279,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 280,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 281,
-    "title": "Rubber Band for Cable Management",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 282,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "North India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 283,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 284,
-    "title": "Rubber Band for Cable Management",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "West India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 285,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 286,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 287,
-    "title": "Rubber Band for Cable Management",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "South India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 288,
-    "title": "Rubber Band for Cable Management",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "North India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 289,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "South India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 290,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 291,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "South India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 292,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 293,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "North India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 294,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "East India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 295,
-    "title": "Use Lemon to Remove Rust",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "North India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 296,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 297,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 298,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 299,
-    "title": "Rubber Band for Cable Management",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "East India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 300,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 301,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 302,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 303,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 304,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "West India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 305,
-    "title": "Rubber Band for Cable Management",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 306,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 307,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 308,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 309,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "South India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 310,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 311,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "South India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 312,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "North India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 313,
-    "title": "Rubber Band for Cable Management",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 314,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 315,
-    "title": "Rubber Band for Cable Management",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "South India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 316,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 317,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 318,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "South India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 319,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "South India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 320,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "South India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 321,
-    "title": "Rubber Band for Cable Management",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 322,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 323,
-    "title": "Rubber Band for Cable Management",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "West India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 324,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 325,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 326,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 327,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 328,
-    "title": "Rubber Band for Cable Management",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "West India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 329,
-    "title": "Rubber Band for Cable Management",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 330,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 331,
-    "title": "Rubber Band for Cable Management",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "West India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 332,
-    "title": "Rubber Band for Cable Management",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "South India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 333,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 334,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "South India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 335,
-    "title": "Rubber Band for Cable Management",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "North India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 336,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "South India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 337,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 338,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 339,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "South India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 340,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 341,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "South India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 342,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 343,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 344,
-    "title": "Rubber Band for Cable Management",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 345,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 346,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "North India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 347,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 348,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 349,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 350,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 351,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "South India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 352,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "East India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 353,
-    "title": "Use Lemon to Remove Rust",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "South India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 354,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 355,
-    "title": "Rubber Band for Cable Management",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "South India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 356,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "South India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 357,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 358,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 359,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 360,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "West India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 361,
-    "title": "Rubber Band for Cable Management",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "North India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 362,
-    "title": "Rubber Band for Cable Management",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 363,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 364,
-    "title": "Rubber Band for Cable Management",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 365,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 366,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "South India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 367,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 368,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "West India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 369,
-    "title": "Rubber Band for Cable Management",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "North India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 370,
-    "title": "Rubber Band for Cable Management",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 371,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 372,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 373,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 374,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 375,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "East India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 376,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 377,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 378,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 379,
-    "title": "Rubber Band for Cable Management",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 380,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 381,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 382,
-    "title": "Use Lemon to Remove Rust",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 383,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 384,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 385,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 386,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 387,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 388,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "West India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 389,
-    "title": "Use Lemon to Remove Rust",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 390,
-    "title": "Rubber Band for Cable Management",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "East India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 391,
-    "title": "Rubber Band for Cable Management",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 392,
-    "title": "Rubber Band for Cable Management",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "South India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 393,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 394,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 395,
-    "title": "Rubber Band for Cable Management",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 396,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 397,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 398,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 399,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 400,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "West India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 401,
-    "title": "Rubber Band for Cable Management",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "North India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 402,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 403,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "East India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 404,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 405,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 406,
-    "title": "Rubber Band for Cable Management",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 407,
-    "title": "Rubber Band for Cable Management",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "North India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 408,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "South India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 409,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 410,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "North India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 411,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "South India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 412,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 413,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "West India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 414,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "North India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 415,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 416,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "West India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 417,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "West India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 418,
-    "title": "Rubber Band for Cable Management",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 419,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 420,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
+    "title": "Lemon for Keyboard Dusting",
+    "category": "Fashion",
+    "jugaad": "Lemon ko halkasa moist karke keys ke beech saaf karne se dust nikalta hai bina damage kiye.",
+    "language": "Hindi",
     "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 421,
-    "title": "Use Lemon to Remove Rust",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 422,
-    "title": "Rubber Band for Cable Management",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "South India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 423,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "North India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 424,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "West India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 425,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "South India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 426,
-    "title": "Rubber Band for Cable Management",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "North India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 427,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 428,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 429,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 430,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 431,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 432,
-    "title": "Rubber Band for Cable Management",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "East India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 433,
-    "title": "Rubber Band for Cable Management",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 434,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 435,
-    "title": "Rubber Band for Cable Management",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 436,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 437,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 438,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 439,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 440,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 441,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 442,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 443,
-    "title": "Use Lemon to Remove Rust",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 444,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 445,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 446,
-    "title": "Rubber Band for Cable Management",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "West India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 447,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 448,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 449,
-    "title": "Rubber Band for Cable Management",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "West India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 450,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 451,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 452,
-    "title": "Rubber Band for Cable Management",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "West India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 453,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 454,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "South India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 455,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 456,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 457,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 458,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 459,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "West India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 460,
-    "title": "Use Lemon to Remove Rust",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 461,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 462,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 463,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 464,
-    "title": "Use Lemon to Remove Rust",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 465,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "South India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 466,
-    "title": "Rubber Band for Cable Management",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 467,
-    "title": "Rubber Band for Cable Management",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 468,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 469,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 470,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 471,
-    "title": "Rubber Band for Cable Management",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 472,
-    "title": "Rubber Band for Cable Management",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "East India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 473,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 474,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 475,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "North India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 476,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 477,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 478,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 479,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 480,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 481,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 482,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 483,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "West India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 484,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 485,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "South India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 486,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 487,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 488,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 489,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 490,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 491,
-    "title": "Use Newspaper to Clean Windows",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Newspaper to Clean Windows' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "North India",
-    "tags": [
-      "easy trick",
-      "window cleaning",
-      "newspaper",
-      "home cleaning",
-      "hack"
-    ]
-  },
-  {
-    "id": 492,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 493,
-    "title": "Rubber Band for Cable Management",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band for Cable Management' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "rubber band",
-      "cable",
-      "organize",
-      "easy trick",
-      "desk hack"
-    ]
-  },
-  {
-    "id": 494,
-    "title": "Use Lemon to Remove Rust",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 495,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "Auto",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "South India",
-    "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
-    ]
-  },
-  {
-    "id": 496,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "North India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 497,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 498,
-    "title": "Plastic Bottle Sprinkler Hack",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bottle Sprinkler Hack' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "sprinkler",
-      "plastic bottle",
-      "easy diy",
-      "garden",
-      "water"
-    ]
-  },
-  {
-    "id": 499,
-    "title": "Use Lemon to Remove Rust",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Use Lemon to Remove Rust' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "lemon",
-      "rust removal",
-      "easy trick",
-      "cleaning",
-      "metal"
-    ]
-  },
-  {
-    "id": 500,
-    "title": "Toothpaste for Headlight Cleaning",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste for Headlight Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
     "region": "East India",
     "tags": [
-      "easy trick",
-      "cleaning",
-      "car care",
-      "toothpaste use",
-      "headlight"
+      "accessory",
+      "shoes",
+      "clothes",
+      "style"
     ]
   },
   {
     "id": 501,
-    "title": "Rubber Band as Phone Grip",
-    "category": "Mobile",
-    "jugaad": "Ye ek desi hack hai jo 'Rubber Band as Phone Grip' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Easy",
-    "region": "South India",
-    "tags": [
-      "rubber band",
-      "grip",
-      "mobile",
-      "diy",
-      "phone trick"
-    ]
-  },
-  {
-    "id": 502,
-    "title": "Onion to Clean Grill",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo 'Onion to Clean Grill' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "English",
-    "difficulty": "Hard",
-    "region": "South India",
-    "tags": [
-      "onion",
-      "grill",
-      "cleaning",
-      "natural",
-      "barbecue"
-    ]
-  },
-  {
-    "id": 503,
-    "title": "Onion to Clean Grill",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo 'Onion to Clean Grill' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "East India",
-    "tags": [
-      "onion",
-      "grill",
-      "cleaning",
-      "natural",
-      "barbecue"
-    ]
-  },
-  {
-    "id": 504,
-    "title": "Aluminum Foil to Boost WiFi",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo 'Aluminum Foil to Boost WiFi' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "English",
-    "difficulty": "Easy",
-    "region": "North India",
-    "tags": [
-      "wifi",
-      "signal",
-      "foil",
-      "boost",
-      "hack"
-    ]
-  },
-  {
-    "id": 505,
-    "title": "Use Toothpick to Reset Router",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo 'Use Toothpick to Reset Router' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "South India",
-    "tags": [
-      "router",
-      "reset",
-      "toothpick",
-      "internet",
-      "network"
-    ]
-  },
-  {
-    "id": 506,
-    "title": "CD Case as Mobile Holder",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo 'CD Case as Mobile Holder' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "West India",
-    "tags": [
-      "mobile",
-      "holder",
-      "cd case",
-      "hack",
-      "tech trick"
-    ]
-  },
-  {
-    "id": 507,
-    "title": "Banana Peel to Polish Shoes",
-    "category": "Life",
-    "jugaad": "Ye ek desi hack hai jo 'Banana Peel to Polish Shoes' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "banana",
-      "shoe polish",
-      "eco-friendly",
-      "lifehack",
-      "shine"
-    ]
-  },
-  {
-    "id": 508,
-    "title": "Aluminum Foil to Boost WiFi",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo 'Aluminum Foil to Boost WiFi' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "wifi",
-      "signal",
-      "foil",
-      "boost",
-      "hack"
-    ]
-  },
-  {
-    "id": 509,
-    "title": "Paper Clip as SIM Ejector Tool",
-    "category": "Mobile",
-    "jugaad": "Ye ek desi hack hai jo 'Paper Clip as SIM Ejector Tool' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Easy",
-    "region": "Central India",
-    "tags": [
-      "paper clip",
-      "sim",
-      "eject",
-      "mobile",
-      "trick"
-    ]
-  },
-  {
-    "id": 510,
-    "title": "Onion to Clean Grill",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo 'Onion to Clean Grill' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "English",
-    "difficulty": "Easy",
-    "region": "North India",
-    "tags": [
-      "onion",
-      "grill",
-      "cleaning",
-      "natural",
-      "barbecue"
-    ]
-  },
-  {
-    "id": 511,
-    "title": "Use Toothpick to Reset Router",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo 'Use Toothpick to Reset Router' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "English",
-    "difficulty": "Medium",
-    "region": "North India",
-    "tags": [
-      "router",
-      "reset",
-      "toothpick",
-      "internet",
-      "network"
-    ]
-  },
-  {
-    "id": 512,
-    "title": "Paper Clip as SIM Ejector Tool",
-    "category": "Mobile",
-    "jugaad": "Ye ek desi hack hai jo 'Paper Clip as SIM Ejector Tool' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "English",
-    "difficulty": "Medium",
-    "region": "North India",
-    "tags": [
-      "paper clip",
-      "sim",
-      "eject",
-      "mobile",
-      "trick"
-    ]
-  },
-  {
-    "id": 513,
-    "title": "Banana Peel to Polish Shoes",
-    "category": "Life",
-    "jugaad": "Ye ek desi hack hai jo 'Banana Peel to Polish Shoes' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "English",
-    "difficulty": "Easy",
-    "region": "East India",
-    "tags": [
-      "banana",
-      "shoe polish",
-      "eco-friendly",
-      "lifehack",
-      "shine"
-    ]
-  },
-  {
-    "id": 514,
-    "title": "CD Case as Mobile Holder",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo 'CD Case as Mobile Holder' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "mobile",
-      "holder",
-      "cd case",
-      "hack",
-      "tech trick"
-    ]
-  },
-  {
-    "id": 515,
-    "title": "CD Case as Mobile Holder",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo 'CD Case as Mobile Holder' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "mobile",
-      "holder",
-      "cd case",
-      "hack",
-      "tech trick"
-    ]
-  },
-  {
-    "id": 516,
-    "title": "Use Vinegar to Clean Showerhead",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo 'Use Vinegar to Clean Showerhead' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "vinegar",
-      "showerhead",
-      "cleaning",
-      "natural",
-      "desi"
-    ]
-  },
-  {
-    "id": 517,
-    "title": "Banana Peel to Polish Shoes",
-    "category": "Life",
-    "jugaad": "Ye ek desi hack hai jo 'Banana Peel to Polish Shoes' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "English",
-    "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "banana",
-      "shoe polish",
-      "eco-friendly",
-      "lifehack",
-      "shine"
-    ]
-  },
-  {
-    "id": 518,
-    "title": "Use Toothpick to Reset Router",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo 'Use Toothpick to Reset Router' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "router",
-      "reset",
-      "toothpick",
-      "internet",
-      "network"
-    ]
-  },
-  {
-    "id": 519,
-    "title": "Paper Clip as SIM Ejector Tool",
-    "category": "Mobile",
-    "jugaad": "Ye ek desi hack hai jo 'Paper Clip as SIM Ejector Tool' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Easy",
-    "region": "North India",
-    "tags": [
-      "paper clip",
-      "sim",
-      "eject",
-      "mobile",
-      "trick"
-    ]
-  },
-  {
-    "id": 520,
-    "title": "Use Toothpick to Reset Router",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo 'Use Toothpick to Reset Router' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "English",
-    "difficulty": "Hard",
-    "region": "West India",
-    "tags": [
-      "router",
-      "reset",
-      "toothpick",
-      "internet",
-      "network"
-    ]
-  },
-  {
-    "id": 521,
-    "title": "Paper Clip as SIM Ejector Tool",
-    "category": "Mobile",
-    "jugaad": "Ye ek desi hack hai jo 'Paper Clip as SIM Ejector Tool' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "paper clip",
-      "sim",
-      "eject",
-      "mobile",
-      "trick"
-    ]
-  },
-  {
-    "id": 522,
-    "title": "CD Case as Mobile Holder",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo 'CD Case as Mobile Holder' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "mobile",
-      "holder",
-      "cd case",
-      "hack",
-      "tech trick"
-    ]
-  },
-  {
-    "id": 523,
-    "title": "Use Vinegar to Clean Showerhead",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo 'Use Vinegar to Clean Showerhead' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "English",
-    "difficulty": "Medium",
-    "region": "West India",
-    "tags": [
-      "vinegar",
-      "showerhead",
-      "cleaning",
-      "natural",
-      "desi"
-    ]
-  },
-  {
-    "id": 524,
-    "title": "Paper Clip as SIM Ejector Tool",
-    "category": "Mobile",
-    "jugaad": "Ye ek desi hack hai jo 'Paper Clip as SIM Ejector Tool' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Easy",
-    "region": "Central India",
-    "tags": [
-      "paper clip",
-      "sim",
-      "eject",
-      "mobile",
-      "trick"
-    ]
-  },
-  {
-    "id": 525,
-    "title": "Paper Clip as SIM Ejector Tool",
-    "category": "Mobile",
-    "jugaad": "Ye ek desi hack hai jo 'Paper Clip as SIM Ejector Tool' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Hard",
-    "region": "South India",
-    "tags": [
-      "paper clip",
-      "sim",
-      "eject",
-      "mobile",
-      "trick"
-    ]
-  },
-  {
-    "id": 526,
-    "title": "Banana Peel to Polish Shoes",
-    "category": "Life",
-    "jugaad": "Ye ek desi hack hai jo 'Banana Peel to Polish Shoes' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "English",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "banana",
-      "shoe polish",
-      "eco-friendly",
-      "lifehack",
-      "shine"
-    ]
-  },
-  {
-    "id": 527,
-    "title": "Use Toothpick to Reset Router",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo 'Use Toothpick to Reset Router' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "English",
-    "difficulty": "Easy",
-    "region": "East India",
-    "tags": [
-      "router",
-      "reset",
-      "toothpick",
-      "internet",
-      "network"
-    ]
-  },
-  {
-    "id": 528,
-    "title": "Use Vinegar to Clean Showerhead",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo 'Use Vinegar to Clean Showerhead' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "vinegar",
-      "showerhead",
-      "cleaning",
-      "natural",
-      "desi"
-    ]
-  },
-  {
-    "id": 529,
-    "title": "Use Salt to Clean Iron Base",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo 'Use Salt to Clean Iron Base' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Hard",
-    "region": "South India",
-    "tags": [
-      "salt",
-      "iron",
-      "cleaning",
-      "stain removal",
-      "quick fix"
-    ]
-  },
-  {
-    "id": 530,
-    "title": "Aluminum Foil to Boost WiFi",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo 'Aluminum Foil to Boost WiFi' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Mobile Charger for Mobile Holder in Car",
+    "category": "Health",
+    "jugaad": "Mobile Charger ka use car AC vent mein fit karke mobile holder banane mein hota hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "South India",
     "tags": [
-      "wifi",
-      "signal",
-      "foil",
-      "boost",
-      "hack"
-    ]
-  },
-  {
-    "id": 531,
-    "title": "Use Toothpick to Reset Router",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo 'Use Toothpick to Reset Router' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "router",
-      "reset",
-      "toothpick",
-      "internet",
-      "network"
-    ]
-  },
-  {
-    "id": 532,
-    "title": "Use Salt to Clean Iron Base",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo 'Use Salt to Clean Iron Base' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "salt",
-      "iron",
-      "cleaning",
-      "stain removal",
-      "quick fix"
-    ]
-  },
-  {
-    "id": 533,
-    "title": "Use Salt to Clean Iron Base",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo 'Use Salt to Clean Iron Base' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "English",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "salt",
-      "iron",
-      "cleaning",
-      "stain removal",
-      "quick fix"
-    ]
-  },
-  {
-    "id": 534,
-    "title": "Paper Clip as SIM Ejector Tool",
-    "category": "Mobile",
-    "jugaad": "Ye ek desi hack hai jo 'Paper Clip as SIM Ejector Tool' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "paper clip",
-      "sim",
-      "eject",
-      "mobile",
-      "trick"
-    ]
-  },
-  {
-    "id": 535,
-    "title": "Paper Clip as SIM Ejector Tool",
-    "category": "Mobile",
-    "jugaad": "Ye ek desi hack hai jo 'Paper Clip as SIM Ejector Tool' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "paper clip",
-      "sim",
-      "eject",
-      "mobile",
-      "trick"
-    ]
-  },
-  {
-    "id": 536,
-    "title": "Use Vinegar to Clean Showerhead",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo 'Use Vinegar to Clean Showerhead' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "vinegar",
-      "showerhead",
-      "cleaning",
-      "natural",
-      "desi"
-    ]
-  },
-  {
-    "id": 537,
-    "title": "Use Toothpick to Reset Router",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo 'Use Toothpick to Reset Router' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "English",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "router",
-      "reset",
-      "toothpick",
-      "internet",
-      "network"
-    ]
-  },
-  {
-    "id": 538,
-    "title": "Use Salt to Clean Iron Base",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo 'Use Salt to Clean Iron Base' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "salt",
-      "iron",
-      "cleaning",
-      "stain removal",
-      "quick fix"
-    ]
-  },
-  {
-    "id": 539,
-    "title": "Use Vinegar to Clean Showerhead",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo 'Use Vinegar to Clean Showerhead' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "vinegar",
-      "showerhead",
-      "cleaning",
-      "natural",
-      "desi"
-    ]
-  },
-  {
-    "id": 540,
-    "title": "Onion to Clean Grill",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo 'Onion to Clean Grill' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "South India",
-    "tags": [
-      "onion",
-      "grill",
-      "cleaning",
-      "natural",
-      "barbecue"
-    ]
-  },
-  {
-    "id": 541,
-    "title": "Use Vinegar to Clean Showerhead",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo 'Use Vinegar to Clean Showerhead' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "vinegar",
-      "showerhead",
-      "cleaning",
-      "natural",
-      "desi"
-    ]
-  },
-  {
-    "id": 542,
-    "title": "Banana Peel to Polish Shoes",
-    "category": "Life",
-    "jugaad": "Ye ek desi hack hai jo 'Banana Peel to Polish Shoes' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "English",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "banana",
-      "shoe polish",
-      "eco-friendly",
-      "lifehack",
-      "shine"
-    ]
-  },
-  {
-    "id": 543,
-    "title": "Onion to Clean Grill",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo 'Onion to Clean Grill' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Medium",
-    "region": "North India",
-    "tags": [
-      "onion",
-      "grill",
-      "cleaning",
-      "natural",
-      "barbecue"
-    ]
-  },
-  {
-    "id": 544,
-    "title": "Aluminum Foil to Boost WiFi",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo 'Aluminum Foil to Boost WiFi' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Hard",
-    "region": "South India",
-    "tags": [
-      "wifi",
-      "signal",
-      "foil",
-      "boost",
-      "hack"
-    ]
-  },
-  {
-    "id": 545,
-    "title": "Onion to Clean Grill",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo 'Onion to Clean Grill' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Hard",
-    "region": "South India",
-    "tags": [
-      "onion",
-      "grill",
-      "cleaning",
-      "natural",
-      "barbecue"
-    ]
-  },
-  {
-    "id": 546,
-    "title": "CD Case as Mobile Holder",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo 'CD Case as Mobile Holder' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Easy",
-    "region": "South India",
-    "tags": [
-      "mobile",
-      "holder",
-      "cd case",
-      "hack",
-      "tech trick"
-    ]
-  },
-  {
-    "id": 547,
-    "title": "Banana Peel to Polish Shoes",
-    "category": "Life",
-    "jugaad": "Ye ek desi hack hai jo 'Banana Peel to Polish Shoes' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "English",
-    "difficulty": "Medium",
-    "region": "West India",
-    "tags": [
-      "banana",
-      "shoe polish",
-      "eco-friendly",
-      "lifehack",
-      "shine"
-    ]
-  },
-  {
-    "id": 548,
-    "title": "Use Toothpick to Reset Router",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo 'Use Toothpick to Reset Router' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "English",
-    "difficulty": "Hard",
-    "region": "West India",
-    "tags": [
-      "router",
-      "reset",
-      "toothpick",
-      "internet",
-      "network"
-    ]
-  },
-  {
-    "id": 549,
-    "title": "Aluminum Foil to Boost WiFi",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo 'Aluminum Foil to Boost WiFi' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "English",
-    "difficulty": "Easy",
-    "region": "Central India",
-    "tags": [
-      "wifi",
-      "signal",
-      "foil",
-      "boost",
-      "hack"
-    ]
-  },
-  {
-    "id": 550,
-    "title": "Use Salt to Clean Iron Base",
-    "category": "Cleaning",
-    "jugaad": "Ye ek desi hack hai jo 'Use Salt to Clean Iron Base' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "West India",
-    "tags": [
-      "salt",
-      "iron",
-      "cleaning",
-      "stain removal",
-      "quick fix"
-    ]
-  },
-   {
-    "id": 600,
-    "title": "Ice Cube Gum Remover",
-    "category": "Education",
-    "jugaad": "Ye ek desi hack hai jo category 'Ice Cube Gum Remover' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "West India",
-    "tags": [
-      "organization",
-      "mobile hack",
-      "daily use",
-      "eco-friendly",
-      "recycled"
-    ]
-  },
-  {
-    "id": 601,
-    "title": "Newspaper Window Shine",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Newspaper Window Shine' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Hard",
-    "region": "South India",
-    "tags": [
-      "recycled",
-      "quick fix",
-      "eco-friendly",
-      "tech trick",
+      "remedy",
+      "fitness",
+      "ayurveda",
       "natural"
     ]
   },
   {
-    "id": 602,
-    "title": "Foil Battery Connector",
+    "id": 502,
+    "title": "Toilet Roll for Watering Plants",
+    "category": "Health",
+    "jugaad": "Toilet Roll mein chhote holes karke ek mini watering can bana sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "fitness",
+      "remedy",
+      "ayurveda",
+      "natural"
+    ]
+  },
+  {
+    "id": 503,
+    "title": "Tea Strainer for Temporary Curtain Tie",
+    "category": "DIY",
+    "jugaad": "Tea Strainer ka use karke curtain temporarily tie kar sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "craft",
+      "hack",
+      "recycle",
+      "reuse"
+    ]
+  },
+  {
+    "id": 504,
+    "title": "Old Sock for Toilet Roll Holder",
+    "category": "Travel",
+    "jugaad": "Old Sock se DIY toilet roll holder banaya ja sakta hai.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "budget",
+      "safety",
+      "packing",
+      "navigation"
+    ]
+  },
+  {
+    "id": 505,
+    "title": "Pen Cap for Tea Filter Substitute",
+    "category": "Tech",
+    "jugaad": "Agar tea strainer nahi hai, toh Pen Cap se kaam chala sakte ho.",
+    "language": "English",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "sound",
+      "light",
+      "charger",
+      "mobile",
+      "fix"
+    ]
+  },
+  {
+    "id": 506,
+    "title": "Safety Pin for Tea Filter Substitute",
     "category": "Kitchen",
-    "jugaad": "Ye ek desi hack hai jo category 'Foil Battery Connector' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "jugaad": "Agar tea strainer nahi hai, toh Safety Pin se kaam chala sakte ho.",
     "language": "Hinglish",
     "difficulty": "Medium",
     "region": "North India",
     "tags": [
-      "household",
+      "cooking",
+      "utensils",
+      "cleaning",
+      "storage"
+    ]
+  },
+  {
+    "id": 507,
+    "title": "Bottle for Clothes Hanger Hack",
+    "category": "Home",
+    "jugaad": "Bottle se hanger slippery kapdon ke liye grip provide karta hai.",
+    "language": "English",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "repair",
+      "storage",
+      "cleaning",
+      "organization"
+    ]
+  },
+  {
+    "id": 508,
+    "title": "Eraser for Fridge Odor",
+    "category": "Fashion",
+    "jugaad": "Cut Eraser fridge mein rakh do – ye badboo ko absorb karega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "accessory",
+      "style",
+      "shoes",
+      "clothes"
+    ]
+  },
+  {
+    "id": 509,
+    "title": "Old Sock for Mobile Holder in Car",
+    "category": "Home",
+    "jugaad": "Old Sock ka use car AC vent mein fit karke mobile holder banane mein hota hai.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "storage",
+      "repair",
+      "organization",
+      "cleaning"
+    ]
+  },
+  {
+    "id": 510,
+    "title": "Paperclip for Glass Shine",
+    "category": "Fashion",
+    "jugaad": "Paperclip se mirrors ya windows ko saaf karo for instant shine.",
+    "language": "English",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "accessory",
+      "clothes",
+      "shoes",
+      "style"
+    ]
+  },
+  {
+    "id": 511,
+    "title": "Paperclip for Cable Management",
+    "category": "Health",
+    "jugaad": "Paperclip ka use karke charging cables neatly band sakte ho.",
+    "language": "English",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "fitness",
       "natural",
+      "remedy",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 512,
+    "title": "Toothpaste for Shoe Freshener",
+    "category": "DIY",
+    "jugaad": "Thoda Toothpaste shoes mein rakh do – smell chali jaayegi.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "reuse",
+      "hack",
+      "recycle",
+      "craft"
+    ]
+  },
+  {
+    "id": 513,
+    "title": "Newspaper for Cable Management",
+    "category": "Kitchen",
+    "jugaad": "Newspaper ka use karke charging cables neatly band sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "cooking",
+      "storage",
+      "cleaning",
+      "utensils"
+    ]
+  },
+  {
+    "id": 514,
+    "title": "Mobile Charger for Clothes Hanger Hack",
+    "category": "Travel",
+    "jugaad": "Mobile Charger se hanger slippery kapdon ke liye grip provide karta hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "navigation",
+      "packing",
+      "safety",
+      "budget"
+    ]
+  },
+  {
+    "id": 515,
+    "title": "Old T-shirt for Keyboard Dusting",
+    "category": "Home",
+    "jugaad": "Old T-shirt se keys ke beech ka dust gently nikal jaata hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "storage",
+      "cleaning",
+      "organization",
+      "repair"
+    ]
+  },
+  {
+    "id": 516,
+    "title": "Bottle for Tea Filter Substitute",
+    "category": "Travel",
+    "jugaad": "Agar tea strainer nahi hai, toh Bottle se kaam chala sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "budget",
+      "navigation",
+      "safety",
+      "packing"
+    ]
+  },
+  {
+    "id": 517,
+    "title": "Glue Stick for Sticky Label Remover",
+    "category": "Kitchen",
+    "jugaad": "Thoda Glue Stick lagakar sticker easily hata sakte ho.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "utensils",
+      "cooking",
+      "cleaning",
+      "storage"
+    ]
+  },
+  {
+    "id": 518,
+    "title": "Lemon for Glass Shine",
+    "category": "Health",
+    "jugaad": "Lemon se mirrors ya windows ko saaf karo for instant shine.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "natural",
+      "fitness",
+      "remedy",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 519,
+    "title": "Glue Stick for Temporary Curtain Tie",
+    "category": "Fashion",
+    "jugaad": "Glue Stick ka use karke curtain temporarily tie kar sakte ho.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "style",
+      "shoes",
+      "accessory",
+      "clothes"
+    ]
+  },
+  {
+    "id": 520,
+    "title": "Matchbox for DIY Bookmark",
+    "category": "DIY",
+    "jugaad": "Matchbox ka tukda use karke ek cool bookmark banaya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "hack",
+      "craft",
+      "reuse",
+      "recycle"
+    ]
+  },
+  {
+    "id": 521,
+    "title": "Eraser for Fix Wobbly Table",
+    "category": "Tech",
+    "jugaad": "Under table leg Eraser lagakar usse stable banaya ja sakta hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "sound",
+      "charger",
+      "mobile",
+      "fix",
+      "light"
+    ]
+  },
+  {
+    "id": 522,
+    "title": "Rubber Band for Phone Stand",
+    "category": "Health",
+    "jugaad": "Rubber Band ko fold ya roll karke ek temporary phone stand banaya ja sakta hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "remedy",
+      "ayurveda",
+      "natural",
+      "fitness"
+    ]
+  },
+  {
+    "id": 523,
+    "title": "Old T-shirt for Temporary Curtain Tie",
+    "category": "Travel",
+    "jugaad": "Old T-shirt ka use karke curtain temporarily tie kar sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "packing",
+      "budget",
+      "safety",
+      "navigation"
+    ]
+  },
+  {
+    "id": 524,
+    "title": "Pen Cap for Fridge Odor",
+    "category": "Travel",
+    "jugaad": "Cut Pen Cap fridge mein rakh do – ye badboo ko absorb karega.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "navigation",
+      "budget",
+      "safety",
+      "packing"
+    ]
+  },
+  {
+    "id": 525,
+    "title": "Matchbox for Cable Management",
+    "category": "DIY",
+    "jugaad": "Matchbox ka use karke charging cables neatly band sakte ho.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "recycle",
+      "reuse",
+      "craft",
+      "hack"
+    ]
+  },
+  {
+    "id": 526,
+    "title": "Rubber Band for Glass Shine",
+    "category": "Tech",
+    "jugaad": "Rubber Band se mirrors ya windows ko saaf karo for instant shine.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "sound",
+      "fix",
+      "light",
+      "charger",
+      "mobile"
+    ]
+  },
+  {
+    "id": 527,
+    "title": "Glue Stick for Shoe Freshener",
+    "category": "Health",
+    "jugaad": "Thoda Glue Stick shoes mein rakh do – smell chali jaayegi.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "fitness",
+      "natural",
+      "ayurveda",
+      "remedy"
+    ]
+  },
+  {
+    "id": 528,
+    "title": "Pen Cap for Keyboard Dusting",
+    "category": "Travel",
+    "jugaad": "Pen Cap se keys ke beech ka dust gently nikal jaata hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "budget",
+      "safety",
+      "navigation",
+      "packing"
+    ]
+  },
+  {
+    "id": 529,
+    "title": "Toilet Roll for Tea Filter Substitute",
+    "category": "Travel",
+    "jugaad": "Agar tea strainer nahi hai, toh Toilet Roll se kaam chala sakte ho.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "navigation",
+      "safety",
+      "packing",
+      "budget"
+    ]
+  },
+  {
+    "id": 530,
+    "title": "Bottle for Fridge Odor",
+    "category": "Health",
+    "jugaad": "Cut Bottle fridge mein rakh do – ye badboo ko absorb karega.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "remedy",
+      "natural",
+      "fitness",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 531,
+    "title": "Pen Cap for Temporary Curtain Tie",
+    "category": "Travel",
+    "jugaad": "Pen Cap ka use karke curtain temporarily tie kar sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "safety",
+      "navigation",
+      "packing",
+      "budget"
+    ]
+  },
+  {
+    "id": 532,
+    "title": "Tea Strainer for Toilet Roll Holder",
+    "category": "Health",
+    "jugaad": "Tea Strainer se DIY toilet roll holder banaya ja sakta hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "natural",
+      "fitness",
+      "remedy",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 533,
+    "title": "Cloth Hanger for Sticky Label Remover",
+    "category": "DIY",
+    "jugaad": "Thoda Cloth Hanger lagakar sticker easily hata sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "recycle",
+      "reuse",
+      "craft",
+      "hack"
+    ]
+  },
+  {
+    "id": 534,
+    "title": "Pen Cap for Fix Wobbly Table",
+    "category": "Travel",
+    "jugaad": "Under table leg Pen Cap lagakar usse stable banaya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "packing",
+      "navigation",
+      "budget",
+      "safety"
+    ]
+  },
+  {
+    "id": 535,
+    "title": "Mobile Charger for Tea Filter Substitute",
+    "category": "Tech",
+    "jugaad": "Agar tea strainer nahi hai, toh Mobile Charger se kaam chala sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "mobile",
+      "charger",
+      "light",
+      "sound",
+      "fix"
+    ]
+  },
+  {
+    "id": 536,
+    "title": "Newspaper for Cleaning Fan Blades",
+    "category": "Travel",
+    "jugaad": "Newspaper se fan blades ko asaani se saaf kar sakte ho.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "safety",
+      "budget",
+      "navigation",
+      "packing"
+    ]
+  },
+  {
+    "id": 537,
+    "title": "Toothpaste for Temporary Curtain Tie",
+    "category": "Travel",
+    "jugaad": "Toothpaste ka use karke curtain temporarily tie kar sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "navigation",
+      "budget",
+      "packing",
+      "safety"
+    ]
+  },
+  {
+    "id": 538,
+    "title": "Lemon for Shoe Freshener",
+    "category": "DIY",
+    "jugaad": "Thoda Lemon shoes mein rakh do – smell chali jaayegi.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "recycle",
+      "hack",
+      "craft",
+      "reuse"
+    ]
+  },
+  {
+    "id": 539,
+    "title": "Matchbox for Clothes Hanger Hack",
+    "category": "DIY",
+    "jugaad": "Matchbox se hanger slippery kapdon ke liye grip provide karta hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "hack",
+      "reuse",
+      "craft",
+      "recycle"
+    ]
+  },
+  {
+    "id": 540,
+    "title": "Cloth Hanger for Page Separator",
+    "category": "Tech",
+    "jugaad": "Cloth Hanger ko use karke books mein pages mark kar sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "fix",
+      "sound",
+      "mobile",
+      "charger",
+      "light"
+    ]
+  },
+  {
+    "id": 541,
+    "title": "Tea Strainer for Cleaning Fan Blades",
+    "category": "DIY",
+    "jugaad": "Tea Strainer se fan blades ko asaani se saaf kar sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "hack",
+      "recycle",
+      "reuse",
+      "craft"
+    ]
+  },
+  {
+    "id": 542,
+    "title": "Cloth Hanger for Mobile Holder in Car",
+    "category": "DIY",
+    "jugaad": "Cloth Hanger ka use car AC vent mein fit karke mobile holder banane mein hota hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "hack",
+      "reuse",
+      "craft",
+      "recycle"
+    ]
+  },
+  {
+    "id": 543,
+    "title": "Plastic Bag for Oil Funnel",
+    "category": "Travel",
+    "jugaad": "Plastic Bag ka cone bana ke temporary oil funnel use karo.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "budget",
+      "packing",
+      "navigation",
+      "safety"
+    ]
+  },
+  {
+    "id": 544,
+    "title": "Mobile Charger for Cable Management",
+    "category": "Fashion",
+    "jugaad": "Mobile Charger ka use karke charging cables neatly band sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "style",
+      "clothes",
+      "accessory",
+      "shoes"
+    ]
+  },
+  {
+    "id": 545,
+    "title": "Matchbox for Phone Stand",
+    "category": "Home",
+    "jugaad": "Matchbox ko fold ya roll karke ek temporary phone stand banaya ja sakta hai.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "cleaning",
+      "organization",
+      "repair",
+      "storage"
+    ]
+  },
+  {
+    "id": 546,
+    "title": "Glue Stick for Watering Plants",
+    "category": "DIY",
+    "jugaad": "Glue Stick mein chhote holes karke ek mini watering can bana sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "recycle",
+      "craft",
+      "hack",
+      "reuse"
+    ]
+  },
+  {
+    "id": 547,
+    "title": "Toilet Roll for Page Separator",
+    "category": "Home",
+    "jugaad": "Toilet Roll ko use karke books mein pages mark kar sakte ho.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "cleaning",
+      "storage",
+      "organization",
+      "repair"
+    ]
+  },
+  {
+    "id": 548,
+    "title": "Pen Cap for DIY Bookmark",
+    "category": "DIY",
+    "jugaad": "Pen Cap ka tukda use karke ek cool bookmark banaya ja sakta hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "recycle",
+      "hack",
+      "craft",
+      "reuse"
+    ]
+  },
+  {
+    "id": 549,
+    "title": "Bottle for Watering Plants",
+    "category": "DIY",
+    "jugaad": "Bottle mein chhote holes karke ek mini watering can bana sakte ho.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "reuse",
+      "hack",
+      "recycle",
+      "craft"
+    ]
+  },
+  {
+    "id": 550,
+    "title": "Eraser for Temporary Curtain Tie",
+    "category": "Kitchen",
+    "jugaad": "Eraser ka use karke curtain temporarily tie kar sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "cooking",
+      "storage",
+      "utensils",
+      "cleaning"
+    ]
+  },
+  {
+    "id": 551,
+    "title": "Plastic Bag for Keyboard Dusting",
+    "category": "Home",
+    "jugaad": "Plastic Bag se keys ke beech ka dust gently nikal jaata hai.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "cleaning",
+      "organization",
+      "repair",
+      "storage"
+    ]
+  },
+  {
+    "id": 552,
+    "title": "Lemon for Cleaning Fan Blades",
+    "category": "Travel",
+    "jugaad": "Lemon se fan blades ko asaani se saaf kar sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "navigation",
+      "packing",
+      "budget",
+      "safety"
+    ]
+  },
+  {
+    "id": 553,
+    "title": "Rubber Band for Mini Tripod",
+    "category": "Health",
+    "jugaad": "Rubber Band se ek basic phone tripod bana sakte ho photo/video ke liye.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "remedy",
+      "natural",
+      "fitness",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 554,
+    "title": "Glue Stick for Phone Stand",
+    "category": "Tech",
+    "jugaad": "Glue Stick ko fold ya roll karke ek temporary phone stand banaya ja sakta hai.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "fix",
+      "sound",
+      "charger",
+      "mobile",
+      "light"
+    ]
+  },
+  {
+    "id": 555,
+    "title": "Old T-shirt for Oil Funnel",
+    "category": "Tech",
+    "jugaad": "Old T-shirt ka cone bana ke temporary oil funnel use karo.",
+    "language": "English",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "fix",
+      "charger",
+      "light",
+      "mobile",
+      "sound"
+    ]
+  },
+  {
+    "id": 556,
+    "title": "Paperclip for Clothes Hanger Hack",
+    "category": "Kitchen",
+    "jugaad": "Paperclip se hanger slippery kapdon ke liye grip provide karta hai.",
+    "language": "English",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "cleaning",
+      "utensils",
+      "storage",
+      "cooking"
+    ]
+  },
+  {
+    "id": 557,
+    "title": "Lemon for Temporary Curtain Tie",
+    "category": "Health",
+    "jugaad": "Lemon ka use karke curtain temporarily tie kar sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "fitness",
+      "ayurveda",
+      "remedy",
+      "natural"
+    ]
+  },
+  {
+    "id": 558,
+    "title": "Comb for Fridge Odor",
+    "category": "DIY",
+    "jugaad": "Cut Comb fridge mein rakh do – ye badboo ko absorb karega.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "recycle",
+      "craft",
+      "hack",
+      "reuse"
+    ]
+  },
+  {
+    "id": 559,
+    "title": "Rubber Band for Cable Management",
+    "category": "Travel",
+    "jugaad": "Rubber Band ka use karke charging cables neatly band sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "safety",
+      "budget",
+      "navigation",
+      "packing"
+    ]
+  },
+  {
+    "id": 560,
+    "title": "Pen Cap for Mini Tripod",
+    "category": "Home",
+    "jugaad": "Pen Cap se ek basic phone tripod bana sakte ho photo/video ke liye.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "storage",
       "repair",
       "cleaning",
       "organization"
     ]
   },
   {
-    "id": 603,
-    "title": "Onion Scratch Fix",
-    "category": "Garden",
-    "jugaad": "Ye ek desi hack hai jo category 'Onion Scratch Fix' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
+    "id": 561,
+    "title": "Safety Pin for Mini Tripod",
+    "category": "Home",
+    "jugaad": "Safety Pin se ek basic phone tripod bana sakte ho photo/video ke liye.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "Central India",
     "tags": [
-      "daily use",
-      "natural",
-      "mobile hack",
+      "repair",
       "cleaning",
-      "household"
+      "organization",
+      "storage"
     ]
   },
   {
-    "id": 604,
-    "title": "Rubber Band Cable Holder",
-    "category": "Repair",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band Cable Holder' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "id": 562,
+    "title": "Mobile Charger for DIY Bookmark",
+    "category": "Tech",
+    "jugaad": "Mobile Charger ka tukda use karke ek cool bookmark banaya ja sakta hai.",
     "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "mobile",
+      "charger",
+      "sound",
+      "fix",
+      "light"
+    ]
+  },
+  {
+    "id": 563,
+    "title": "Eraser for Toilet Roll Holder",
+    "category": "Travel",
+    "jugaad": "Eraser se DIY toilet roll holder banaya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "safety",
+      "navigation",
+      "budget",
+      "packing"
+    ]
+  },
+  {
+    "id": 564,
+    "title": "Safety Pin for Keyboard Dusting",
+    "category": "Tech",
+    "jugaad": "Safety Pin se keys ke beech ka dust gently nikal jaata hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "charger",
+      "light",
+      "mobile",
+      "fix",
+      "sound"
+    ]
+  },
+  {
+    "id": 565,
+    "title": "Comb for Toilet Roll Holder",
+    "category": "Home",
+    "jugaad": "Comb se DIY toilet roll holder banaya ja sakta hai.",
+    "language": "English",
     "difficulty": "Hard",
     "region": "East India",
     "tags": [
-      "quick fix",
-      "natural",
-      "cleaning",
       "repair",
-      "tech trick"
+      "storage",
+      "organization",
+      "cleaning"
     ]
   },
   {
-    "id": 605,
-    "title": "Clothespin Brush Handle",
-    "category": "Garden",
-    "jugaad": "Ye ek desi hack hai jo category 'Clothespin Brush Handle' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "id": 566,
+    "title": "Paperclip for Toilet Roll Holder",
+    "category": "DIY",
+    "jugaad": "Paperclip se DIY toilet roll holder banaya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "reuse",
+      "recycle",
+      "craft",
+      "hack"
+    ]
+  },
+  {
+    "id": 567,
+    "title": "Newspaper for Phone Stand",
+    "category": "Fashion",
+    "jugaad": "Newspaper ko fold ya roll karke ek temporary phone stand banaya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "shoes",
+      "style",
+      "accessory",
+      "clothes"
+    ]
+  },
+  {
+    "id": 568,
+    "title": "Spoon for Toilet Roll Holder",
+    "category": "Home",
+    "jugaad": "Spoon se DIY toilet roll holder banaya ja sakta hai.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "repair",
+      "organization",
+      "cleaning",
+      "storage"
+    ]
+  },
+  {
+    "id": 569,
+    "title": "Cloth Hanger for Phone Stand",
+    "category": "Kitchen",
+    "jugaad": "Cloth Hanger ko fold ya roll karke ek temporary phone stand banaya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "cleaning",
+      "utensils",
+      "cooking",
+      "storage"
+    ]
+  },
+  {
+    "id": 570,
+    "title": "Old Sock for Temporary Curtain Tie",
+    "category": "Fashion",
+    "jugaad": "Old Sock ka use karke curtain temporarily tie kar sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "accessory",
+      "clothes",
+      "shoes",
+      "style"
+    ]
+  },
+  {
+    "id": 571,
+    "title": "Spoon for Oil Funnel",
+    "category": "Travel",
+    "jugaad": "Spoon ka cone bana ke temporary oil funnel use karo.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "packing",
+      "budget",
+      "navigation",
+      "safety"
+    ]
+  },
+  {
+    "id": 572,
+    "title": "Rubber Band for Clothes Hanger Hack",
+    "category": "Fashion",
+    "jugaad": "Rubber Band se hanger slippery kapdon ke liye grip provide karta hai.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "shoes",
+      "clothes",
+      "style",
+      "accessory"
+    ]
+  },
+  {
+    "id": 573,
+    "title": "Old T-shirt for Cable Management",
+    "category": "Travel",
+    "jugaad": "Old T-shirt ka use karke charging cables neatly band sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "safety",
+      "packing",
+      "navigation",
+      "budget"
+    ]
+  },
+  {
+    "id": 574,
+    "title": "Rubber Band for Oil Funnel",
+    "category": "Kitchen",
+    "jugaad": "Rubber Band ka cone bana ke temporary oil funnel use karo.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "storage",
+      "utensils",
+      "cooking",
+      "cleaning"
+    ]
+  },
+  {
+    "id": 575,
+    "title": "Safety Pin for Sticky Label Remover",
+    "category": "Travel",
+    "jugaad": "Thoda Safety Pin lagakar sticker easily hata sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "navigation",
+      "packing",
+      "safety",
+      "budget"
+    ]
+  },
+  {
+    "id": 576,
+    "title": "Comb for Mobile Holder in Car",
+    "category": "Health",
+    "jugaad": "Comb ka use car AC vent mein fit karke mobile holder banane mein hota hai.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "natural",
+      "fitness",
+      "ayurveda",
+      "remedy"
+    ]
+  },
+  {
+    "id": 577,
+    "title": "Rubber Band for Page Separator",
+    "category": "Kitchen",
+    "jugaad": "Rubber Band ko use karke books mein pages mark kar sakte ho.",
+    "language": "English",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "cleaning",
+      "cooking",
+      "storage",
+      "utensils"
+    ]
+  },
+  {
+    "id": 578,
+    "title": "Tea Strainer for Fix Wobbly Table",
+    "category": "Kitchen",
+    "jugaad": "Under table leg Tea Strainer lagakar usse stable banaya ja sakta hai.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "utensils",
+      "cooking",
+      "storage",
+      "cleaning"
+    ]
+  },
+  {
+    "id": 579,
+    "title": "Rubber Band for Keyboard Dusting",
+    "category": "Health",
+    "jugaad": "Rubber Band se keys ke beech ka dust gently nikal jaata hai.",
     "language": "Hindi",
     "difficulty": "Easy",
     "region": "South India",
     "tags": [
-      "cleaning",
-      "recycled",
-      "mobile hack",
-      "quick fix",
-      "repair"
+      "ayurveda",
+      "fitness",
+      "remedy",
+      "natural"
     ]
   },
   {
-    "id": 606,
-    "title": "CD as Bird Repellent",
+    "id": 580,
+    "title": "Matchbox for Temporary Curtain Tie",
+    "category": "Kitchen",
+    "jugaad": "Matchbox ka use karke curtain temporarily tie kar sakte ho.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "cleaning",
+      "cooking",
+      "utensils",
+      "storage"
+    ]
+  },
+  {
+    "id": 581,
+    "title": "Plastic Bag for Glass Shine",
     "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'CD as Bird Repellent' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "jugaad": "Plastic Bag se mirrors ya windows ko saaf karo for instant shine.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "reuse",
+      "craft",
+      "recycle",
+      "hack"
+    ]
+  },
+  {
+    "id": 582,
+    "title": "Old T-shirt for Mini Tripod",
+    "category": "Travel",
+    "jugaad": "Old T-shirt se ek basic phone tripod bana sakte ho photo/video ke liye.",
     "language": "Hinglish",
     "difficulty": "Hard",
     "region": "South India",
     "tags": [
-      "quick fix",
-      "household",
-      "tech trick",
-      "daily use",
-      "recycled"
+      "navigation",
+      "safety",
+      "budget",
+      "packing"
+    ]
+  },
+  {
+    "id": 583,
+    "title": "Old T-shirt for Headlight Cleaning",
+    "category": "Home",
+    "jugaad": "Old T-shirt lagakar soft cloth se saaf karo – headlights firse nayi tarah chamakenge.",
+    "language": "English",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "repair",
+      "storage",
+      "cleaning",
+      "organization"
+    ]
+  },
+  {
+    "id": 584,
+    "title": "Toothpaste for Sticky Label Remover",
+    "category": "Home",
+    "jugaad": "Thoda Toothpaste lagakar sticker easily hata sakte ho.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "repair",
+      "organization",
+      "cleaning",
+      "storage"
+    ]
+  },
+  {
+    "id": 585,
+    "title": "Bottle for Cleaning Fan Blades",
+    "category": "Home",
+    "jugaad": "Bottle se fan blades ko asaani se saaf kar sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "storage",
+      "repair",
+      "cleaning",
+      "organization"
+    ]
+  },
+  {
+    "id": 586,
+    "title": "Spoon for Watering Plants",
+    "category": "Fashion",
+    "jugaad": "Spoon mein chhote holes karke ek mini watering can bana sakte ho.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "style",
+      "clothes",
+      "accessory",
+      "shoes"
+    ]
+  },
+  {
+    "id": 587,
+    "title": "Paperclip for Temporary Curtain Tie",
+    "category": "Kitchen",
+    "jugaad": "Paperclip ka use karke curtain temporarily tie kar sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "cooking",
+      "cleaning",
+      "utensils",
+      "storage"
+    ]
+  },
+  {
+    "id": 588,
+    "title": "Toothpaste for Keyboard Dusting",
+    "category": "Health",
+    "jugaad": "Toothpaste se keys ke beech ka dust gently nikal jaata hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "natural",
+      "remedy",
+      "fitness",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 589,
+    "title": "Old Sock for Headlight Cleaning",
+    "category": "Fashion",
+    "jugaad": "Old Sock lagakar soft cloth se saaf karo – headlights firse nayi tarah chamakenge.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "shoes",
+      "clothes",
+      "style",
+      "accessory"
+    ]
+  },
+  {
+    "id": 590,
+    "title": "Tea Strainer for Cable Management",
+    "category": "Health",
+    "jugaad": "Tea Strainer ka use karke charging cables neatly band sakte ho.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "fitness",
+      "natural",
+      "remedy",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 591,
+    "title": "Safety Pin for Cleaning Fan Blades",
+    "category": "Kitchen",
+    "jugaad": "Safety Pin se fan blades ko asaani se saaf kar sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "utensils",
+      "storage",
+      "cleaning",
+      "cooking"
+    ]
+  },
+  {
+    "id": 592,
+    "title": "Spoon for Page Separator",
+    "category": "DIY",
+    "jugaad": "Spoon ko use karke books mein pages mark kar sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "recycle",
+      "craft",
+      "hack",
+      "reuse"
+    ]
+  },
+  {
+    "id": 593,
+    "title": "Glue Stick for Clothes Hanger Hack",
+    "category": "Tech",
+    "jugaad": "Glue Stick se hanger slippery kapdon ke liye grip provide karta hai.",
+    "language": "English",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "charger",
+      "mobile",
+      "fix",
+      "sound",
+      "light"
+    ]
+  },
+  {
+    "id": 594,
+    "title": "Spoon for Fridge Odor",
+    "category": "DIY",
+    "jugaad": "Cut Spoon fridge mein rakh do – ye badboo ko absorb karega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "reuse",
+      "craft",
+      "hack",
+      "recycle"
+    ]
+  },
+  {
+    "id": 595,
+    "title": "Cloth Hanger for Clothes Hanger Hack",
+    "category": "Travel",
+    "jugaad": "Cloth Hanger se hanger slippery kapdon ke liye grip provide karta hai.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "budget",
+      "packing",
+      "navigation",
+      "safety"
+    ]
+  },
+  {
+    "id": 596,
+    "title": "Glue Stick for Glass Shine",
+    "category": "Home",
+    "jugaad": "Glue Stick se mirrors ya windows ko saaf karo for instant shine.",
+    "language": "English",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "storage",
+      "repair",
+      "cleaning",
+      "organization"
+    ]
+  },
+  {
+    "id": 597,
+    "title": "Spoon for Temporary Curtain Tie",
+    "category": "Tech",
+    "jugaad": "Spoon ka use karke curtain temporarily tie kar sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "fix",
+      "light",
+      "mobile",
+      "charger",
+      "sound"
+    ]
+  },
+  {
+    "id": 598,
+    "title": "Mobile Charger for Temporary Curtain Tie",
+    "category": "Tech",
+    "jugaad": "Mobile Charger ka use karke curtain temporarily tie kar sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "fix",
+      "charger",
+      "mobile",
+      "light",
+      "sound"
+    ]
+  },
+  {
+    "id": 599,
+    "title": "Glue Stick for Mobile Holder in Car",
+    "category": "Tech",
+    "jugaad": "Glue Stick ka use car AC vent mein fit karke mobile holder banane mein hota hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "light",
+      "fix",
+      "charger",
+      "mobile",
+      "sound"
+    ]
+  },
+  {
+    "id": 600,
+    "title": "Paperclip for Mobile Holder in Car",
+    "category": "Home",
+    "jugaad": "Paperclip ka use car AC vent mein fit karke mobile holder banane mein hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "organization",
+      "cleaning",
+      "storage",
+      "repair"
+    ]
+  },
+  {
+    "id": 601,
+    "title": "Toilet Roll for Fix Wobbly Table",
+    "category": "Home",
+    "jugaad": "Under table leg Toilet Roll lagakar usse stable banaya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "repair",
+      "organization",
+      "storage",
+      "cleaning"
+    ]
+  },
+  {
+    "id": 602,
+    "title": "Spoon for DIY Bookmark",
+    "category": "DIY",
+    "jugaad": "Spoon ka tukda use karke ek cool bookmark banaya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "craft",
+      "recycle",
+      "reuse",
+      "hack"
+    ]
+  },
+  {
+    "id": 603,
+    "title": "Lemon for Toilet Roll Holder",
+    "category": "Tech",
+    "jugaad": "Lemon se DIY toilet roll holder banaya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "charger",
+      "mobile",
+      "fix",
+      "sound",
+      "light"
+    ]
+  },
+  {
+    "id": 604,
+    "title": "Cloth Hanger for Keyboard Dusting",
+    "category": "Tech",
+    "jugaad": "Cloth Hanger se keys ke beech ka dust gently nikal jaata hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "mobile",
+      "fix",
+      "charger",
+      "light",
+      "sound"
+    ]
+  },
+  {
+    "id": 605,
+    "title": "Toilet Roll for Phone Stand",
+    "category": "Fashion",
+    "jugaad": "Toilet Roll ko fold ya roll karke ek temporary phone stand banaya ja sakta hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "clothes",
+      "shoes",
+      "accessory",
+      "style"
+    ]
+  },
+  {
+    "id": 606,
+    "title": "Matchbox for Headlight Cleaning",
+    "category": "Health",
+    "jugaad": "Matchbox lagakar soft cloth se saaf karo – headlights firse nayi tarah chamakenge.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "ayurveda",
+      "natural",
+      "remedy",
+      "fitness"
     ]
   },
   {
     "id": 607,
-    "title": "Rubber Band Cable Holder",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band Cable Holder' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Spoon for Phone Stand",
+    "category": "Home",
+    "jugaad": "Spoon ko fold ya roll karke ek temporary phone stand banaya ja sakta hai.",
     "language": "Hindi",
-    "difficulty": "Medium",
-    "region": "West India",
+    "difficulty": "Hard",
+    "region": "North India",
     "tags": [
-      "mobile hack",
-      "household",
-      "cleaning",
-      "recycled",
-      "eco-friendly"
+      "organization",
+      "repair",
+      "storage",
+      "cleaning"
     ]
   },
   {
     "id": 608,
-    "title": "Ice Cube Gum Remover",
-    "category": "Garden",
-    "jugaad": "Ye ek desi hack hai jo category 'Ice Cube Gum Remover' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Medium",
-    "region": "North India",
+    "title": "Rubber Band for Headlight Cleaning",
+    "category": "Health",
+    "jugaad": "Rubber Band lagakar soft cloth se saaf karo – headlights firse nayi tarah chamakenge.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "South India",
     "tags": [
-      "daily use",
-      "organization",
-      "eco-friendly",
       "natural",
-      "tech trick"
+      "ayurveda",
+      "remedy",
+      "fitness"
     ]
   },
   {
     "id": 609,
-    "title": "CD as Bird Repellent",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'CD as Bird Repellent' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Mobile Charger for Toilet Roll Holder",
+    "category": "Home",
+    "jugaad": "Mobile Charger se DIY toilet roll holder banaya ja sakta hai.",
     "language": "Hindi",
-    "difficulty": "Medium",
-    "region": "East India",
+    "difficulty": "Easy",
+    "region": "South India",
     "tags": [
-      "tech trick",
-      "eco-friendly",
+      "repair",
       "cleaning",
-      "natural",
+      "storage",
       "organization"
     ]
   },
   {
     "id": 610,
-    "title": "Foil Battery Connector",
-    "category": "Health",
-    "jugaad": "Ye ek desi hack hai jo category 'Foil Battery Connector' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
+    "title": "Old T-shirt for Fix Wobbly Table",
+    "category": "Fashion",
+    "jugaad": "Under table leg Old T-shirt lagakar usse stable banaya ja sakta hai.",
+    "language": "English",
     "difficulty": "Hard",
     "region": "Central India",
     "tags": [
-      "natural",
-      "eco-friendly",
-      "repair",
-      "quick fix",
-      "tech trick"
+      "shoes",
+      "clothes",
+      "style",
+      "accessory"
     ]
   },
   {
     "id": 611,
-    "title": "Ice Cube Gum Remover",
-    "category": "Education",
-    "jugaad": "Ye ek desi hack hai jo category 'Ice Cube Gum Remover' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Medium",
-    "region": "South India",
+    "title": "Comb for Shoe Freshener",
+    "category": "Travel",
+    "jugaad": "Thoda Comb shoes mein rakh do – smell chali jaayegi.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "Central India",
     "tags": [
-      "organization",
-      "eco-friendly",
-      "cleaning",
-      "repair",
-      "quick fix"
+      "navigation",
+      "budget",
+      "safety",
+      "packing"
     ]
   },
   {
     "id": 612,
-    "title": "Bottle Cap Seal",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Bottle Cap Seal' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
+    "title": "Glue Stick for Oil Funnel",
+    "category": "Travel",
+    "jugaad": "Glue Stick ka cone bana ke temporary oil funnel use karo.",
+    "language": "Hindi",
     "difficulty": "Medium",
-    "region": "East India",
+    "region": "Central India",
     "tags": [
-      "recycled",
-      "quick fix",
-      "cleaning",
-      "eco-friendly",
-      "natural"
+      "budget",
+      "navigation",
+      "packing",
+      "safety"
     ]
   },
   {
     "id": 613,
-    "title": "Plastic Bag Water Seal",
-    "category": "Education",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bag Water Seal' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Mobile Charger for Headlight Cleaning",
+    "category": "Health",
+    "jugaad": "Mobile Charger lagakar soft cloth se saaf karo – headlights firse nayi tarah chamakenge.",
     "language": "Hindi",
-    "difficulty": "Hard",
+    "difficulty": "Medium",
     "region": "West India",
     "tags": [
-      "daily use",
-      "eco-friendly",
-      "recycled",
-      "mobile hack",
-      "repair"
+      "ayurveda",
+      "natural",
+      "fitness",
+      "remedy"
     ]
   },
   {
     "id": 614,
-    "title": "Chalk Moisture Absorber",
-    "category": "Repair",
-    "jugaad": "Ye ek desi hack hai jo category 'Chalk Moisture Absorber' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Hard",
+    "title": "Comb for Watering Plants",
+    "category": "Home",
+    "jugaad": "Comb mein chhote holes karke ek mini watering can bana sakte ho.",
+    "language": "English",
+    "difficulty": "Medium",
     "region": "Central India",
     "tags": [
-      "natural",
-      "organization",
-      "quick fix",
       "cleaning",
-      "mobile hack"
+      "organization",
+      "repair",
+      "storage"
     ]
   },
   {
     "id": 615,
-    "title": "Coconut Oil Zipper Fix",
-    "category": "Garden",
-    "jugaad": "Ye ek desi hack hai jo category 'Coconut Oil Zipper Fix' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Easy",
-    "region": "West India",
+    "title": "Bottle for Sticky Label Remover",
+    "category": "Travel",
+    "jugaad": "Thoda Bottle lagakar sticker easily hata sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
     "tags": [
-      "household",
-      "eco-friendly",
-      "repair",
-      "organization",
-      "quick fix"
+      "safety",
+      "packing",
+      "navigation",
+      "budget"
     ]
   },
   {
     "id": 616,
-    "title": "Matchbox USB Fix",
-    "category": "Repair",
-    "jugaad": "Ye ek desi hack hai jo category 'Matchbox USB Fix' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Medium",
+    "title": "Toothpaste for Fridge Odor",
+    "category": "Travel",
+    "jugaad": "Cut Toothpaste fridge mein rakh do – ye badboo ko absorb karega.",
+    "language": "English",
+    "difficulty": "Easy",
     "region": "East India",
     "tags": [
-      "cleaning",
-      "mobile hack",
-      "household",
-      "natural",
-      "tech trick"
+      "packing",
+      "safety",
+      "budget",
+      "navigation"
     ]
   },
   {
     "id": 617,
-    "title": "Banana Peel Shoe Polish",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Banana Peel Shoe Polish' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Safety Pin for Fix Wobbly Table",
+    "category": "Health",
+    "jugaad": "Under table leg Safety Pin lagakar usse stable banaya ja sakta hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
-    "region": "North India",
+    "region": "East India",
     "tags": [
-      "repair",
-      "mobile hack",
-      "cleaning",
-      "organization",
-      "tech trick"
+      "natural",
+      "fitness",
+      "remedy",
+      "ayurveda"
     ]
   },
   {
     "id": 618,
-    "title": "Hair Dryer Label Remover",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Hair Dryer Label Remover' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Hard",
+    "title": "Eraser for Headlight Cleaning",
+    "category": "Health",
+    "jugaad": "Eraser lagakar soft cloth se saaf karo – headlights firse nayi tarah chamakenge.",
+    "language": "English",
+    "difficulty": "Medium",
     "region": "Central India",
     "tags": [
-      "household",
-      "quick fix",
-      "recycled",
-      "mobile hack",
-      "daily use"
+      "natural",
+      "remedy",
+      "fitness",
+      "ayurveda"
     ]
   },
   {
     "id": 619,
-    "title": "Old Sock Duster",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Old Sock Duster' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Medium",
-    "region": "East India",
+    "title": "Newspaper for Watering Plants",
+    "category": "DIY",
+    "jugaad": "Newspaper mein chhote holes karke ek mini watering can bana sakte ho.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "Central India",
     "tags": [
-      "organization",
-      "daily use",
-      "mobile hack",
-      "repair",
-      "cleaning"
+      "craft",
+      "hack",
+      "reuse",
+      "recycle"
     ]
   },
   {
     "id": 620,
-    "title": "Toothpaste Mirror Cleaner",
-    "category": "Kitchen",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste Mirror Cleaner' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Comb for Page Separator",
+    "category": "Fashion",
+    "jugaad": "Comb ko use karke books mein pages mark kar sakte ho.",
     "language": "Hindi",
-    "difficulty": "Easy",
+    "difficulty": "Hard",
     "region": "North India",
     "tags": [
-      "daily use",
-      "mobile hack",
-      "tech trick",
-      "eco-friendly",
-      "quick fix"
+      "style",
+      "accessory",
+      "clothes",
+      "shoes"
     ]
   },
   {
     "id": 621,
-    "title": "Lemon Rust Remover",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Lemon Rust Remover' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
+    "title": "Pen Cap for Oil Funnel",
+    "category": "Travel",
+    "jugaad": "Pen Cap ka cone bana ke temporary oil funnel use karo.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "East India",
     "tags": [
-      "eco-friendly",
-      "recycled",
-      "cleaning",
-      "daily use",
-      "quick fix"
+      "packing",
+      "safety",
+      "budget",
+      "navigation"
     ]
   },
   {
     "id": 622,
-    "title": "Shampoo Car Polish",
-    "category": "Education",
-    "jugaad": "Ye ek desi hack hai jo category 'Shampoo Car Polish' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Hard",
-    "region": "West India",
-    "tags": [
-      "cleaning",
-      "mobile hack",
-      "tech trick",
-      "repair",
-      "household"
-    ]
-  },
-  {
-    "id": 623,
-    "title": "Coconut Oil Zipper Fix",
-    "category": "Education",
-    "jugaad": "Ye ek desi hack hai jo category 'Coconut Oil Zipper Fix' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "mobile hack",
-      "tech trick",
-      "organization",
-      "daily use",
-      "recycled"
-    ]
-  },
-  {
-    "id": 624,
-    "title": "Matchbox USB Fix",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Matchbox USB Fix' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Hard",
-    "region": "West India",
-    "tags": [
-      "household",
-      "recycled",
-      "mobile hack",
-      "quick fix",
-      "repair"
-    ]
-  },
-  {
-    "id": 625,
-    "title": "Plastic Bag Water Seal",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bag Water Seal' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "household",
-      "cleaning",
-      "quick fix",
-      "natural",
-      "organization"
-    ]
-  },
-  {
-    "id": 626,
-    "title": "Plastic Bag Water Seal",
-    "category": "Repair",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bag Water Seal' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Medium",
-    "region": "East India",
-    "tags": [
-      "household",
-      "organization",
-      "quick fix",
-      "recycled",
-      "mobile hack"
-    ]
-  },
-  {
-    "id": 627,
-    "title": "Banana Peel Shoe Polish",
+    "title": "Toilet Roll for Toilet Roll Holder",
     "category": "Kitchen",
-    "jugaad": "Ye ek desi hack hai jo category 'Banana Peel Shoe Polish' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "jugaad": "Toilet Roll se DIY toilet roll holder banaya ja sakta hai.",
     "language": "Hindi",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "mobile hack",
-      "daily use",
-      "household",
-      "tech trick",
-      "quick fix"
-    ]
-  },
-  {
-    "id": 628,
-    "title": "Banana Peel Shoe Polish",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Banana Peel Shoe Polish' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Hard",
+    "difficulty": "Medium",
     "region": "West India",
     "tags": [
-      "household",
-      "organization",
-      "tech trick",
-      "natural",
-      "recycled"
-    ]
-  },
-  {
-    "id": 629,
-    "title": "Clothespin Brush Handle",
-    "category": "Garden",
-    "jugaad": "Ye ek desi hack hai jo category 'Clothespin Brush Handle' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "recycled",
-      "repair",
-      "household",
-      "natural",
-      "eco-friendly"
-    ]
-  },
-  {
-    "id": 630,
-    "title": "Lemon Rust Remover",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Lemon Rust Remover' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "organization",
-      "repair",
-      "eco-friendly",
-      "mobile hack",
-      "tech trick"
-    ]
-  },
-  {
-    "id": 631,
-    "title": "Pen Spring Protector",
-    "category": "Education",
-    "jugaad": "Ye ek desi hack hai jo category 'Pen Spring Protector' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Easy",
-    "region": "North India",
-    "tags": [
-      "daily use",
-      "household",
-      "repair",
-      "quick fix",
+      "storage",
+      "cooking",
+      "utensils",
       "cleaning"
     ]
   },
   {
-    "id": 632,
-    "title": "Salt for Iron Cleaning",
-    "category": "Education",
-    "jugaad": "Ye ek desi hack hai jo category 'Salt for Iron Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "id": 623,
+    "title": "Mobile Charger for Glass Shine",
+    "category": "Tech",
+    "jugaad": "Mobile Charger se mirrors ya windows ko saaf karo for instant shine.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "sound",
+      "fix",
+      "light",
+      "charger",
+      "mobile"
+    ]
+  },
+  {
+    "id": 624,
+    "title": "Old T-shirt for Watering Plants",
+    "category": "Travel",
+    "jugaad": "Old T-shirt mein chhote holes karke ek mini watering can bana sakte ho.",
     "language": "Hinglish",
     "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "safety",
+      "packing",
+      "budget",
+      "navigation"
+    ]
+  },
+  {
+    "id": 625,
+    "title": "Old Sock for Clothes Hanger Hack",
+    "category": "DIY",
+    "jugaad": "Old Sock se hanger slippery kapdon ke liye grip provide karta hai.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "reuse",
+      "recycle",
+      "hack",
+      "craft"
+    ]
+  },
+  {
+    "id": 626,
+    "title": "Paperclip for Shoe Freshener",
+    "category": "Kitchen",
+    "jugaad": "Thoda Paperclip shoes mein rakh do – smell chali jaayegi.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
     "region": "Central India",
     "tags": [
-      "household",
-      "tech trick",
+      "utensils",
+      "cooking",
+      "storage",
+      "cleaning"
+    ]
+  },
+  {
+    "id": 627,
+    "title": "Eraser for DIY Bookmark",
+    "category": "DIY",
+    "jugaad": "Eraser ka tukda use karke ek cool bookmark banaya ja sakta hai.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "craft",
+      "recycle",
+      "reuse",
+      "hack"
+    ]
+  },
+  {
+    "id": 628,
+    "title": "Toilet Roll for Sticky Label Remover",
+    "category": "Tech",
+    "jugaad": "Thoda Toilet Roll lagakar sticker easily hata sakte ho.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "charger",
+      "fix",
+      "light",
+      "mobile",
+      "sound"
+    ]
+  },
+  {
+    "id": 629,
+    "title": "Safety Pin for Oil Funnel",
+    "category": "Travel",
+    "jugaad": "Safety Pin ka cone bana ke temporary oil funnel use karo.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "budget",
+      "safety",
+      "packing",
+      "navigation"
+    ]
+  },
+  {
+    "id": 630,
+    "title": "Paperclip for Sticky Label Remover",
+    "category": "Tech",
+    "jugaad": "Thoda Paperclip lagakar sticker easily hata sakte ho.",
+    "language": "English",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "mobile",
+      "light",
+      "sound",
+      "fix",
+      "charger"
+    ]
+  },
+  {
+    "id": 631,
+    "title": "Eraser for Oil Funnel",
+    "category": "Kitchen",
+    "jugaad": "Eraser ka cone bana ke temporary oil funnel use karo.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "cleaning",
+      "storage",
+      "utensils",
+      "cooking"
+    ]
+  },
+  {
+    "id": 632,
+    "title": "Glue Stick for Cleaning Fan Blades",
+    "category": "Home",
+    "jugaad": "Glue Stick se fan blades ko asaani se saaf kar sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "cleaning",
+      "storage",
       "organization",
-      "mobile hack",
-      "recycled"
+      "repair"
     ]
   },
   {
     "id": 633,
-    "title": "Newspaper Window Shine",
-    "category": "Kitchen",
-    "jugaad": "Ye ek desi hack hai jo category 'Newspaper Window Shine' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
+    "title": "Plastic Bag for Sticky Label Remover",
+    "category": "Home",
+    "jugaad": "Thoda Plastic Bag lagakar sticker easily hata sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "Central India",
     "tags": [
-      "household",
-      "mobile hack",
+      "repair",
       "organization",
-      "daily use",
+      "storage",
       "cleaning"
     ]
   },
   {
     "id": 634,
-    "title": "Pen Spring Protector",
-    "category": "Garden",
-    "jugaad": "Ye ek desi hack hai jo category 'Pen Spring Protector' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
+    "title": "Lemon for Oil Funnel",
+    "category": "Home",
+    "jugaad": "Lemon ka cone bana ke temporary oil funnel use karo.",
+    "language": "English",
     "difficulty": "Easy",
-    "region": "West India",
+    "region": "East India",
     "tags": [
-      "tech trick",
-      "eco-friendly",
-      "mobile hack",
+      "organization",
       "repair",
-      "organization"
+      "storage",
+      "cleaning"
     ]
   },
   {
     "id": 635,
-    "title": "Lemon Rust Remover",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Lemon Rust Remover' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Medium",
-    "region": "West India",
+    "title": "Toothpaste for DIY Bookmark",
+    "category": "Travel",
+    "jugaad": "Toothpaste ka tukda use karke ek cool bookmark banaya ja sakta hai.",
+    "language": "English",
+    "difficulty": "Easy",
+    "region": "South India",
     "tags": [
-      "tech trick",
-      "natural",
-      "mobile hack",
-      "cleaning",
-      "quick fix"
+      "navigation",
+      "budget",
+      "safety",
+      "packing"
     ]
   },
   {
     "id": 636,
-    "title": "Salt for Iron Cleaning",
-    "category": "Education",
-    "jugaad": "Ye ek desi hack hai jo category 'Salt for Iron Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
+    "title": "Mobile Charger for Shoe Freshener",
+    "category": "Health",
+    "jugaad": "Thoda Mobile Charger shoes mein rakh do – smell chali jaayegi.",
+    "language": "English",
     "difficulty": "Hard",
     "region": "East India",
     "tags": [
-      "quick fix",
-      "eco-friendly",
-      "household",
-      "recycled",
-      "organization"
+      "natural",
+      "ayurveda",
+      "fitness",
+      "remedy"
     ]
   },
   {
     "id": 637,
-    "title": "Shampoo Car Polish",
-    "category": "Garden",
-    "jugaad": "Ye ek desi hack hai jo category 'Shampoo Car Polish' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
+    "title": "Comb for Clothes Hanger Hack",
+    "category": "Kitchen",
+    "jugaad": "Comb se hanger slippery kapdon ke liye grip provide karta hai.",
+    "language": "English",
     "difficulty": "Hard",
-    "region": "South India",
+    "region": "East India",
     "tags": [
-      "natural",
-      "daily use",
-      "cleaning",
-      "organization",
-      "eco-friendly"
+      "storage",
+      "cooking",
+      "utensils",
+      "cleaning"
     ]
   },
   {
     "id": 638,
-    "title": "Coconut Oil Zipper Fix",
-    "category": "Garden",
-    "jugaad": "Ye ek desi hack hai jo category 'Coconut Oil Zipper Fix' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
+    "title": "Lemon for DIY Bookmark",
+    "category": "Home",
+    "jugaad": "Lemon ka tukda use karke ek cool bookmark banaya ja sakta hai.",
+    "language": "English",
+    "difficulty": "Easy",
+    "region": "North India",
     "tags": [
-      "cleaning",
-      "household",
-      "natural",
-      "tech trick",
-      "daily use"
+      "storage",
+      "organization",
+      "repair",
+      "cleaning"
     ]
   },
   {
     "id": 639,
-    "title": "Lemon Rust Remover",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Lemon Rust Remover' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
+    "title": "Old T-shirt for Tea Filter Substitute",
+    "category": "Travel",
+    "jugaad": "Agar tea strainer nahi hai, toh Old T-shirt se kaam chala sakte ho.",
+    "language": "Hindi",
     "difficulty": "Medium",
-    "region": "South India",
+    "region": "West India",
     "tags": [
-      "tech trick",
-      "household",
-      "mobile hack",
-      "repair",
-      "daily use"
+      "safety",
+      "budget",
+      "packing",
+      "navigation"
     ]
   },
   {
     "id": 640,
-    "title": "Newspaper Window Shine",
-    "category": "Kitchen",
-    "jugaad": "Ye ek desi hack hai jo category 'Newspaper Window Shine' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "West India",
+    "title": "Tea Strainer for Page Separator",
+    "category": "Fashion",
+    "jugaad": "Tea Strainer ko use karke books mein pages mark kar sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "South India",
     "tags": [
-      "natural",
-      "cleaning",
-      "daily use",
-      "quick fix",
-      "tech trick"
+      "style",
+      "clothes",
+      "accessory",
+      "shoes"
     ]
   },
   {
     "id": 641,
-    "title": "CD as Bird Repellent",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'CD as Bird Repellent' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
+    "title": "Eraser for Mini Tripod",
+    "category": "Travel",
+    "jugaad": "Eraser se ek basic phone tripod bana sakte ho photo/video ke liye.",
+    "language": "English",
     "difficulty": "Easy",
     "region": "West India",
     "tags": [
-      "cleaning",
-      "repair",
-      "quick fix",
-      "eco-friendly",
-      "daily use"
+      "budget",
+      "safety",
+      "navigation",
+      "packing"
     ]
   },
   {
     "id": 642,
-    "title": "Chalk Moisture Absorber",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Chalk Moisture Absorber' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
+    "title": "Matchbox for Mini Tripod",
+    "category": "Fashion",
+    "jugaad": "Matchbox se ek basic phone tripod bana sakte ho photo/video ke liye.",
+    "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Central India",
     "tags": [
-      "organization",
-      "repair",
-      "recycled",
-      "eco-friendly",
-      "quick fix"
+      "accessory",
+      "clothes",
+      "shoes",
+      "style"
     ]
   },
   {
     "id": 643,
-    "title": "Old Sock Duster",
+    "title": "Rubber Band for Mobile Holder in Car",
     "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Old Sock Duster' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "jugaad": "Rubber Band ka use car AC vent mein fit karke mobile holder banane mein hota hai.",
     "language": "Hindi",
-    "difficulty": "Medium",
-    "region": "East India",
+    "difficulty": "Easy",
+    "region": "North India",
     "tags": [
-      "tech trick",
-      "quick fix",
-      "natural",
-      "household",
-      "eco-friendly"
+      "hack",
+      "recycle",
+      "reuse",
+      "craft"
     ]
   },
   {
     "id": 644,
-    "title": "Toothpaste Mirror Cleaner",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste Mirror Cleaner' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
+    "title": "Tea Strainer for Glass Shine",
+    "category": "Travel",
+    "jugaad": "Tea Strainer se mirrors ya windows ko saaf karo for instant shine.",
+    "language": "English",
     "difficulty": "Easy",
-    "region": "Central India",
+    "region": "South India",
     "tags": [
-      "mobile hack",
-      "quick fix",
-      "natural",
-      "organization",
-      "daily use"
+      "packing",
+      "safety",
+      "budget",
+      "navigation"
     ]
   },
   {
     "id": 645,
-    "title": "Lemon Rust Remover",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Lemon Rust Remover' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Eraser for Tea Filter Substitute",
+    "category": "Tech",
+    "jugaad": "Agar tea strainer nahi hai, toh Eraser se kaam chala sakte ho.",
     "language": "Hinglish",
-    "difficulty": "Easy",
+    "difficulty": "Hard",
     "region": "South India",
     "tags": [
-      "tech trick",
-      "cleaning",
-      "quick fix",
-      "household",
-      "eco-friendly"
+      "fix",
+      "charger",
+      "light",
+      "sound",
+      "mobile"
     ]
   },
   {
     "id": 646,
-    "title": "Shampoo Car Polish",
+    "title": "Mobile Charger for Mini Tripod",
     "category": "Kitchen",
-    "jugaad": "Ye ek desi hack hai jo category 'Shampoo Car Polish' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Easy",
-    "region": "East India",
+    "jugaad": "Mobile Charger se ek basic phone tripod bana sakte ho photo/video ke liye.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
     "tags": [
-      "natural",
+      "utensils",
+      "storage",
       "cleaning",
-      "quick fix",
-      "recycled",
-      "organization"
+      "cooking"
     ]
   },
   {
     "id": 647,
-    "title": "Coconut Oil Zipper Fix",
-    "category": "Kitchen",
-    "jugaad": "Ye ek desi hack hai jo category 'Coconut Oil Zipper Fix' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
+    "title": "Matchbox for Glass Shine",
+    "category": "Fashion",
+    "jugaad": "Matchbox se mirrors ya windows ko saaf karo for instant shine.",
+    "language": "English",
     "difficulty": "Easy",
-    "region": "Central India",
+    "region": "East India",
     "tags": [
-      "household",
-      "organization",
-      "cleaning",
-      "repair",
-      "mobile hack"
+      "clothes",
+      "shoes",
+      "accessory",
+      "style"
     ]
   },
   {
     "id": 648,
-    "title": "Shampoo Car Polish",
-    "category": "Education",
-    "jugaad": "Ye ek desi hack hai jo category 'Shampoo Car Polish' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Easy",
-    "region": "Central India",
+    "title": "Lemon for Fix Wobbly Table",
+    "category": "Kitchen",
+    "jugaad": "Under table leg Lemon lagakar usse stable banaya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
     "tags": [
-      "cleaning",
-      "mobile hack",
-      "natural",
-      "recycled",
-      "eco-friendly"
+      "storage",
+      "utensils",
+      "cooking",
+      "cleaning"
     ]
   },
   {
     "id": 649,
-    "title": "Pen Spring Protector",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Pen Spring Protector' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
+    "title": "Toothpaste for Cleaning Fan Blades",
+    "category": "Home",
+    "jugaad": "Toothpaste se fan blades ko asaani se saaf kar sakte ho.",
+    "language": "English",
     "difficulty": "Medium",
-    "region": "South India",
+    "region": "North India",
     "tags": [
-      "organization",
-      "quick fix",
-      "daily use",
-      "tech trick",
-      "recycled"
+      "storage",
+      "repair",
+      "cleaning",
+      "organization"
     ]
   },
   {
     "id": 650,
-    "title": "Banana Peel Shoe Polish",
-    "category": "Garden",
-    "jugaad": "Ye ek desi hack hai jo category 'Banana Peel Shoe Polish' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Plastic Bag for Mini Tripod",
+    "category": "Kitchen",
+    "jugaad": "Plastic Bag se ek basic phone tripod bana sakte ho photo/video ke liye.",
     "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "North India",
+    "difficulty": "Hard",
+    "region": "Central India",
     "tags": [
+      "storage",
       "cleaning",
-      "natural",
-      "household",
-      "repair",
-      "tech trick"
+      "utensils",
+      "cooking"
     ]
   },
   {
     "id": 651,
-    "title": "Toothpaste Mirror Cleaner",
-    "category": "Education",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste Mirror Cleaner' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
+    "title": "Safety Pin for Cable Management",
+    "category": "Tech",
+    "jugaad": "Safety Pin ka use karke charging cables neatly band sakte ho.",
+    "language": "Hinglish",
     "difficulty": "Easy",
-    "region": "North India",
+    "region": "Central India",
     "tags": [
-      "quick fix",
-      "organization",
-      "tech trick",
-      "daily use",
-      "mobile hack"
+      "light",
+      "fix",
+      "sound",
+      "charger",
+      "mobile"
     ]
   },
   {
     "id": 652,
-    "title": "Rubber Band Cable Holder",
-    "category": "Education",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band Cable Holder' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Medium",
-    "region": "Central India",
+    "title": "Glue Stick for DIY Bookmark",
+    "category": "Travel",
+    "jugaad": "Glue Stick ka tukda use karke ek cool bookmark banaya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
     "tags": [
-      "mobile hack",
-      "natural",
-      "organization",
-      "household",
-      "daily use"
+      "packing",
+      "budget",
+      "safety",
+      "navigation"
     ]
   },
   {
     "id": 653,
-    "title": "Hair Dryer Label Remover",
-    "category": "Kitchen",
-    "jugaad": "Ye ek desi hack hai jo category 'Hair Dryer Label Remover' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
+    "title": "Bottle for DIY Bookmark",
+    "category": "Home",
+    "jugaad": "Bottle ka tukda use karke ek cool bookmark banaya ja sakta hai.",
+    "language": "English",
     "difficulty": "Medium",
     "region": "West India",
     "tags": [
-      "repair",
       "cleaning",
-      "tech trick",
-      "recycled",
-      "eco-friendly"
+      "storage",
+      "organization",
+      "repair"
     ]
   },
   {
     "id": 654,
-    "title": "Ice Cube Gum Remover",
-    "category": "Repair",
-    "jugaad": "Ye ek desi hack hai jo category 'Ice Cube Gum Remover' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Matchbox for Shoe Freshener",
+    "category": "DIY",
+    "jugaad": "Thoda Matchbox shoes mein rakh do – smell chali jaayegi.",
     "language": "Hindi",
     "difficulty": "Easy",
-    "region": "East India",
+    "region": "North India",
     "tags": [
-      "eco-friendly",
-      "quick fix",
-      "tech trick",
-      "organization",
-      "daily use"
+      "craft",
+      "recycle",
+      "hack",
+      "reuse"
     ]
   },
   {
     "id": 655,
-    "title": "Shampoo Car Polish",
-    "category": "Repair",
-    "jugaad": "Ye ek desi hack hai jo category 'Shampoo Car Polish' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
+    "title": "Matchbox for Sticky Label Remover",
+    "category": "DIY",
+    "jugaad": "Thoda Matchbox lagakar sticker easily hata sakte ho.",
+    "language": "Hinglish",
     "difficulty": "Easy",
     "region": "East India",
     "tags": [
-      "cleaning",
-      "household",
-      "mobile hack",
-      "natural",
-      "eco-friendly"
+      "reuse",
+      "craft",
+      "hack",
+      "recycle"
     ]
   },
   {
     "id": 656,
-    "title": "Lemon Rust Remover",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Lemon Rust Remover' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Pen Cap for Sticky Label Remover",
+    "category": "DIY",
+    "jugaad": "Thoda Pen Cap lagakar sticker easily hata sakte ho.",
     "language": "Hindi",
-    "difficulty": "Hard",
-    "region": "South India",
+    "difficulty": "Medium",
+    "region": "North India",
     "tags": [
-      "repair",
-      "recycled",
-      "cleaning",
-      "tech trick",
-      "mobile hack"
+      "craft",
+      "recycle",
+      "hack",
+      "reuse"
     ]
   },
   {
     "id": 657,
-    "title": "Hair Dryer Label Remover",
+    "title": "Toothpaste for Glass Shine",
     "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Hair Dryer Label Remover' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Easy",
+    "jugaad": "Toothpaste se mirrors ya windows ko saaf karo for instant shine.",
+    "language": "English",
+    "difficulty": "Medium",
     "region": "East India",
     "tags": [
-      "recycled",
-      "mobile hack",
-      "tech trick",
-      "repair",
-      "natural"
+      "reuse",
+      "hack",
+      "recycle",
+      "craft"
     ]
   },
   {
     "id": 658,
-    "title": "Foil Battery Connector",
+    "title": "Eraser for Watering Plants",
     "category": "Kitchen",
-    "jugaad": "Ye ek desi hack hai jo category 'Foil Battery Connector' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "jugaad": "Eraser mein chhote holes karke ek mini watering can bana sakte ho.",
     "language": "Hindi",
-    "difficulty": "Easy",
-    "region": "Central India",
+    "difficulty": "Hard",
+    "region": "West India",
     "tags": [
-      "natural",
-      "recycled",
-      "tech trick",
-      "mobile hack",
-      "organization"
+      "utensils",
+      "storage",
+      "cooking",
+      "cleaning"
     ]
   },
   {
     "id": 659,
-    "title": "Bottle Cap Seal",
+    "title": "Eraser for Phone Stand",
     "category": "Kitchen",
-    "jugaad": "Ye ek desi hack hai jo category 'Bottle Cap Seal' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Hard",
-    "region": "East India",
+    "jugaad": "Eraser ko fold ya roll karke ek temporary phone stand banaya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
     "tags": [
-      "repair",
-      "organization",
-      "quick fix",
-      "eco-friendly",
-      "recycled"
+      "storage",
+      "cleaning",
+      "cooking",
+      "utensils"
     ]
   },
   {
     "id": 660,
-    "title": "CD as Bird Repellent",
+    "title": "Spoon for Headlight Cleaning",
     "category": "Health",
-    "jugaad": "Ye ek desi hack hai jo category 'CD as Bird Repellent' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "jugaad": "Spoon lagakar soft cloth se saaf karo – headlights firse nayi tarah chamakenge.",
     "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
+    "difficulty": "Medium",
+    "region": "North India",
     "tags": [
-      "organization",
-      "mobile hack",
-      "daily use",
-      "cleaning",
-      "recycled"
+      "remedy",
+      "ayurveda",
+      "natural",
+      "fitness"
     ]
   },
   {
     "id": 661,
-    "title": "Clothespin Brush Handle",
-    "category": "Kitchen",
-    "jugaad": "Ye ek desi hack hai jo category 'Clothespin Brush Handle' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "South India",
+    "title": "Plastic Bag for Cleaning Fan Blades",
+    "category": "Travel",
+    "jugaad": "Plastic Bag se fan blades ko asaani se saaf kar sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "East India",
     "tags": [
-      "natural",
-      "recycled",
-      "household",
-      "daily use",
-      "repair"
+      "packing",
+      "navigation",
+      "safety",
+      "budget"
     ]
   },
   {
     "id": 662,
-    "title": "Shampoo Car Polish",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Shampoo Car Polish' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
+    "title": "Spoon for Glass Shine",
+    "category": "Health",
+    "jugaad": "Spoon se mirrors ya windows ko saaf karo for instant shine.",
+    "language": "English",
     "difficulty": "Medium",
-    "region": "North India",
+    "region": "Central India",
     "tags": [
-      "cleaning",
-      "quick fix",
-      "organization",
       "natural",
-      "mobile hack"
+      "remedy",
+      "fitness",
+      "ayurveda"
     ]
   },
   {
     "id": 663,
-    "title": "Rubber Band Cable Holder",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band Cable Holder' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
+    "title": "Eraser for Cable Management",
+    "category": "Travel",
+    "jugaad": "Eraser ka use karke charging cables neatly band sakte ho.",
+    "language": "English",
+    "difficulty": "Hard",
     "region": "Central India",
     "tags": [
-      "organization",
-      "eco-friendly",
-      "cleaning",
-      "daily use",
-      "natural"
+      "navigation",
+      "budget",
+      "safety",
+      "packing"
     ]
   },
   {
     "id": 664,
-    "title": "CD as Bird Repellent",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'CD as Bird Repellent' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Medium",
-    "region": "South India",
+    "title": "Tea Strainer for DIY Bookmark",
+    "category": "Home",
+    "jugaad": "Tea Strainer ka tukda use karke ek cool bookmark banaya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
     "tags": [
-      "daily use",
+      "organization",
+      "repair",
       "cleaning",
-      "eco-friendly",
-      "mobile hack",
-      "organization"
+      "storage"
     ]
   },
   {
     "id": 665,
-    "title": "Salt for Iron Cleaning",
-    "category": "Kitchen",
-    "jugaad": "Ye ek desi hack hai jo category 'Salt for Iron Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Easy",
-    "region": "South India",
+    "title": "Comb for DIY Bookmark",
+    "category": "Home",
+    "jugaad": "Comb ka tukda use karke ek cool bookmark banaya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
     "tags": [
       "repair",
       "organization",
-      "tech trick",
       "cleaning",
-      "household"
+      "storage"
     ]
   },
   {
     "id": 666,
-    "title": "Old Sock Duster",
-    "category": "Health",
-    "jugaad": "Ye ek desi hack hai jo category 'Old Sock Duster' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Medium",
+    "title": "Safety Pin for Fridge Odor",
+    "category": "Home",
+    "jugaad": "Cut Safety Pin fridge mein rakh do – ye badboo ko absorb karega.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
     "region": "South India",
     "tags": [
-      "organization",
-      "eco-friendly",
-      "household",
-      "recycled",
-      "tech trick"
+      "storage",
+      "cleaning",
+      "repair",
+      "organization"
     ]
   },
   {
     "id": 667,
-    "title": "Pen Spring Protector",
-    "category": "Kitchen",
-    "jugaad": "Ye ek desi hack hai jo category 'Pen Spring Protector' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "South India",
+    "title": "Toothpaste for Mobile Holder in Car",
+    "category": "DIY",
+    "jugaad": "Toothpaste ka use car AC vent mein fit karke mobile holder banane mein hota hai.",
+    "language": "English",
+    "difficulty": "Easy",
+    "region": "West India",
     "tags": [
-      "organization",
-      "recycled",
-      "tech trick",
-      "eco-friendly",
-      "cleaning"
+      "reuse",
+      "hack",
+      "recycle",
+      "craft"
     ]
   },
   {
     "id": 668,
-    "title": "Pen Spring Protector",
-    "category": "Education",
-    "jugaad": "Ye ek desi hack hai jo category 'Pen Spring Protector' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Hard",
-    "region": "West India",
+    "title": "Plastic Bag for DIY Bookmark",
+    "category": "Health",
+    "jugaad": "Plastic Bag ka tukda use karke ek cool bookmark banaya ja sakta hai.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "South India",
     "tags": [
-      "tech trick",
+      "ayurveda",
       "natural",
-      "household",
-      "organization",
-      "mobile hack"
+      "fitness",
+      "remedy"
     ]
   },
   {
     "id": 669,
-    "title": "Shampoo Car Polish",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Shampoo Car Polish' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Medium",
-    "region": "West India",
+    "title": "Paperclip for Cleaning Fan Blades",
+    "category": "Home",
+    "jugaad": "Paperclip se fan blades ko asaani se saaf kar sakte ho.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "South India",
     "tags": [
-      "mobile hack",
+      "storage",
       "cleaning",
-      "quick fix",
-      "household",
-      "organization"
+      "organization",
+      "repair"
     ]
   },
   {
     "id": 670,
-    "title": "CD as Bird Repellent",
-    "category": "Health",
-    "jugaad": "Ye ek desi hack hai jo category 'CD as Bird Repellent' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
+    "title": "Newspaper for Mobile Holder in Car",
+    "category": "DIY",
+    "jugaad": "Newspaper ka use car AC vent mein fit karke mobile holder banane mein hota hai.",
+    "language": "English",
     "difficulty": "Medium",
-    "region": "Central India",
+    "region": "North India",
     "tags": [
-      "tech trick",
-      "daily use",
-      "eco-friendly",
-      "organization",
-      "recycled"
+      "recycle",
+      "hack",
+      "craft",
+      "reuse"
     ]
   },
   {
     "id": 671,
-    "title": "Matchbox USB Fix",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Matchbox USB Fix' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
+    "title": "Toothpaste for Phone Stand",
+    "category": "Home",
+    "jugaad": "Toothpaste ko fold ya roll karke ek temporary phone stand banaya ja sakta hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "North India",
     "tags": [
-      "repair",
-      "mobile hack",
+      "cleaning",
       "organization",
-      "daily use",
-      "recycled"
+      "storage",
+      "repair"
     ]
   },
   {
     "id": 672,
-    "title": "Lemon Rust Remover",
+    "title": "Pen Cap for Cleaning Fan Blades",
     "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Lemon Rust Remover' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
+    "jugaad": "Pen Cap se fan blades ko asaani se saaf kar sakte ho.",
+    "language": "English",
     "difficulty": "Easy",
-    "region": "Central India",
+    "region": "West India",
     "tags": [
-      "daily use",
-      "household",
-      "organization",
-      "recycled",
-      "mobile hack"
+      "cleaning",
+      "repair",
+      "storage",
+      "organization"
     ]
   },
   {
     "id": 673,
-    "title": "Toothpaste Mirror Cleaner",
+    "title": "Spoon for Cable Management",
     "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste Mirror Cleaner' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
+    "jugaad": "Spoon ka use karke charging cables neatly band sakte ho.",
+    "language": "English",
     "difficulty": "Easy",
     "region": "Central India",
     "tags": [
-      "daily use",
-      "household",
-      "repair",
-      "mobile hack",
-      "eco-friendly"
+      "reuse",
+      "hack",
+      "recycle",
+      "craft"
     ]
   },
   {
     "id": 674,
-    "title": "Ice Cube Gum Remover",
-    "category": "Repair",
-    "jugaad": "Ye ek desi hack hai jo category 'Ice Cube Gum Remover' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
+    "title": "Cloth Hanger for Cable Management",
+    "category": "Kitchen",
+    "jugaad": "Cloth Hanger ka use karke charging cables neatly band sakte ho.",
+    "language": "English",
     "difficulty": "Medium",
-    "region": "North India",
+    "region": "Central India",
     "tags": [
-      "household",
-      "natural",
-      "organization",
-      "daily use",
-      "cleaning"
+      "utensils",
+      "cleaning",
+      "cooking",
+      "storage"
     ]
   },
   {
     "id": 675,
-    "title": "Banana Peel Shoe Polish",
-    "category": "Garden",
-    "jugaad": "Ye ek desi hack hai jo category 'Banana Peel Shoe Polish' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
+    "title": "Rubber Band for Sticky Label Remover",
+    "category": "Kitchen",
+    "jugaad": "Thoda Rubber Band lagakar sticker easily hata sakte ho.",
+    "language": "English",
     "difficulty": "Medium",
-    "region": "South India",
+    "region": "West India",
     "tags": [
-      "daily use",
+      "cooking",
       "cleaning",
-      "eco-friendly",
-      "recycled",
-      "repair"
+      "storage",
+      "utensils"
     ]
   },
   {
     "id": 676,
-    "title": "Matchbox USB Fix",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Matchbox USB Fix' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
+    "title": "Bottle for Headlight Cleaning",
+    "category": "Tech",
+    "jugaad": "Bottle lagakar soft cloth se saaf karo – headlights firse nayi tarah chamakenge.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "East India",
     "tags": [
-      "eco-friendly",
-      "mobile hack",
-      "natural",
-      "household",
-      "daily use"
+      "charger",
+      "light",
+      "fix",
+      "sound",
+      "mobile"
     ]
   },
   {
     "id": 677,
-    "title": "Chalk Moisture Absorber",
-    "category": "Kitchen",
-    "jugaad": "Ye ek desi hack hai jo category 'Chalk Moisture Absorber' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
+    "title": "Comb for Cable Management",
+    "category": "Travel",
+    "jugaad": "Comb ka use karke charging cables neatly band sakte ho.",
+    "language": "English",
     "difficulty": "Medium",
     "region": "West India",
     "tags": [
-      "household",
-      "repair",
-      "daily use",
-      "recycled",
-      "natural"
+      "budget",
+      "navigation",
+      "packing",
+      "safety"
     ]
   },
   {
     "id": 678,
-    "title": "Matchbox USB Fix",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Matchbox USB Fix' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Bottle for Mini Tripod",
+    "category": "Travel",
+    "jugaad": "Bottle se ek basic phone tripod bana sakte ho photo/video ke liye.",
     "language": "Hinglish",
     "difficulty": "Easy",
-    "region": "North India",
+    "region": "Central India",
     "tags": [
-      "daily use",
-      "repair",
-      "household",
-      "natural",
-      "mobile hack"
+      "packing",
+      "navigation",
+      "budget",
+      "safety"
     ]
   },
   {
     "id": 679,
-    "title": "Plastic Bag Water Seal",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bag Water Seal' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Toothpaste for Cable Management",
+    "category": "Travel",
+    "jugaad": "Toothpaste ka use karke charging cables neatly band sakte ho.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "West India",
     "tags": [
-      "quick fix",
-      "eco-friendly",
-      "tech trick",
-      "daily use",
-      "natural"
+      "budget",
+      "navigation",
+      "safety",
+      "packing"
     ]
   },
   {
     "id": 680,
-    "title": "Banana Peel Shoe Polish",
-    "category": "Kitchen",
-    "jugaad": "Ye ek desi hack hai jo category 'Banana Peel Shoe Polish' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Bottle for Cable Management",
+    "category": "DIY",
+    "jugaad": "Bottle ka use karke charging cables neatly band sakte ho.",
     "language": "Hindi",
-    "difficulty": "Medium",
-    "region": "South India",
+    "difficulty": "Easy",
+    "region": "North India",
     "tags": [
-      "quick fix",
-      "natural",
-      "organization",
-      "cleaning",
-      "mobile hack"
+      "recycle",
+      "reuse",
+      "hack",
+      "craft"
     ]
   },
   {
     "id": 681,
-    "title": "Plastic Bag Water Seal",
-    "category": "Garden",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bag Water Seal' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Bottle for Page Separator",
+    "category": "Home",
+    "jugaad": "Bottle ko use karke books mein pages mark kar sakte ho.",
     "language": "Hinglish",
-    "difficulty": "Hard",
+    "difficulty": "Easy",
     "region": "South India",
     "tags": [
-      "household",
-      "quick fix",
-      "recycled",
+      "repair",
+      "storage",
       "cleaning",
-      "tech trick"
+      "organization"
     ]
   },
   {
     "id": 682,
-    "title": "Pen Spring Protector",
-    "category": "Education",
-    "jugaad": "Ye ek desi hack hai jo category 'Pen Spring Protector' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Comb for Mini Tripod",
+    "category": "Home",
+    "jugaad": "Comb se ek basic phone tripod bana sakte ho photo/video ke liye.",
     "language": "Hindi",
-    "difficulty": "Easy",
-    "region": "South India",
+    "difficulty": "Medium",
+    "region": "East India",
     "tags": [
       "repair",
-      "daily use",
-      "recycled",
+      "organization",
       "cleaning",
-      "organization"
+      "storage"
     ]
   },
   {
     "id": 683,
-    "title": "Coconut Oil Zipper Fix",
-    "category": "Repair",
-    "jugaad": "Ye ek desi hack hai jo category 'Coconut Oil Zipper Fix' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
+    "title": "Comb for Tea Filter Substitute",
+    "category": "Tech",
+    "jugaad": "Agar tea strainer nahi hai, toh Comb se kaam chala sakte ho.",
+    "language": "English",
     "difficulty": "Easy",
-    "region": "South India",
+    "region": "Central India",
     "tags": [
-      "cleaning",
-      "natural",
-      "eco-friendly",
-      "daily use",
-      "organization"
+      "sound",
+      "fix",
+      "light",
+      "charger",
+      "mobile"
     ]
   },
   {
     "id": 684,
-    "title": "Matchbox USB Fix",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Matchbox USB Fix' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
+    "title": "Bottle for Oil Funnel",
+    "category": "Tech",
+    "jugaad": "Bottle ka cone bana ke temporary oil funnel use karo.",
+    "language": "Hinglish",
     "difficulty": "Hard",
     "region": "East India",
     "tags": [
-      "mobile hack",
-      "organization",
-      "quick fix",
-      "household",
-      "daily use"
+      "light",
+      "sound",
+      "mobile",
+      "charger",
+      "fix"
     ]
   },
   {
     "id": 685,
-    "title": "Ice Cube Gum Remover",
-    "category": "Education",
-    "jugaad": "Ye ek desi hack hai jo category 'Ice Cube Gum Remover' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Medium",
-    "region": "South India",
+    "title": "Pen Cap for Page Separator",
+    "category": "Tech",
+    "jugaad": "Pen Cap ko use karke books mein pages mark kar sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
     "tags": [
-      "natural",
-      "recycled",
-      "tech trick",
-      "organization",
-      "mobile hack"
+      "charger",
+      "fix",
+      "light",
+      "mobile",
+      "sound"
     ]
   },
   {
     "id": 686,
-    "title": "Coconut Oil Zipper Fix",
+    "title": "Comb for Sticky Label Remover",
     "category": "Health",
-    "jugaad": "Ye ek desi hack hai jo category 'Coconut Oil Zipper Fix' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Easy",
-    "region": "East India",
+    "jugaad": "Thoda Comb lagakar sticker easily hata sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
     "tags": [
-      "organization",
-      "recycled",
-      "quick fix",
-      "mobile hack",
-      "natural"
+      "ayurveda",
+      "natural",
+      "remedy",
+      "fitness"
     ]
   },
   {
     "id": 687,
-    "title": "Onion Scratch Fix",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Onion Scratch Fix' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Medium",
-    "region": "North India",
+    "title": "Newspaper for Clothes Hanger Hack",
+    "category": "DIY",
+    "jugaad": "Newspaper se hanger slippery kapdon ke liye grip provide karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
     "tags": [
-      "organization",
-      "eco-friendly",
-      "tech trick",
-      "household",
-      "repair"
+      "craft",
+      "recycle",
+      "hack",
+      "reuse"
     ]
   },
   {
     "id": 688,
-    "title": "Bottle Cap Seal",
-    "category": "Kitchen",
-    "jugaad": "Ye ek desi hack hai jo category 'Bottle Cap Seal' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Safety Pin for Toilet Roll Holder",
+    "category": "Home",
+    "jugaad": "Safety Pin se DIY toilet roll holder banaya ja sakta hai.",
     "language": "Hinglish",
-    "difficulty": "Hard",
+    "difficulty": "Easy",
     "region": "East India",
     "tags": [
-      "household",
-      "repair",
-      "tech trick",
       "organization",
-      "daily use"
+      "storage",
+      "cleaning",
+      "repair"
     ]
   },
   {
     "id": 689,
-    "title": "Salt for Iron Cleaning",
-    "category": "Kitchen",
-    "jugaad": "Ye ek desi hack hai jo category 'Salt for Iron Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
+    "title": "Newspaper for Sticky Label Remover",
+    "category": "Home",
+    "jugaad": "Thoda Newspaper lagakar sticker easily hata sakte ho.",
+    "language": "English",
     "difficulty": "Medium",
-    "region": "North India",
+    "region": "East India",
     "tags": [
-      "mobile hack",
-      "recycled",
-      "quick fix",
       "repair",
+      "storage",
+      "organization",
       "cleaning"
     ]
   },
   {
     "id": 690,
-    "title": "Clothespin Brush Handle",
-    "category": "Health",
-    "jugaad": "Ye ek desi hack hai jo category 'Clothespin Brush Handle' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Hard",
-    "region": "Central India",
+    "title": "Newspaper for Page Separator",
+    "category": "Fashion",
+    "jugaad": "Newspaper ko use karke books mein pages mark kar sakte ho.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "South India",
     "tags": [
-      "eco-friendly",
-      "repair",
-      "natural",
-      "cleaning",
-      "quick fix"
+      "style",
+      "accessory",
+      "clothes",
+      "shoes"
     ]
   },
   {
     "id": 691,
-    "title": "Old Sock Duster",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Old Sock Duster' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "East India",
+    "title": "Rubber Band for Fridge Odor",
+    "category": "Travel",
+    "jugaad": "Cut Rubber Band fridge mein rakh do – ye badboo ko absorb karega.",
+    "language": "English",
+    "difficulty": "Easy",
+    "region": "South India",
     "tags": [
-      "organization",
-      "household",
-      "quick fix",
-      "recycled",
-      "repair"
+      "packing",
+      "navigation",
+      "safety",
+      "budget"
     ]
   },
   {
     "id": 692,
-    "title": "Pen Spring Protector",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Pen Spring Protector' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
+    "title": "Matchbox for Toilet Roll Holder",
+    "category": "Tech",
+    "jugaad": "Matchbox se DIY toilet roll holder banaya ja sakta hai.",
+    "language": "Hindi",
     "difficulty": "Hard",
     "region": "South India",
     "tags": [
-      "organization",
-      "mobile hack",
-      "tech trick",
-      "natural",
-      "cleaning"
+      "fix",
+      "sound",
+      "light",
+      "mobile",
+      "charger"
     ]
   },
   {
     "id": 693,
-    "title": "Newspaper Window Shine",
-    "category": "Kitchen",
-    "jugaad": "Ye ek desi hack hai jo category 'Newspaper Window Shine' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Old Sock for Fix Wobbly Table",
+    "category": "Tech",
+    "jugaad": "Under table leg Old Sock lagakar usse stable banaya ja sakta hai.",
     "language": "Hindi",
-    "difficulty": "Hard",
-    "region": "South India",
+    "difficulty": "Easy",
+    "region": "North India",
     "tags": [
-      "eco-friendly",
-      "natural",
-      "organization",
-      "tech trick",
-      "cleaning"
+      "charger",
+      "light",
+      "mobile",
+      "fix",
+      "sound"
     ]
   },
   {
     "id": 694,
-    "title": "Lemon Rust Remover",
-    "category": "Kitchen",
-    "jugaad": "Ye ek desi hack hai jo category 'Lemon Rust Remover' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Hard",
-    "region": "Central India",
+    "title": "Old T-shirt for Glass Shine",
+    "category": "Tech",
+    "jugaad": "Old T-shirt se mirrors ya windows ko saaf karo for instant shine.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "North India",
     "tags": [
-      "tech trick",
-      "recycled",
-      "household",
-      "quick fix",
-      "repair"
+      "mobile",
+      "fix",
+      "light",
+      "sound",
+      "charger"
     ]
   },
   {
     "id": 695,
-    "title": "Old Sock Duster",
-    "category": "Health",
-    "jugaad": "Ye ek desi hack hai jo category 'Old Sock Duster' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Easy",
-    "region": "South India",
+    "title": "Plastic Bag for Page Separator",
+    "category": "Travel",
+    "jugaad": "Plastic Bag ko use karke books mein pages mark kar sakte ho.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "West India",
     "tags": [
-      "household",
-      "daily use",
-      "recycled",
-      "eco-friendly",
-      "mobile hack"
+      "budget",
+      "packing",
+      "navigation",
+      "safety"
     ]
   },
   {
     "id": 696,
-    "title": "Matchbox USB Fix",
-    "category": "Education",
-    "jugaad": "Ye ek desi hack hai jo category 'Matchbox USB Fix' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Old Sock for Cable Management",
+    "category": "DIY",
+    "jugaad": "Old Sock ka use karke charging cables neatly band sakte ho.",
     "language": "Hinglish",
-    "difficulty": "Medium",
+    "difficulty": "Easy",
     "region": "West India",
     "tags": [
-      "quick fix",
-      "repair",
-      "natural",
-      "household",
-      "cleaning"
+      "hack",
+      "craft",
+      "recycle",
+      "reuse"
     ]
   },
   {
     "id": 697,
-    "title": "Banana Peel Shoe Polish",
-    "category": "Repair",
-    "jugaad": "Ye ek desi hack hai jo category 'Banana Peel Shoe Polish' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
+    "title": "Plastic Bag for Headlight Cleaning",
+    "category": "Kitchen",
+    "jugaad": "Plastic Bag lagakar soft cloth se saaf karo – headlights firse nayi tarah chamakenge.",
+    "language": "English",
     "difficulty": "Easy",
     "region": "South India",
     "tags": [
-      "mobile hack",
-      "organization",
-      "eco-friendly",
-      "daily use",
-      "recycled"
+      "utensils",
+      "cooking",
+      "storage",
+      "cleaning"
     ]
   },
   {
     "id": 698,
-    "title": "Hair Dryer Label Remover",
-    "category": "Health",
-    "jugaad": "Ye ek desi hack hai jo category 'Hair Dryer Label Remover' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Hard",
-    "region": "East India",
+    "title": "Toilet Roll for Clothes Hanger Hack",
+    "category": "Home",
+    "jugaad": "Toilet Roll se hanger slippery kapdon ke liye grip provide karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
     "tags": [
-      "mobile hack",
-      "natural",
-      "tech trick",
       "organization",
-      "household"
+      "cleaning",
+      "repair",
+      "storage"
     ]
   },
   {
     "id": 699,
-    "title": "Shampoo Car Polish",
-    "category": "Education",
-    "jugaad": "Ye ek desi hack hai jo category 'Shampoo Car Polish' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Old T-shirt for Toilet Roll Holder",
+    "category": "Health",
+    "jugaad": "Old T-shirt se DIY toilet roll holder banaya ja sakta hai.",
     "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "East India",
+    "difficulty": "Hard",
+    "region": "West India",
     "tags": [
-      "quick fix",
-      "mobile hack",
-      "eco-friendly",
-      "cleaning",
-      "tech trick"
+      "natural",
+      "fitness",
+      "remedy",
+      "ayurveda"
     ]
   },
   {
     "id": 700,
-    "title": "Chalk Moisture Absorber",
-    "category": "Kitchen",
-    "jugaad": "Ye ek desi hack hai jo category 'Chalk Moisture Absorber' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Medium",
-    "region": "Central India",
+    "title": "Old Sock for Phone Stand",
+    "category": "Travel",
+    "jugaad": "Old Sock ko fold ya roll karke ek temporary phone stand banaya ja sakta hai.",
+    "language": "English",
+    "difficulty": "Easy",
+    "region": "West India",
     "tags": [
-      "recycled",
-      "natural",
-      "tech trick",
-      "eco-friendly",
-      "daily use"
+      "navigation",
+      "safety",
+      "budget",
+      "packing"
     ]
   },
   {
     "id": 701,
-    "title": "Matchbox USB Fix",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Matchbox USB Fix' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Plastic Bag for Watering Plants",
+    "category": "Home",
+    "jugaad": "Plastic Bag mein chhote holes karke ek mini watering can bana sakte ho.",
     "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "North India",
+    "difficulty": "Hard",
+    "region": "Central India",
     "tags": [
-      "mobile hack",
+      "storage",
       "cleaning",
-      "household",
-      "quick fix",
-      "tech trick"
+      "organization",
+      "repair"
     ]
   },
   {
     "id": 702,
-    "title": "Foil Battery Connector",
-    "category": "Kitchen",
-    "jugaad": "Ye ek desi hack hai jo category 'Foil Battery Connector' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
+    "title": "Safety Pin for DIY Bookmark",
+    "category": "Home",
+    "jugaad": "Safety Pin ka tukda use karke ek cool bookmark banaya ja sakta hai.",
+    "language": "Hindi",
     "difficulty": "Easy",
-    "region": "East India",
+    "region": "Central India",
     "tags": [
-      "cleaning",
-      "daily use",
       "repair",
-      "quick fix",
-      "household"
+      "cleaning",
+      "organization",
+      "storage"
     ]
   },
   {
     "id": 703,
-    "title": "Bottle Cap Seal",
-    "category": "Education",
-    "jugaad": "Ye ek desi hack hai jo category 'Bottle Cap Seal' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Newspaper for Keyboard Dusting",
+    "category": "Travel",
+    "jugaad": "Newspaper se keys ke beech ka dust gently nikal jaata hai.",
     "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
+    "difficulty": "Hard",
+    "region": "East India",
     "tags": [
-      "natural",
-      "daily use",
-      "household",
-      "eco-friendly",
-      "mobile hack"
+      "packing",
+      "navigation",
+      "budget",
+      "safety"
     ]
   },
   {
     "id": 704,
-    "title": "Ice Cube Gum Remover",
-    "category": "Education",
-    "jugaad": "Ye ek desi hack hai jo category 'Ice Cube Gum Remover' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Hard",
-    "region": "West India",
+    "title": "Eraser for Clothes Hanger Hack",
+    "category": "Tech",
+    "jugaad": "Eraser se hanger slippery kapdon ke liye grip provide karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
     "tags": [
-      "cleaning",
-      "organization",
-      "quick fix",
-      "repair",
-      "household"
+      "charger",
+      "fix",
+      "mobile",
+      "light",
+      "sound"
     ]
   },
   {
     "id": 705,
-    "title": "Banana Peel Shoe Polish",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Banana Peel Shoe Polish' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "South India",
+    "title": "Toilet Roll for Shoe Freshener",
+    "category": "Travel",
+    "jugaad": "Thoda Toilet Roll shoes mein rakh do – smell chali jaayegi.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "East India",
     "tags": [
-      "daily use",
-      "natural",
-      "recycled",
-      "quick fix",
-      "household"
+      "safety",
+      "budget",
+      "packing",
+      "navigation"
     ]
   },
   {
     "id": 706,
-    "title": "Banana Peel Shoe Polish",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Banana Peel Shoe Polish' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
+    "title": "Eraser for Keyboard Dusting",
+    "category": "Fashion",
+    "jugaad": "Eraser se keys ke beech ka dust gently nikal jaata hai.",
+    "language": "English",
     "difficulty": "Medium",
-    "region": "East India",
+    "region": "Central India",
     "tags": [
-      "household",
-      "recycled",
-      "eco-friendly",
-      "mobile hack",
-      "daily use"
+      "shoes",
+      "style",
+      "clothes",
+      "accessory"
     ]
   },
   {
     "id": 707,
-    "title": "Foil Battery Connector",
-    "category": "Repair",
-    "jugaad": "Ye ek desi hack hai jo category 'Foil Battery Connector' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
+    "title": "Plastic Bag for Phone Stand",
+    "category": "Tech",
+    "jugaad": "Plastic Bag ko fold ya roll karke ek temporary phone stand banaya ja sakta hai.",
+    "language": "Hinglish",
     "difficulty": "Medium",
-    "region": "South India",
+    "region": "Central India",
     "tags": [
-      "tech trick",
-      "cleaning",
-      "household",
-      "daily use",
-      "quick fix"
+      "fix",
+      "sound",
+      "charger",
+      "mobile",
+      "light"
     ]
   },
   {
     "id": 708,
-    "title": "Salt for Iron Cleaning",
+    "title": "Plastic Bag for Toilet Roll Holder",
     "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Salt for Iron Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "jugaad": "Plastic Bag se DIY toilet roll holder banaya ja sakta hai.",
     "language": "Hindi",
-    "difficulty": "Hard",
+    "difficulty": "Medium",
     "region": "North India",
     "tags": [
-      "repair",
-      "cleaning",
-      "quick fix",
-      "natural",
-      "organization"
+      "hack",
+      "recycle",
+      "reuse",
+      "craft"
     ]
   },
   {
     "id": 709,
-    "title": "Bottle Cap Seal",
-    "category": "Education",
-    "jugaad": "Ye ek desi hack hai jo category 'Bottle Cap Seal' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
+    "title": "Bottle for Glass Shine",
+    "category": "Home",
+    "jugaad": "Bottle se mirrors ya windows ko saaf karo for instant shine.",
+    "language": "Hindi",
+    "difficulty": "Medium",
     "region": "West India",
     "tags": [
-      "quick fix",
-      "mobile hack",
-      "natural",
-      "recycled",
-      "cleaning"
+      "repair",
+      "storage",
+      "cleaning",
+      "organization"
     ]
   },
   {
     "id": 710,
-    "title": "Ice Cube Gum Remover",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Ice Cube Gum Remover' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
+    "title": "Old T-shirt for Clothes Hanger Hack",
+    "category": "Fashion",
+    "jugaad": "Old T-shirt se hanger slippery kapdon ke liye grip provide karta hai.",
+    "language": "English",
     "difficulty": "Hard",
-    "region": "South India",
+    "region": "North India",
     "tags": [
-      "daily use",
-      "natural",
-      "organization",
-      "tech trick",
-      "recycled"
+      "style",
+      "clothes",
+      "shoes",
+      "accessory"
     ]
   },
   {
     "id": 711,
-    "title": "Hair Dryer Label Remover",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Hair Dryer Label Remover' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Comb for Fix Wobbly Table",
+    "category": "Kitchen",
+    "jugaad": "Under table leg Comb lagakar usse stable banaya ja sakta hai.",
     "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "cleaning",
-      "tech trick",
-      "organization",
-      "eco-friendly",
-      "recycled"
-    ]
-  },
-  {
-    "id": 712,
-    "title": "Rubber Band Cable Holder",
-    "category": "Health",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band Cable Holder' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Easy",
+    "difficulty": "Medium",
     "region": "East India",
     "tags": [
-      "daily use",
-      "repair",
-      "tech trick",
-      "organization",
-      "quick fix"
-    ]
-  },
-  {
-    "id": 713,
-    "title": "Old Sock Duster",
-    "category": "Repair",
-    "jugaad": "Ye ek desi hack hai jo category 'Old Sock Duster' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "organization",
-      "eco-friendly",
-      "daily use",
-      "household",
-      "recycled"
-    ]
-  },
-  {
-    "id": 714,
-    "title": "Foil Battery Connector",
-    "category": "Education",
-    "jugaad": "Ye ek desi hack hai jo category 'Foil Battery Connector' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "South India",
-    "tags": [
-      "organization",
-      "cleaning",
-      "tech trick",
-      "mobile hack",
-      "eco-friendly"
-    ]
-  },
-  {
-    "id": 715,
-    "title": "Newspaper Window Shine",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Newspaper Window Shine' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Medium",
-    "region": "Central India",
-    "tags": [
-      "organization",
-      "repair",
-      "mobile hack",
-      "cleaning",
-      "natural"
-    ]
-  },
-  {
-    "id": 716,
-    "title": "Salt for Iron Cleaning",
-    "category": "Kitchen",
-    "jugaad": "Ye ek desi hack hai jo category 'Salt for Iron Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
-      "eco-friendly",
-      "cleaning",
-      "organization",
-      "household",
-      "natural"
-    ]
-  },
-  {
-    "id": 717,
-    "title": "Old Sock Duster",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Old Sock Duster' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "South India",
-    "tags": [
-      "tech trick",
-      "repair",
-      "natural",
-      "household",
+      "utensils",
+      "storage",
+      "cooking",
       "cleaning"
     ]
   },
   {
-    "id": 718,
-    "title": "Rubber Band Cable Holder",
-    "category": "Health",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band Cable Holder' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "id": 712,
+    "title": "Old T-shirt for Fridge Odor",
+    "category": "DIY",
+    "jugaad": "Cut Old T-shirt fridge mein rakh do – ye badboo ko absorb karega.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "reuse",
+      "recycle",
+      "craft",
+      "hack"
+    ]
+  },
+  {
+    "id": 713,
+    "title": "Toothpaste for Oil Funnel",
+    "category": "DIY",
+    "jugaad": "Toothpaste ka cone bana ke temporary oil funnel use karo.",
     "language": "Hindi",
     "difficulty": "Easy",
     "region": "Central India",
     "tags": [
-      "tech trick",
-      "eco-friendly",
-      "daily use",
+      "craft",
+      "recycle",
+      "hack",
+      "reuse"
+    ]
+  },
+  {
+    "id": 714,
+    "title": "Rubber Band for Temporary Curtain Tie",
+    "category": "Health",
+    "jugaad": "Rubber Band ka use karke curtain temporarily tie kar sakte ho.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "fitness",
+      "ayurveda",
       "natural",
+      "remedy"
+    ]
+  },
+  {
+    "id": 715,
+    "title": "Plastic Bag for Fridge Odor",
+    "category": "Travel",
+    "jugaad": "Cut Plastic Bag fridge mein rakh do – ye badboo ko absorb karega.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "packing",
+      "budget",
+      "safety",
+      "navigation"
+    ]
+  },
+  {
+    "id": 716,
+    "title": "Newspaper for Tea Filter Substitute",
+    "category": "Travel",
+    "jugaad": "Agar tea strainer nahi hai, toh Newspaper se kaam chala sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "budget",
+      "safety",
+      "packing",
+      "navigation"
+    ]
+  },
+  {
+    "id": 717,
+    "title": "Toilet Roll for Fridge Odor",
+    "category": "DIY",
+    "jugaad": "Cut Toilet Roll fridge mein rakh do – ye badboo ko absorb karega.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "craft",
+      "recycle",
+      "hack",
+      "reuse"
+    ]
+  },
+  {
+    "id": 718,
+    "title": "Eraser for Cleaning Fan Blades",
+    "category": "Kitchen",
+    "jugaad": "Eraser se fan blades ko asaani se saaf kar sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "cooking",
+      "utensils",
+      "storage",
       "cleaning"
     ]
   },
   {
     "id": 719,
-    "title": "Newspaper Window Shine",
-    "category": "Kitchen",
-    "jugaad": "Ye ek desi hack hai jo category 'Newspaper Window Shine' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
+    "title": "Newspaper for Temporary Curtain Tie",
+    "category": "Tech",
+    "jugaad": "Newspaper ka use karke curtain temporarily tie kar sakte ho.",
+    "language": "English",
     "difficulty": "Easy",
     "region": "South India",
     "tags": [
-      "repair",
-      "recycled",
-      "natural",
-      "mobile hack",
-      "daily use"
+      "charger",
+      "mobile",
+      "sound",
+      "fix",
+      "light"
     ]
   },
   {
     "id": 720,
-    "title": "Foil Battery Connector",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Foil Battery Connector' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Easy",
-    "region": "West India",
+    "title": "Paperclip for DIY Bookmark",
+    "category": "Home",
+    "jugaad": "Paperclip ka tukda use karke ek cool bookmark banaya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Central India",
     "tags": [
-      "recycled",
-      "household",
-      "quick fix",
-      "daily use",
-      "mobile hack"
+      "organization",
+      "cleaning",
+      "repair",
+      "storage"
     ]
   },
   {
     "id": 721,
-    "title": "Onion Scratch Fix",
-    "category": "Repair",
-    "jugaad": "Ye ek desi hack hai jo category 'Onion Scratch Fix' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Matchbox for Fridge Odor",
+    "category": "Kitchen",
+    "jugaad": "Cut Matchbox fridge mein rakh do – ye badboo ko absorb karega.",
     "language": "Hindi",
-    "difficulty": "Hard",
-    "region": "Central India",
+    "difficulty": "Medium",
+    "region": "East India",
     "tags": [
-      "eco-friendly",
+      "storage",
+      "cooking",
       "cleaning",
-      "household",
-      "repair",
-      "recycled"
+      "utensils"
     ]
   },
   {
     "id": 722,
-    "title": "Onion Scratch Fix",
-    "category": "Repair",
-    "jugaad": "Ye ek desi hack hai jo category 'Onion Scratch Fix' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
+    "title": "Safety Pin for Shoe Freshener",
+    "category": "Fashion",
+    "jugaad": "Thoda Safety Pin shoes mein rakh do – smell chali jaayegi.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "East India",
     "tags": [
-      "tech trick",
-      "recycled",
-      "eco-friendly",
-      "repair",
-      "cleaning"
+      "style",
+      "clothes",
+      "shoes",
+      "accessory"
     ]
   },
   {
     "id": 723,
-    "title": "Coconut Oil Zipper Fix",
-    "category": "Garden",
-    "jugaad": "Ye ek desi hack hai jo category 'Coconut Oil Zipper Fix' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Medium",
-    "region": "West India",
+    "title": "Paperclip for Oil Funnel",
+    "category": "DIY",
+    "jugaad": "Paperclip ka cone bana ke temporary oil funnel use karo.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Central India",
     "tags": [
-      "household",
-      "cleaning",
-      "organization",
-      "daily use",
-      "repair"
+      "hack",
+      "reuse",
+      "craft",
+      "recycle"
     ]
   },
   {
     "id": 724,
-    "title": "Ice Cube Gum Remover",
-    "category": "Education",
-    "jugaad": "Ye ek desi hack hai jo category 'Ice Cube Gum Remover' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Spoon for Shoe Freshener",
+    "category": "Health",
+    "jugaad": "Thoda Spoon shoes mein rakh do – smell chali jaayegi.",
     "language": "Hinglish",
     "difficulty": "Medium",
-    "region": "West India",
+    "region": "North India",
     "tags": [
-      "eco-friendly",
-      "repair",
-      "quick fix",
-      "tech trick",
-      "household"
+      "ayurveda",
+      "fitness",
+      "remedy",
+      "natural"
     ]
   },
   {
     "id": 725,
-    "title": "Old Sock Duster",
-    "category": "Education",
-    "jugaad": "Ye ek desi hack hai jo category 'Old Sock Duster' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Newspaper for Oil Funnel",
+    "category": "Health",
+    "jugaad": "Newspaper ka cone bana ke temporary oil funnel use karo.",
     "language": "Hindi",
-    "difficulty": "Easy",
+    "difficulty": "Hard",
     "region": "East India",
     "tags": [
-      "household",
-      "tech trick",
-      "recycled",
-      "quick fix",
-      "eco-friendly"
+      "fitness",
+      "natural",
+      "remedy",
+      "ayurveda"
     ]
   },
   {
     "id": 726,
-    "title": "Pen Spring Protector",
-    "category": "Repair",
-    "jugaad": "Ye ek desi hack hai jo category 'Pen Spring Protector' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
+    "title": "Mobile Charger for Phone Stand",
+    "category": "Travel",
+    "jugaad": "Mobile Charger ko fold ya roll karke ek temporary phone stand banaya ja sakta hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "South India",
     "tags": [
-      "mobile hack",
-      "repair",
-      "natural",
-      "tech trick",
-      "quick fix"
+      "budget",
+      "packing",
+      "safety",
+      "navigation"
     ]
   },
   {
     "id": 727,
-    "title": "Coconut Oil Zipper Fix",
-    "category": "Education",
-    "jugaad": "Ye ek desi hack hai jo category 'Coconut Oil Zipper Fix' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
+    "title": "Spoon for Cleaning Fan Blades",
+    "category": "Fashion",
+    "jugaad": "Spoon se fan blades ko asaani se saaf kar sakte ho.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "North India",
     "tags": [
-      "natural",
-      "repair",
-      "cleaning",
-      "mobile hack",
-      "eco-friendly"
+      "accessory",
+      "clothes",
+      "shoes",
+      "style"
     ]
   },
   {
     "id": 728,
-    "title": "Banana Peel Shoe Polish",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Banana Peel Shoe Polish' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
+    "title": "Safety Pin for Glass Shine",
+    "category": "Fashion",
+    "jugaad": "Safety Pin se mirrors ya windows ko saaf karo for instant shine.",
+    "language": "Hinglish",
     "difficulty": "Medium",
     "region": "North India",
     "tags": [
-      "tech trick",
-      "quick fix",
-      "repair",
-      "household",
-      "recycled"
+      "shoes",
+      "style",
+      "clothes",
+      "accessory"
     ]
   },
   {
     "id": 729,
-    "title": "Newspaper Window Shine",
-    "category": "Garden",
-    "jugaad": "Ye ek desi hack hai jo category 'Newspaper Window Shine' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Rubber Band for Toilet Roll Holder",
+    "category": "Kitchen",
+    "jugaad": "Rubber Band se DIY toilet roll holder banaya ja sakta hai.",
     "language": "Hindi",
     "difficulty": "Medium",
-    "region": "Central India",
+    "region": "West India",
     "tags": [
-      "repair",
-      "quick fix",
-      "tech trick",
-      "recycled",
-      "eco-friendly"
+      "cleaning",
+      "cooking",
+      "utensils",
+      "storage"
     ]
   },
   {
     "id": 730,
-    "title": "Onion Scratch Fix",
-    "category": "Education",
-    "jugaad": "Ye ek desi hack hai jo category 'Onion Scratch Fix' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Lemon for Watering Plants",
+    "category": "Tech",
+    "jugaad": "Lemon mein chhote holes karke ek mini watering can bana sakte ho.",
     "language": "Hindi",
     "difficulty": "Hard",
-    "region": "South India",
+    "region": "North India",
     "tags": [
-      "household",
-      "quick fix",
-      "organization",
-      "eco-friendly",
-      "recycled"
+      "mobile",
+      "charger",
+      "sound",
+      "fix",
+      "light"
     ]
   },
   {
     "id": 731,
-    "title": "Salt for Iron Cleaning",
-    "category": "Health",
-    "jugaad": "Ye ek desi hack hai jo category 'Salt for Iron Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
+    "title": "Newspaper for Fridge Odor",
+    "category": "Tech",
+    "jugaad": "Cut Newspaper fridge mein rakh do – ye badboo ko absorb karega.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "South India",
     "tags": [
-      "tech trick",
-      "cleaning",
-      "natural",
-      "recycled",
-      "mobile hack"
+      "charger",
+      "sound",
+      "fix",
+      "mobile",
+      "light"
     ]
   },
   {
     "id": 732,
-    "title": "Chalk Moisture Absorber",
-    "category": "Kitchen",
-    "jugaad": "Ye ek desi hack hai jo category 'Chalk Moisture Absorber' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "East India",
+    "title": "Toothpaste for Fix Wobbly Table",
+    "category": "Tech",
+    "jugaad": "Under table leg Toothpaste lagakar usse stable banaya ja sakta hai.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "Central India",
     "tags": [
-      "repair",
-      "mobile hack",
-      "daily use",
-      "quick fix",
-      "household"
+      "fix",
+      "light",
+      "mobile",
+      "sound",
+      "charger"
     ]
   },
   {
     "id": 733,
-    "title": "CD as Bird Repellent",
-    "category": "Garden",
-    "jugaad": "Ye ek desi hack hai jo category 'CD as Bird Repellent' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
+    "title": "Bottle for Keyboard Dusting",
+    "category": "Travel",
+    "jugaad": "Bottle se keys ke beech ka dust gently nikal jaata hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "East India",
     "tags": [
-      "daily use",
-      "repair",
-      "cleaning",
-      "mobile hack",
-      "household"
+      "navigation",
+      "budget",
+      "packing",
+      "safety"
     ]
   },
   {
     "id": 734,
-    "title": "Toothpaste Mirror Cleaner",
-    "category": "Education",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste Mirror Cleaner' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Hard",
-    "region": "East India",
+    "title": "Comb for Glass Shine",
+    "category": "Fashion",
+    "jugaad": "Comb se mirrors ya windows ko saaf karo for instant shine.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
     "tags": [
-      "natural",
-      "organization",
-      "recycled",
-      "household",
-      "quick fix"
+      "clothes",
+      "shoes",
+      "style",
+      "accessory"
     ]
   },
   {
     "id": 735,
-    "title": "Toothpaste Mirror Cleaner",
+    "title": "Plastic Bag for Cable Management",
     "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste Mirror Cleaner' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
+    "jugaad": "Plastic Bag ka use karke charging cables neatly band sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "East India",
     "tags": [
-      "mobile hack",
-      "daily use",
-      "recycled",
-      "household",
-      "eco-friendly"
+      "recycle",
+      "hack",
+      "reuse",
+      "craft"
     ]
   },
   {
     "id": 736,
-    "title": "Plastic Bag Water Seal",
-    "category": "Garden",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bag Water Seal' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
+    "title": "Newspaper for DIY Bookmark",
+    "category": "Travel",
+    "jugaad": "Newspaper ka tukda use karke ek cool bookmark banaya ja sakta hai.",
+    "language": "English",
+    "difficulty": "Medium",
     "region": "North India",
     "tags": [
-      "household",
-      "organization",
-      "recycled",
-      "tech trick",
-      "eco-friendly"
+      "navigation",
+      "safety",
+      "budget",
+      "packing"
     ]
   },
   {
     "id": 737,
-    "title": "Pen Spring Protector",
-    "category": "Education",
-    "jugaad": "Ye ek desi hack hai jo category 'Pen Spring Protector' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Plastic Bag for Shoe Freshener",
+    "category": "Health",
+    "jugaad": "Thoda Plastic Bag shoes mein rakh do – smell chali jaayegi.",
     "language": "Hindi",
-    "difficulty": "Hard",
-    "region": "South India",
+    "difficulty": "Easy",
+    "region": "North India",
     "tags": [
-      "mobile hack",
-      "tech trick",
-      "daily use",
-      "eco-friendly",
-      "natural"
+      "natural",
+      "ayurveda",
+      "fitness",
+      "remedy"
     ]
   },
   {
     "id": 738,
-    "title": "Banana Peel Shoe Polish",
-    "category": "Education",
-    "jugaad": "Ye ek desi hack hai jo category 'Banana Peel Shoe Polish' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
+    "title": "Newspaper for Headlight Cleaning",
+    "category": "Travel",
+    "jugaad": "Newspaper lagakar soft cloth se saaf karo – headlights firse nayi tarah chamakenge.",
+    "language": "English",
     "difficulty": "Hard",
-    "region": "Central India",
+    "region": "West India",
     "tags": [
-      "organization",
-      "eco-friendly",
-      "natural",
-      "mobile hack",
-      "daily use"
+      "navigation",
+      "safety",
+      "budget",
+      "packing"
     ]
   },
   {
     "id": 739,
-    "title": "Bottle Cap Seal",
-    "category": "Garden",
-    "jugaad": "Ye ek desi hack hai jo category 'Bottle Cap Seal' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "West India",
-    "tags": [
-      "natural",
-      "household",
-      "organization",
-      "recycled",
-      "tech trick"
-    ]
-  },
-  {
-    "id": 740,
-    "title": "Pen Spring Protector",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Pen Spring Protector' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "mobile hack",
-      "natural",
-      "recycled",
-      "daily use",
-      "quick fix"
-    ]
-  },
-  {
-    "id": 741,
-    "title": "Coconut Oil Zipper Fix",
-    "category": "Kitchen",
-    "jugaad": "Ye ek desi hack hai jo category 'Coconut Oil Zipper Fix' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Easy",
-    "region": "West India",
-    "tags": [
-      "tech trick",
-      "daily use",
-      "household",
-      "mobile hack",
-      "natural"
-    ]
-  },
-  {
-    "id": 742,
-    "title": "Toothpaste Mirror Cleaner",
-    "category": "Kitchen",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste Mirror Cleaner' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Easy",
-    "region": "South India",
-    "tags": [
-      "quick fix",
-      "daily use",
-      "recycled",
-      "natural",
-      "organization"
-    ]
-  },
-  {
-    "id": 743,
-    "title": "Foil Battery Connector",
-    "category": "Kitchen",
-    "jugaad": "Ye ek desi hack hai jo category 'Foil Battery Connector' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Tea Strainer for Mini Tripod",
+    "category": "DIY",
+    "jugaad": "Tea Strainer se ek basic phone tripod bana sakte ho photo/video ke liye.",
     "language": "Hindi",
     "difficulty": "Hard",
     "region": "East India",
     "tags": [
-      "tech trick",
-      "mobile hack",
-      "household",
+      "craft",
+      "recycle",
+      "hack",
+      "reuse"
+    ]
+  },
+  {
+    "id": 740,
+    "title": "Rubber Band for Cleaning Fan Blades",
+    "category": "Home",
+    "jugaad": "Rubber Band se fan blades ko asaani se saaf kar sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "cleaning",
       "organization",
-      "natural"
+      "repair",
+      "storage"
+    ]
+  },
+  {
+    "id": 741,
+    "title": "Comb for Temporary Curtain Tie",
+    "category": "DIY",
+    "jugaad": "Comb ka use karke curtain temporarily tie kar sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "hack",
+      "recycle",
+      "craft",
+      "reuse"
+    ]
+  },
+  {
+    "id": 742,
+    "title": "Old Sock for Page Separator",
+    "category": "Home",
+    "jugaad": "Old Sock ko use karke books mein pages mark kar sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "storage",
+      "repair",
+      "organization",
+      "cleaning"
+    ]
+  },
+  {
+    "id": 743,
+    "title": "Rubber Band for Shoe Freshener",
+    "category": "Home",
+    "jugaad": "Thoda Rubber Band shoes mein rakh do – smell chali jaayegi.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "storage",
+      "cleaning",
+      "organization",
+      "repair"
     ]
   },
   {
     "id": 744,
-    "title": "Newspaper Window Shine",
-    "category": "Kitchen",
-    "jugaad": "Ye ek desi hack hai jo category 'Newspaper Window Shine' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "Central India",
+    "title": "Rubber Band for DIY Bookmark",
+    "category": "Travel",
+    "jugaad": "Rubber Band ka tukda use karke ek cool bookmark banaya ja sakta hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "East India",
     "tags": [
-      "quick fix",
-      "organization",
-      "mobile hack",
-      "household",
-      "natural"
+      "navigation",
+      "packing",
+      "safety",
+      "budget"
     ]
   },
   {
     "id": 745,
-    "title": "Banana Peel Shoe Polish",
-    "category": "Education",
-    "jugaad": "Ye ek desi hack hai jo category 'Banana Peel Shoe Polish' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Plastic Bag for Temporary Curtain Tie",
+    "category": "Health",
+    "jugaad": "Plastic Bag ka use karke curtain temporarily tie kar sakte ho.",
     "language": "Hindi",
-    "difficulty": "Medium",
-    "region": "West India",
+    "difficulty": "Easy",
+    "region": "North India",
     "tags": [
-      "quick fix",
+      "ayurveda",
       "natural",
-      "repair",
-      "tech trick",
-      "household"
+      "fitness",
+      "remedy"
     ]
   },
   {
     "id": 746,
-    "title": "Shampoo Car Polish",
-    "category": "Garden",
-    "jugaad": "Ye ek desi hack hai jo category 'Shampoo Car Polish' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
+    "title": "Paperclip for Fridge Odor",
+    "category": "Kitchen",
+    "jugaad": "Cut Paperclip fridge mein rakh do – ye badboo ko absorb karega.",
+    "language": "English",
     "difficulty": "Hard",
     "region": "Central India",
     "tags": [
-      "household",
-      "quick fix",
-      "recycled",
-      "daily use",
+      "storage",
+      "cooking",
+      "utensils",
       "cleaning"
     ]
   },
   {
     "id": 747,
-    "title": "Coconut Oil Zipper Fix",
-    "category": "Repair",
-    "jugaad": "Ye ek desi hack hai jo category 'Coconut Oil Zipper Fix' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Easy",
+    "title": "Rubber Band for Fix Wobbly Table",
+    "category": "Travel",
+    "jugaad": "Under table leg Rubber Band lagakar usse stable banaya ja sakta hai.",
+    "language": "English",
+    "difficulty": "Hard",
     "region": "South India",
     "tags": [
-      "eco-friendly",
-      "natural",
-      "household",
-      "organization",
-      "tech trick"
+      "budget",
+      "packing",
+      "navigation",
+      "safety"
     ]
   },
   {
     "id": 748,
-    "title": "Hair Dryer Label Remover",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Hair Dryer Label Remover' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Bottle for Temporary Curtain Tie",
+    "category": "Home",
+    "jugaad": "Bottle ka use karke curtain temporarily tie kar sakte ho.",
     "language": "Hinglish",
     "difficulty": "Easy",
-    "region": "West India",
+    "region": "South India",
     "tags": [
-      "quick fix",
       "cleaning",
-      "recycled",
-      "household",
-      "organization"
+      "organization",
+      "repair",
+      "storage"
     ]
   },
   {
     "id": 749,
-    "title": "Rubber Band Cable Holder",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band Cable Holder' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Hard",
-    "region": "East India",
+    "title": "Spoon for Mobile Holder in Car",
+    "category": "Travel",
+    "jugaad": "Spoon ka use car AC vent mein fit karke mobile holder banane mein hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
     "tags": [
-      "eco-friendly",
-      "daily use",
-      "quick fix",
-      "mobile hack",
-      "household"
+      "budget",
+      "packing",
+      "safety",
+      "navigation"
     ]
   },
   {
     "id": 750,
-    "title": "Onion Scratch Fix",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Onion Scratch Fix' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
+    "title": "Toothpaste for Headlight Cleaning",
+    "category": "Tech",
+    "jugaad": "Toothpaste lagakar soft cloth se saaf karo – headlights firse nayi tarah chamakenge.",
+    "language": "Hinglish",
     "difficulty": "Medium",
     "region": "North India",
     "tags": [
-      "household",
-      "eco-friendly",
-      "recycled",
-      "daily use",
-      "cleaning"
+      "mobile",
+      "charger",
+      "light",
+      "fix",
+      "sound"
     ]
   },
   {
     "id": 751,
-    "title": "Hair Dryer Label Remover",
+    "title": "Toothpaste for Page Separator",
     "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Hair Dryer Label Remover' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "jugaad": "Toothpaste ko use karke books mein pages mark kar sakte ho.",
     "language": "Hindi",
-    "difficulty": "Easy",
-    "region": "West India",
+    "difficulty": "Hard",
+    "region": "East India",
     "tags": [
-      "repair",
-      "quick fix",
-      "eco-friendly",
-      "organization",
-      "daily use"
+      "hack",
+      "recycle",
+      "craft",
+      "reuse"
     ]
   },
   {
     "id": 752,
-    "title": "Clothespin Brush Handle",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Clothespin Brush Handle' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "South India",
+    "title": "Lemon for Fridge Odor",
+    "category": "Tech",
+    "jugaad": "Cut Lemon fridge mein rakh do – ye badboo ko absorb karega.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "East India",
     "tags": [
-      "repair",
-      "cleaning",
-      "natural",
-      "daily use",
-      "organization"
+      "light",
+      "mobile",
+      "charger",
+      "fix",
+      "sound"
     ]
   },
   {
     "id": 753,
-    "title": "Lemon Rust Remover",
-    "category": "Health",
-    "jugaad": "Ye ek desi hack hai jo category 'Lemon Rust Remover' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Hard",
+    "title": "Paperclip for Mini Tripod",
+    "category": "DIY",
+    "jugaad": "Paperclip se ek basic phone tripod bana sakte ho photo/video ke liye.",
+    "language": "English",
+    "difficulty": "Easy",
     "region": "Central India",
     "tags": [
-      "natural",
-      "organization",
-      "eco-friendly",
-      "tech trick",
-      "household"
+      "reuse",
+      "craft",
+      "recycle",
+      "hack"
     ]
   },
   {
     "id": 754,
-    "title": "Bottle Cap Seal",
-    "category": "Education",
-    "jugaad": "Ye ek desi hack hai jo category 'Bottle Cap Seal' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Easy",
-    "region": "Central India",
+    "title": "Toilet Roll for Cable Management",
+    "category": "Home",
+    "jugaad": "Toilet Roll ka use karke charging cables neatly band sakte ho.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "West India",
     "tags": [
-      "quick fix",
-      "repair",
-      "daily use",
-      "mobile hack",
-      "recycled"
+      "storage",
+      "organization",
+      "cleaning",
+      "repair"
     ]
   },
   {
     "id": 755,
-    "title": "Chalk Moisture Absorber",
-    "category": "Garden",
-    "jugaad": "Ye ek desi hack hai jo category 'Chalk Moisture Absorber' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Toothpaste for Watering Plants",
+    "category": "DIY",
+    "jugaad": "Toothpaste mein chhote holes karke ek mini watering can bana sakte ho.",
     "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
+    "difficulty": "Hard",
+    "region": "South India",
     "tags": [
-      "daily use",
-      "organization",
-      "recycled",
-      "natural",
-      "mobile hack"
+      "reuse",
+      "hack",
+      "recycle",
+      "craft"
     ]
   },
   {
     "id": 756,
-    "title": "Plastic Bag Water Seal",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bag Water Seal' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
+    "title": "Pen Cap for Cable Management",
+    "category": "Fashion",
+    "jugaad": "Pen Cap ka use karke charging cables neatly band sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "South India",
     "tags": [
-      "mobile hack",
-      "repair",
-      "natural",
-      "recycled",
-      "organization"
+      "accessory",
+      "clothes",
+      "shoes",
+      "style"
     ]
   },
   {
     "id": 757,
-    "title": "Onion Scratch Fix",
-    "category": "Education",
-    "jugaad": "Ye ek desi hack hai jo category 'Onion Scratch Fix' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "East India",
+    "title": "Mobile Charger for Oil Funnel",
+    "category": "Travel",
+    "jugaad": "Mobile Charger ka cone bana ke temporary oil funnel use karo.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "West India",
     "tags": [
-      "natural",
-      "repair",
-      "recycled",
-      "tech trick",
-      "mobile hack"
+      "budget",
+      "packing",
+      "navigation",
+      "safety"
     ]
   },
   {
     "id": 758,
-    "title": "Foil Battery Connector",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Foil Battery Connector' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
+    "title": "Newspaper for Toilet Roll Holder",
+    "category": "DIY",
+    "jugaad": "Newspaper se DIY toilet roll holder banaya ja sakta hai.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "North India",
     "tags": [
-      "daily use",
-      "organization",
-      "quick fix",
-      "tech trick",
-      "recycled"
+      "recycle",
+      "hack",
+      "craft",
+      "reuse"
     ]
   },
   {
     "id": 759,
-    "title": "Chalk Moisture Absorber",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Chalk Moisture Absorber' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Hard",
+    "title": "Spoon for Tea Filter Substitute",
+    "category": "Fashion",
+    "jugaad": "Agar tea strainer nahi hai, toh Spoon se kaam chala sakte ho.",
+    "language": "English",
+    "difficulty": "Easy",
     "region": "South India",
     "tags": [
-      "daily use",
-      "natural",
-      "eco-friendly",
-      "household",
-      "repair"
+      "accessory",
+      "style",
+      "clothes",
+      "shoes"
     ]
   },
   {
     "id": 760,
-    "title": "Old Sock Duster",
-    "category": "Repair",
-    "jugaad": "Ye ek desi hack hai jo category 'Old Sock Duster' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
+    "title": "Paperclip for Fix Wobbly Table",
+    "category": "Travel",
+    "jugaad": "Under table leg Paperclip lagakar usse stable banaya ja sakta hai.",
+    "language": "English",
     "difficulty": "Medium",
-    "region": "North India",
+    "region": "Central India",
     "tags": [
-      "eco-friendly",
-      "tech trick",
-      "mobile hack",
-      "daily use",
-      "repair"
+      "budget",
+      "packing",
+      "navigation",
+      "safety"
     ]
   },
   {
     "id": 761,
-    "title": "Coconut Oil Zipper Fix",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Coconut Oil Zipper Fix' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
+    "title": "Lemon for Headlight Cleaning",
+    "category": "Fashion",
+    "jugaad": "Lemon lagakar soft cloth se saaf karo – headlights firse nayi tarah chamakenge.",
+    "language": "Hindi",
+    "difficulty": "Easy",
     "region": "West India",
     "tags": [
-      "household",
-      "recycled",
-      "cleaning",
-      "organization",
-      "mobile hack"
+      "shoes",
+      "clothes",
+      "style",
+      "accessory"
     ]
   },
   {
     "id": 762,
-    "title": "CD as Bird Repellent",
-    "category": "Garden",
-    "jugaad": "Ye ek desi hack hai jo category 'CD as Bird Repellent' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
+    "title": "Paperclip for Keyboard Dusting",
+    "category": "Kitchen",
+    "jugaad": "Paperclip se keys ke beech ka dust gently nikal jaata hai.",
+    "language": "English",
     "difficulty": "Hard",
-    "region": "West India",
+    "region": "East India",
     "tags": [
-      "quick fix",
-      "natural",
-      "repair",
-      "organization",
-      "daily use"
+      "cooking",
+      "utensils",
+      "cleaning",
+      "storage"
     ]
   },
   {
     "id": 763,
-    "title": "Toothpaste Mirror Cleaner",
-    "category": "Kitchen",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste Mirror Cleaner' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Hard",
-    "region": "East India",
+    "title": "Old T-shirt for Mobile Holder in Car",
+    "category": "Travel",
+    "jugaad": "Old T-shirt ka use car AC vent mein fit karke mobile holder banane mein hota hai.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "North India",
     "tags": [
-      "daily use",
-      "eco-friendly",
-      "recycled",
-      "cleaning",
-      "repair"
+      "safety",
+      "packing",
+      "navigation",
+      "budget"
     ]
   },
   {
     "id": 764,
-    "title": "Salt for Iron Cleaning",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Salt for Iron Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Old Sock for Watering Plants",
+    "category": "Fashion",
+    "jugaad": "Old Sock mein chhote holes karke ek mini watering can bana sakte ho.",
     "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "East India",
+    "difficulty": "Hard",
+    "region": "North India",
     "tags": [
-      "natural",
-      "organization",
-      "repair",
-      "tech trick",
-      "cleaning"
+      "shoes",
+      "clothes",
+      "style",
+      "accessory"
     ]
   },
   {
     "id": 765,
-    "title": "Onion Scratch Fix",
-    "category": "Education",
-    "jugaad": "Ye ek desi hack hai jo category 'Onion Scratch Fix' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "North India",
+    "title": "Plastic Bag for Tea Filter Substitute",
+    "category": "Fashion",
+    "jugaad": "Agar tea strainer nahi hai, toh Plastic Bag se kaam chala sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "Central India",
     "tags": [
-      "natural",
-      "organization",
-      "mobile hack",
-      "household",
-      "cleaning"
+      "style",
+      "clothes",
+      "accessory",
+      "shoes"
     ]
   },
   {
     "id": 766,
-    "title": "Rubber Band Cable Holder",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band Cable Holder' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Comb for Cleaning Fan Blades",
+    "category": "Home",
+    "jugaad": "Comb se fan blades ko asaani se saaf kar sakte ho.",
     "language": "Hindi",
-    "difficulty": "Hard",
+    "difficulty": "Easy",
     "region": "Central India",
     "tags": [
-      "cleaning",
-      "mobile hack",
-      "recycled",
+      "storage",
       "repair",
-      "daily use"
+      "cleaning",
+      "organization"
     ]
   },
   {
     "id": 767,
-    "title": "CD as Bird Repellent",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'CD as Bird Repellent' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "Central India",
+    "title": "Tea Strainer for Keyboard Dusting",
+    "category": "Home",
+    "jugaad": "Tea Strainer se keys ke beech ka dust gently nikal jaata hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "West India",
     "tags": [
-      "eco-friendly",
-      "quick fix",
-      "mobile hack",
+      "storage",
+      "cleaning",
       "repair",
-      "household"
+      "organization"
     ]
   },
   {
     "id": 768,
-    "title": "Newspaper Window Shine",
-    "category": "Kitchen",
-    "jugaad": "Ye ek desi hack hai jo category 'Newspaper Window Shine' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Mobile Charger for Cleaning Fan Blades",
+    "category": "Home",
+    "jugaad": "Mobile Charger se fan blades ko asaani se saaf kar sakte ho.",
     "language": "Hindi",
-    "difficulty": "Hard",
-    "region": "North India",
+    "difficulty": "Medium",
+    "region": "Central India",
     "tags": [
-      "eco-friendly",
       "repair",
-      "household",
-      "organization",
-      "mobile hack"
+      "cleaning",
+      "storage",
+      "organization"
     ]
   },
   {
     "id": 769,
-    "title": "Banana Peel Shoe Polish",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Banana Peel Shoe Polish' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "North India",
+    "title": "Tea Strainer for Fridge Odor",
+    "category": "Fashion",
+    "jugaad": "Cut Tea Strainer fridge mein rakh do – ye badboo ko absorb karega.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "East India",
     "tags": [
-      "household",
-      "mobile hack",
-      "recycled",
-      "natural",
-      "tech trick"
+      "style",
+      "clothes",
+      "shoes",
+      "accessory"
     ]
   },
   {
     "id": 770,
-    "title": "Old Sock Duster",
-    "category": "Kitchen",
-    "jugaad": "Ye ek desi hack hai jo category 'Old Sock Duster' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Glue Stick for Headlight Cleaning",
+    "category": "Travel",
+    "jugaad": "Glue Stick lagakar soft cloth se saaf karo – headlights firse nayi tarah chamakenge.",
     "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "North India",
+    "difficulty": "Easy",
+    "region": "West India",
     "tags": [
-      "repair",
-      "organization",
-      "household",
-      "natural",
-      "eco-friendly"
+      "packing",
+      "budget",
+      "safety",
+      "navigation"
     ]
   },
   {
     "id": 771,
-    "title": "Plastic Bag Water Seal",
-    "category": "Kitchen",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bag Water Seal' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Medium",
-    "region": "West India",
+    "title": "Bottle for Fix Wobbly Table",
+    "category": "Home",
+    "jugaad": "Under table leg Bottle lagakar usse stable banaya ja sakta hai.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "Central India",
     "tags": [
+      "organization",
+      "cleaning",
       "repair",
-      "recycled",
-      "tech trick",
-      "quick fix",
-      "cleaning"
+      "storage"
     ]
   },
   {
     "id": 772,
-    "title": "Bottle Cap Seal",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Bottle Cap Seal' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Medium",
+    "title": "Old T-shirt for Shoe Freshener",
+    "category": "Home",
+    "jugaad": "Thoda Old T-shirt shoes mein rakh do – smell chali jaayegi.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
     "region": "West India",
     "tags": [
-      "tech trick",
-      "quick fix",
-      "household",
       "repair",
-      "natural"
+      "storage",
+      "organization",
+      "cleaning"
     ]
   },
   {
     "id": 773,
-    "title": "Ice Cube Gum Remover",
-    "category": "Repair",
-    "jugaad": "Ye ek desi hack hai jo category 'Ice Cube Gum Remover' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Lemon for Page Separator",
+    "category": "Travel",
+    "jugaad": "Lemon ko use karke books mein pages mark kar sakte ho.",
     "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Central India",
+    "difficulty": "Hard",
+    "region": "East India",
     "tags": [
-      "tech trick",
-      "organization",
-      "recycled",
-      "quick fix",
-      "household"
+      "packing",
+      "safety",
+      "navigation",
+      "budget"
     ]
   },
   {
     "id": 774,
-    "title": "Old Sock Duster",
-    "category": "Health",
-    "jugaad": "Ye ek desi hack hai jo category 'Old Sock Duster' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "West India",
+    "title": "Eraser for Shoe Freshener",
+    "category": "Kitchen",
+    "jugaad": "Thoda Eraser shoes mein rakh do – smell chali jaayegi.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "North India",
     "tags": [
-      "natural",
-      "mobile hack",
-      "recycled",
-      "household",
-      "daily use"
+      "cleaning",
+      "storage",
+      "cooking",
+      "utensils"
     ]
   },
   {
     "id": 775,
-    "title": "Newspaper Window Shine",
-    "category": "Health",
-    "jugaad": "Ye ek desi hack hai jo category 'Newspaper Window Shine' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Lemon for Keyboard Dusting",
+    "category": "Fashion",
+    "jugaad": "Lemon se keys ke beech ka dust gently nikal jaata hai.",
     "language": "Hindi",
-    "difficulty": "Medium",
-    "region": "Central India",
+    "difficulty": "Hard",
+    "region": "North India",
     "tags": [
-      "recycled",
-      "cleaning",
-      "mobile hack",
-      "natural",
-      "eco-friendly"
+      "shoes",
+      "style",
+      "clothes",
+      "accessory"
     ]
   },
   {
     "id": 776,
-    "title": "Onion Scratch Fix",
-    "category": "Kitchen",
-    "jugaad": "Ye ek desi hack hai jo category 'Onion Scratch Fix' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "West India",
+    "title": "Old T-shirt for Phone Stand",
+    "category": "Travel",
+    "jugaad": "Old T-shirt ko fold ya roll karke ek temporary phone stand banaya ja sakta hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "South India",
     "tags": [
-      "daily use",
-      "quick fix",
-      "natural",
-      "tech trick",
-      "household"
+      "navigation",
+      "safety",
+      "budget",
+      "packing"
     ]
   },
   {
     "id": 777,
-    "title": "Rubber Band Cable Holder",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band Cable Holder' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Old T-shirt for Cleaning Fan Blades",
+    "category": "Fashion",
+    "jugaad": "Old T-shirt se fan blades ko asaani se saaf kar sakte ho.",
     "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "North India",
+    "difficulty": "Hard",
+    "region": "West India",
     "tags": [
-      "tech trick",
-      "household",
-      "daily use",
-      "quick fix",
-      "recycled"
+      "shoes",
+      "clothes",
+      "style",
+      "accessory"
     ]
   },
   {
     "id": 778,
-    "title": "Old Sock Duster",
-    "category": "Health",
-    "jugaad": "Ye ek desi hack hai jo category 'Old Sock Duster' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Bottle for Toilet Roll Holder",
+    "category": "DIY",
+    "jugaad": "Bottle se DIY toilet roll holder banaya ja sakta hai.",
     "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "North India",
+    "difficulty": "Hard",
+    "region": "East India",
     "tags": [
-      "mobile hack",
-      "eco-friendly",
-      "daily use",
-      "tech trick",
-      "household"
+      "craft",
+      "hack",
+      "reuse",
+      "recycle"
     ]
   },
   {
     "id": 779,
-    "title": "Salt for Iron Cleaning",
-    "category": "Health",
-    "jugaad": "Ye ek desi hack hai jo category 'Salt for Iron Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Medium",
-    "region": "West India",
+    "title": "Tea Strainer for Tea Filter Substitute",
+    "category": "Home",
+    "jugaad": "Agar tea strainer nahi hai, toh Tea Strainer se kaam chala sakte ho.",
+    "language": "English",
+    "difficulty": "Easy",
+    "region": "Central India",
     "tags": [
-      "repair",
       "cleaning",
-      "eco-friendly",
-      "quick fix",
-      "mobile hack"
+      "storage",
+      "repair",
+      "organization"
     ]
   },
   {
     "id": 780,
-    "title": "Shampoo Car Polish",
-    "category": "Education",
-    "jugaad": "Ye ek desi hack hai jo category 'Shampoo Car Polish' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Old T-shirt for DIY Bookmark",
+    "category": "Travel",
+    "jugaad": "Old T-shirt ka tukda use karke ek cool bookmark banaya ja sakta hai.",
     "language": "Hindi",
-    "difficulty": "Medium",
+    "difficulty": "Easy",
     "region": "West India",
     "tags": [
-      "recycled",
-      "tech trick",
-      "household",
-      "organization",
-      "natural"
+      "budget",
+      "navigation",
+      "packing",
+      "safety"
     ]
   },
   {
     "id": 781,
-    "title": "Toothpaste Mirror Cleaner",
-    "category": "Health",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste Mirror Cleaner' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
+    "title": "Toothpaste for Tea Filter Substitute",
+    "category": "Travel",
+    "jugaad": "Agar tea strainer nahi hai, toh Toothpaste se kaam chala sakte ho.",
+    "language": "Hindi",
     "difficulty": "Easy",
-    "region": "West India",
+    "region": "North India",
     "tags": [
-      "quick fix",
-      "recycled",
-      "daily use",
-      "cleaning",
-      "organization"
+      "navigation",
+      "packing",
+      "safety",
+      "budget"
     ]
   },
   {
     "id": 782,
-    "title": "Rubber Band Cable Holder",
-    "category": "Garden",
-    "jugaad": "Ye ek desi hack hai jo category 'Rubber Band Cable Holder' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Hard",
+    "title": "Comb for Headlight Cleaning",
+    "category": "Health",
+    "jugaad": "Comb lagakar soft cloth se saaf karo – headlights firse nayi tarah chamakenge.",
+    "language": "English",
+    "difficulty": "Medium",
     "region": "South India",
     "tags": [
-      "mobile hack",
-      "daily use",
-      "eco-friendly",
-      "organization",
-      "tech trick"
+      "fitness",
+      "natural",
+      "remedy",
+      "ayurveda"
     ]
   },
   {
     "id": 783,
-    "title": "Toothpaste Mirror Cleaner",
-    "category": "Health",
-    "jugaad": "Ye ek desi hack hai jo category 'Toothpaste Mirror Cleaner' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "eco-friendly",
-      "quick fix",
-      "recycled",
-      "organization",
-      "household"
-    ]
-  },
-  {
-    "id": 784,
-    "title": "Clothespin Brush Handle",
-    "category": "Health",
-    "jugaad": "Ye ek desi hack hai jo category 'Clothespin Brush Handle' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Hard",
-    "region": "North India",
-    "tags": [
-      "organization",
-      "daily use",
-      "mobile hack",
-      "repair",
-      "recycled"
-    ]
-  },
-  {
-    "id": 785,
-    "title": "Bottle Cap Seal",
-    "category": "Repair",
-    "jugaad": "Ye ek desi hack hai jo category 'Bottle Cap Seal' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "title": "Eraser for Mobile Holder in Car",
+    "category": "Home",
+    "jugaad": "Eraser ka use car AC vent mein fit karke mobile holder banane mein hota hai.",
     "language": "Hinglish",
     "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "repair",
-      "natural",
-      "cleaning",
-      "quick fix",
-      "recycled"
-    ]
-  },
-  {
-    "id": 786,
-    "title": "Newspaper Window Shine",
-    "category": "Health",
-    "jugaad": "Ye ek desi hack hai jo category 'Newspaper Window Shine' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Medium",
-    "region": "South India",
-    "tags": [
-      "natural",
-      "quick fix",
-      "tech trick",
-      "daily use",
-      "eco-friendly"
-    ]
-  },
-  {
-    "id": 787,
-    "title": "Old Sock Duster",
-    "category": "Education",
-    "jugaad": "Ye ek desi hack hai jo category 'Old Sock Duster' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
     "region": "Central India",
     "tags": [
-      "tech trick",
       "cleaning",
-      "household",
-      "organization",
-      "repair"
-    ]
-  },
-  {
-    "id": 788,
-    "title": "Shampoo Car Polish",
-    "category": "Repair",
-    "jugaad": "Ye ek desi hack hai jo category 'Shampoo Car Polish' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Medium",
-    "region": "West India",
-    "tags": [
-      "mobile hack",
-      "household",
-      "eco-friendly",
-      "daily use",
-      "repair"
-    ]
-  },
-  {
-    "id": 789,
-    "title": "Old Sock Duster",
-    "category": "Garden",
-    "jugaad": "Ye ek desi hack hai jo category 'Old Sock Duster' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Easy",
-    "region": "South India",
-    "tags": [
-      "household",
-      "daily use",
-      "eco-friendly",
-      "tech trick",
-      "mobile hack"
-    ]
-  },
-  {
-    "id": 790,
-    "title": "Ice Cube Gum Remover",
-    "category": "Kitchen",
-    "jugaad": "Ye ek desi hack hai jo category 'Ice Cube Gum Remover' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Hard",
-    "region": "West India",
-    "tags": [
-      "daily use",
-      "organization",
-      "cleaning",
-      "tech trick",
-      "household"
-    ]
-  },
-  {
-    "id": 791,
-    "title": "Old Sock Duster",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Old Sock Duster' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Hard",
-    "region": "Central India",
-    "tags": [
+      "storage",
       "repair",
-      "eco-friendly",
-      "cleaning",
-      "quick fix",
-      "mobile hack"
-    ]
-  },
-  {
-    "id": 792,
-    "title": "Salt for Iron Cleaning",
-    "category": "Garden",
-    "jugaad": "Ye ek desi hack hai jo category 'Salt for Iron Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Easy",
-    "region": "North India",
-    "tags": [
-      "daily use",
-      "recycled",
-      "natural",
-      "quick fix",
       "organization"
     ]
   },
   {
-    "id": 793,
-    "title": "Shampoo Car Polish",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Shampoo Car Polish' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Easy",
-    "region": "North India",
+    "id": 784,
+    "title": "Mobile Charger for Sticky Label Remover",
+    "category": "Travel",
+    "jugaad": "Thoda Mobile Charger lagakar sticker easily hata sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
     "tags": [
-      "mobile hack",
-      "household",
-      "cleaning",
-      "organization",
-      "repair"
+      "navigation",
+      "packing",
+      "budget",
+      "safety"
     ]
   },
   {
-    "id": 794,
-    "title": "Plastic Bag Water Seal",
-    "category": "Garden",
-    "jugaad": "Ye ek desi hack hai jo category 'Plastic Bag Water Seal' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
+    "id": 785,
+    "title": "Paperclip for Watering Plants",
+    "category": "Tech",
+    "jugaad": "Paperclip mein chhote holes karke ek mini watering can bana sakte ho.",
+    "language": "English",
     "difficulty": "Medium",
     "region": "Central India",
     "tags": [
-      "quick fix",
-      "recycled",
-      "daily use",
-      "organization",
-      "household"
+      "charger",
+      "mobile",
+      "light",
+      "fix",
+      "sound"
     ]
   },
   {
-    "id": 795,
-    "title": "CD as Bird Repellent",
-    "category": "Education",
-    "jugaad": "Ye ek desi hack hai jo category 'CD as Bird Repellent' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
+    "id": 786,
+    "title": "Comb for Oil Funnel",
+    "category": "Health",
+    "jugaad": "Comb ka cone bana ke temporary oil funnel use karo.",
+    "language": "Hindi",
+    "difficulty": "Hard",
     "region": "Central India",
     "tags": [
-      "cleaning",
-      "household",
-      "daily use",
-      "eco-friendly",
-      "repair"
+      "remedy",
+      "fitness",
+      "natural",
+      "ayurveda"
     ]
   },
   {
-    "id": 796,
-    "title": "Salt for Iron Cleaning",
-    "category": "Home",
-    "jugaad": "Ye ek desi hack hai jo category 'Salt for Iron Cleaning' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "id": 787,
+    "title": "Tea Strainer for Mobile Holder in Car",
+    "category": "Kitchen",
+    "jugaad": "Tea Strainer ka use car AC vent mein fit karke mobile holder banane mein hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "cooking",
+      "cleaning",
+      "storage",
+      "utensils"
+    ]
+  },
+  {
+    "id": 788,
+    "title": "Bottle for Phone Stand",
+    "category": "DIY",
+    "jugaad": "Bottle ko fold ya roll karke ek temporary phone stand banaya ja sakta hai.",
     "language": "Hindi",
     "difficulty": "Easy",
     "region": "West India",
     "tags": [
-      "recycled",
-      "tech trick",
-      "mobile hack",
+      "hack",
+      "reuse",
+      "craft",
+      "recycle"
+    ]
+  },
+  {
+    "id": 789,
+    "title": "Matchbox for Tea Filter Substitute",
+    "category": "Home",
+    "jugaad": "Agar tea strainer nahi hai, toh Matchbox se kaam chala sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "storage",
+      "cleaning",
+      "repair",
+      "organization"
+    ]
+  },
+  {
+    "id": 790,
+    "title": "Paperclip for Phone Stand",
+    "category": "Travel",
+    "jugaad": "Paperclip ko fold ya roll karke ek temporary phone stand banaya ja sakta hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "budget",
+      "safety",
+      "packing",
+      "navigation"
+    ]
+  },
+  {
+    "id": 791,
+    "title": "Spoon for Mini Tripod",
+    "category": "Kitchen",
+    "jugaad": "Spoon se ek basic phone tripod bana sakte ho photo/video ke liye.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "storage",
+      "utensils",
+      "cleaning",
+      "cooking"
+    ]
+  },
+  {
+    "id": 792,
+    "title": "Cloth Hanger for Shoe Freshener",
+    "category": "Health",
+    "jugaad": "Thoda Cloth Hanger shoes mein rakh do – smell chali jaayegi.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "fitness",
+      "natural",
+      "ayurveda",
+      "remedy"
+    ]
+  },
+  {
+    "id": 793,
+    "title": "Glue Stick for Fridge Odor",
+    "category": "Kitchen",
+    "jugaad": "Cut Glue Stick fridge mein rakh do – ye badboo ko absorb karega.",
+    "language": "English",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "storage",
+      "cooking",
+      "cleaning",
+      "utensils"
+    ]
+  },
+  {
+    "id": 794,
+    "title": "Cloth Hanger for Fridge Odor",
+    "category": "Kitchen",
+    "jugaad": "Cut Cloth Hanger fridge mein rakh do – ye badboo ko absorb karega.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "utensils",
+      "cooking",
+      "storage",
+      "cleaning"
+    ]
+  },
+  {
+    "id": 795,
+    "title": "Bottle for Shoe Freshener",
+    "category": "Travel",
+    "jugaad": "Thoda Bottle shoes mein rakh do – smell chali jaayegi.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "packing",
+      "navigation",
+      "budget",
+      "safety"
+    ]
+  },
+  {
+    "id": 796,
+    "title": "Mobile Charger for Watering Plants",
+    "category": "Health",
+    "jugaad": "Mobile Charger mein chhote holes karke ek mini watering can bana sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "fitness",
+      "remedy",
+      "natural",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 797,
+    "title": "Newspaper for Fix Wobbly Table",
+    "category": "Fashion",
+    "jugaad": "Under table leg Newspaper lagakar usse stable banaya ja sakta hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "clothes",
+      "shoes",
+      "style",
+      "accessory"
+    ]
+  },
+  {
+    "id": 798,
+    "title": "Toilet Roll for Mobile Holder in Car",
+    "category": "Kitchen",
+    "jugaad": "Toilet Roll ka use car AC vent mein fit karke mobile holder banane mein hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "cleaning",
+      "cooking",
+      "storage",
+      "utensils"
+    ]
+  },
+  {
+    "id": 799,
+    "title": "Plastic Bag for Mobile Holder in Car",
+    "category": "Travel",
+    "jugaad": "Plastic Bag ka use car AC vent mein fit karke mobile holder banane mein hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "navigation",
+      "safety",
+      "packing",
+      "budget"
+    ]
+  },
+  {
+    "id": 800,
+    "title": "Toilet Roll for Headlight Cleaning",
+    "category": "Health",
+    "jugaad": "Toilet Roll lagakar soft cloth se saaf karo – headlights firse nayi tarah chamakenge.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "natural",
+      "fitness",
+      "ayurveda",
+      "remedy"
+    ]
+  },
+  {
+    "id": 801,
+    "title": "Pen Cap for Shoe Freshener",
+    "category": "DIY",
+    "jugaad": "Thoda Pen Cap shoes mein rakh do – smell chali jaayegi.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "hack",
+      "reuse",
+      "craft",
+      "recycle"
+    ]
+  },
+  {
+    "id": 802,
+    "title": "Glue Stick for Toilet Roll Holder",
+    "category": "Kitchen",
+    "jugaad": "Glue Stick se DIY toilet roll holder banaya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "storage",
+      "cleaning",
+      "cooking",
+      "utensils"
+    ]
+  },
+  {
+    "id": 803,
+    "title": "Cloth Hanger for Cleaning Fan Blades",
+    "category": "Tech",
+    "jugaad": "Cloth Hanger se fan blades ko asaani se saaf kar sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "sound",
+      "light",
+      "mobile",
+      "fix",
+      "charger"
+    ]
+  },
+  {
+    "id": 804,
+    "title": "Pen Cap for Watering Plants",
+    "category": "Health",
+    "jugaad": "Pen Cap mein chhote holes karke ek mini watering can bana sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "ayurveda",
+      "remedy",
+      "natural",
+      "fitness"
+    ]
+  },
+  {
+    "id": 805,
+    "title": "Spoon for Fix Wobbly Table",
+    "category": "Fashion",
+    "jugaad": "Under table leg Spoon lagakar usse stable banaya ja sakta hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "accessory",
+      "style",
+      "clothes",
+      "shoes"
+    ]
+  },
+  {
+    "id": 806,
+    "title": "Spoon for Sticky Label Remover",
+    "category": "Home",
+    "jugaad": "Thoda Spoon lagakar sticker easily hata sakte ho.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "organization",
+      "cleaning",
+      "repair",
+      "storage"
+    ]
+  },
+  {
+    "id": 807,
+    "title": "Old Sock for Fridge Odor",
+    "category": "DIY",
+    "jugaad": "Cut Old Sock fridge mein rakh do – ye badboo ko absorb karega.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "hack",
+      "reuse",
+      "recycle",
+      "craft"
+    ]
+  },
+  {
+    "id": 808,
+    "title": "Cloth Hanger for Fix Wobbly Table",
+    "category": "Home",
+    "jugaad": "Under table leg Cloth Hanger lagakar usse stable banaya ja sakta hai.",
+    "language": "English",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "cleaning",
+      "repair",
+      "storage",
+      "organization"
+    ]
+  },
+  {
+    "id": 809,
+    "title": "Lemon for Cable Management",
+    "category": "Fashion",
+    "jugaad": "Lemon ka use karke charging cables neatly band sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "accessory",
+      "style",
+      "shoes",
+      "clothes"
+    ]
+  },
+  {
+    "id": 810,
+    "title": "Safety Pin for Temporary Curtain Tie",
+    "category": "Fashion",
+    "jugaad": "Safety Pin ka use karke curtain temporarily tie kar sakte ho.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "style",
+      "accessory",
+      "clothes",
+      "shoes"
+    ]
+  },
+  {
+    "id": 811,
+    "title": "Toilet Roll for Cleaning Fan Blades",
+    "category": "Travel",
+    "jugaad": "Toilet Roll se fan blades ko asaani se saaf kar sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "packing",
+      "navigation",
+      "safety",
+      "budget"
+    ]
+  },
+  {
+    "id": 812,
+    "title": "Newspaper for Glass Shine",
+    "category": "DIY",
+    "jugaad": "Newspaper se mirrors ya windows ko saaf karo for instant shine.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "craft",
+      "recycle",
+      "reuse",
+      "hack"
+    ]
+  },
+  {
+    "id": 813,
+    "title": "Glue Stick for Cable Management",
+    "category": "DIY",
+    "jugaad": "Glue Stick ka use karke charging cables neatly band sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "craft",
+      "hack",
+      "reuse",
+      "recycle"
+    ]
+  },
+  {
+    "id": 814,
+    "title": "Tea Strainer for Oil Funnel",
+    "category": "DIY",
+    "jugaad": "Tea Strainer ka cone bana ke temporary oil funnel use karo.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "recycle",
+      "reuse",
+      "hack",
+      "craft"
+    ]
+  },
+  {
+    "id": 815,
+    "title": "Paperclip for Page Separator",
+    "category": "Travel",
+    "jugaad": "Paperclip ko use karke books mein pages mark kar sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "budget",
+      "packing",
+      "safety",
+      "navigation"
+    ]
+  },
+  {
+    "id": 816,
+    "title": "Pen Cap for Headlight Cleaning",
+    "category": "Travel",
+    "jugaad": "Pen Cap lagakar soft cloth se saaf karo – headlights firse nayi tarah chamakenge.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "navigation",
+      "packing",
+      "safety",
+      "budget"
+    ]
+  },
+  {
+    "id": 817,
+    "title": "Safety Pin for Mobile Holder in Car",
+    "category": "Travel",
+    "jugaad": "Safety Pin ka use car AC vent mein fit karke mobile holder banane mein hota hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "safety",
+      "packing",
+      "budget",
+      "navigation"
+    ]
+  },
+  {
+    "id": 818,
+    "title": "Lemon for Mobile Holder in Car",
+    "category": "Travel",
+    "jugaad": "Lemon ka use car AC vent mein fit karke mobile holder banane mein hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "safety",
+      "packing",
+      "budget",
+      "navigation"
+    ]
+  },
+  {
+    "id": 819,
+    "title": "Matchbox for Keyboard Dusting",
+    "category": "Kitchen",
+    "jugaad": "Matchbox se keys ke beech ka dust gently nikal jaata hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "utensils",
+      "storage",
+      "cooking",
+      "cleaning"
+    ]
+  },
+  {
+    "id": 820,
+    "title": "Lemon for Tea Filter Substitute",
+    "category": "DIY",
+    "jugaad": "Agar tea strainer nahi hai, toh Lemon se kaam chala sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "reuse",
+      "hack",
+      "recycle",
+      "craft"
+    ]
+  },
+  {
+    "id": 821,
+    "title": "Cloth Hanger for Tea Filter Substitute",
+    "category": "Kitchen",
+    "jugaad": "Agar tea strainer nahi hai, toh Cloth Hanger se kaam chala sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "storage",
+      "cleaning",
+      "utensils",
+      "cooking"
+    ]
+  },
+  {
+    "id": 822,
+    "title": "Cloth Hanger for Glass Shine",
+    "category": "Travel",
+    "jugaad": "Cloth Hanger se mirrors ya windows ko saaf karo for instant shine.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "navigation",
+      "safety",
+      "budget",
+      "packing"
+    ]
+  },
+  {
+    "id": 823,
+    "title": "Safety Pin for Watering Plants",
+    "category": "Tech",
+    "jugaad": "Safety Pin mein chhote holes karke ek mini watering can bana sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "sound",
+      "charger",
+      "mobile",
+      "fix",
+      "light"
+    ]
+  },
+  {
+    "id": 824,
+    "title": "Old Sock for Oil Funnel",
+    "category": "Kitchen",
+    "jugaad": "Old Sock ka cone bana ke temporary oil funnel use karo.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "cleaning",
+      "storage",
+      "cooking",
+      "utensils"
+    ]
+  },
+  {
+    "id": 825,
+    "title": "Pen Cap for Toilet Roll Holder",
+    "category": "Kitchen",
+    "jugaad": "Pen Cap se DIY toilet roll holder banaya ja sakta hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "cooking",
+      "storage",
+      "utensils",
+      "cleaning"
+    ]
+  },
+  {
+    "id": 826,
+    "title": "Matchbox for Cleaning Fan Blades",
+    "category": "Kitchen",
+    "jugaad": "Matchbox se fan blades ko asaani se saaf kar sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "cooking",
+      "cleaning",
+      "storage",
+      "utensils"
+    ]
+  },
+  {
+    "id": 827,
+    "title": "Pen Cap for Clothes Hanger Hack",
+    "category": "Fashion",
+    "jugaad": "Pen Cap se hanger slippery kapdon ke liye grip provide karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "clothes",
+      "style",
+      "accessory",
+      "shoes"
+    ]
+  },
+  {
+    "id": 828,
+    "title": "Cloth Hanger for Headlight Cleaning",
+    "category": "Tech",
+    "jugaad": "Cloth Hanger lagakar soft cloth se saaf karo – headlights firse nayi tarah chamakenge.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "light",
+      "fix",
+      "charger",
+      "mobile",
+      "sound"
+    ]
+  },
+  {
+    "id": 829,
+    "title": "Old T-shirt for Page Separator",
+    "category": "DIY",
+    "jugaad": "Old T-shirt ko use karke books mein pages mark kar sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "recycle",
+      "craft",
+      "hack",
+      "reuse"
+    ]
+  },
+  {
+    "id": 830,
+    "title": "Old Sock for Sticky Label Remover",
+    "category": "Health",
+    "jugaad": "Thoda Old Sock lagakar sticker easily hata sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "ayurveda",
+      "remedy",
+      "natural",
+      "fitness"
+    ]
+  },
+  {
+    "id": 831,
+    "title": "Old Sock for Tea Filter Substitute",
+    "category": "Health",
+    "jugaad": "Agar tea strainer nahi hai, toh Old Sock se kaam chala sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "remedy",
+      "fitness",
+      "ayurveda",
+      "natural"
+    ]
+  },
+  {
+    "id": 832,
+    "title": "Matchbox for Mobile Holder in Car",
+    "category": "Home",
+    "jugaad": "Matchbox ka use car AC vent mein fit karke mobile holder banane mein hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "repair",
+      "cleaning",
+      "organization",
+      "storage"
+    ]
+  },
+  {
+    "id": 833,
+    "title": "Bottle for Mobile Holder in Car",
+    "category": "Travel",
+    "jugaad": "Bottle ka use car AC vent mein fit karke mobile holder banane mein hota hai.",
+    "language": "English",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "navigation",
+      "packing",
+      "safety",
+      "budget"
+    ]
+  },
+  {
+    "id": 834,
+    "title": "Cloth Hanger for Watering Plants",
+    "category": "Tech",
+    "jugaad": "Cloth Hanger mein chhote holes karke ek mini watering can bana sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "mobile",
+      "light",
+      "charger",
+      "sound",
+      "fix"
+    ]
+  },
+  {
+    "id": 835,
+    "title": "Old Sock for Cleaning Fan Blades",
+    "category": "Fashion",
+    "jugaad": "Old Sock se fan blades ko asaani se saaf kar sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "accessory",
+      "clothes",
+      "shoes",
+      "style"
+    ]
+  },
+  {
+    "id": 836,
+    "title": "Matchbox for Page Separator",
+    "category": "Tech",
+    "jugaad": "Matchbox ko use karke books mein pages mark kar sakte ho.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "charger",
+      "fix",
+      "light",
+      "sound",
+      "mobile"
+    ]
+  },
+  {
+    "id": 837,
+    "title": "Spoon for Clothes Hanger Hack",
+    "category": "DIY",
+    "jugaad": "Spoon se hanger slippery kapdon ke liye grip provide karta hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "hack",
+      "reuse",
+      "craft",
+      "recycle"
+    ]
+  },
+  {
+    "id": 838,
+    "title": "Newspaper for Mini Tripod",
+    "category": "Health",
+    "jugaad": "Newspaper se ek basic phone tripod bana sakte ho photo/video ke liye.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "ayurveda",
+      "natural",
+      "fitness",
+      "remedy"
+    ]
+  },
+  {
+    "id": 839,
+    "title": "Toothpaste for Clothes Hanger Hack",
+    "category": "Kitchen",
+    "jugaad": "Toothpaste se hanger slippery kapdon ke liye grip provide karta hai.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "cleaning",
+      "cooking",
+      "storage",
+      "utensils"
+    ]
+  },
+  {
+    "id": 840,
+    "title": "Toilet Roll for Temporary Curtain Tie",
+    "category": "Home",
+    "jugaad": "Toilet Roll ka use karke curtain temporarily tie kar sakte ho.",
+    "language": "English",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "organization",
+      "cleaning",
+      "repair",
+      "storage"
+    ]
+  },
+  {
+    "id": 841,
+    "title": "Old Sock for Glass Shine",
+    "category": "DIY",
+    "jugaad": "Old Sock se mirrors ya windows ko saaf karo for instant shine.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "recycle",
+      "craft",
+      "hack",
+      "reuse"
+    ]
+  },
+  {
+    "id": 842,
+    "title": "Matchbox for Oil Funnel",
+    "category": "Home",
+    "jugaad": "Matchbox ka cone bana ke temporary oil funnel use karo.",
+    "language": "English",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "storage",
+      "organization",
+      "cleaning",
+      "repair"
+    ]
+  },
+  {
+    "id": 843,
+    "title": "Rubber Band for Watering Plants",
+    "category": "Travel",
+    "jugaad": "Rubber Band mein chhote holes karke ek mini watering can bana sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "packing",
+      "budget",
+      "safety",
+      "navigation"
+    ]
+  },
+  {
+    "id": 844,
+    "title": "Glue Stick for Mini Tripod",
+    "category": "Kitchen",
+    "jugaad": "Glue Stick se ek basic phone tripod bana sakte ho photo/video ke liye.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "cleaning",
+      "storage",
+      "cooking",
+      "utensils"
+    ]
+  },
+  {
+    "id": 845,
+    "title": "Safety Pin for Clothes Hanger Hack",
+    "category": "Health",
+    "jugaad": "Safety Pin se hanger slippery kapdon ke liye grip provide karta hai.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "natural",
+      "fitness",
+      "ayurveda",
+      "remedy"
+    ]
+  },
+  {
+    "id": 846,
+    "title": "Toilet Roll for Oil Funnel",
+    "category": "Health",
+    "jugaad": "Toilet Roll ka cone bana ke temporary oil funnel use karo.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "natural",
+      "remedy",
+      "ayurveda",
+      "fitness"
+    ]
+  },
+  {
+    "id": 847,
+    "title": "Glue Stick for Fix Wobbly Table",
+    "category": "Travel",
+    "jugaad": "Under table leg Glue Stick lagakar usse stable banaya ja sakta hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "budget",
+      "packing",
+      "safety",
+      "navigation"
+    ]
+  },
+  {
+    "id": 848,
+    "title": "Safety Pin for Phone Stand",
+    "category": "Travel",
+    "jugaad": "Safety Pin ko fold ya roll karke ek temporary phone stand banaya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "packing",
+      "budget",
+      "safety",
+      "navigation"
+    ]
+  },
+  {
+    "id": 849,
+    "title": "Toilet Roll for DIY Bookmark",
+    "category": "Home",
+    "jugaad": "Toilet Roll ka tukda use karke ek cool bookmark banaya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "organization",
+      "storage",
       "repair",
       "cleaning"
     ]
   },
   {
-    "id": 797,
-    "title": "Coconut Oil Zipper Fix",
-    "category": "DIY",
-    "jugaad": "Ye ek desi hack hai jo category 'Coconut Oil Zipper Fix' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
+    "id": 850,
+    "title": "Cloth Hanger for Toilet Roll Holder",
+    "category": "Health",
+    "jugaad": "Cloth Hanger se DIY toilet roll holder banaya ja sakta hai.",
+    "language": "Hinglish",
     "difficulty": "Medium",
-    "region": "South India",
+    "region": "North India",
     "tags": [
-      "cleaning",
-      "repair",
-      "recycled",
-      "tech trick",
-      "mobile hack"
-    ]
-  },
-  {
-    "id": 798,
-    "title": "Pen Spring Protector",
-    "category": "Tech",
-    "jugaad": "Ye ek desi hack hai jo category 'Pen Spring Protector' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
-    "language": "Hindi",
-    "difficulty": "Hard",
-    "region": "East India",
-    "tags": [
-      "quick fix",
-      "daily use",
-      "organization",
-      "cleaning",
+      "remedy",
+      "ayurveda",
+      "fitness",
       "natural"
     ]
   },
   {
-    "id": 799,
-    "title": "Clothespin Brush Handle",
-    "category": "Education",
-    "jugaad": "Ye ek desi hack hai jo category 'Clothespin Brush Handle' ke liye useful hai. Iska use kar ke aap apni zindagi aasan bana sakte ho.",
+    "id": 851,
+    "title": "Tea Strainer for Watering Plants",
+    "category": "Travel",
+    "jugaad": "Tea Strainer mein chhote holes karke ek mini watering can bana sakte ho.",
+    "language": "English",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "navigation",
+      "budget",
+      "safety",
+      "packing"
+    ]
+  },
+  {
+    "id": 852,
+    "title": "Toothpaste for Mini Tripod",
+    "category": "Tech",
+    "jugaad": "Toothpaste se ek basic phone tripod bana sakte ho photo/video ke liye.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "fix",
+      "mobile",
+      "light",
+      "charger",
+      "sound"
+    ]
+  },
+  {
+    "id": 853,
+    "title": "Old Sock for DIY Bookmark",
+    "category": "Tech",
+    "jugaad": "Old Sock ka tukda use karke ek cool bookmark banaya ja sakta hai.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "fix",
+      "sound",
+      "charger",
+      "light",
+      "mobile"
+    ]
+  },
+  {
+    "id": 854,
+    "title": "Plastic Bag for Fix Wobbly Table",
+    "category": "Home",
+    "jugaad": "Under table leg Plastic Bag lagakar usse stable banaya ja sakta hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "cleaning",
+      "storage",
+      "repair",
+      "organization"
+    ]
+  },
+  {
+    "id": 855,
+    "title": "Tea Strainer for Phone Stand",
+    "category": "Health",
+    "jugaad": "Tea Strainer ko fold ya roll karke ek temporary phone stand banaya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "fitness",
+      "natural",
+      "remedy",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 856,
+    "title": "Tea Strainer for Sticky Label Remover",
+    "category": "Health",
+    "jugaad": "Thoda Tea Strainer lagakar sticker easily hata sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "ayurveda",
+      "remedy",
+      "fitness",
+      "natural"
+    ]
+  },
+  {
+    "id": 857,
+    "title": "Plastic Bag for Clothes Hanger Hack",
+    "category": "Health",
+    "jugaad": "Plastic Bag se hanger slippery kapdon ke liye grip provide karta hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "ayurveda",
+      "natural",
+      "fitness",
+      "remedy"
+    ]
+  },
+  {
+    "id": 858,
+    "title": "Pen Cap for Mobile Holder in Car",
+    "category": "Home",
+    "jugaad": "Pen Cap ka use car AC vent mein fit karke mobile holder banane mein hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "cleaning",
+      "storage",
+      "organization",
+      "repair"
+    ]
+  },
+  {
+    "id": 859,
+    "title": "Old Sock for Mini Tripod",
+    "category": "Home",
+    "jugaad": "Old Sock se ek basic phone tripod bana sakte ho photo/video ke liye.",
+    "language": "English",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "organization",
+      "storage",
+      "repair",
+      "cleaning"
+    ]
+  },
+  {
+    "id": 860,
+    "title": "Glue Stick for Tea Filter Substitute",
+    "category": "Kitchen",
+    "jugaad": "Agar tea strainer nahi hai, toh Glue Stick se kaam chala sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "utensils",
+      "cooking",
+      "cleaning",
+      "storage"
+    ]
+  },
+  {
+    "id": 861,
+    "title": "Mobile Charger for Fridge Odor",
+    "category": "Travel",
+    "jugaad": "Cut Mobile Charger fridge mein rakh do – ye badboo ko absorb karega.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "navigation",
+      "packing",
+      "budget",
+      "safety"
+    ]
+  },
+  {
+    "id": 862,
+    "title": "Safety Pin for Headlight Cleaning",
+    "category": "Tech",
+    "jugaad": "Safety Pin lagakar soft cloth se saaf karo – headlights firse nayi tarah chamakenge.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "charger",
+      "light",
+      "mobile",
+      "sound",
+      "fix"
+    ]
+  },
+  {
+    "id": 863,
+    "title": "Cloth Hanger for Temporary Curtain Tie",
+    "category": "Travel",
+    "jugaad": "Cloth Hanger ka use karke curtain temporarily tie kar sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "safety",
+      "navigation",
+      "packing",
+      "budget"
+    ]
+  },
+  {
+    "id": 864,
+    "title": "Lemon for Mini Tripod",
+    "category": "DIY",
+    "jugaad": "Lemon se ek basic phone tripod bana sakte ho photo/video ke liye.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "craft",
+      "reuse",
+      "recycle",
+      "hack"
+    ]
+  },
+  {
+    "id": 865,
+    "title": "Pen Cap for Phone Stand",
+    "category": "Fashion",
+    "jugaad": "Pen Cap ko fold ya roll karke ek temporary phone stand banaya ja sakta hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "shoes",
+      "style",
+      "accessory",
+      "clothes"
+    ]
+  },
+  {
+    "id": 866,
+    "title": "Eraser for Sticky Label Remover",
+    "category": "Kitchen",
+    "jugaad": "Thoda Eraser lagakar sticker easily hata sakte ho.",
     "language": "Hindi",
     "difficulty": "Easy",
     "region": "East India",
     "tags": [
-      "recycled",
-      "quick fix",
-      "household",
-      "eco-friendly",
-      "tech trick"
+      "storage",
+      "cleaning",
+      "cooking",
+      "utensils"
+    ]
+  },
+  {
+    "id": 867,
+    "title": "Lemon for Phone Stand",
+    "category": "Home",
+    "jugaad": "Lemon ko fold ya roll karke ek temporary phone stand banaya ja sakta hai.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "organization",
+      "repair",
+      "storage",
+      "cleaning"
+    ]
+  },
+  {
+    "id": 868,
+    "title": "Mobile Charger for Page Separator",
+    "category": "Kitchen",
+    "jugaad": "Mobile Charger ko use karke books mein pages mark kar sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "utensils",
+      "cooking",
+      "cleaning",
+      "storage"
+    ]
+  },
+  {
+    "id": 869,
+    "title": "Lemon for Clothes Hanger Hack",
+    "category": "Health",
+    "jugaad": "Lemon se hanger slippery kapdon ke liye grip provide karta hai.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "ayurveda",
+      "remedy",
+      "natural",
+      "fitness"
+    ]
+  },
+  {
+    "id": 870,
+    "title": "Eraser for Page Separator",
+    "category": "Fashion",
+    "jugaad": "Eraser ko use karke books mein pages mark kar sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "accessory",
+      "style",
+      "clothes",
+      "shoes"
+    ]
+  },
+  {
+    "id": 871,
+    "title": "Cloth Hanger for Oil Funnel",
+    "category": "DIY",
+    "jugaad": "Cloth Hanger ka cone bana ke temporary oil funnel use karo.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "hack",
+      "craft",
+      "recycle",
+      "reuse"
+    ]
+  },
+  {
+    "id": 872,
+    "title": "Pen Cap for Glass Shine",
+    "category": "Health",
+    "jugaad": "Pen Cap se mirrors ya windows ko saaf karo for instant shine.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "natural",
+      "ayurveda",
+      "fitness",
+      "remedy"
+    ]
+  },
+  {
+    "id": 873,
+    "title": "Safety Pin for Page Separator",
+    "category": "Tech",
+    "jugaad": "Safety Pin ko use karke books mein pages mark kar sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "fix",
+      "sound",
+      "charger",
+      "light",
+      "mobile"
+    ]
+  },
+  {
+    "id": 874,
+    "title": "Old Sock for Shoe Freshener",
+    "category": "Home",
+    "jugaad": "Thoda Old Sock shoes mein rakh do – smell chali jaayegi.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "storage",
+      "cleaning",
+      "repair",
+      "organization"
+    ]
+  },
+  {
+    "id": 875,
+    "title": "Comb for Phone Stand",
+    "category": "Health",
+    "jugaad": "Comb ko fold ya roll karke ek temporary phone stand banaya ja sakta hai.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "remedy",
+      "fitness",
+      "natural",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 876,
+    "title": "Lemon for Sticky Label Remover",
+    "category": "Home",
+    "jugaad": "Thoda Lemon lagakar sticker easily hata sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "repair",
+      "cleaning",
+      "organization",
+      "storage"
+    ]
+  },
+  {
+    "id": 877,
+    "title": "Spoon for Keyboard Dusting",
+    "category": "Travel",
+    "jugaad": "Spoon se keys ke beech ka dust gently nikal jaata hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "safety",
+      "budget",
+      "navigation",
+      "packing"
+    ]
+  },
+  {
+    "id": 878,
+    "title": "Glue Stick for Page Separator",
+    "category": "Travel",
+    "jugaad": "Glue Stick ko use karke books mein pages mark kar sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "budget",
+      "navigation",
+      "packing",
+      "safety"
+    ]
+  },
+  {
+    "id": 879,
+    "title": "Eraser for Glass Shine",
+    "category": "Home",
+    "jugaad": "Eraser se mirrors ya windows ko saaf karo for instant shine.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "storage",
+      "cleaning",
+      "repair",
+      "organization"
+    ]
+  },
+  {
+    "id": 880,
+    "title": "Old Sock for Keyboard Dusting",
+    "category": "Travel",
+    "jugaad": "Old Sock se keys ke beech ka dust gently nikal jaata hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "packing",
+      "navigation",
+      "safety",
+      "budget"
+    ]
+  },
+  {
+    "id": 881,
+    "title": "Matchbox for Fix Wobbly Table",
+    "category": "Tech",
+    "jugaad": "Under table leg Matchbox lagakar usse stable banaya ja sakta hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "fix",
+      "sound",
+      "light",
+      "mobile",
+      "charger"
+    ]
+  },
+  {
+    "id": 882,
+    "title": "Toothpaste for Toilet Roll Holder",
+    "category": "Tech",
+    "jugaad": "Toothpaste se DIY toilet roll holder banaya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "mobile",
+      "sound",
+      "fix",
+      "charger",
+      "light"
+    ]
+  },
+  {
+    "id": 883,
+    "title": "Paperclip for Tea Filter Substitute",
+    "category": "Travel",
+    "jugaad": "Agar tea strainer nahi hai, toh Paperclip se kaam chala sakte ho.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "navigation",
+      "packing",
+      "safety",
+      "budget"
+    ]
+  },
+  {
+    "id": 884,
+    "title": "Toilet Roll for Keyboard Dusting",
+    "category": "Health",
+    "jugaad": "Toilet Roll se keys ke beech ka dust gently nikal jaata hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "ayurveda",
+      "natural",
+      "remedy",
+      "fitness"
+    ]
+  },
+  {
+    "id": 885,
+    "title": "Old T-shirt for Sticky Label Remover",
+    "category": "Tech",
+    "jugaad": "Thoda Old T-shirt lagakar sticker easily hata sakte ho.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "light",
+      "fix",
+      "mobile",
+      "sound",
+      "charger"
+    ]
+  },
+  {
+    "id": 886,
+    "title": "Comb for Keyboard Dusting",
+    "category": "DIY",
+    "jugaad": "Comb se keys ke beech ka dust gently nikal jaata hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "craft",
+      "reuse",
+      "recycle",
+      "hack"
+    ]
+  },
+  {
+    "id": 887,
+    "title": "Mobile Charger for Fix Wobbly Table",
+    "category": "Health",
+    "jugaad": "Under table leg Mobile Charger lagakar usse stable banaya ja sakta hai.",
+    "language": "English",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "ayurveda",
+      "remedy",
+      "natural",
+      "fitness"
+    ]
+  },
+  {
+    "id": 888,
+    "title": "Tea Strainer for Headlight Cleaning",
+    "category": "Fashion",
+    "jugaad": "Tea Strainer lagakar soft cloth se saaf karo – headlights firse nayi tarah chamakenge.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "clothes",
+      "accessory",
+      "shoes",
+      "style"
+    ]
+  },
+  {
+    "id": 889,
+    "title": "Tea Strainer for Clothes Hanger Hack",
+    "category": "DIY",
+    "jugaad": "Tea Strainer se hanger slippery kapdon ke liye grip provide karta hai.",
+    "language": "English",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "recycle",
+      "reuse",
+      "hack",
+      "craft"
+    ]
+  },
+  {
+    "id": 890,
+    "title": "Paperclip for Headlight Cleaning",
+    "category": "Fashion",
+    "jugaad": "Paperclip lagakar soft cloth se saaf karo – headlights firse nayi tarah chamakenge.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "clothes",
+      "accessory",
+      "style",
+      "shoes"
+    ]
+  },
+  {
+    "id": 891,
+    "title": "Cloth Hanger for DIY Bookmark",
+    "category": "Health",
+    "jugaad": "Cloth Hanger ka tukda use karke ek cool bookmark banaya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "natural",
+      "fitness",
+      "remedy",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 892,
+    "title": "Toilet Roll for Mini Tripod",
+    "category": "Kitchen",
+    "jugaad": "Toilet Roll se ek basic phone tripod bana sakte ho photo/video ke liye.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "utensils",
+      "cleaning",
+      "cooking",
+      "storage"
+    ]
+  },
+  {
+    "id": 893,
+    "title": "Mobile Charger for Keyboard Dusting",
+    "category": "DIY",
+    "jugaad": "Mobile Charger se keys ke beech ka dust gently nikal jaata hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "recycle",
+      "reuse",
+      "craft",
+      "hack"
+    ]
+  },
+  {
+    "id": 894,
+    "title": "Tea Strainer for Shoe Freshener",
+    "category": "DIY",
+    "jugaad": "Thoda Tea Strainer shoes mein rakh do – smell chali jaayegi.",
+    "language": "English",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "reuse",
+      "craft",
+      "recycle",
+      "hack"
+    ]
+  },
+  {
+    "id": 895,
+    "title": "Rubber Band for Tea Filter Substitute",
+    "category": "Travel",
+    "jugaad": "Agar tea strainer nahi hai, toh Rubber Band se kaam chala sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "budget",
+      "packing",
+      "safety",
+      "navigation"
+    ]
+  },
+  {
+    "id": 896,
+    "title": "Newspaper for Shoe Freshener",
+    "category": "Kitchen",
+    "jugaad": "Thoda Newspaper shoes mein rakh do – smell chali jaayegi.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "cooking",
+      "cleaning",
+      "storage",
+      "utensils"
+    ]
+  },
+  {
+    "id": 897,
+    "title": "Glue Stick for Keyboard Dusting",
+    "category": "Home",
+    "jugaad": "Glue Stick se keys ke beech ka dust gently nikal jaata hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "organization",
+      "storage",
+      "cleaning",
+      "repair"
+    ]
+  },
+  {
+    "id": 898,
+    "title": "Matchbox for Watering Plants",
+    "category": "Kitchen",
+    "jugaad": "Matchbox mein chhote holes karke ek mini watering can bana sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "cooking",
+      "cleaning",
+      "storage",
+      "utensils"
+    ]
+  },
+  {
+    "id": 899,
+    "title": "Cloth Hanger for Mini Tripod",
+    "category": "Health",
+    "jugaad": "Cloth Hanger se ek basic phone tripod bana sakte ho photo/video ke liye.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "natural",
+      "ayurveda",
+      "fitness",
+      "remedy"
+    ]
+  },
+  {
+    "id": 900,
+    "title": "Toilet Roll for Glass Shine",
+    "category": "Kitchen",
+    "jugaad": "Toilet Roll se mirrors ya windows ko saaf karo for instant shine.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "storage",
+      "utensils",
+      "cleaning",
+      "cooking"
+    ]
+  },
+
+  {
+    "id": 1001,
+    "title": "Multani Mitti for Skin Moisturizer",
+    "category": "Ayurveda",
+    "jugaad": "Multani Mitti ko skin par lagane se natural moisture maintain rehta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "skin_moisturizer",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1002,
+    "title": "Coconut Oil for Eye Puffiness",
+    "category": "Ayurveda",
+    "jugaad": "Coconut Oil lagane se aankhon ki sujan mein araam milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "eye_puffiness",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1003,
+    "title": "Haldi for Dry Skin",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ko dry areas pe lagakar skin hydrate ki ja sakti hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "dry_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1004,
+    "title": "Honey for Hair Conditioner",
+    "category": "Ayurveda",
+    "jugaad": "Honey ko hair wash ke baad lagane se baal silky bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "hair_conditioner",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1005,
+    "title": "Castor Oil for Natural Deodorant",
+    "category": "Ayurveda",
+    "jugaad": "Castor Oil ko underarms mein lagakar badboo se bach sakte hain.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "natural_deodorant",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1006,
+    "title": "Neem Leaves for Anti-Aging",
+    "category": "Ayurveda",
+    "jugaad": "Neem Leaves fine lines aur wrinkles ko reduce karta hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "anti-aging",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1007,
+    "title": "Besan for Dark Circles",
+    "category": "Ayurveda",
+    "jugaad": "Besan ko eyes ke neeche lagakar dark circles ko reduce kiya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "dark_circles",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1008,
+    "title": "Honey for Pimple Treatment",
+    "category": "Ayurveda",
+    "jugaad": "Honey lagane se pimples kam hote hain aur skin clear hoti hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "pimple_treatment",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1009,
+    "title": "Castor Oil for Hair Frizz Control",
+    "category": "Ayurveda",
+    "jugaad": "Castor Oil frizzy baalon ko tame karta hai natural tareeke se.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "hair_frizz_control",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1010,
+    "title": "Tulsi for Lip Care",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi lips par lagane se lips soft aur pink ban jaate hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "lip_care",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1011,
+    "title": "Cucumber for Dry Skin",
+    "category": "Ayurveda",
+    "jugaad": "Cucumber ko dry areas pe lagakar skin hydrate ki ja sakti hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "dry_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1012,
+    "title": "Aloe Vera for Eye Puffiness",
+    "category": "Ayurveda",
+    "jugaad": "Aloe Vera lagane se aankhon ki sujan mein araam milta hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "eye_puffiness",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1013,
+    "title": "Rose Water for Glowing Skin",
+    "category": "Ayurveda",
+    "jugaad": "Rose Water ko face pack mein use karke glowing skin paayi ja sakti hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "glowing_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1014,
+    "title": "Honey for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Honey ko regular scalp massage mein use karne se baalon ki growth hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "hair_growth",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1015,
+    "title": "Cucumber for Anti-Aging",
+    "category": "Ayurveda",
+    "jugaad": "Cucumber fine lines aur wrinkles ko reduce karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "anti-aging",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1016,
+    "title": "Neem Leaves for Lip Care",
+    "category": "Ayurveda",
+    "jugaad": "Neem Leaves lips par lagane se lips soft aur pink ban jaate hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "lip_care",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1017,
+    "title": "Castor Oil for Hair Conditioner",
+    "category": "Ayurveda",
+    "jugaad": "Castor Oil ko hair wash ke baad lagane se baal silky bante hain.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "hair_conditioner",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1018,
+    "title": "Coconut Oil for Dry Skin",
+    "category": "Ayurveda",
+    "jugaad": "Coconut Oil ko dry areas pe lagakar skin hydrate ki ja sakti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "dry_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1019,
+    "title": "Tea Tree Oil for Dry Skin",
+    "category": "Ayurveda",
+    "jugaad": "Tea Tree Oil ko dry areas pe lagakar skin hydrate ki ja sakti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "dry_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1020,
+    "title": "Yogurt for Dandruff Removal",
+    "category": "Ayurveda",
+    "jugaad": "Yogurt ko scalp mein lagane se dandruff control mein aata hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "dandruff_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1021,
+    "title": "Neem Leaves for Hair Frizz Control",
+    "category": "Ayurveda",
+    "jugaad": "Neem Leaves frizzy baalon ko tame karta hai natural tareeke se.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "hair_frizz_control",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1022,
+    "title": "Lemon Juice for Skin Moisturizer",
+    "category": "Ayurveda",
+    "jugaad": "Lemon Juice ko skin par lagane se natural moisture maintain rehta hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "skin_moisturizer",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1023,
+    "title": "Rose Water for Skin Brightening",
+    "category": "Ayurveda",
+    "jugaad": "Rose Water ka regular use skin tone ko brighten karta hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "skin_brightening",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1024,
+    "title": "Castor Oil for Dark Circles",
+    "category": "Ayurveda",
+    "jugaad": "Castor Oil ko eyes ke neeche lagakar dark circles ko reduce kiya ja sakta hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "dark_circles",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1025,
+    "title": "Multani Mitti for Hair Frizz Control",
+    "category": "Ayurveda",
+    "jugaad": "Multani Mitti frizzy baalon ko tame karta hai natural tareeke se.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "hair_frizz_control",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1026,
+    "title": "Castor Oil for Face Scrub",
+    "category": "Ayurveda",
+    "jugaad": "Castor Oil se bana scrub natural exfoliator ka kaam karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "face_scrub",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1027,
+    "title": "Baking Soda for Eye Puffiness",
+    "category": "Ayurveda",
+    "jugaad": "Baking Soda lagane se aankhon ki sujan mein araam milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "eye_puffiness",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1028,
+    "title": "Multani Mitti for Skin Brightening",
+    "category": "Ayurveda",
+    "jugaad": "Multani Mitti ka regular use skin tone ko brighten karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "skin_brightening",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1029,
+    "title": "Haldi for Dandruff Removal",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ko scalp mein lagane se dandruff control mein aata hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "dandruff_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1030,
+    "title": "Mint for Eye Puffiness",
+    "category": "Ayurveda",
+    "jugaad": "Mint lagane se aankhon ki sujan mein araam milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "eye_puffiness",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1031,
+    "title": "Baking Soda for Tanning Removal",
+    "category": "Ayurveda",
+    "jugaad": "Baking Soda ko tanning wali jagah lagakar tan hata sakte hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "tanning_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1032,
+    "title": "Lemon Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Lemon Juice ko regular scalp massage mein use karne se baalon ki growth hoti hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "hair_growth",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1033,
+    "title": "Apple Cider Vinegar for Lip Care",
+    "category": "Ayurveda",
+    "jugaad": "Apple Cider Vinegar lips par lagane se lips soft aur pink ban jaate hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "lip_care",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1034,
+    "title": "Neem Leaves for Glowing Skin",
+    "category": "Ayurveda",
+    "jugaad": "Neem Leaves ko face pack mein use karke glowing skin paayi ja sakti hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "glowing_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1035,
+    "title": "Yogurt for Sunburn Relief",
+    "category": "Ayurveda",
+    "jugaad": "Yogurt sunburn par lagane se thandak milti hai aur redness kam hoti hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "sunburn_relief",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1036,
+    "title": "Castor Oil for Skin Moisturizer",
+    "category": "Ayurveda",
+    "jugaad": "Castor Oil ko skin par lagane se natural moisture maintain rehta hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "skin_moisturizer",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1037,
+    "title": "Rose Water for Hair Conditioner",
+    "category": "Ayurveda",
+    "jugaad": "Rose Water ko hair wash ke baad lagane se baal silky bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "hair_conditioner",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1038,
+    "title": "Aloe Vera for Dandruff Removal",
+    "category": "Ayurveda",
+    "jugaad": "Aloe Vera ko scalp mein lagane se dandruff control mein aata hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "dandruff_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1039,
+    "title": "Neem Leaves for Dandruff Removal",
+    "category": "Ayurveda",
+    "jugaad": "Neem Leaves ko scalp mein lagane se dandruff control mein aata hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "dandruff_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1040,
+    "title": "Haldi for Skin Brightening",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka regular use skin tone ko brighten karta hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "skin_brightening",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1041,
+    "title": "Aloe Vera for Natural Deodorant",
+    "category": "Ayurveda",
+    "jugaad": "Aloe Vera ko underarms mein lagakar badboo se bach sakte hain.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "natural_deodorant",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1042,
+    "title": "Baking Soda for Anti-Aging",
+    "category": "Ayurveda",
+    "jugaad": "Baking Soda fine lines aur wrinkles ko reduce karta hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "anti-aging",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1043,
+    "title": "Aloe Vera for Lip Care",
+    "category": "Ayurveda",
+    "jugaad": "Aloe Vera lips par lagane se lips soft aur pink ban jaate hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "lip_care",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1044,
+    "title": "Neem Leaves for Dark Circles",
+    "category": "Ayurveda",
+    "jugaad": "Neem Leaves ko eyes ke neeche lagakar dark circles ko reduce kiya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "dark_circles",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1045,
+    "title": "Apple Cider Vinegar for Dandruff Removal",
+    "category": "Ayurveda",
+    "jugaad": "Apple Cider Vinegar ko scalp mein lagane se dandruff control mein aata hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "dandruff_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1046,
+    "title": "Rose Water for Sunburn Relief",
+    "category": "Ayurveda",
+    "jugaad": "Rose Water sunburn par lagane se thandak milti hai aur redness kam hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "sunburn_relief",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1047,
+    "title": "Coconut Oil for Tanning Removal",
+    "category": "Ayurveda",
+    "jugaad": "Coconut Oil ko tanning wali jagah lagakar tan hata sakte hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "tanning_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1048,
+    "title": "Mint for Sunburn Relief",
+    "category": "Ayurveda",
+    "jugaad": "Mint sunburn par lagane se thandak milti hai aur redness kam hoti hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "sunburn_relief",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1049,
+    "title": "Cucumber for Pimple Treatment",
+    "category": "Ayurveda",
+    "jugaad": "Cucumber lagane se pimples kam hote hain aur skin clear hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "pimple_treatment",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1050,
+    "title": "Castor Oil for Eye Puffiness",
+    "category": "Ayurveda",
+    "jugaad": "Castor Oil lagane se aankhon ki sujan mein araam milta hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "eye_puffiness",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1051,
+    "title": "Rose Water for Hair Frizz Control",
+    "category": "Ayurveda",
+    "jugaad": "Rose Water frizzy baalon ko tame karta hai natural tareeke se.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "hair_frizz_control",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1052,
+    "title": "Besan for Skin Moisturizer",
+    "category": "Ayurveda",
+    "jugaad": "Besan ko skin par lagane se natural moisture maintain rehta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "skin_moisturizer",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1053,
+    "title": "Rose Water for Lip Care",
+    "category": "Ayurveda",
+    "jugaad": "Rose Water lips par lagane se lips soft aur pink ban jaate hain.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "lip_care",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1054,
+    "title": "Baking Soda for Lip Care",
+    "category": "Ayurveda",
+    "jugaad": "Baking Soda lips par lagane se lips soft aur pink ban jaate hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "lip_care",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1055,
+    "title": "Lemon Juice for Scalp Cooling",
+    "category": "Ayurveda",
+    "jugaad": "Lemon Juice lagakar scalp ko cool aur stress-free banaya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "scalp_cooling",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1056,
+    "title": "Besan for Hair Frizz Control",
+    "category": "Ayurveda",
+    "jugaad": "Besan frizzy baalon ko tame karta hai natural tareeke se.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "hair_frizz_control",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1057,
+    "title": "Aloe Vera for Sunburn Relief",
+    "category": "Ayurveda",
+    "jugaad": "Aloe Vera sunburn par lagane se thandak milti hai aur redness kam hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "sunburn_relief",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1058,
+    "title": "Aloe Vera for Tanning Removal",
+    "category": "Ayurveda",
+    "jugaad": "Aloe Vera ko tanning wali jagah lagakar tan hata sakte hain.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "tanning_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1059,
+    "title": "Sandalwood for Acne Marks",
+    "category": "Ayurveda",
+    "jugaad": "Sandalwood acne ke marks ko lighten karta hai natural tareeke se.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "acne_marks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1060,
+    "title": "Haldi for Sunburn Relief",
+    "category": "Ayurveda",
+    "jugaad": "Haldi sunburn par lagane se thandak milti hai aur redness kam hoti hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "sunburn_relief",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1061,
+    "title": "Multani Mitti for Hair Conditioner",
+    "category": "Ayurveda",
+    "jugaad": "Multani Mitti ko hair wash ke baad lagane se baal silky bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "hair_conditioner",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1062,
+    "title": "Aloe Vera for Dark Circles",
+    "category": "Ayurveda",
+    "jugaad": "Aloe Vera ko eyes ke neeche lagakar dark circles ko reduce kiya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "dark_circles",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1063,
+    "title": "Cucumber for Glowing Skin",
+    "category": "Ayurveda",
+    "jugaad": "Cucumber ko face pack mein use karke glowing skin paayi ja sakti hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "glowing_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1064,
+    "title": "Besan for Dandruff Removal",
+    "category": "Ayurveda",
+    "jugaad": "Besan ko scalp mein lagane se dandruff control mein aata hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "dandruff_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1065,
+    "title": "Besan for Acne Marks",
+    "category": "Ayurveda",
+    "jugaad": "Besan acne ke marks ko lighten karta hai natural tareeke se.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "acne_marks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1066,
+    "title": "Tulsi for Face Scrub",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi se bana scrub natural exfoliator ka kaam karta hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "face_scrub",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1067,
+    "title": "Multani Mitti for Scalp Cooling",
+    "category": "Ayurveda",
+    "jugaad": "Multani Mitti lagakar scalp ko cool aur stress-free banaya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "scalp_cooling",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1068,
+    "title": "Multani Mitti for Tanning Removal",
+    "category": "Ayurveda",
+    "jugaad": "Multani Mitti ko tanning wali jagah lagakar tan hata sakte hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "tanning_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1069,
+    "title": "Sandalwood for Scalp Cooling",
+    "category": "Ayurveda",
+    "jugaad": "Sandalwood lagakar scalp ko cool aur stress-free banaya ja sakta hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "scalp_cooling",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1070,
+    "title": "Sandalwood for Eye Puffiness",
+    "category": "Ayurveda",
+    "jugaad": "Sandalwood lagane se aankhon ki sujan mein araam milta hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "eye_puffiness",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1071,
+    "title": "Neem Leaves for Dry Skin",
+    "category": "Ayurveda",
+    "jugaad": "Neem Leaves ko dry areas pe lagakar skin hydrate ki ja sakti hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "dry_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1072,
+    "title": "Sandalwood for Glowing Skin",
+    "category": "Ayurveda",
+    "jugaad": "Sandalwood ko face pack mein use karke glowing skin paayi ja sakti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "glowing_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1073,
+    "title": "Cucumber for Skin Brightening",
+    "category": "Ayurveda",
+    "jugaad": "Cucumber ka regular use skin tone ko brighten karta hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "skin_brightening",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1074,
+    "title": "Apple Cider Vinegar for Natural Deodorant",
+    "category": "Ayurveda",
+    "jugaad": "Apple Cider Vinegar ko underarms mein lagakar badboo se bach sakte hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "natural_deodorant",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1075,
+    "title": "Apple Cider Vinegar for Acne Marks",
+    "category": "Ayurveda",
+    "jugaad": "Apple Cider Vinegar acne ke marks ko lighten karta hai natural tareeke se.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "acne_marks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1076,
+    "title": "Mint for Anti-Aging",
+    "category": "Ayurveda",
+    "jugaad": "Mint fine lines aur wrinkles ko reduce karta hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "anti-aging",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1077,
+    "title": "Castor Oil for Tanning Removal",
+    "category": "Ayurveda",
+    "jugaad": "Castor Oil ko tanning wali jagah lagakar tan hata sakte hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "tanning_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1078,
+    "title": "Apple Cider Vinegar for Pimple Treatment",
+    "category": "Ayurveda",
+    "jugaad": "Apple Cider Vinegar lagane se pimples kam hote hain aur skin clear hoti hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "pimple_treatment",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1079,
+    "title": "Mint for Dark Circles",
+    "category": "Ayurveda",
+    "jugaad": "Mint ko eyes ke neeche lagakar dark circles ko reduce kiya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "dark_circles",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1080,
+    "title": "Besan for Glowing Skin",
+    "category": "Ayurveda",
+    "jugaad": "Besan ko face pack mein use karke glowing skin paayi ja sakti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "glowing_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1081,
+    "title": "Aloe Vera for Glowing Skin",
+    "category": "Ayurveda",
+    "jugaad": "Aloe Vera ko face pack mein use karke glowing skin paayi ja sakti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "glowing_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1082,
+    "title": "Apple Cider Vinegar for Foot Cracks",
+    "category": "Ayurveda",
+    "jugaad": "Apple Cider Vinegar ko pairon ke talvon par lagakar cracks mein araam milta hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "foot_cracks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1083,
+    "title": "Besan for Face Scrub",
+    "category": "Ayurveda",
+    "jugaad": "Besan se bana scrub natural exfoliator ka kaam karta hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "face_scrub",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1084,
+    "title": "Coconut Oil for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Coconut Oil ko regular scalp massage mein use karne se baalon ki growth hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "hair_growth",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1085,
+    "title": "Castor Oil for Acne Marks",
+    "category": "Ayurveda",
+    "jugaad": "Castor Oil acne ke marks ko lighten karta hai natural tareeke se.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "acne_marks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1086,
+    "title": "Cucumber for Hair Frizz Control",
+    "category": "Ayurveda",
+    "jugaad": "Cucumber frizzy baalon ko tame karta hai natural tareeke se.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "hair_frizz_control",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1087,
+    "title": "Honey for Face Scrub",
+    "category": "Ayurveda",
+    "jugaad": "Honey se bana scrub natural exfoliator ka kaam karta hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "face_scrub",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1088,
+    "title": "Rose Water for Anti-Aging",
+    "category": "Ayurveda",
+    "jugaad": "Rose Water fine lines aur wrinkles ko reduce karta hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "anti-aging",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1089,
+    "title": "Tea Tree Oil for Tanning Removal",
+    "category": "Ayurveda",
+    "jugaad": "Tea Tree Oil ko tanning wali jagah lagakar tan hata sakte hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "tanning_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1090,
+    "title": "Honey for Hair Frizz Control",
+    "category": "Ayurveda",
+    "jugaad": "Honey frizzy baalon ko tame karta hai natural tareeke se.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "hair_frizz_control",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1091,
+    "title": "Aloe Vera for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Aloe Vera ko regular scalp massage mein use karne se baalon ki growth hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "hair_growth",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1092,
+    "title": "Coconut Oil for Sunburn Relief",
+    "category": "Ayurveda",
+    "jugaad": "Coconut Oil sunburn par lagane se thandak milti hai aur redness kam hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "sunburn_relief",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1093,
+    "title": "Coconut Oil for Anti-Aging",
+    "category": "Ayurveda",
+    "jugaad": "Coconut Oil fine lines aur wrinkles ko reduce karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "anti-aging",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1094,
+    "title": "Lemon Juice for Tanning Removal",
+    "category": "Ayurveda",
+    "jugaad": "Lemon Juice ko tanning wali jagah lagakar tan hata sakte hain.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "tanning_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1095,
+    "title": "Castor Oil for Glowing Skin",
+    "category": "Ayurveda",
+    "jugaad": "Castor Oil ko face pack mein use karke glowing skin paayi ja sakti hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "glowing_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1096,
+    "title": "Haldi for Lip Care",
+    "category": "Ayurveda",
+    "jugaad": "Haldi lips par lagane se lips soft aur pink ban jaate hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "lip_care",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1097,
+    "title": "Multani Mitti for Lip Care",
+    "category": "Ayurveda",
+    "jugaad": "Multani Mitti lips par lagane se lips soft aur pink ban jaate hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "lip_care",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1098,
+    "title": "Honey for Tanning Removal",
+    "category": "Ayurveda",
+    "jugaad": "Honey ko tanning wali jagah lagakar tan hata sakte hain.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "tanning_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1099,
+    "title": "Apple Cider Vinegar for Sunburn Relief",
+    "category": "Ayurveda",
+    "jugaad": "Apple Cider Vinegar sunburn par lagane se thandak milti hai aur redness kam hoti hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "sunburn_relief",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1100,
+    "title": "Lemon Juice for Glowing Skin",
+    "category": "Ayurveda",
+    "jugaad": "Lemon Juice ko face pack mein use karke glowing skin paayi ja sakti hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "glowing_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1101,
+    "title": "Sandalwood for Natural Deodorant",
+    "category": "Ayurveda",
+    "jugaad": "Sandalwood ko underarms mein lagakar badboo se bach sakte hain.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "natural_deodorant",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1102,
+    "title": "Multani Mitti for Sunburn Relief",
+    "category": "Ayurveda",
+    "jugaad": "Multani Mitti sunburn par lagane se thandak milti hai aur redness kam hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "sunburn_relief",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1103,
+    "title": "Apple Cider Vinegar for Tanning Removal",
+    "category": "Ayurveda",
+    "jugaad": "Apple Cider Vinegar ko tanning wali jagah lagakar tan hata sakte hain.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "tanning_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1104,
+    "title": "Tulsi for Eye Puffiness",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi lagane se aankhon ki sujan mein araam milta hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "eye_puffiness",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1105,
+    "title": "Besan for Scalp Cooling",
+    "category": "Ayurveda",
+    "jugaad": "Besan lagakar scalp ko cool aur stress-free banaya ja sakta hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "scalp_cooling",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1106,
+    "title": "Apple Cider Vinegar for Glowing Skin",
+    "category": "Ayurveda",
+    "jugaad": "Apple Cider Vinegar ko face pack mein use karke glowing skin paayi ja sakti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "glowing_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1107,
+    "title": "Cucumber for Lip Care",
+    "category": "Ayurveda",
+    "jugaad": "Cucumber lips par lagane se lips soft aur pink ban jaate hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "lip_care",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1108,
+    "title": "Baking Soda for Skin Moisturizer",
+    "category": "Ayurveda",
+    "jugaad": "Baking Soda ko skin par lagane se natural moisture maintain rehta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "skin_moisturizer",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1109,
+    "title": "Mint for Skin Moisturizer",
+    "category": "Ayurveda",
+    "jugaad": "Mint ko skin par lagane se natural moisture maintain rehta hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "skin_moisturizer",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1110,
+    "title": "Multani Mitti for Natural Deodorant",
+    "category": "Ayurveda",
+    "jugaad": "Multani Mitti ko underarms mein lagakar badboo se bach sakte hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "natural_deodorant",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1111,
+    "title": "Aloe Vera for Foot Cracks",
+    "category": "Ayurveda",
+    "jugaad": "Aloe Vera ko pairon ke talvon par lagakar cracks mein araam milta hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "foot_cracks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1112,
+    "title": "Yogurt for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Yogurt ko regular scalp massage mein use karne se baalon ki growth hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "hair_growth",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1113,
+    "title": "Mint for Foot Cracks",
+    "category": "Ayurveda",
+    "jugaad": "Mint ko pairon ke talvon par lagakar cracks mein araam milta hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "foot_cracks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1114,
+    "title": "Lemon Juice for Face Scrub",
+    "category": "Ayurveda",
+    "jugaad": "Lemon Juice se bana scrub natural exfoliator ka kaam karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "face_scrub",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1115,
+    "title": "Rose Water for Tanning Removal",
+    "category": "Ayurveda",
+    "jugaad": "Rose Water ko tanning wali jagah lagakar tan hata sakte hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "tanning_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1116,
+    "title": "Besan for Hair Conditioner",
+    "category": "Ayurveda",
+    "jugaad": "Besan ko hair wash ke baad lagane se baal silky bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "hair_conditioner",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1117,
+    "title": "Tea Tree Oil for Hair Conditioner",
+    "category": "Ayurveda",
+    "jugaad": "Tea Tree Oil ko hair wash ke baad lagane se baal silky bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "hair_conditioner",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1118,
+    "title": "Honey for Sunburn Relief",
+    "category": "Ayurveda",
+    "jugaad": "Honey sunburn par lagane se thandak milti hai aur redness kam hoti hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "sunburn_relief",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1119,
+    "title": "Aloe Vera for Dry Skin",
+    "category": "Ayurveda",
+    "jugaad": "Aloe Vera ko dry areas pe lagakar skin hydrate ki ja sakti hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "dry_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1120,
+    "title": "Tea Tree Oil for Lip Care",
+    "category": "Ayurveda",
+    "jugaad": "Tea Tree Oil lips par lagane se lips soft aur pink ban jaate hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "lip_care",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1121,
+    "title": "Yogurt for Tanning Removal",
+    "category": "Ayurveda",
+    "jugaad": "Yogurt ko tanning wali jagah lagakar tan hata sakte hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "tanning_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1122,
+    "title": "Lemon Juice for Dry Skin",
+    "category": "Ayurveda",
+    "jugaad": "Lemon Juice ko dry areas pe lagakar skin hydrate ki ja sakti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "dry_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1123,
+    "title": "Coconut Oil for Hair Conditioner",
+    "category": "Ayurveda",
+    "jugaad": "Coconut Oil ko hair wash ke baad lagane se baal silky bante hain.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "hair_conditioner",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1124,
+    "title": "Honey for Skin Moisturizer",
+    "category": "Ayurveda",
+    "jugaad": "Honey ko skin par lagane se natural moisture maintain rehta hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "skin_moisturizer",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1125,
+    "title": "Neem Leaves for Foot Cracks",
+    "category": "Ayurveda",
+    "jugaad": "Neem Leaves ko pairon ke talvon par lagakar cracks mein araam milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "foot_cracks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1126,
+    "title": "Rose Water for Eye Puffiness",
+    "category": "Ayurveda",
+    "jugaad": "Rose Water lagane se aankhon ki sujan mein araam milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "eye_puffiness",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1127,
+    "title": "Besan for Eye Puffiness",
+    "category": "Ayurveda",
+    "jugaad": "Besan lagane se aankhon ki sujan mein araam milta hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "eye_puffiness",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1128,
+    "title": "Cucumber for Hair Conditioner",
+    "category": "Ayurveda",
+    "jugaad": "Cucumber ko hair wash ke baad lagane se baal silky bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "hair_conditioner",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1129,
+    "title": "Sandalwood for Anti-Aging",
+    "category": "Ayurveda",
+    "jugaad": "Sandalwood fine lines aur wrinkles ko reduce karta hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "anti-aging",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1130,
+    "title": "Lemon Juice for Acne Marks",
+    "category": "Ayurveda",
+    "jugaad": "Lemon Juice acne ke marks ko lighten karta hai natural tareeke se.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "acne_marks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1131,
+    "title": "Tea Tree Oil for Pimple Treatment",
+    "category": "Ayurveda",
+    "jugaad": "Tea Tree Oil lagane se pimples kam hote hain aur skin clear hoti hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "pimple_treatment",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1132,
+    "title": "Aloe Vera for Scalp Cooling",
+    "category": "Ayurveda",
+    "jugaad": "Aloe Vera lagakar scalp ko cool aur stress-free banaya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "scalp_cooling",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1133,
+    "title": "Castor Oil for Foot Cracks",
+    "category": "Ayurveda",
+    "jugaad": "Castor Oil ko pairon ke talvon par lagakar cracks mein araam milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "foot_cracks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1134,
+    "title": "Castor Oil for Dry Skin",
+    "category": "Ayurveda",
+    "jugaad": "Castor Oil ko dry areas pe lagakar skin hydrate ki ja sakti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "dry_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1135,
+    "title": "Coconut Oil for Foot Cracks",
+    "category": "Ayurveda",
+    "jugaad": "Coconut Oil ko pairon ke talvon par lagakar cracks mein araam milta hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "foot_cracks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1136,
+    "title": "Baking Soda for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Baking Soda ko regular scalp massage mein use karne se baalon ki growth hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "hair_growth",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1137,
+    "title": "Yogurt for Glowing Skin",
+    "category": "Ayurveda",
+    "jugaad": "Yogurt ko face pack mein use karke glowing skin paayi ja sakti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "glowing_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1138,
+    "title": "Apple Cider Vinegar for Eye Puffiness",
+    "category": "Ayurveda",
+    "jugaad": "Apple Cider Vinegar lagane se aankhon ki sujan mein araam milta hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "eye_puffiness",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1139,
+    "title": "Cucumber for Acne Marks",
+    "category": "Ayurveda",
+    "jugaad": "Cucumber acne ke marks ko lighten karta hai natural tareeke se.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "acne_marks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1140,
+    "title": "Haldi for Natural Deodorant",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ko underarms mein lagakar badboo se bach sakte hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "natural_deodorant",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1141,
+    "title": "Tea Tree Oil for Anti-Aging",
+    "category": "Ayurveda",
+    "jugaad": "Tea Tree Oil fine lines aur wrinkles ko reduce karta hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "anti-aging",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1142,
+    "title": "Multani Mitti for Anti-Aging",
+    "category": "Ayurveda",
+    "jugaad": "Multani Mitti fine lines aur wrinkles ko reduce karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "anti-aging",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1143,
+    "title": "Apple Cider Vinegar for Dark Circles",
+    "category": "Ayurveda",
+    "jugaad": "Apple Cider Vinegar ko eyes ke neeche lagakar dark circles ko reduce kiya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "dark_circles",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1144,
+    "title": "Rose Water for Natural Deodorant",
+    "category": "Ayurveda",
+    "jugaad": "Rose Water ko underarms mein lagakar badboo se bach sakte hain.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "natural_deodorant",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1145,
+    "title": "Mint for Face Scrub",
+    "category": "Ayurveda",
+    "jugaad": "Mint se bana scrub natural exfoliator ka kaam karta hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "face_scrub",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1146,
+    "title": "Multani Mitti for Foot Cracks",
+    "category": "Ayurveda",
+    "jugaad": "Multani Mitti ko pairon ke talvon par lagakar cracks mein araam milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "foot_cracks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1147,
+    "title": "Yogurt for Lip Care",
+    "category": "Ayurveda",
+    "jugaad": "Yogurt lips par lagane se lips soft aur pink ban jaate hain.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "lip_care",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1148,
+    "title": "Besan for Anti-Aging",
+    "category": "Ayurveda",
+    "jugaad": "Besan fine lines aur wrinkles ko reduce karta hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "anti-aging",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1149,
+    "title": "Yogurt for Skin Moisturizer",
+    "category": "Ayurveda",
+    "jugaad": "Yogurt ko skin par lagane se natural moisture maintain rehta hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "skin_moisturizer",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1150,
+    "title": "Tea Tree Oil for Foot Cracks",
+    "category": "Ayurveda",
+    "jugaad": "Tea Tree Oil ko pairon ke talvon par lagakar cracks mein araam milta hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "foot_cracks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1151,
+    "title": "Baking Soda for Hair Conditioner",
+    "category": "Ayurveda",
+    "jugaad": "Baking Soda ko hair wash ke baad lagane se baal silky bante hain.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "hair_conditioner",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1152,
+    "title": "Rose Water for Dry Skin",
+    "category": "Ayurveda",
+    "jugaad": "Rose Water ko dry areas pe lagakar skin hydrate ki ja sakti hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "dry_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1153,
+    "title": "Cucumber for Scalp Cooling",
+    "category": "Ayurveda",
+    "jugaad": "Cucumber lagakar scalp ko cool aur stress-free banaya ja sakta hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "scalp_cooling",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1154,
+    "title": "Haldi for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ko regular scalp massage mein use karne se baalon ki growth hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "hair_growth",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1155,
+    "title": "Castor Oil for Anti-Aging",
+    "category": "Ayurveda",
+    "jugaad": "Castor Oil fine lines aur wrinkles ko reduce karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "anti-aging",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1156,
+    "title": "Lemon Juice for Skin Brightening",
+    "category": "Ayurveda",
+    "jugaad": "Lemon Juice ka regular use skin tone ko brighten karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "skin_brightening",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1157,
+    "title": "Mint for Pimple Treatment",
+    "category": "Ayurveda",
+    "jugaad": "Mint lagane se pimples kam hote hain aur skin clear hoti hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "pimple_treatment",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1158,
+    "title": "Sandalwood for Dry Skin",
+    "category": "Ayurveda",
+    "jugaad": "Sandalwood ko dry areas pe lagakar skin hydrate ki ja sakti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "dry_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1159,
+    "title": "Rose Water for Skin Moisturizer",
+    "category": "Ayurveda",
+    "jugaad": "Rose Water ko skin par lagane se natural moisture maintain rehta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "skin_moisturizer",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1160,
+    "title": "Honey for Natural Deodorant",
+    "category": "Ayurveda",
+    "jugaad": "Honey ko underarms mein lagakar badboo se bach sakte hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "natural_deodorant",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1161,
+    "title": "Tulsi for Dark Circles",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ko eyes ke neeche lagakar dark circles ko reduce kiya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "dark_circles",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1162,
+    "title": "Yogurt for Pimple Treatment",
+    "category": "Ayurveda",
+    "jugaad": "Yogurt lagane se pimples kam hote hain aur skin clear hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "pimple_treatment",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1163,
+    "title": "Mint for Glowing Skin",
+    "category": "Ayurveda",
+    "jugaad": "Mint ko face pack mein use karke glowing skin paayi ja sakti hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "glowing_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1164,
+    "title": "Tulsi for Dry Skin",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ko dry areas pe lagakar skin hydrate ki ja sakti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "dry_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1165,
+    "title": "Haldi for Foot Cracks",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ko pairon ke talvon par lagakar cracks mein araam milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "foot_cracks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1166,
+    "title": "Cucumber for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Cucumber ko regular scalp massage mein use karne se baalon ki growth hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "hair_growth",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1167,
+    "title": "Tea Tree Oil for Scalp Cooling",
+    "category": "Ayurveda",
+    "jugaad": "Tea Tree Oil lagakar scalp ko cool aur stress-free banaya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "scalp_cooling",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1168,
+    "title": "Coconut Oil for Pimple Treatment",
+    "category": "Ayurveda",
+    "jugaad": "Coconut Oil lagane se pimples kam hote hain aur skin clear hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "pimple_treatment",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1169,
+    "title": "Honey for Dry Skin",
+    "category": "Ayurveda",
+    "jugaad": "Honey ko dry areas pe lagakar skin hydrate ki ja sakti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "dry_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1170,
+    "title": "Baking Soda for Face Scrub",
+    "category": "Ayurveda",
+    "jugaad": "Baking Soda se bana scrub natural exfoliator ka kaam karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "face_scrub",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1171,
+    "title": "Tea Tree Oil for Natural Deodorant",
+    "category": "Ayurveda",
+    "jugaad": "Tea Tree Oil ko underarms mein lagakar badboo se bach sakte hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "natural_deodorant",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1172,
+    "title": "Lemon Juice for Eye Puffiness",
+    "category": "Ayurveda",
+    "jugaad": "Lemon Juice lagane se aankhon ki sujan mein araam milta hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "eye_puffiness",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1173,
+    "title": "Cucumber for Eye Puffiness",
+    "category": "Ayurveda",
+    "jugaad": "Cucumber lagane se aankhon ki sujan mein araam milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "eye_puffiness",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1174,
+    "title": "Yogurt for Anti-Aging",
+    "category": "Ayurveda",
+    "jugaad": "Yogurt fine lines aur wrinkles ko reduce karta hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "anti-aging",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1175,
+    "title": "Tulsi for Hair Conditioner",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ko hair wash ke baad lagane se baal silky bante hain.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "hair_conditioner",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1176,
+    "title": "Haldi for Skin Moisturizer",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ko skin par lagane se natural moisture maintain rehta hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "skin_moisturizer",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1177,
+    "title": "Coconut Oil for Acne Marks",
+    "category": "Ayurveda",
+    "jugaad": "Coconut Oil acne ke marks ko lighten karta hai natural tareeke se.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "acne_marks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1178,
+    "title": "Honey for Lip Care",
+    "category": "Ayurveda",
+    "jugaad": "Honey lips par lagane se lips soft aur pink ban jaate hain.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "lip_care",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1179,
+    "title": "Yogurt for Foot Cracks",
+    "category": "Ayurveda",
+    "jugaad": "Yogurt ko pairon ke talvon par lagakar cracks mein araam milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "foot_cracks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1180,
+    "title": "Baking Soda for Skin Brightening",
+    "category": "Ayurveda",
+    "jugaad": "Baking Soda ka regular use skin tone ko brighten karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "skin_brightening",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1181,
+    "title": "Cucumber for Natural Deodorant",
+    "category": "Ayurveda",
+    "jugaad": "Cucumber ko underarms mein lagakar badboo se bach sakte hain.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "natural_deodorant",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1182,
+    "title": "Neem Leaves for Eye Puffiness",
+    "category": "Ayurveda",
+    "jugaad": "Neem Leaves lagane se aankhon ki sujan mein araam milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "eye_puffiness",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1183,
+    "title": "Apple Cider Vinegar for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Apple Cider Vinegar ko regular scalp massage mein use karne se baalon ki growth hoti hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "hair_growth",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1184,
+    "title": "Multani Mitti for Eye Puffiness",
+    "category": "Ayurveda",
+    "jugaad": "Multani Mitti lagane se aankhon ki sujan mein araam milta hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "eye_puffiness",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1185,
+    "title": "Neem Leaves for Pimple Treatment",
+    "category": "Ayurveda",
+    "jugaad": "Neem Leaves lagane se pimples kam hote hain aur skin clear hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "pimple_treatment",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1186,
+    "title": "Coconut Oil for Natural Deodorant",
+    "category": "Ayurveda",
+    "jugaad": "Coconut Oil ko underarms mein lagakar badboo se bach sakte hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "natural_deodorant",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1187,
+    "title": "Castor Oil for Scalp Cooling",
+    "category": "Ayurveda",
+    "jugaad": "Castor Oil lagakar scalp ko cool aur stress-free banaya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "scalp_cooling",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1188,
+    "title": "Baking Soda for Acne Marks",
+    "category": "Ayurveda",
+    "jugaad": "Baking Soda acne ke marks ko lighten karta hai natural tareeke se.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "acne_marks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1189,
+    "title": "Mint for Hair Conditioner",
+    "category": "Ayurveda",
+    "jugaad": "Mint ko hair wash ke baad lagane se baal silky bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "hair_conditioner",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1190,
+    "title": "Rose Water for Foot Cracks",
+    "category": "Ayurveda",
+    "jugaad": "Rose Water ko pairon ke talvon par lagakar cracks mein araam milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "foot_cracks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1191,
+    "title": "Coconut Oil for Skin Moisturizer",
+    "category": "Ayurveda",
+    "jugaad": "Coconut Oil ko skin par lagane se natural moisture maintain rehta hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "skin_moisturizer",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1192,
+    "title": "Tulsi for Skin Moisturizer",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ko skin par lagane se natural moisture maintain rehta hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "skin_moisturizer",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1193,
+    "title": "Besan for Lip Care",
+    "category": "Ayurveda",
+    "jugaad": "Besan lips par lagane se lips soft aur pink ban jaate hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "lip_care",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1194,
+    "title": "Neem Leaves for Sunburn Relief",
+    "category": "Ayurveda",
+    "jugaad": "Neem Leaves sunburn par lagane se thandak milti hai aur redness kam hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "sunburn_relief",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1195,
+    "title": "Lemon Juice for Dandruff Removal",
+    "category": "Ayurveda",
+    "jugaad": "Lemon Juice ko scalp mein lagane se dandruff control mein aata hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "dandruff_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1196,
+    "title": "Tulsi for Anti-Aging",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi fine lines aur wrinkles ko reduce karta hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "anti-aging",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1197,
+    "title": "Sandalwood for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Sandalwood ko regular scalp massage mein use karne se baalon ki growth hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "hair_growth",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1198,
+    "title": "Sandalwood for Foot Cracks",
+    "category": "Ayurveda",
+    "jugaad": "Sandalwood ko pairon ke talvon par lagakar cracks mein araam milta hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "foot_cracks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1199,
+    "title": "Sandalwood for Tanning Removal",
+    "category": "Ayurveda",
+    "jugaad": "Sandalwood ko tanning wali jagah lagakar tan hata sakte hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "tanning_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1200,
+    "title": "Yogurt for Acne Marks",
+    "category": "Ayurveda",
+    "jugaad": "Yogurt acne ke marks ko lighten karta hai natural tareeke se.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "acne_marks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1201,
+    "title": "Cucumber for Face Scrub",
+    "category": "Ayurveda",
+    "jugaad": "Cucumber se bana scrub natural exfoliator ka kaam karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "face_scrub",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1202,
+    "title": "Yogurt for Eye Puffiness",
+    "category": "Ayurveda",
+    "jugaad": "Yogurt lagane se aankhon ki sujan mein araam milta hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "eye_puffiness",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1203,
+    "title": "Haldi for Scalp Cooling",
+    "category": "Ayurveda",
+    "jugaad": "Haldi lagakar scalp ko cool aur stress-free banaya ja sakta hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "scalp_cooling",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1204,
+    "title": "Sandalwood for Pimple Treatment",
+    "category": "Ayurveda",
+    "jugaad": "Sandalwood lagane se pimples kam hote hain aur skin clear hoti hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "pimple_treatment",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1205,
+    "title": "Cucumber for Foot Cracks",
+    "category": "Ayurveda",
+    "jugaad": "Cucumber ko pairon ke talvon par lagakar cracks mein araam milta hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "foot_cracks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1206,
+    "title": "Mint for Scalp Cooling",
+    "category": "Ayurveda",
+    "jugaad": "Mint lagakar scalp ko cool aur stress-free banaya ja sakta hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "scalp_cooling",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1207,
+    "title": "Lemon Juice for Sunburn Relief",
+    "category": "Ayurveda",
+    "jugaad": "Lemon Juice sunburn par lagane se thandak milti hai aur redness kam hoti hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "sunburn_relief",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1208,
+    "title": "Tea Tree Oil for Skin Moisturizer",
+    "category": "Ayurveda",
+    "jugaad": "Tea Tree Oil ko skin par lagane se natural moisture maintain rehta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "skin_moisturizer",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1209,
+    "title": "Tulsi for Dandruff Removal",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ko scalp mein lagane se dandruff control mein aata hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "dandruff_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1210,
+    "title": "Tea Tree Oil for Glowing Skin",
+    "category": "Ayurveda",
+    "jugaad": "Tea Tree Oil ko face pack mein use karke glowing skin paayi ja sakti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "glowing_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1211,
+    "title": "Besan for Dry Skin",
+    "category": "Ayurveda",
+    "jugaad": "Besan ko dry areas pe lagakar skin hydrate ki ja sakti hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "dry_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1212,
+    "title": "Coconut Oil for Skin Brightening",
+    "category": "Ayurveda",
+    "jugaad": "Coconut Oil ka regular use skin tone ko brighten karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "skin_brightening",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1213,
+    "title": "Tea Tree Oil for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Tea Tree Oil ko regular scalp massage mein use karne se baalon ki growth hoti hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "hair_growth",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1214,
+    "title": "Honey for Dark Circles",
+    "category": "Ayurveda",
+    "jugaad": "Honey ko eyes ke neeche lagakar dark circles ko reduce kiya ja sakta hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "dark_circles",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1215,
+    "title": "Honey for Dandruff Removal",
+    "category": "Ayurveda",
+    "jugaad": "Honey ko scalp mein lagane se dandruff control mein aata hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "dandruff_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1216,
+    "title": "Sandalwood for Sunburn Relief",
+    "category": "Ayurveda",
+    "jugaad": "Sandalwood sunburn par lagane se thandak milti hai aur redness kam hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "sunburn_relief",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1217,
+    "title": "Baking Soda for Natural Deodorant",
+    "category": "Ayurveda",
+    "jugaad": "Baking Soda ko underarms mein lagakar badboo se bach sakte hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "natural_deodorant",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1218,
+    "title": "Tulsi for Hair Frizz Control",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi frizzy baalon ko tame karta hai natural tareeke se.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "hair_frizz_control",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1219,
+    "title": "Multani Mitti for Dry Skin",
+    "category": "Ayurveda",
+    "jugaad": "Multani Mitti ko dry areas pe lagakar skin hydrate ki ja sakti hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "dry_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1220,
+    "title": "Rose Water for Dark Circles",
+    "category": "Ayurveda",
+    "jugaad": "Rose Water ko eyes ke neeche lagakar dark circles ko reduce kiya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "dark_circles",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1221,
+    "title": "Honey for Acne Marks",
+    "category": "Ayurveda",
+    "jugaad": "Honey acne ke marks ko lighten karta hai natural tareeke se.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "acne_marks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1222,
+    "title": "Mint for Natural Deodorant",
+    "category": "Ayurveda",
+    "jugaad": "Mint ko underarms mein lagakar badboo se bach sakte hain.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "natural_deodorant",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1223,
+    "title": "Besan for Tanning Removal",
+    "category": "Ayurveda",
+    "jugaad": "Besan ko tanning wali jagah lagakar tan hata sakte hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "tanning_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1224,
+    "title": "Apple Cider Vinegar for Hair Conditioner",
+    "category": "Ayurveda",
+    "jugaad": "Apple Cider Vinegar ko hair wash ke baad lagane se baal silky bante hain.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "hair_conditioner",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1225,
+    "title": "Baking Soda for Scalp Cooling",
+    "category": "Ayurveda",
+    "jugaad": "Baking Soda lagakar scalp ko cool aur stress-free banaya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "scalp_cooling",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1226,
+    "title": "Sandalwood for Lip Care",
+    "category": "Ayurveda",
+    "jugaad": "Sandalwood lips par lagane se lips soft aur pink ban jaate hain.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "lip_care",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1227,
+    "title": "Mint for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Mint ko regular scalp massage mein use karne se baalon ki growth hoti hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "hair_growth",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1228,
+    "title": "Honey for Foot Cracks",
+    "category": "Ayurveda",
+    "jugaad": "Honey ko pairon ke talvon par lagakar cracks mein araam milta hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "foot_cracks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1229,
+    "title": "Multani Mitti for Dark Circles",
+    "category": "Ayurveda",
+    "jugaad": "Multani Mitti ko eyes ke neeche lagakar dark circles ko reduce kiya ja sakta hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "dark_circles",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1230,
+    "title": "Yogurt for Skin Brightening",
+    "category": "Ayurveda",
+    "jugaad": "Yogurt ka regular use skin tone ko brighten karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "skin_brightening",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1231,
+    "title": "Yogurt for Natural Deodorant",
+    "category": "Ayurveda",
+    "jugaad": "Yogurt ko underarms mein lagakar badboo se bach sakte hain.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "natural_deodorant",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1232,
+    "title": "Aloe Vera for Hair Conditioner",
+    "category": "Ayurveda",
+    "jugaad": "Aloe Vera ko hair wash ke baad lagane se baal silky bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "hair_conditioner",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1233,
+    "title": "Neem Leaves for Hair Conditioner",
+    "category": "Ayurveda",
+    "jugaad": "Neem Leaves ko hair wash ke baad lagane se baal silky bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "hair_conditioner",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1234,
+    "title": "Apple Cider Vinegar for Skin Moisturizer",
+    "category": "Ayurveda",
+    "jugaad": "Apple Cider Vinegar ko skin par lagane se natural moisture maintain rehta hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "skin_moisturizer",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1235,
+    "title": "Apple Cider Vinegar for Anti-Aging",
+    "category": "Ayurveda",
+    "jugaad": "Apple Cider Vinegar fine lines aur wrinkles ko reduce karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "anti-aging",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1236,
+    "title": "Baking Soda for Dry Skin",
+    "category": "Ayurveda",
+    "jugaad": "Baking Soda ko dry areas pe lagakar skin hydrate ki ja sakti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "dry_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1237,
+    "title": "Castor Oil for Skin Brightening",
+    "category": "Ayurveda",
+    "jugaad": "Castor Oil ka regular use skin tone ko brighten karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "skin_brightening",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1238,
+    "title": "Aloe Vera for Skin Brightening",
+    "category": "Ayurveda",
+    "jugaad": "Aloe Vera ka regular use skin tone ko brighten karta hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "skin_brightening",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1239,
+    "title": "Neem Leaves for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Neem Leaves ko regular scalp massage mein use karne se baalon ki growth hoti hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "hair_growth",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1240,
+    "title": "Honey for Skin Brightening",
+    "category": "Ayurveda",
+    "jugaad": "Honey ka regular use skin tone ko brighten karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "skin_brightening",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1241,
+    "title": "Tea Tree Oil for Sunburn Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tea Tree Oil sunburn par lagane se thandak milti hai aur redness kam hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "sunburn_relief",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1242,
+    "title": "Tulsi for Scalp Cooling",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi lagakar scalp ko cool aur stress-free banaya ja sakta hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "scalp_cooling",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1243,
+    "title": "Mint for Dandruff Removal",
+    "category": "Ayurveda",
+    "jugaad": "Mint ko scalp mein lagane se dandruff control mein aata hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "dandruff_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1244,
+    "title": "Baking Soda for Sunburn Relief",
+    "category": "Ayurveda",
+    "jugaad": "Baking Soda sunburn par lagane se thandak milti hai aur redness kam hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "sunburn_relief",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1245,
+    "title": "Besan for Sunburn Relief",
+    "category": "Ayurveda",
+    "jugaad": "Besan sunburn par lagane se thandak milti hai aur redness kam hoti hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "sunburn_relief",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1246,
+    "title": "Apple Cider Vinegar for Face Scrub",
+    "category": "Ayurveda",
+    "jugaad": "Apple Cider Vinegar se bana scrub natural exfoliator ka kaam karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "face_scrub",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1247,
+    "title": "Coconut Oil for Glowing Skin",
+    "category": "Ayurveda",
+    "jugaad": "Coconut Oil ko face pack mein use karke glowing skin paayi ja sakti hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "glowing_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1248,
+    "title": "Multani Mitti for Dandruff Removal",
+    "category": "Ayurveda",
+    "jugaad": "Multani Mitti ko scalp mein lagane se dandruff control mein aata hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "dandruff_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1249,
+    "title": "Castor Oil for Dandruff Removal",
+    "category": "Ayurveda",
+    "jugaad": "Castor Oil ko scalp mein lagane se dandruff control mein aata hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "dandruff_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1250,
+    "title": "Multani Mitti for Acne Marks",
+    "category": "Ayurveda",
+    "jugaad": "Multani Mitti acne ke marks ko lighten karta hai natural tareeke se.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "acne_marks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1251,
+    "title": "Besan for Skin Brightening",
+    "category": "Ayurveda",
+    "jugaad": "Besan ka regular use skin tone ko brighten karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "skin_brightening",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1252,
+    "title": "Coconut Oil for Scalp Cooling",
+    "category": "Ayurveda",
+    "jugaad": "Coconut Oil lagakar scalp ko cool aur stress-free banaya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "scalp_cooling",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1253,
+    "title": "Tulsi for Pimple Treatment",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi lagane se pimples kam hote hain aur skin clear hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "pimple_treatment",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1254,
+    "title": "Tulsi for Foot Cracks",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ko pairon ke talvon par lagakar cracks mein araam milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "foot_cracks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1255,
+    "title": "Neem Leaves for Natural Deodorant",
+    "category": "Ayurveda",
+    "jugaad": "Neem Leaves ko underarms mein lagakar badboo se bach sakte hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "natural_deodorant",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1256,
+    "title": "Haldi for Dark Circles",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ko eyes ke neeche lagakar dark circles ko reduce kiya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "dark_circles",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1257,
+    "title": "Rose Water for Acne Marks",
+    "category": "Ayurveda",
+    "jugaad": "Rose Water acne ke marks ko lighten karta hai natural tareeke se.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "acne_marks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1258,
+    "title": "Sandalwood for Face Scrub",
+    "category": "Ayurveda",
+    "jugaad": "Sandalwood se bana scrub natural exfoliator ka kaam karta hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "face_scrub",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1259,
+    "title": "Lemon Juice for Hair Conditioner",
+    "category": "Ayurveda",
+    "jugaad": "Lemon Juice ko hair wash ke baad lagane se baal silky bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "hair_conditioner",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1260,
+    "title": "Haldi for Hair Frizz Control",
+    "category": "Ayurveda",
+    "jugaad": "Haldi frizzy baalon ko tame karta hai natural tareeke se.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "hair_frizz_control",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1261,
+    "title": "Yogurt for Hair Frizz Control",
+    "category": "Ayurveda",
+    "jugaad": "Yogurt frizzy baalon ko tame karta hai natural tareeke se.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "hair_frizz_control",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1262,
+    "title": "Lemon Juice for Foot Cracks",
+    "category": "Ayurveda",
+    "jugaad": "Lemon Juice ko pairon ke talvon par lagakar cracks mein araam milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "foot_cracks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1263,
+    "title": "Coconut Oil for Dark Circles",
+    "category": "Ayurveda",
+    "jugaad": "Coconut Oil ko eyes ke neeche lagakar dark circles ko reduce kiya ja sakta hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "dark_circles",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1264,
+    "title": "Castor Oil for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Castor Oil ko regular scalp massage mein use karne se baalon ki growth hoti hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "hair_growth",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1265,
+    "title": "Coconut Oil for Lip Care",
+    "category": "Ayurveda",
+    "jugaad": "Coconut Oil lips par lagane se lips soft aur pink ban jaate hain.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "lip_care",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1266,
+    "title": "Neem Leaves for Face Scrub",
+    "category": "Ayurveda",
+    "jugaad": "Neem Leaves se bana scrub natural exfoliator ka kaam karta hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "face_scrub",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1267,
+    "title": "Lemon Juice for Hair Frizz Control",
+    "category": "Ayurveda",
+    "jugaad": "Lemon Juice frizzy baalon ko tame karta hai natural tareeke se.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "hair_frizz_control",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1268,
+    "title": "Mint for Skin Brightening",
+    "category": "Ayurveda",
+    "jugaad": "Mint ka regular use skin tone ko brighten karta hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "skin_brightening",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1269,
+    "title": "Honey for Scalp Cooling",
+    "category": "Ayurveda",
+    "jugaad": "Honey lagakar scalp ko cool aur stress-free banaya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "scalp_cooling",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1270,
+    "title": "Honey for Eye Puffiness",
+    "category": "Ayurveda",
+    "jugaad": "Honey lagane se aankhon ki sujan mein araam milta hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "eye_puffiness",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1271,
+    "title": "Aloe Vera for Hair Frizz Control",
+    "category": "Ayurveda",
+    "jugaad": "Aloe Vera frizzy baalon ko tame karta hai natural tareeke se.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "hair_frizz_control",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1272,
+    "title": "Besan for Natural Deodorant",
+    "category": "Ayurveda",
+    "jugaad": "Besan ko underarms mein lagakar badboo se bach sakte hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "natural_deodorant",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1273,
+    "title": "Aloe Vera for Anti-Aging",
+    "category": "Ayurveda",
+    "jugaad": "Aloe Vera fine lines aur wrinkles ko reduce karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "anti-aging",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1274,
+    "title": "Multani Mitti for Pimple Treatment",
+    "category": "Ayurveda",
+    "jugaad": "Multani Mitti lagane se pimples kam hote hain aur skin clear hoti hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "pimple_treatment",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1275,
+    "title": "Tulsi for Tanning Removal",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ko tanning wali jagah lagakar tan hata sakte hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "tanning_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1276,
+    "title": "Sandalwood for Dark Circles",
+    "category": "Ayurveda",
+    "jugaad": "Sandalwood ko eyes ke neeche lagakar dark circles ko reduce kiya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "dark_circles",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1277,
+    "title": "Besan for Pimple Treatment",
+    "category": "Ayurveda",
+    "jugaad": "Besan lagane se pimples kam hote hain aur skin clear hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "pimple_treatment",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1278,
+    "title": "Baking Soda for Hair Frizz Control",
+    "category": "Ayurveda",
+    "jugaad": "Baking Soda frizzy baalon ko tame karta hai natural tareeke se.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "hair_frizz_control",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1279,
+    "title": "Aloe Vera for Skin Moisturizer",
+    "category": "Ayurveda",
+    "jugaad": "Aloe Vera ko skin par lagane se natural moisture maintain rehta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "skin_moisturizer",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1280,
+    "title": "Yogurt for Scalp Cooling",
+    "category": "Ayurveda",
+    "jugaad": "Yogurt lagakar scalp ko cool aur stress-free banaya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "scalp_cooling",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1281,
+    "title": "Haldi for Tanning Removal",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ko tanning wali jagah lagakar tan hata sakte hain.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "tanning_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1282,
+    "title": "Coconut Oil for Face Scrub",
+    "category": "Ayurveda",
+    "jugaad": "Coconut Oil se bana scrub natural exfoliator ka kaam karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "face_scrub",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1283,
+    "title": "Besan for Foot Cracks",
+    "category": "Ayurveda",
+    "jugaad": "Besan ko pairon ke talvon par lagakar cracks mein araam milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "foot_cracks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1284,
+    "title": "Apple Cider Vinegar for Skin Brightening",
+    "category": "Ayurveda",
+    "jugaad": "Apple Cider Vinegar ka regular use skin tone ko brighten karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "skin_brightening",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1285,
+    "title": "Apple Cider Vinegar for Scalp Cooling",
+    "category": "Ayurveda",
+    "jugaad": "Apple Cider Vinegar lagakar scalp ko cool aur stress-free banaya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "scalp_cooling",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1286,
+    "title": "Neem Leaves for Acne Marks",
+    "category": "Ayurveda",
+    "jugaad": "Neem Leaves acne ke marks ko lighten karta hai natural tareeke se.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "acne_marks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1287,
+    "title": "Yogurt for Dry Skin",
+    "category": "Ayurveda",
+    "jugaad": "Yogurt ko dry areas pe lagakar skin hydrate ki ja sakti hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "dry_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1288,
+    "title": "Castor Oil for Pimple Treatment",
+    "category": "Ayurveda",
+    "jugaad": "Castor Oil lagane se pimples kam hote hain aur skin clear hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "pimple_treatment",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1289,
+    "title": "Multani Mitti for Face Scrub",
+    "category": "Ayurveda",
+    "jugaad": "Multani Mitti se bana scrub natural exfoliator ka kaam karta hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "face_scrub",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1290,
+    "title": "Yogurt for Hair Conditioner",
+    "category": "Ayurveda",
+    "jugaad": "Yogurt ko hair wash ke baad lagane se baal silky bante hain.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "hair_conditioner",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1291,
+    "title": "Tea Tree Oil for Skin Brightening",
+    "category": "Ayurveda",
+    "jugaad": "Tea Tree Oil ka regular use skin tone ko brighten karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "skin_brightening",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1292,
+    "title": "Tea Tree Oil for Face Scrub",
+    "category": "Ayurveda",
+    "jugaad": "Tea Tree Oil se bana scrub natural exfoliator ka kaam karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "face_scrub",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1293,
+    "title": "Lemon Juice for Pimple Treatment",
+    "category": "Ayurveda",
+    "jugaad": "Lemon Juice lagane se pimples kam hote hain aur skin clear hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "pimple_treatment",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1294,
+    "title": "Neem Leaves for Tanning Removal",
+    "category": "Ayurveda",
+    "jugaad": "Neem Leaves ko tanning wali jagah lagakar tan hata sakte hain.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "tanning_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1295,
+    "title": "Apple Cider Vinegar for Dry Skin",
+    "category": "Ayurveda",
+    "jugaad": "Apple Cider Vinegar ko dry areas pe lagakar skin hydrate ki ja sakti hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "dry_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1296,
+    "title": "Tea Tree Oil for Eye Puffiness",
+    "category": "Ayurveda",
+    "jugaad": "Tea Tree Oil lagane se aankhon ki sujan mein araam milta hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "eye_puffiness",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1297,
+    "title": "Mint for Hair Frizz Control",
+    "category": "Ayurveda",
+    "jugaad": "Mint frizzy baalon ko tame karta hai natural tareeke se.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "hair_frizz_control",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1298,
+    "title": "Tulsi for Glowing Skin",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ko face pack mein use karke glowing skin paayi ja sakti hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "glowing_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1299,
+    "title": "Baking Soda for Glowing Skin",
+    "category": "Ayurveda",
+    "jugaad": "Baking Soda ko face pack mein use karke glowing skin paayi ja sakti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "glowing_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1300,
+    "title": "Castor Oil for Lip Care",
+    "category": "Ayurveda",
+    "jugaad": "Castor Oil lips par lagane se lips soft aur pink ban jaate hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "lip_care",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1301,
+    "title": "Honey for Glowing Skin",
+    "category": "Ayurveda",
+    "jugaad": "Honey ko face pack mein use karke glowing skin paayi ja sakti hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "glowing_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1302,
+    "title": "Baking Soda for Pimple Treatment",
+    "category": "Ayurveda",
+    "jugaad": "Baking Soda lagane se pimples kam hote hain aur skin clear hoti hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "pimple_treatment",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1303,
+    "title": "Haldi for Face Scrub",
+    "category": "Ayurveda",
+    "jugaad": "Haldi se bana scrub natural exfoliator ka kaam karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "face_scrub",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1304,
+    "title": "Rose Water for Face Scrub",
+    "category": "Ayurveda",
+    "jugaad": "Rose Water se bana scrub natural exfoliator ka kaam karta hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "face_scrub",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1305,
+    "title": "Cucumber for Sunburn Relief",
+    "category": "Ayurveda",
+    "jugaad": "Cucumber sunburn par lagane se thandak milti hai aur redness kam hoti hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "sunburn_relief",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1306,
+    "title": "Haldi for Anti-Aging",
+    "category": "Ayurveda",
+    "jugaad": "Haldi fine lines aur wrinkles ko reduce karta hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "anti-aging",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1307,
+    "title": "Baking Soda for Dark Circles",
+    "category": "Ayurveda",
+    "jugaad": "Baking Soda ko eyes ke neeche lagakar dark circles ko reduce kiya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "dark_circles",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1308,
+    "title": "Haldi for Pimple Treatment",
+    "category": "Ayurveda",
+    "jugaad": "Haldi lagane se pimples kam hote hain aur skin clear hoti hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "pimple_treatment",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1309,
+    "title": "Tea Tree Oil for Dark Circles",
+    "category": "Ayurveda",
+    "jugaad": "Tea Tree Oil ko eyes ke neeche lagakar dark circles ko reduce kiya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "dark_circles",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1310,
+    "title": "Lemon Juice for Anti-Aging",
+    "category": "Ayurveda",
+    "jugaad": "Lemon Juice fine lines aur wrinkles ko reduce karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "anti-aging",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1311,
+    "title": "Multani Mitti for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Multani Mitti ko regular scalp massage mein use karne se baalon ki growth hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "hair_growth",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1312,
+    "title": "Sandalwood for Skin Moisturizer",
+    "category": "Ayurveda",
+    "jugaad": "Sandalwood ko skin par lagane se natural moisture maintain rehta hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "skin_moisturizer",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1313,
+    "title": "Mint for Dry Skin",
+    "category": "Ayurveda",
+    "jugaad": "Mint ko dry areas pe lagakar skin hydrate ki ja sakti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "dry_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1314,
+    "title": "Haldi for Eye Puffiness",
+    "category": "Ayurveda",
+    "jugaad": "Haldi lagane se aankhon ki sujan mein araam milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "eye_puffiness",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1315,
+    "title": "Neem Leaves for Scalp Cooling",
+    "category": "Ayurveda",
+    "jugaad": "Neem Leaves lagakar scalp ko cool aur stress-free banaya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "scalp_cooling",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1316,
+    "title": "Haldi for Glowing Skin",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ko face pack mein use karke glowing skin paayi ja sakti hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "glowing_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1317,
+    "title": "Sandalwood for Hair Conditioner",
+    "category": "Ayurveda",
+    "jugaad": "Sandalwood ko hair wash ke baad lagane se baal silky bante hain.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "hair_conditioner",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1318,
+    "title": "Yogurt for Dark Circles",
+    "category": "Ayurveda",
+    "jugaad": "Yogurt ko eyes ke neeche lagakar dark circles ko reduce kiya ja sakta hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "dark_circles",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1319,
+    "title": "Tulsi for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ko regular scalp massage mein use karne se baalon ki growth hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "hair_growth",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1320,
+    "title": "Castor Oil for Sunburn Relief",
+    "category": "Ayurveda",
+    "jugaad": "Castor Oil sunburn par lagane se thandak milti hai aur redness kam hoti hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "sunburn_relief",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1321,
+    "title": "Lemon Juice for Lip Care",
+    "category": "Ayurveda",
+    "jugaad": "Lemon Juice lips par lagane se lips soft aur pink ban jaate hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "lip_care",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1322,
+    "title": "Coconut Oil for Dandruff Removal",
+    "category": "Ayurveda",
+    "jugaad": "Coconut Oil ko scalp mein lagane se dandruff control mein aata hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "dandruff_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1323,
+    "title": "Tulsi for Natural Deodorant",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ko underarms mein lagakar badboo se bach sakte hain.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "natural_deodorant",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1324,
+    "title": "Lemon Juice for Natural Deodorant",
+    "category": "Ayurveda",
+    "jugaad": "Lemon Juice ko underarms mein lagakar badboo se bach sakte hain.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "natural_deodorant",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1325,
+    "title": "Rose Water for Dandruff Removal",
+    "category": "Ayurveda",
+    "jugaad": "Rose Water ko scalp mein lagane se dandruff control mein aata hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "dandruff_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1326,
+    "title": "Cucumber for Dandruff Removal",
+    "category": "Ayurveda",
+    "jugaad": "Cucumber ko scalp mein lagane se dandruff control mein aata hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "dandruff_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1327,
+    "title": "Tulsi for Skin Brightening",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ka regular use skin tone ko brighten karta hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "skin_brightening",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1328,
+    "title": "Besan for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Besan ko regular scalp massage mein use karne se baalon ki growth hoti hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "hair_growth",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1329,
+    "title": "Cucumber for Skin Moisturizer",
+    "category": "Ayurveda",
+    "jugaad": "Cucumber ko skin par lagane se natural moisture maintain rehta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "skin_moisturizer",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1330,
+    "title": "Aloe Vera for Acne Marks",
+    "category": "Ayurveda",
+    "jugaad": "Aloe Vera acne ke marks ko lighten karta hai natural tareeke se.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "acne_marks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1331,
+    "title": "Neem Leaves for Skin Brightening",
+    "category": "Ayurveda",
+    "jugaad": "Neem Leaves ka regular use skin tone ko brighten karta hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "skin_brightening",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1332,
+    "title": "Coconut Oil for Hair Frizz Control",
+    "category": "Ayurveda",
+    "jugaad": "Coconut Oil frizzy baalon ko tame karta hai natural tareeke se.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "hair_frizz_control",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1333,
+    "title": "Aloe Vera for Face Scrub",
+    "category": "Ayurveda",
+    "jugaad": "Aloe Vera se bana scrub natural exfoliator ka kaam karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "face_scrub",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1334,
+    "title": "Tulsi for Sunburn Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi sunburn par lagane se thandak milti hai aur redness kam hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "sunburn_relief",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1335,
+    "title": "Tulsi for Acne Marks",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi acne ke marks ko lighten karta hai natural tareeke se.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "acne_marks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1336,
+    "title": "Sandalwood for Hair Frizz Control",
+    "category": "Ayurveda",
+    "jugaad": "Sandalwood frizzy baalon ko tame karta hai natural tareeke se.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "hair_frizz_control",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1337,
+    "title": "Tea Tree Oil for Acne Marks",
+    "category": "Ayurveda",
+    "jugaad": "Tea Tree Oil acne ke marks ko lighten karta hai natural tareeke se.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "acne_marks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1338,
+    "title": "Cucumber for Dark Circles",
+    "category": "Ayurveda",
+    "jugaad": "Cucumber ko eyes ke neeche lagakar dark circles ko reduce kiya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "dark_circles",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1339,
+    "title": "Baking Soda for Foot Cracks",
+    "category": "Ayurveda",
+    "jugaad": "Baking Soda ko pairon ke talvon par lagakar cracks mein araam milta hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "foot_cracks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1340,
+    "title": "Lemon Juice for Dark Circles",
+    "category": "Ayurveda",
+    "jugaad": "Lemon Juice ko eyes ke neeche lagakar dark circles ko reduce kiya ja sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "dark_circles",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1341,
+    "title": "Haldi for Acne Marks",
+    "category": "Ayurveda",
+    "jugaad": "Haldi acne ke marks ko lighten karta hai natural tareeke se.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "acne_marks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1342,
+    "title": "Tea Tree Oil for Dandruff Removal",
+    "category": "Ayurveda",
+    "jugaad": "Tea Tree Oil ko scalp mein lagane se dandruff control mein aata hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "dandruff_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1343,
+    "title": "Rose Water for Pimple Treatment",
+    "category": "Ayurveda",
+    "jugaad": "Rose Water lagane se pimples kam hote hain aur skin clear hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "pimple_treatment",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1344,
+    "title": "Mint for Tanning Removal",
+    "category": "Ayurveda",
+    "jugaad": "Mint ko tanning wali jagah lagakar tan hata sakte hain.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "tanning_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1345,
+    "title": "Yogurt for Face Scrub",
+    "category": "Ayurveda",
+    "jugaad": "Yogurt se bana scrub natural exfoliator ka kaam karta hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "face_scrub",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1346,
+    "title": "Aloe Vera for Pimple Treatment",
+    "category": "Ayurveda",
+    "jugaad": "Aloe Vera lagane se pimples kam hote hain aur skin clear hoti hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "pimple_treatment",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1347,
+    "title": "Cucumber for Tanning Removal",
+    "category": "Ayurveda",
+    "jugaad": "Cucumber ko tanning wali jagah lagakar tan hata sakte hain.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "tanning_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1348,
+    "title": "Multani Mitti for Glowing Skin",
+    "category": "Ayurveda",
+    "jugaad": "Multani Mitti ko face pack mein use karke glowing skin paayi ja sakti hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "glowing_skin",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1349,
+    "title": "Baking Soda for Dandruff Removal",
+    "category": "Ayurveda",
+    "jugaad": "Baking Soda ko scalp mein lagane se dandruff control mein aata hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "dandruff_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1350,
+    "title": "Mint for Acne Marks",
+    "category": "Ayurveda",
+    "jugaad": "Mint acne ke marks ko lighten karta hai natural tareeke se.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "acne_marks",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1351,
+    "title": "Honey for Anti-Aging",
+    "category": "Ayurveda",
+    "jugaad": "Honey fine lines aur wrinkles ko reduce karta hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "anti-aging",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1352,
+    "title": "Sandalwood for Skin Brightening",
+    "category": "Ayurveda",
+    "jugaad": "Sandalwood ka regular use skin tone ko brighten karta hai.",
+    "language": "Hindi",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "skin_brightening",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1353,
+    "title": "Haldi for Hair Conditioner",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ko hair wash ke baad lagane se baal silky bante hain.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "hair_conditioner",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1354,
+    "title": "Neem Leaves for Skin Moisturizer",
+    "category": "Ayurveda",
+    "jugaad": "Neem Leaves ko skin par lagane se natural moisture maintain rehta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "skin_moisturizer",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1355,
+    "title": "Tea Tree Oil for Hair Frizz Control",
+    "category": "Ayurveda",
+    "jugaad": "Tea Tree Oil frizzy baalon ko tame karta hai natural tareeke se.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "hair_frizz_control",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1356,
+    "title": "Mint for Lip Care",
+    "category": "Ayurveda",
+    "jugaad": "Mint lips par lagane se lips soft aur pink ban jaate hain.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "lip_care",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1357,
+    "title": "Rose Water for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Rose Water ko regular scalp massage mein use karne se baalon ki growth hoti hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "hair_growth",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1358,
+    "title": "Rose Water for Scalp Cooling",
+    "category": "Ayurveda",
+    "jugaad": "Rose Water lagakar scalp ko cool aur stress-free banaya ja sakta hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "scalp_cooling",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1359,
+    "title": "Sandalwood for Dandruff Removal",
+    "category": "Ayurveda",
+    "jugaad": "Sandalwood ko scalp mein lagane se dandruff control mein aata hai.",
+    "language": "Hindi",
+    "difficulty": "Medium",
+    "region": "Central India",
+    "tags": [
+      "dandruff_removal",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 1360,
+    "title": "Apple Cider Vinegar for Hair Frizz Control",
+    "category": "Ayurveda",
+    "jugaad": "Apple Cider Vinegar frizzy baalon ko tame karta hai natural tareeke se.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "hair_frizz_control",
+      "natural",
+      "home_remedy",
+      "ayurveda",
+      "health"
     ]
   }
 ]
