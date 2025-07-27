@@ -1,10 +1,12 @@
 import express from 'express';
+import cors from 'cors';
 import { JugaadData } from './JugaadData.js';
 
 const app = express();
 const port = 3000;
 
 app.set('json spaces', 2);
+app.use(cors());
 
 const errorMessage = () => {
   return `
