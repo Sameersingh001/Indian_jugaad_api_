@@ -20,6 +20,13 @@ Welcome to the **Indian Jugaad API** – a fun, free, and desi-style API that se
 
 ## 📂 API Endpoints
 
+
+### 🔀 `GET /jugaad/all`
+
+
+TO Get All jugaads..............
+
+
 ### 🔀 `GET /jugaad`
 
 Returns a **random jugaad**.
