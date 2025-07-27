@@ -7,10 +7,10 @@
     "start": "node Jugaad_Api.js",
     "test": "jest"
   },
-  "author": "Your Name",
+  "author": "Sameer Singh",
   "license": "MIT",
   "dependencies": {
-    "cros": "^1.1.0",
+    "cors": "^2.8.5",
     "express": "^5.1.0"
   },
   "devDependencies": {
