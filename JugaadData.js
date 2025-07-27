@@ -6684,6 +6684,1604 @@ export const JugaadData = [
     ]
   },
 
+
+  {
+    "id": 901,
+    "title": "Reuse Old Socks as Wiper Blades Cleaners",
+    "category": "Ayurveda",
+    "jugaad": "Purane clean socks ko mop ya wiper par fit karo aur unhe safai ke liye istemal karo. Yeh dust aur mitti ko achhi tarah soak karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 902,
+    "title": "Mobile Speaker using Glass",
+    "category": "Beauty",
+    "jugaad": "Mobile Speaker using Glass ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 903,
+    "title": "Toothpick for SIM Tray",
+    "category": "Home",
+    "jugaad": "Toothpick for SIM Tray ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 904,
+    "title": "CD Cover as Plate Cover",
+    "category": "Tech",
+    "jugaad": "CD Cover as Plate Cover ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 905,
+    "title": "Colgate on Burns",
+    "category": "DIY",
+    "jugaad": "Colgate on Burns ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 906,
+    "title": "Lemon to Clean Microwave",
+    "category": "Ayurveda",
+    "jugaad": "Ek lemon ko kaatkar microwave-safe bowl me paani ke saath rakhkar 5 minutes ke liye microwave karo. Phir andar ko saaf karo – grease aur smell chali jaayegi.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 907,
+    "title": "Neem Leaves as Natural Mosquito Repellent",
+    "category": "Beauty",
+    "jugaad": "Sukhe neem ke patte jalakar ghar ke kone me dhooni do. Yeh machhar aur insects ko door bhagata hai bina chemical ke.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 908,
+    "title": "Use Rice to Dry Wet Phone",
+    "category": "Home",
+    "jugaad": "Phone agar paani me gir jaye to use turant band karo aur battery nikal do (agar possible ho). Uske baad phone ko ek airtight dabbe me chawal ke saath 24-48 ghante tak rakho. Chawal moisture absorb kar leta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 909,
+    "title": "Old T-Shirt as Mop Cloth",
+    "category": "Tech",
+    "jugaad": "Old T-Shirt as Mop Cloth ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 910,
+    "title": "Paper Clip to Fix Broken Chain",
+    "category": "DIY",
+    "jugaad": "Paper Clip to Fix Broken Chain ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 911,
+    "title": "Baking Soda as Deodorant",
+    "category": "Ayurveda",
+    "jugaad": "Baking Soda as Deodorant ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 912,
+    "title": "Use Matchbox to Sharpen Needle",
+    "category": "Beauty",
+    "jugaad": "Use Matchbox to Sharpen Needle ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 913,
+    "title": "Haldi Paste for Pimples",
+    "category": "Home",
+    "jugaad": "Haldi Paste for Pimples ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 914,
+    "title": "Safety Pin for Saree Hook",
+    "category": "Tech",
+    "jugaad": "Safety Pin for Saree Hook ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 915,
+    "title": "Use Toothpaste to Remove Wall Marks",
+    "category": "DIY",
+    "jugaad": "Thoda sa toothpaste ek soft cloth ya finger par lagakar scratches ya daagon par rub karo. Thodi der baad saaf paani se dho lo. Yeh method screen ya surface ke halki lines ke liye kaam karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 916,
+    "title": "Aloe Vera Ice Cubes for Sunburn",
+    "category": "Ayurveda",
+    "jugaad": "Aloe vera gel ko ice tray me daalkar freeze karo. Jab bhi sunburn ya skin irritation ho, ek cube le kar affected area par gently rub karo.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 917,
+    "title": "Clothespin as Toothpaste Squeezer",
+    "category": "Beauty",
+    "jugaad": "Thoda sa toothpaste ek soft cloth ya finger par lagakar scratches ya daagon par rub karo. Thodi der baad saaf paani se dho lo. Yeh method screen ya surface ke halki lines ke liye kaam karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 918,
+    "title": "Use Rubber Band for Jar Grip",
+    "category": "Home",
+    "jugaad": "Use Rubber Band for Jar Grip ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 919,
+    "title": "Chappal Strip Replacement with Wire",
+    "category": "Tech",
+    "jugaad": "Chappal Strip Replacement with Wire ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 920,
+    "title": "Use Banana Peel to Shine Shoes",
+    "category": "DIY",
+    "jugaad": "Kale ya kacche kele ke chilke ko desired jagah par gently rub karo. 5-10 minutes ke baad saaf paani se dho lo. Regular use se natural glow ya polish milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 921,
+    "title": "Turmeric Water for Mouth Ulcers",
+    "category": "Ayurveda",
+    "jugaad": "Turmeric Water for Mouth Ulcers ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 922,
+    "title": "Use Salt for Ant Trails",
+    "category": "Beauty",
+    "jugaad": "Use Salt for Ant Trails ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 923,
+    "title": "Use Nail Polish to Stop Thread Unraveling",
+    "category": "Home",
+    "jugaad": "Use Nail Polish to Stop Thread Unraveling ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 924,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Tech",
+    "jugaad": "Coconut Oil for Hair Lice ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 925,
+    "title": "Aluminum Foil for Ironing",
+    "category": "DIY",
+    "jugaad": "Aluminum Foil for Ironing ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 926,
+    "title": "Use Newspaper to Absorb Shoe Odor",
+    "category": "Ayurveda",
+    "jugaad": "Use Newspaper to Absorb Shoe Odor ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 927,
+    "title": "Old Toothbrush for Cleaning Keyboard",
+    "category": "Beauty",
+    "jugaad": "Old Toothbrush for Cleaning Keyboard ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 928,
+    "title": "Fenugreek (Methi) for Dandruff",
+    "category": "Home",
+    "jugaad": "Fenugreek (Methi) for Dandruff ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 929,
+    "title": "Use Soap Wrapper in Closet",
+    "category": "Tech",
+    "jugaad": "Use Soap Wrapper in Closet ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 930,
+    "title": "Hair Dryer to Remove Stickers",
+    "category": "DIY",
+    "jugaad": "Hair Dryer to Remove Stickers ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 931,
+    "title": "Sandalwood Paste for Heat Rashes",
+    "category": "Ayurveda",
+    "jugaad": "Sandalwood Paste for Heat Rashes ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 932,
+    "title": "Soda Bottle Cap as Mini Candle Holder",
+    "category": "Beauty",
+    "jugaad": "Soda Bottle Cap as Mini Candle Holder ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 933,
+    "title": "Carrom Powder for Drawer Slides",
+    "category": "Home",
+    "jugaad": "Carrom Powder for Drawer Slides ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 934,
+    "title": "Use Onion for Fever",
+    "category": "Tech",
+    "jugaad": "Use Onion for Fever ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 935,
+    "title": "Rub Eraser on Yellow Headphones Wire",
+    "category": "DIY",
+    "jugaad": "Rub Eraser on Yellow Headphones Wire ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 936,
+    "title": "Cloth Bag as Strainer",
+    "category": "Ayurveda",
+    "jugaad": "Cloth Bag as Strainer ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 937,
+    "title": "Eggshells in Plants for Calcium",
+    "category": "Beauty",
+    "jugaad": "Eggshells in Plants for Calcium ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 938,
+    "title": "Soap in Toolbox to Prevent Rust",
+    "category": "Home",
+    "jugaad": "Soap in Toolbox to Prevent Rust ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 939,
+    "title": "Use Cold Spoon for Puffy Eyes",
+    "category": "Tech",
+    "jugaad": "Ek steel spoon ko 15-20 minutes ke liye fridge me thanda karo. Phir use aankhon par gently press karo taaki puffiness aur thakan kam ho.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 940,
+    "title": "Apply Toothpaste on Mobile Screen Scratches",
+    "category": "DIY",
+    "jugaad": "Thoda sa toothpaste ek soft cloth ya finger par lagakar scratches ya daagon par rub karo. Thodi der baad saaf paani se dho lo. Yeh method screen ya surface ke halki lines ke liye kaam karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 941,
+    "title": "Clothespin to Hold Nail While Hammering",
+    "category": "Ayurveda",
+    "jugaad": "Clothespin to Hold Nail While Hammering ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 942,
+    "title": "Use Lemon Peel to Clean Taps",
+    "category": "Beauty",
+    "jugaad": "Ek lemon ko kaatkar microwave-safe bowl me paani ke saath rakhkar 5 minutes ke liye microwave karo. Phir andar ko saaf karo – grease aur smell chali jaayegi.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 943,
+    "title": "Use Turmeric in Milk for Cough",
+    "category": "Home",
+    "jugaad": "Use Turmeric in Milk for Cough ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 944,
+    "title": "Old Newspaper as Drawer Liner",
+    "category": "Tech",
+    "jugaad": "Old Newspaper as Drawer Liner ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 945,
+    "title": "Use Bread Slice to Pick Up Glass Pieces",
+    "category": "DIY",
+    "jugaad": "Use Bread Slice to Pick Up Glass Pieces ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 946,
+    "title": "Rice Water for Skin Glow",
+    "category": "Ayurveda",
+    "jugaad": "Phone agar paani me gir jaye to use turant band karo aur battery nikal do (agar possible ho). Uske baad phone ko ek airtight dabbe me chawal ke saath 24-48 ghante tak rakho. Chawal moisture absorb kar leta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 947,
+    "title": "Ice Cubes to Reduce Acne",
+    "category": "Beauty",
+    "jugaad": "Ice Cubes to Reduce Acne ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 948,
+    "title": "Tea Bags for Eye Soothing",
+    "category": "Home",
+    "jugaad": "Tea Bags for Eye Soothing ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 949,
+    "title": "Use Balloon as Jar Opener",
+    "category": "Tech",
+    "jugaad": "Use Balloon as Jar Opener ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 950,
+    "title": "Use Honey for Chapped Lips",
+    "category": "DIY",
+    "jugaad": "Use Honey for Chapped Lips ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 951,
+    "title": "Rub Tomato for Sun Tan",
+    "category": "Ayurveda",
+    "jugaad": "Rub Tomato for Sun Tan ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 952,
+    "title": "Chalk to Remove Grease Marks",
+    "category": "Beauty",
+    "jugaad": "Kapdon par grease ya tel ke daag ho to chalk powder use jagah par lagao. Thodi der baad brush karke normal wash karo.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 953,
+    "title": "Earbuds to Clean Gas Burner Holes",
+    "category": "Home",
+    "jugaad": "Earbuds to Clean Gas Burner Holes ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 954,
+    "title": "Raw Potato for Underarm Whitening",
+    "category": "Tech",
+    "jugaad": "Raw Potato for Underarm Whitening ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 955,
+    "title": "Apply Aloe Vera on Razor Cuts",
+    "category": "DIY",
+    "jugaad": "Aloe vera gel ko ice tray me daalkar freeze karo. Jab bhi sunburn ya skin irritation ho, ek cube le kar affected area par gently rub karo.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 956,
+    "title": "Rub Camphor to Ward Off Cockroaches",
+    "category": "Ayurveda",
+    "jugaad": "Rub Camphor to Ward Off Cockroaches ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 957,
+    "title": "Use Coin to Tighten Loose Screws",
+    "category": "Beauty",
+    "jugaad": "Use Coin to Tighten Loose Screws ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 958,
+    "title": "Use Banana Peel for Skin Glow",
+    "category": "Home",
+    "jugaad": "Kale ya kacche kele ke chilke ko desired jagah par gently rub karo. 5-10 minutes ke baad saaf paani se dho lo. Regular use se natural glow ya polish milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 959,
+    "title": "Old Comb to Clean Hairbrush",
+    "category": "Tech",
+    "jugaad": "Old Comb to Clean Hairbrush ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 960,
+    "title": "Use Matchsticks for Broken Zip",
+    "category": "DIY",
+    "jugaad": "Use Matchsticks for Broken Zip ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 961,
+    "title": "Glycerin and Rose Water for Dry Skin",
+    "category": "Ayurveda",
+    "jugaad": "Glycerin and Rose Water for Dry Skin ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 962,
+    "title": "Old Socks as Phone Sleeve",
+    "category": "Beauty",
+    "jugaad": "Purane clean socks ko mop ya wiper par fit karo aur unhe safai ke liye istemal karo. Yeh dust aur mitti ko achhi tarah soak karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 963,
+    "title": "Besan Face Pack for Oily Skin",
+    "category": "Home",
+    "jugaad": "Besan Face Pack for Oily Skin ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 964,
+    "title": "Broken Pencil as Hair Bun Stick",
+    "category": "Tech",
+    "jugaad": "Broken Pencil as Hair Bun Stick ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 965,
+    "title": "Dry Neem Leaves in Book Shelf",
+    "category": "DIY",
+    "jugaad": "Sukhe neem ke patte jalakar ghar ke kone me dhooni do. Yeh machhar aur insects ko door bhagata hai bina chemical ke.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 966,
+    "title": "Use Mirror to Light Diya Deep Inside Mandir",
+    "category": "Ayurveda",
+    "jugaad": "Use Mirror to Light Diya Deep Inside Mandir ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 967,
+    "title": "Use Fevicol as Peel-Off Face Mask",
+    "category": "Beauty",
+    "jugaad": "Use Fevicol as Peel-Off Face Mask ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 968,
+    "title": "Use Cornflour for Oily Hair",
+    "category": "Home",
+    "jugaad": "Use Cornflour for Oily Hair ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 969,
+    "title": "Hang Naphthalene Balls in Washroom",
+    "category": "Tech",
+    "jugaad": "Hang Naphthalene Balls in Washroom ka use aise karein: is tip ko step by step follow karke aap apne roz ke kaam asaan bana sakte hain. Har step me dhyan se implementation karein.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+  {
+    "id": 970,
+    "title": "Lemon and Baking Soda for Yellow Teeth",
+    "category": "DIY",
+    "jugaad": "Ek lemon ko kaatkar microwave-safe bowl me paani ke saath rakhkar 5 minutes ke liye microwave karo. Phir andar ko saaf karo – grease aur smell chali jaayegi.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "jugaad",
+      "desi_solution",
+      "hack",
+      "daily_life",
+      "tip"
+    ]
+  },
+
+
+  {
+    "id": 970,
+    "title": "Lemon and Baking Soda for Yellow Teeth",
+    "category": "Health",
+    "jugaad": "Ek chammach baking soda me kuch boondein nimbu ka ras milao. Is paste ko toothbrush par lagaakar daaton par halka brush karo. Hafte me 1-2 baar istemal karne se yellow stains kam hote hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "teeth_care",
+      "natural_remedy",
+      "oral_health",
+      "ayurveda",
+      "cleaning"
+    ]
+  },
+  {
+    "id": 971,
+    "title": "Potato Peel for Dark Circles",
+    "category": "Beauty",
+    "jugaad": "Kacche aloo ke chilke ko aankhon ke neeche 10-15 minute tak rakhne se dark circles kam hote hain. Isse thandak bhi milti hai aur puffiness reduce hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "All India",
+    "tags": [
+      "dark_circles",
+      "home_remedy",
+      "beauty_hack",
+      "potato",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 972,
+    "title": "Use Toothbrush to Clean Switchboards",
+    "category": "Home",
+    "jugaad": "Old toothbrush ko thoda soap water me dip karke switchboards par softly rub karo. Yeh unki lines aur kone tak safai karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban India",
+    "tags": [
+      "cleaning",
+      "home_tips",
+      "switchboard_cleaning",
+      "diy",
+      "tools"
+    ]
+  },
+  {
+    "id": 973,
+    "title": "Cucumber Peel to Soothe Skin Rashes",
+    "category": "Health",
+    "jugaad": "Thandi kheere ke chilke ko rash wale area par 10 minute ke liye rakho. Skin me cooling effect aata hai aur jalan kam hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "skin_rash",
+      "natural",
+      "cooling",
+      "ayurveda",
+      "vegetables"
+    ]
+  },
+  {
+    "id": 974,
+    "title": "Use Talcum Powder to Remove Sand",
+    "category": "Travel",
+    "jugaad": "Beach se aane ke baad talcum powder lagakar sand ko skin se easily rub karke hata sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Coastal Areas",
+    "tags": [
+      "travel_hack",
+      "skin_care",
+      "beach_tips",
+      "powder_use"
+    ]
+  },
+  {
+    "id": 975,
+    "title": "Use Baking Soda to Unclog Drains",
+    "category": "Home",
+    "jugaad": "Ek cup baking soda aur upar se garam vinegar drain me daal do. 10-15 minute ke baad garam paani daalo. Yeh clog ko dissolve karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "All India",
+    "tags": [
+      "home_hack",
+      "drain_cleaning",
+      "clog_fix",
+      "kitchen",
+      "diy"
+    ]
+  },
+  {
+    "id": 976,
+    "title": "Use Old Credit Card as Phone Stand",
+    "category": "Tech",
+    "jugaad": "Ek purane credit card ko beech se thoda mod kar cut lagao. Phone usme set karke mini stand bana sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban India",
+    "tags": [
+      "phone_stand",
+      "tech_hack",
+      "card_use",
+      "recycle",
+      "diy"
+    ]
+  },
+  {
+    "id": 977,
+    "title": "Tea Water for Plant Growth",
+    "category": "Gardening",
+    "jugaad": "Bacha hua chai ka paani (bin sugar wala) plants me daalne se unki growth achhi hoti hai. Yeh organic manure ka kaam karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural India",
+    "tags": [
+      "gardening",
+      "plant_growth",
+      "natural",
+      "waste_reuse",
+      "home_tips"
+    ]
+  },
+  {
+    "id": 978,
+    "title": "Use Ice Pack to Remove Gum from Clothes",
+    "category": "Home",
+    "jugaad": "Chipka hua chewing gum kapdon se nikalne ke liye ice pack lagaakar usse hard karo. Phir knife ya spoon se scrape karo.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "All India",
+    "tags": [
+      "gum_removal",
+      "clothes_care",
+      "home_fix",
+      "ice",
+      "cooling"
+    ]
+  },
+  {
+    "id": 979,
+    "title": "Use Bread to Clean Oil from Soup",
+    "category": "Kitchen",
+    "jugaad": "Soup ya gravy ke upar se extra oil ko remove karne ke liye bread ka tukda surface pe rakho. Bread oil soak kar lega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "India",
+    "tags": [
+      "kitchen_tip",
+      "oil_removal",
+      "soup_cleaning",
+      "food_hack"
+    ]
+  },
+  {
+    "id": 980,
+    "title": "Use Pen Spring to Protect Charger Cable",
+    "category": "Tech",
+    "jugaad": "Ball pen ke spring ko charger ke plug ke kone par lapet do. Wire break hone se bacha rahega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban India",
+    "tags": [
+      "charger_protection",
+      "wire_care",
+      "spring_hack",
+      "tech"
+    ]
+  },
+  {
+    "id": 981,
+    "title": "Apply Ghee on Nose for Nosebleed",
+    "category": "Health",
+    "jugaad": "Nosebleed ke waqt naak ke andar thoda sa ghee lagane se dryness kam hoti hai aur bleeding rukti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "nosebleed",
+      "ghee_use",
+      "ayurveda",
+      "health_tip"
+    ]
+  },
+  {
+    "id": 982,
+    "title": "Dry Orange Peel as Room Freshener",
+    "category": "Home",
+    "jugaad": "Orange ke sukhe chilke ko kapde ke pouch me daalkar almirah ya kamre me latkao. Natural fragrance deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "All India",
+    "tags": [
+      "room_freshener",
+      "natural_smell",
+      "fruit_peel",
+      "reuse"
+    ]
+  },
+  {
+    "id": 983,
+    "title": "Use Rubber Gloves to Remove Pet Hair",
+    "category": "Home",
+    "jugaad": "Rubber gloves pehen kar bed ya sofa par haath ghumao. Hair gloves se chipak jaate hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pet-Friendly Homes",
+    "tags": [
+      "pet_hair",
+      "cleaning",
+      "rubber_glove",
+      "home_tips"
+    ]
+  },
+  {
+    "id": 984,
+    "title": "Use Cotton Ball with Perfume in Car AC",
+    "category": "Travel",
+    "jugaad": "Perfume se soaked cotton ball ko AC vent ke paas rakh do. Car me fragrance spread hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "car_freshener",
+      "travel_tips",
+      "cotton_ball",
+      "perfume"
+    ]
+  },
+  {
+    "id": 985,
+    "title": "Boiled Rice Water for Hair Conditioner",
+    "category": "Beauty",
+    "jugaad": "Uble hue chawal ka paani thanda karke baalon me 10 minutes tak lagao, phir wash karo. Baal silky aur strong bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "hair_care",
+      "conditioner",
+      "natural",
+      "rice_water"
+    ]
+  },
+  {
+    "id": 986,
+    "title": "Toothpaste on Headlights for Shine",
+    "category": "Automobile",
+    "jugaad": "Car headlights par toothpaste lagakar soft cloth se polish karo. Yellowing aur dullness door hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "All India",
+    "tags": [
+      "car_hack",
+      "headlight_cleaning",
+      "toothpaste",
+      "shine"
+    ]
+  },
+  {
+    "id": 987,
+    "title": "Use Coconut Oil on Zippers",
+    "category": "DIY",
+    "jugaad": "Zipper tight ho to thoda coconut oil cotton se lagakar smoothly slide karo.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "All India",
+    "tags": [
+      "zipper_fix",
+      "coconut_oil",
+      "diy",
+      "clothes"
+    ]
+  },
+  {
+    "id": 988,
+    "title": "Use Safety Pin to Fix Broken Slipper",
+    "category": "DIY",
+    "jugaad": "Chappal ki patti nikal jaye to safety pin se andar se fix kar do. Temporary fix ke liye useful hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural Areas",
+    "tags": [
+      "slipper_fix",
+      "safety_pin",
+      "jugaad",
+      "footwear"
+    ]
+  },
+  {
+    "id": 989,
+    "title": "Use Clove to Prevent Toothache",
+    "category": "Health",
+    "jugaad": "Laung ko dard wali jagah par 10-15 minutes ke liye rakho ya oil use karo. Pain relief milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "India",
+    "tags": [
+      "toothache",
+      "clove",
+      "pain_relief",
+      "natural"
+    ]
+  },
+  {
+    "id": 990,
+    "title": "Use Mustard Oil for Cracked Heels",
+    "category": "Beauty",
+    "jugaad": "Raat ko mustard oil lagaakar socks pehen lo. Subah tak cracked heels soft ho jaate hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "India",
+    "tags": [
+      "cracked_heels",
+      "mustard_oil",
+      "skin_care",
+      "beauty"
+    ]
+  },
+
+   {
+    "id": 991,
+    "title": "Old Sock for Cable Management",
+    "category": "Home",
+    "jugaad": "Old Sock ka use karke aap charging cables ya earphones ko neatly band sakte hain taaki wo uljhe nahi.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "organization",
+      "repair",
+      "cleaning",
+      "storage"
+    ]
+  },
+  {
+    "id": 992,
+    "title": "Paperclip for Phone Stand",
+    "category": "Home",
+    "jugaad": "Paperclip ko fold karke ya roll karke aap ek temporary phone stand bana sakte hain. Ye travel ke waqt ya desk par kaam aata hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "organization",
+      "storage",
+      "repair",
+      "cleaning"
+    ]
+  },
+  {
+    "id": 993,
+    "title": "Mobile Charger for Headlight Cleaning",
+    "category": "Fashion",
+    "jugaad": "Agar aapke car ke headlights dhundhle ho gaye hain, toh thoda sa Mobile Charger soft cloth pe lagayein aur circular motion mein saaf karein. Fir paani se dho dein – headlights firse nayi tarah chamak uthenge.",
+    "language": "English",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "shoes",
+      "style",
+      "accessory",
+      "clothes"
+    ]
+  },
+  {
+    "id": 994,
+    "title": "Paperclip for Headlight Cleaning",
+    "category": "Home",
+    "jugaad": "Agar aapke car ke headlights dhundhle ho gaye hain, toh thoda sa Paperclip soft cloth pe lagayein aur circular motion mein saaf karein. Fir paani se dho dein – headlights firse nayi tarah chamak uthenge.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "cleaning",
+      "organization",
+      "storage",
+      "repair"
+    ]
+  },
+  {
+    "id": 995,
+    "title": "Mobile Charger for Cable Management",
+    "category": "DIY",
+    "jugaad": "Mobile Charger ka use karke aap charging cables ya earphones ko neatly band sakte hain taaki wo uljhe nahi.",
+    "language": "English",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "craft",
+      "reuse",
+      "hack",
+      "recycle"
+    ]
+  },
+  {
+    "id": 996,
+    "title": "Lemon for Cable Management",
+    "category": "Fashion",
+    "jugaad": "Lemon ka use karke aap charging cables ya earphones ko neatly band sakte hain taaki wo uljhe nahi.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Central India",
+    "tags": [
+      "accessory",
+      "shoes",
+      "style",
+      "clothes"
+    ]
+  },
+  {
+    "id": 997,
+    "title": "Mobile Charger for Fridge Odor",
+    "category": "Health",
+    "jugaad": "Fridge ki badboo door karne ke liye ek cut Mobile Charger ko ek bowl mein rakh kar fridge mein chhoda ja sakta hai. Ye smell absorb karta hai.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "ayurveda",
+      "natural",
+      "remedy",
+      "fitness"
+    ]
+  },
+  {
+    "id": 998,
+    "title": "Paperclip for Glass Shine",
+    "category": "Kitchen",
+    "jugaad": "Windows ya mirrors ko saaf karne ke liye Paperclip ka use ek cloth ke saath karke instant shine la sakte ho.",
+    "language": "Hindi",
+    "difficulty": "Hard",
+    "region": "Central India",
+    "tags": [
+      "storage",
+      "cooking",
+      "utensils",
+      "cleaning"
+    ]
+  },
+  {
+    "id": 999,
+    "title": "Rubber Band for Fridge Odor",
+    "category": "Kitchen",
+    "jugaad": "Fridge ki badboo door karne ke liye ek cut Rubber Band ko ek bowl mein rakh kar fridge mein chhoda ja sakta hai. Ye smell absorb karta hai.",
+    "language": "English",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "storage",
+      "utensils",
+      "cooking",
+      "cleaning"
+    ]
+  },
+  {
+    "id": 1000,
+    "title": "Toothpaste for Phone Stand",
+    "category": "Kitchen",
+    "jugaad": "Toothpaste ko fold karke ya roll karke aap ek temporary phone stand bana sakte hain. Ye travel ke waqt ya desk par kaam aata hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "storage",
+      "cooking",
+      "cleaning",
+      "utensils"
+    ]
+  },
+
   {
     "id": 1001,
     "title": "Multani Mitti for Skin Moisturizer",
