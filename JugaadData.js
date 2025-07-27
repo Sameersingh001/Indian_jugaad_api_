@@ -635,6 +635,14 @@ export const JugaadData = [
       "style"
     ]
   },
+
+
+
+  
+
+
+
+
   {
     "id": 501,
     "title": "Mobile Charger for Mobile Holder in Car",
