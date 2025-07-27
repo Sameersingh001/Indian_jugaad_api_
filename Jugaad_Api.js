@@ -324,6 +324,23 @@ app.get('/jugaad', (req, res) => {
   }
 });
 
+
+//Get All Data 
+
+app.get('/jugaad/all', (req, res) => {
+
+  const jugaad = JugaadData
+
+  if (jugaad) {
+    res.send(jugaad);
+  } else {
+    res.status(404).type('html').send(errorMessage());
+  }
+ 
+});
+
+
+
 // GET by ID
 app.get('/jugaad/search/id/:id', (req, res) => {
   const ID = parseInt(req.params.id);
