@@ -2,6 +2,7 @@
   "name": "jugaad-api",
   "version": "1.0.0",
   "description": "A simple API built with Express.js",
+  "type": "module",
   "main": "Jugaad_Api.js",
   "scripts": {
     "start": "node Jugaad_Api.js",
