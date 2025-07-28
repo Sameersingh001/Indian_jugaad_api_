@@ -23472,5 +23472,16714 @@ export const JugaadData = [
       "quick-fix",
       "natural"
     ]
-  }
+  },
+    {
+    "id": 1501,
+    "title": "Ashwagandha Doodh Se Lambe Bano",
+    "category": "Ayurveda",
+    "jugaad": "Raat ko sone se pehle ek glass garam doodh mein 1 chamach ashwagandha powder milakar peene se growth hormone activate hote hain jo height badhate hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": ["ashwagandha", "milk", "height", "ayurveda", "growth"]
+  },
+  {
+    "id": 1502,
+    "title": "Skipping Se Lambi Chaal",
+    "category": "Exercise",
+    "jugaad": "Rozana 15-20 minute skipping karne se spine stretch hota hai aur legs strong bante hain, jo height badhane mein madadgar hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "All India",
+    "tags": ["skipping", "exercise", "height", "growth", "fitness"]
+  },
+  {
+    "id": 1503,
+    "title": "Hanging Therapy for Height",
+    "category": "Fitness",
+    "jugaad": "Har din 5 minute ke liye bar se latakna (pull-up bar ya strong rod) se spinal cord stretch hoti hai aur posture improve hota hai, jo height mein sudhaar laata hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Urban",
+    "tags": ["hanging", "stretch", "height", "spine", "fitness"]
+  },
+  {
+    "id": 1504,
+    "title": "Sun Salutation Se Growth",
+    "category": "Yoga",
+    "jugaad": "Roz 12 rounds Surya Namaskar karna body ko poora stretch karta hai, blood flow improve karta hai aur natural growth mein madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": ["surya namaskar", "yoga", "stretch", "height", "growth"]
+  },
+  {
+    "id": 1505,
+    "title": "Banana Shake with Boost",
+    "category": "Diet",
+    "jugaad": "Subah nashtay mein banana shake lena energy aur calcium dono deta hai, jo bones ko strong karta hai aur growth promote karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": ["banana", "shake", "diet", "height", "nutrition"]
+  },
+  {
+    "id": 1506,
+    "title": "Triphala for Digestion & Growth",
+    "category": "Ayurveda",
+    "jugaad": "Raat ko 1 chamach triphala powder ko garam paani ke saath lena digestion sudhaarta hai aur body toxins door karta hai – healthy digestion height growth mein help karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": ["triphala", "digestion", "ayurveda", "height", "cleanse"]
+  },
+  {
+    "id": 1507,
+    "title": "Posture Correction Wall Walk",
+    "category": "Posture",
+    "jugaad": "Roz 5 minute seedhi diwar ke saath chalne se body ka alignment thik hota hai, jisse aapki asli height dikhne lagti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["posture", "wall walk", "height", "alignment", "spine"]
+  },
+  {
+    "id": 1508,
+    "title": "Height Shoes Se Confidence",
+    "category": "Jugaad Hack",
+    "jugaad": "Temporary solution ke liye special height-increase insoles ya shoes use karo jo 2-3 inch tak ka farak dikhate hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "All India",
+    "tags": ["shoes", "insole", "height", "hack", "confidence"]
+  },
+  {
+    "id": 1509,
+    "title": "Brahmi Sharbat Brain + Height",
+    "category": "Ayurveda",
+    "jugaad": "Brahmi sharbat dimaag ke saath hormones ko bhi balance karta hai. Iska rozana sevan height growth mein sahayak hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": ["brahmi", "sharbat", "ayurveda", "height", "hormones"]
+  },
+  {
+    "id": 1510,
+    "title": "Dahi & Flaxseed Protein Boost",
+    "category": "Diet",
+    "jugaad": "Ek bowl dahi mein flaxseed powder milaakar khane se protein aur omega-3 milta hai jo bones ke development mein helpful hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": ["dahi", "flaxseed", "protein", "diet", "height"]
+  },
+  {
+    "id": 1511,
+    "title": "Neem Leaves Detox",
+    "category": "Ayurveda",
+    "jugaad": "Har hafte 2 din neem ke patton ka juice lene se body detox hoti hai jo hormonal function ko improve karta hai – indirectly growth mein support deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Rural India",
+    "tags": ["neem", "detox", "ayurveda", "hormone", "height"]
+  },
+  {
+    "id": 1512,
+    "title": "Chia Seeds Paani Magic",
+    "category": "Diet",
+    "jugaad": "Subah ek glass paani mein 1 chamach chia seed bhigo ke peene se fiber aur protein milta hai – body development mein help karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["chia", "hydration", "protein", "height", "growth"]
+  },
+
+  {
+    "id": 1513,
+    "title": "Evening Walks with Light Jog #1513",
+    "category": "Diet",
+    "jugaad": "Evening Walks with Light Jog  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "diet",
+      "height",
+      "evening",
+      "light",
+      "jog",
+      "walks",
+      "growth",
+      "with"
+    ]
+  },
+  {
+    "id": 1514,
+    "title": "Kapalbhati Detox Breath #1514",
+    "category": "Posture",
+    "jugaad": "Kapalbhati Detox Breath  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Urban",
+    "tags": [
+      "height",
+      "posture",
+      "breath",
+      "kapalbhati",
+      "growth",
+      "detox"
+    ]
+  },
+  {
+    "id": 1515,
+    "title": "Cobra Pose Daily Stretch #1515",
+    "category": "Ayurveda",
+    "jugaad": "Cobra Pose Daily Stretch  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Pan India",
+    "tags": [
+      "cobra",
+      "height",
+      "daily",
+      "growth",
+      "ayurveda",
+      "stretch",
+      "pose"
+    ]
+  },
+  {
+    "id": 1516,
+    "title": "Clapping Therapy for Hormones #1516",
+    "category": "Exercise",
+    "jugaad": "Clapping Therapy for Hormones  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": [
+      "exercise",
+      "height",
+      "clapping",
+      "for",
+      "growth",
+      "hormones",
+      "therapy"
+    ]
+  },
+  {
+    "id": 1517,
+    "title": "Green Veggies Calcium Hack #1517",
+    "category": "Fitness",
+    "jugaad": "Green Veggies Calcium Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "veggies",
+      "green",
+      "fitness",
+      "hack",
+      "height",
+      "growth",
+      "calcium"
+    ]
+  },
+  {
+    "id": 1518,
+    "title": "Cobra Pose Daily Stretch #1518",
+    "category": "Diet",
+    "jugaad": "Cobra Pose Daily Stretch  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "cobra",
+      "diet",
+      "height",
+      "daily",
+      "growth",
+      "stretch",
+      "pose"
+    ]
+  },
+  {
+    "id": 1519,
+    "title": "Cow Milk with Turmeric Boost #1519",
+    "category": "Fitness",
+    "jugaad": "Cow Milk with Turmeric Boost  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Urban",
+    "tags": [
+      "fitness",
+      "height",
+      "turmeric",
+      "cow",
+      "milk",
+      "growth",
+      "with",
+      "boost"
+    ]
+  },
+  {
+    "id": 1520,
+    "title": "Almonds Soaked Overnight #1520",
+    "category": "Posture",
+    "jugaad": "Almonds Soaked Overnight  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "height",
+      "overnight",
+      "soaked",
+      "posture",
+      "growth",
+      "almonds"
+    ]
+  },
+  {
+    "id": 1521,
+    "title": "Rope Climbing for Height #1521",
+    "category": "Posture",
+    "jugaad": "Rope Climbing for Height  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "climbing",
+      "height",
+      "for",
+      "rope",
+      "posture",
+      "growth"
+    ]
+  },
+  {
+    "id": 1522,
+    "title": "Seasonal Fruits Daily Trick #1522",
+    "category": "Yoga",
+    "jugaad": "Seasonal Fruits Daily Trick  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "trick",
+      "height",
+      "fruits",
+      "seasonal",
+      "daily",
+      "yoga",
+      "growth"
+    ]
+  },
+  {
+    "id": 1523,
+    "title": "Calcium Rich Ragi Malt #1523",
+    "category": "Yoga",
+    "jugaad": "Calcium Rich Ragi Malt  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "malt",
+      "height",
+      "yoga",
+      "ragi",
+      "growth",
+      "calcium",
+      "rich"
+    ]
+  },
+  {
+    "id": 1524,
+    "title": "Dates & Milk Combo #1524",
+    "category": "Lifestyle",
+    "jugaad": "Dates & Milk Combo  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Rural",
+    "tags": [
+      "height",
+      "lifestyle",
+      "combo",
+      "dates",
+      "growth",
+      "&",
+      "milk"
+    ]
+  },
+  {
+    "id": 1525,
+    "title": "Gond Katira Smoothie #1525",
+    "category": "Exercise",
+    "jugaad": "Gond Katira Smoothie  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "exercise",
+      "height",
+      "gond",
+      "katira",
+      "growth",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 1526,
+    "title": "Lemon Water Cleanse #1526",
+    "category": "Diet",
+    "jugaad": "Lemon Water Cleanse  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "diet",
+      "height",
+      "lemon",
+      "cleanse",
+      "water",
+      "growth"
+    ]
+  },
+  {
+    "id": 1527,
+    "title": "Cobra Pose Daily Stretch #1527",
+    "category": "Lifestyle",
+    "jugaad": "Cobra Pose Daily Stretch  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Urban",
+    "tags": [
+      "cobra",
+      "height",
+      "lifestyle",
+      "daily",
+      "growth",
+      "stretch",
+      "pose"
+    ]
+  },
+  {
+    "id": 1528,
+    "title": "High-Protein Moong Chilla #1528",
+    "category": "Lifestyle",
+    "jugaad": "High-Protein Moong Chilla  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "chilla",
+      "height",
+      "lifestyle",
+      "growth",
+      "moong",
+      "high-protein"
+    ]
+  },
+  {
+    "id": 1529,
+    "title": "Green Veggies Calcium Hack #1529",
+    "category": "Yoga",
+    "jugaad": "Green Veggies Calcium Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "veggies",
+      "green",
+      "hack",
+      "height",
+      "yoga",
+      "growth",
+      "calcium"
+    ]
+  },
+  {
+    "id": 1530,
+    "title": "Early Morning Stretch Magic #1530",
+    "category": "Posture",
+    "jugaad": "Early Morning Stretch Magic  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "height",
+      "early",
+      "posture",
+      "growth",
+      "morning",
+      "stretch",
+      "magic"
+    ]
+  },
+  {
+    "id": 1531,
+    "title": "Dates & Milk Combo #1531",
+    "category": "Ayurveda",
+    "jugaad": "Dates & Milk Combo  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "height",
+      "ayurveda",
+      "combo",
+      "dates",
+      "growth",
+      "&",
+      "milk"
+    ]
+  },
+  {
+    "id": 1532,
+    "title": "Wall Stretch Exercise #1532",
+    "category": "Posture",
+    "jugaad": "Wall Stretch Exercise  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "exercise",
+      "wall",
+      "height",
+      "posture",
+      "growth",
+      "stretch"
+    ]
+  },
+  {
+    "id": 1533,
+    "title": "Cow Milk with Turmeric Boost #1533",
+    "category": "Fitness",
+    "jugaad": "Cow Milk with Turmeric Boost  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "fitness",
+      "height",
+      "turmeric",
+      "cow",
+      "milk",
+      "growth",
+      "with",
+      "boost"
+    ]
+  },
+  {
+    "id": 1534,
+    "title": "Kapalbhati Detox Breath #1534",
+    "category": "Diet",
+    "jugaad": "Kapalbhati Detox Breath  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "diet",
+      "height",
+      "breath",
+      "kapalbhati",
+      "growth",
+      "detox"
+    ]
+  },
+  {
+    "id": 1535,
+    "title": "Almonds Soaked Overnight #1535",
+    "category": "Exercise",
+    "jugaad": "Almonds Soaked Overnight  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Pan India",
+    "tags": [
+      "exercise",
+      "height",
+      "overnight",
+      "soaked",
+      "growth",
+      "almonds"
+    ]
+  },
+  {
+    "id": 1536,
+    "title": "Shatavari Powder Routine #1536",
+    "category": "Ayurveda",
+    "jugaad": "Shatavari Powder Routine  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Urban",
+    "tags": [
+      "powder",
+      "routine",
+      "height",
+      "shatavari",
+      "growth",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 1537,
+    "title": "Morning Walk in Sunlight #1537",
+    "category": "Diet",
+    "jugaad": "Morning Walk in Sunlight  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "diet",
+      "walk",
+      "height",
+      "in",
+      "growth",
+      "morning",
+      "sunlight"
+    ]
+  },
+  {
+    "id": 1538,
+    "title": "Horse Pose Yoga Hack #1538",
+    "category": "Lifestyle",
+    "jugaad": "Horse Pose Yoga Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "hack",
+      "height",
+      "lifestyle",
+      "horse",
+      "yoga",
+      "growth",
+      "pose"
+    ]
+  },
+  {
+    "id": 1539,
+    "title": "Horse Pose Yoga Hack #1539",
+    "category": "Exercise",
+    "jugaad": "Horse Pose Yoga Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "exercise",
+      "hack",
+      "height",
+      "horse",
+      "yoga",
+      "growth",
+      "pose"
+    ]
+  },
+  {
+    "id": 1540,
+    "title": "Makhan with Jaggery Strength #1540",
+    "category": "Fitness",
+    "jugaad": "Makhan with Jaggery Strength  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": [
+      "fitness",
+      "height",
+      "makhan",
+      "jaggery",
+      "growth",
+      "with",
+      "strength"
+    ]
+  },
+  {
+    "id": 1541,
+    "title": "Calcium Rich Ragi Malt #1541",
+    "category": "Diet",
+    "jugaad": "Calcium Rich Ragi Malt  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "malt",
+      "diet",
+      "height",
+      "ragi",
+      "growth",
+      "calcium",
+      "rich"
+    ]
+  },
+  {
+    "id": 1542,
+    "title": "Almonds Soaked Overnight #1542",
+    "category": "Fitness",
+    "jugaad": "Almonds Soaked Overnight  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "fitness",
+      "height",
+      "overnight",
+      "soaked",
+      "growth",
+      "almonds"
+    ]
+  },
+  {
+    "id": 1543,
+    "title": "Kapalbhati Detox Breath #1543",
+    "category": "Yoga",
+    "jugaad": "Kapalbhati Detox Breath  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "height",
+      "breath",
+      "yoga",
+      "kapalbhati",
+      "growth",
+      "detox"
+    ]
+  },
+  {
+    "id": 1544,
+    "title": "High-Protein Moong Chilla #1544",
+    "category": "Posture",
+    "jugaad": "High-Protein Moong Chilla  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "chilla",
+      "height",
+      "posture",
+      "growth",
+      "moong",
+      "high-protein"
+    ]
+  },
+  {
+    "id": 1545,
+    "title": "Makhan with Jaggery Strength #1545",
+    "category": "Diet",
+    "jugaad": "Makhan with Jaggery Strength  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "diet",
+      "height",
+      "makhan",
+      "jaggery",
+      "growth",
+      "with",
+      "strength"
+    ]
+  },
+  {
+    "id": 1546,
+    "title": "Standing Yoga Poses #1546",
+    "category": "Exercise",
+    "jugaad": "Standing Yoga Poses  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": [
+      "exercise",
+      "poses",
+      "height",
+      "yoga",
+      "growth",
+      "standing"
+    ]
+  },
+  {
+    "id": 1547,
+    "title": "Handstand Practice #1547",
+    "category": "Lifestyle",
+    "jugaad": "Handstand Practice  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "practice",
+      "height",
+      "lifestyle",
+      "handstand",
+      "growth"
+    ]
+  },
+  {
+    "id": 1548,
+    "title": "Early Morning Stretch Magic #1548",
+    "category": "Lifestyle",
+    "jugaad": "Early Morning Stretch Magic  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "height",
+      "lifestyle",
+      "early",
+      "growth",
+      "morning",
+      "stretch",
+      "magic"
+    ]
+  },
+  {
+    "id": 1549,
+    "title": "Wall Stretch Exercise #1549",
+    "category": "Exercise",
+    "jugaad": "Wall Stretch Exercise  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Rural",
+    "tags": [
+      "exercise",
+      "wall",
+      "height",
+      "growth",
+      "stretch"
+    ]
+  },
+  {
+    "id": 1550,
+    "title": "Sirsasana Se Blood Flow #1550",
+    "category": "Fitness",
+    "jugaad": "Sirsasana Se Blood Flow  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Urban",
+    "tags": [
+      "fitness",
+      "flow",
+      "blood",
+      "sirsasana",
+      "height",
+      "growth",
+      "se"
+    ]
+  },
+  {
+    "id": 1551,
+    "title": "Clapping Therapy for Hormones #1551",
+    "category": "Posture",
+    "jugaad": "Clapping Therapy for Hormones  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "height",
+      "clapping",
+      "for",
+      "posture",
+      "growth",
+      "hormones",
+      "therapy"
+    ]
+  },
+  {
+    "id": 1552,
+    "title": "Morning Walk in Sunlight #1552",
+    "category": "Ayurveda",
+    "jugaad": "Morning Walk in Sunlight  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Urban",
+    "tags": [
+      "walk",
+      "height",
+      "in",
+      "growth",
+      "morning",
+      "ayurveda",
+      "sunlight"
+    ]
+  },
+  {
+    "id": 1553,
+    "title": "Calcium Rich Ragi Malt #1553",
+    "category": "Exercise",
+    "jugaad": "Calcium Rich Ragi Malt  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "exercise",
+      "malt",
+      "height",
+      "ragi",
+      "growth",
+      "calcium",
+      "rich"
+    ]
+  },
+  {
+    "id": 1554,
+    "title": "Clapping Therapy for Hormones #1554",
+    "category": "Yoga",
+    "jugaad": "Clapping Therapy for Hormones  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "height",
+      "clapping",
+      "for",
+      "yoga",
+      "growth",
+      "hormones",
+      "therapy"
+    ]
+  },
+  {
+    "id": 1555,
+    "title": "Morning Walk in Sunlight #1555",
+    "category": "Yoga",
+    "jugaad": "Morning Walk in Sunlight  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "walk",
+      "height",
+      "in",
+      "yoga",
+      "growth",
+      "morning",
+      "sunlight"
+    ]
+  },
+  {
+    "id": 1556,
+    "title": "Gond Katira Smoothie #1556",
+    "category": "Exercise",
+    "jugaad": "Gond Katira Smoothie  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "exercise",
+      "height",
+      "gond",
+      "katira",
+      "growth",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 1557,
+    "title": "Balanced Sleep Cycle #1557",
+    "category": "Yoga",
+    "jugaad": "Balanced Sleep Cycle  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "height",
+      "sleep",
+      "yoga",
+      "growth",
+      "balanced",
+      "cycle"
+    ]
+  },
+  {
+    "id": 1558,
+    "title": "Evening Walks with Light Jog #1558",
+    "category": "Ayurveda",
+    "jugaad": "Evening Walks with Light Jog  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "height",
+      "evening",
+      "light",
+      "jog",
+      "walks",
+      "growth",
+      "ayurveda",
+      "with"
+    ]
+  },
+  {
+    "id": 1559,
+    "title": "Shatavari Powder Routine #1559",
+    "category": "Diet",
+    "jugaad": "Shatavari Powder Routine  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Rural",
+    "tags": [
+      "powder",
+      "routine",
+      "diet",
+      "height",
+      "shatavari",
+      "growth"
+    ]
+  },
+  {
+    "id": 1560,
+    "title": "Evening Walks with Light Jog #1560",
+    "category": "Fitness",
+    "jugaad": "Evening Walks with Light Jog  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": [
+      "fitness",
+      "height",
+      "evening",
+      "light",
+      "jog",
+      "walks",
+      "growth",
+      "with"
+    ]
+  },
+  {
+    "id": 1561,
+    "title": "Seasonal Fruits Daily Trick #1561",
+    "category": "Lifestyle",
+    "jugaad": "Seasonal Fruits Daily Trick  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": [
+      "trick",
+      "height",
+      "lifestyle",
+      "fruits",
+      "seasonal",
+      "daily",
+      "growth"
+    ]
+  },
+  {
+    "id": 1562,
+    "title": "Shatavari Powder Routine #1562",
+    "category": "Ayurveda",
+    "jugaad": "Shatavari Powder Routine  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "powder",
+      "routine",
+      "height",
+      "shatavari",
+      "growth",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 1563,
+    "title": "Sirsasana Se Blood Flow #1563",
+    "category": "Yoga",
+    "jugaad": "Sirsasana Se Blood Flow  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "flow",
+      "blood",
+      "sirsasana",
+      "height",
+      "yoga",
+      "growth",
+      "se"
+    ]
+  },
+  {
+    "id": 1564,
+    "title": "Mulethi Se Hormone Balance #1564",
+    "category": "Lifestyle",
+    "jugaad": "Mulethi Se Hormone Balance  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "height",
+      "hormone",
+      "lifestyle",
+      "balance",
+      "growth",
+      "mulethi",
+      "se"
+    ]
+  },
+  {
+    "id": 1565,
+    "title": "Shatavari Powder Routine #1565",
+    "category": "Posture",
+    "jugaad": "Shatavari Powder Routine  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "powder",
+      "routine",
+      "height",
+      "posture",
+      "shatavari",
+      "growth"
+    ]
+  },
+  {
+    "id": 1566,
+    "title": "Early Morning Stretch Magic #1566",
+    "category": "Diet",
+    "jugaad": "Early Morning Stretch Magic  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Rural",
+    "tags": [
+      "diet",
+      "height",
+      "early",
+      "growth",
+      "morning",
+      "stretch",
+      "magic"
+    ]
+  },
+  {
+    "id": 1567,
+    "title": "Swimming for Natural Growth #1567",
+    "category": "Yoga",
+    "jugaad": "Swimming for Natural Growth  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "height",
+      "for",
+      "yoga",
+      "growth",
+      "natural",
+      "swimming"
+    ]
+  },
+  {
+    "id": 1568,
+    "title": "Push Ups for Posture #1568",
+    "category": "Ayurveda",
+    "jugaad": "Push Ups for Posture  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "height",
+      "for",
+      "posture",
+      "growth",
+      "ayurveda",
+      "ups",
+      "push"
+    ]
+  },
+  {
+    "id": 1569,
+    "title": "Sirsasana Se Blood Flow #1569",
+    "category": "Lifestyle",
+    "jugaad": "Sirsasana Se Blood Flow  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": [
+      "flow",
+      "blood",
+      "sirsasana",
+      "lifestyle",
+      "height",
+      "growth",
+      "se"
+    ]
+  },
+  {
+    "id": 1570,
+    "title": "Morning Walk in Sunlight #1570",
+    "category": "Lifestyle",
+    "jugaad": "Morning Walk in Sunlight  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "walk",
+      "height",
+      "lifestyle",
+      "in",
+      "growth",
+      "morning",
+      "sunlight"
+    ]
+  },
+  {
+    "id": 1571,
+    "title": "Makhan with Jaggery Strength #1571",
+    "category": "Exercise",
+    "jugaad": "Makhan with Jaggery Strength  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "exercise",
+      "height",
+      "makhan",
+      "jaggery",
+      "growth",
+      "with",
+      "strength"
+    ]
+  },
+  {
+    "id": 1572,
+    "title": "Early Morning Stretch Magic #1572",
+    "category": "Posture",
+    "jugaad": "Early Morning Stretch Magic  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "height",
+      "early",
+      "posture",
+      "growth",
+      "morning",
+      "stretch",
+      "magic"
+    ]
+  },
+  {
+    "id": 1573,
+    "title": "Kapalbhati Detox Breath #1573",
+    "category": "Fitness",
+    "jugaad": "Kapalbhati Detox Breath  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "fitness",
+      "height",
+      "breath",
+      "kapalbhati",
+      "growth",
+      "detox"
+    ]
+  },
+  {
+    "id": 1574,
+    "title": "Almonds Soaked Overnight #1574",
+    "category": "Diet",
+    "jugaad": "Almonds Soaked Overnight  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "diet",
+      "height",
+      "overnight",
+      "soaked",
+      "growth",
+      "almonds"
+    ]
+  },
+  {
+    "id": 1575,
+    "title": "Toor Dal Protein Power #1575",
+    "category": "Ayurveda",
+    "jugaad": "Toor Dal Protein Power  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": [
+      "height",
+      "power",
+      "toor",
+      "growth",
+      "ayurveda",
+      "protein",
+      "dal"
+    ]
+  },
+  {
+    "id": 1576,
+    "title": "Push Ups for Posture #1576",
+    "category": "Yoga",
+    "jugaad": "Push Ups for Posture  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "height",
+      "for",
+      "posture",
+      "yoga",
+      "growth",
+      "ups",
+      "push"
+    ]
+  },
+  {
+    "id": 1577,
+    "title": "Breathing with Anulom-Vilom #1577",
+    "category": "Exercise",
+    "jugaad": "Breathing with Anulom-Vilom  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "exercise",
+      "height",
+      "breathing",
+      "anulom-vilom",
+      "growth",
+      "with"
+    ]
+  },
+  {
+    "id": 1578,
+    "title": "Sirsasana Se Blood Flow #1578",
+    "category": "Ayurveda",
+    "jugaad": "Sirsasana Se Blood Flow  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Rural",
+    "tags": [
+      "flow",
+      "blood",
+      "sirsasana",
+      "height",
+      "growth",
+      "ayurveda",
+      "se"
+    ]
+  },
+  {
+    "id": 1579,
+    "title": "Lemon Water Cleanse #1579",
+    "category": "Ayurveda",
+    "jugaad": "Lemon Water Cleanse  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "height",
+      "lemon",
+      "cleanse",
+      "water",
+      "growth",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 1580,
+    "title": "Gond Katira Smoothie #1580",
+    "category": "Exercise",
+    "jugaad": "Gond Katira Smoothie  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "exercise",
+      "height",
+      "gond",
+      "katira",
+      "growth",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 1581,
+    "title": "Green Veggies Calcium Hack #1581",
+    "category": "Fitness",
+    "jugaad": "Green Veggies Calcium Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Urban",
+    "tags": [
+      "veggies",
+      "green",
+      "fitness",
+      "hack",
+      "height",
+      "growth",
+      "calcium"
+    ]
+  },
+  {
+    "id": 1582,
+    "title": "Seasonal Fruits Daily Trick #1582",
+    "category": "Posture",
+    "jugaad": "Seasonal Fruits Daily Trick  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "trick",
+      "height",
+      "fruits",
+      "seasonal",
+      "daily",
+      "posture",
+      "growth"
+    ]
+  },
+  {
+    "id": 1583,
+    "title": "Early Morning Stretch Magic #1583",
+    "category": "Exercise",
+    "jugaad": "Early Morning Stretch Magic  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Rural",
+    "tags": [
+      "exercise",
+      "height",
+      "early",
+      "growth",
+      "morning",
+      "stretch",
+      "magic"
+    ]
+  },
+  {
+    "id": 1584,
+    "title": "Cobra Pose Daily Stretch #1584",
+    "category": "Diet",
+    "jugaad": "Cobra Pose Daily Stretch  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": [
+      "cobra",
+      "diet",
+      "height",
+      "daily",
+      "growth",
+      "stretch",
+      "pose"
+    ]
+  },
+  {
+    "id": 1585,
+    "title": "Swimming for Natural Growth #1585",
+    "category": "Posture",
+    "jugaad": "Swimming for Natural Growth  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "height",
+      "for",
+      "posture",
+      "growth",
+      "natural",
+      "swimming"
+    ]
+  },
+  {
+    "id": 1586,
+    "title": "Horse Pose Yoga Hack #1586",
+    "category": "Fitness",
+    "jugaad": "Horse Pose Yoga Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "hack",
+      "fitness",
+      "height",
+      "horse",
+      "yoga",
+      "growth",
+      "pose"
+    ]
+  },
+  {
+    "id": 1587,
+    "title": "Breathing with Anulom-Vilom #1587",
+    "category": "Diet",
+    "jugaad": "Breathing with Anulom-Vilom  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "diet",
+      "height",
+      "breathing",
+      "anulom-vilom",
+      "growth",
+      "with"
+    ]
+  },
+  {
+    "id": 1588,
+    "title": "Seasonal Fruits Daily Trick #1588",
+    "category": "Diet",
+    "jugaad": "Seasonal Fruits Daily Trick  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "trick",
+      "diet",
+      "height",
+      "fruits",
+      "seasonal",
+      "daily",
+      "growth"
+    ]
+  },
+  {
+    "id": 1589,
+    "title": "Seasonal Fruits Daily Trick #1589",
+    "category": "Ayurveda",
+    "jugaad": "Seasonal Fruits Daily Trick  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "trick",
+      "height",
+      "fruits",
+      "seasonal",
+      "daily",
+      "growth",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 1590,
+    "title": "Jowar Roti Height Secret #1590",
+    "category": "Ayurveda",
+    "jugaad": "Jowar Roti Height Secret  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Pan India",
+    "tags": [
+      "secret",
+      "jowar",
+      "height",
+      "growth",
+      "ayurveda",
+      "roti"
+    ]
+  },
+  {
+    "id": 1591,
+    "title": "Dates & Milk Combo #1591",
+    "category": "Ayurveda",
+    "jugaad": "Dates & Milk Combo  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "height",
+      "ayurveda",
+      "combo",
+      "dates",
+      "growth",
+      "&",
+      "milk"
+    ]
+  },
+  {
+    "id": 1592,
+    "title": "High-Protein Moong Chilla #1592",
+    "category": "Diet",
+    "jugaad": "High-Protein Moong Chilla  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Rural",
+    "tags": [
+      "chilla",
+      "diet",
+      "height",
+      "growth",
+      "moong",
+      "high-protein"
+    ]
+  },
+  {
+    "id": 1593,
+    "title": "Seasonal Fruits Daily Trick #1593",
+    "category": "Yoga",
+    "jugaad": "Seasonal Fruits Daily Trick  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "trick",
+      "height",
+      "fruits",
+      "seasonal",
+      "daily",
+      "yoga",
+      "growth"
+    ]
+  },
+  {
+    "id": 1594,
+    "title": "Jowar Roti Height Secret #1594",
+    "category": "Fitness",
+    "jugaad": "Jowar Roti Height Secret  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Pan India",
+    "tags": [
+      "secret",
+      "jowar",
+      "fitness",
+      "height",
+      "growth",
+      "roti"
+    ]
+  },
+  {
+    "id": 1595,
+    "title": "Wall Stretch Exercise #1595",
+    "category": "Exercise",
+    "jugaad": "Wall Stretch Exercise  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "exercise",
+      "wall",
+      "height",
+      "growth",
+      "stretch"
+    ]
+  },
+  {
+    "id": 1596,
+    "title": "Cobra Pose Daily Stretch #1596",
+    "category": "Fitness",
+    "jugaad": "Cobra Pose Daily Stretch  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "cobra",
+      "fitness",
+      "height",
+      "daily",
+      "growth",
+      "stretch",
+      "pose"
+    ]
+  },
+  {
+    "id": 1597,
+    "title": "Push Ups for Posture #1597",
+    "category": "Diet",
+    "jugaad": "Push Ups for Posture  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "diet",
+      "height",
+      "for",
+      "posture",
+      "growth",
+      "ups",
+      "push"
+    ]
+  },
+  {
+    "id": 1598,
+    "title": "Balanced Sleep Cycle #1598",
+    "category": "Diet",
+    "jugaad": "Balanced Sleep Cycle  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "diet",
+      "height",
+      "sleep",
+      "growth",
+      "balanced",
+      "cycle"
+    ]
+  },
+  {
+    "id": 1599,
+    "title": "Cobra Pose Daily Stretch #1599",
+    "category": "Exercise",
+    "jugaad": "Cobra Pose Daily Stretch  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Rural",
+    "tags": [
+      "cobra",
+      "exercise",
+      "height",
+      "daily",
+      "growth",
+      "stretch",
+      "pose"
+    ]
+  },
+  {
+    "id": 1600,
+    "title": "Wall Stretch Exercise #1600",
+    "category": "Ayurveda",
+    "jugaad": "Wall Stretch Exercise  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "exercise",
+      "wall",
+      "height",
+      "growth",
+      "ayurveda",
+      "stretch"
+    ]
+  },
+  {
+    "id": 1601,
+    "title": "Sirsasana Se Blood Flow #1601",
+    "category": "Lifestyle",
+    "jugaad": "Sirsasana Se Blood Flow  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "flow",
+      "blood",
+      "sirsasana",
+      "lifestyle",
+      "height",
+      "growth",
+      "se"
+    ]
+  },
+  {
+    "id": 1602,
+    "title": "Lemon Water Cleanse #1602",
+    "category": "Ayurveda",
+    "jugaad": "Lemon Water Cleanse  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Rural",
+    "tags": [
+      "height",
+      "lemon",
+      "cleanse",
+      "water",
+      "growth",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 1603,
+    "title": "Toor Dal Protein Power #1603",
+    "category": "Yoga",
+    "jugaad": "Toor Dal Protein Power  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "height",
+      "power",
+      "yoga",
+      "toor",
+      "growth",
+      "protein",
+      "dal"
+    ]
+  },
+  {
+    "id": 1604,
+    "title": "Horse Pose Yoga Hack #1604",
+    "category": "Lifestyle",
+    "jugaad": "Horse Pose Yoga Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "hack",
+      "height",
+      "lifestyle",
+      "horse",
+      "yoga",
+      "growth",
+      "pose"
+    ]
+  },
+  {
+    "id": 1605,
+    "title": "Wall Stretch Exercise #1605",
+    "category": "Diet",
+    "jugaad": "Wall Stretch Exercise  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "exercise",
+      "diet",
+      "wall",
+      "height",
+      "growth",
+      "stretch"
+    ]
+  },
+  {
+    "id": 1606,
+    "title": "Toor Dal Protein Power #1606",
+    "category": "Fitness",
+    "jugaad": "Toor Dal Protein Power  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "fitness",
+      "height",
+      "power",
+      "toor",
+      "growth",
+      "protein",
+      "dal"
+    ]
+  },
+  {
+    "id": 1607,
+    "title": "Cobra Pose Daily Stretch #1607",
+    "category": "Yoga",
+    "jugaad": "Cobra Pose Daily Stretch  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "cobra",
+      "height",
+      "daily",
+      "yoga",
+      "growth",
+      "stretch",
+      "pose"
+    ]
+  },
+  {
+    "id": 1608,
+    "title": "Mulethi Se Hormone Balance #1608",
+    "category": "Fitness",
+    "jugaad": "Mulethi Se Hormone Balance  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "fitness",
+      "height",
+      "hormone",
+      "balance",
+      "growth",
+      "mulethi",
+      "se"
+    ]
+  },
+  {
+    "id": 1609,
+    "title": "Lemon Water Cleanse #1609",
+    "category": "Diet",
+    "jugaad": "Lemon Water Cleanse  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "diet",
+      "height",
+      "lemon",
+      "cleanse",
+      "water",
+      "growth"
+    ]
+  },
+  {
+    "id": 1610,
+    "title": "Jowar Roti Height Secret #1610",
+    "category": "Posture",
+    "jugaad": "Jowar Roti Height Secret  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "secret",
+      "jowar",
+      "height",
+      "posture",
+      "growth",
+      "roti"
+    ]
+  },
+  {
+    "id": 1611,
+    "title": "High-Protein Moong Chilla #1611",
+    "category": "Exercise",
+    "jugaad": "High-Protein Moong Chilla  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "exercise",
+      "chilla",
+      "height",
+      "growth",
+      "moong",
+      "high-protein"
+    ]
+  },
+  {
+    "id": 1612,
+    "title": "Rope Climbing for Height #1612",
+    "category": "Diet",
+    "jugaad": "Rope Climbing for Height  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "climbing",
+      "diet",
+      "height",
+      "for",
+      "rope",
+      "growth"
+    ]
+  },
+  {
+    "id": 1613,
+    "title": "Evening Walks with Light Jog #1613",
+    "category": "Diet",
+    "jugaad": "Evening Walks with Light Jog  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "diet",
+      "height",
+      "evening",
+      "light",
+      "jog",
+      "walks",
+      "growth",
+      "with"
+    ]
+  },
+  {
+    "id": 1614,
+    "title": "Mulethi Se Hormone Balance #1614",
+    "category": "Fitness",
+    "jugaad": "Mulethi Se Hormone Balance  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "fitness",
+      "height",
+      "hormone",
+      "balance",
+      "growth",
+      "mulethi",
+      "se"
+    ]
+  },
+  {
+    "id": 1615,
+    "title": "Almonds Soaked Overnight #1615",
+    "category": "Diet",
+    "jugaad": "Almonds Soaked Overnight  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "diet",
+      "height",
+      "overnight",
+      "soaked",
+      "growth",
+      "almonds"
+    ]
+  },
+  {
+    "id": 1616,
+    "title": "Mulethi Se Hormone Balance #1616",
+    "category": "Ayurveda",
+    "jugaad": "Mulethi Se Hormone Balance  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "height",
+      "hormone",
+      "balance",
+      "growth",
+      "mulethi",
+      "ayurveda",
+      "se"
+    ]
+  },
+  {
+    "id": 1617,
+    "title": "Gond Katira Smoothie #1617",
+    "category": "Exercise",
+    "jugaad": "Gond Katira Smoothie  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "exercise",
+      "height",
+      "gond",
+      "katira",
+      "growth",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 1618,
+    "title": "Desi Ghee for Bone Strength #1618",
+    "category": "Fitness",
+    "jugaad": "Desi Ghee for Bone Strength  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "fitness",
+      "height",
+      "for",
+      "bone",
+      "growth",
+      "desi",
+      "strength",
+      "ghee"
+    ]
+  },
+  {
+    "id": 1619,
+    "title": "Push Ups for Posture #1619",
+    "category": "Exercise",
+    "jugaad": "Push Ups for Posture  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "exercise",
+      "height",
+      "for",
+      "posture",
+      "growth",
+      "ups",
+      "push"
+    ]
+  },
+  {
+    "id": 1620,
+    "title": "Green Veggies Calcium Hack #1620",
+    "category": "Fitness",
+    "jugaad": "Green Veggies Calcium Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": [
+      "veggies",
+      "green",
+      "fitness",
+      "hack",
+      "height",
+      "growth",
+      "calcium"
+    ]
+  },
+  {
+    "id": 1621,
+    "title": "Wall Stretch Exercise #1621",
+    "category": "Exercise",
+    "jugaad": "Wall Stretch Exercise  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": [
+      "exercise",
+      "wall",
+      "height",
+      "growth",
+      "stretch"
+    ]
+  },
+  {
+    "id": 1622,
+    "title": "Rope Climbing for Height #1622",
+    "category": "Posture",
+    "jugaad": "Rope Climbing for Height  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": [
+      "climbing",
+      "height",
+      "for",
+      "rope",
+      "posture",
+      "growth"
+    ]
+  },
+  {
+    "id": 1623,
+    "title": "Early Morning Stretch Magic #1623",
+    "category": "Exercise",
+    "jugaad": "Early Morning Stretch Magic  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "exercise",
+      "height",
+      "early",
+      "growth",
+      "morning",
+      "stretch",
+      "magic"
+    ]
+  },
+  {
+    "id": 1624,
+    "title": "Sirsasana Se Blood Flow #1624",
+    "category": "Fitness",
+    "jugaad": "Sirsasana Se Blood Flow  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "fitness",
+      "flow",
+      "blood",
+      "sirsasana",
+      "height",
+      "growth",
+      "se"
+    ]
+  },
+  {
+    "id": 1625,
+    "title": "Green Veggies Calcium Hack #1625",
+    "category": "Lifestyle",
+    "jugaad": "Green Veggies Calcium Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "veggies",
+      "green",
+      "hack",
+      "height",
+      "lifestyle",
+      "growth",
+      "calcium"
+    ]
+  },
+  {
+    "id": 1626,
+    "title": "Sirsasana Se Blood Flow #1626",
+    "category": "Diet",
+    "jugaad": "Sirsasana Se Blood Flow  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "diet",
+      "flow",
+      "blood",
+      "sirsasana",
+      "height",
+      "growth",
+      "se"
+    ]
+  },
+  {
+    "id": 1627,
+    "title": "Cobra Pose Daily Stretch #1627",
+    "category": "Lifestyle",
+    "jugaad": "Cobra Pose Daily Stretch  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "cobra",
+      "height",
+      "lifestyle",
+      "daily",
+      "growth",
+      "stretch",
+      "pose"
+    ]
+  },
+  {
+    "id": 1628,
+    "title": "Standing Yoga Poses #1628",
+    "category": "Exercise",
+    "jugaad": "Standing Yoga Poses  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "exercise",
+      "poses",
+      "height",
+      "yoga",
+      "growth",
+      "standing"
+    ]
+  },
+  {
+    "id": 1629,
+    "title": "Breathing with Anulom-Vilom #1629",
+    "category": "Yoga",
+    "jugaad": "Breathing with Anulom-Vilom  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "height",
+      "breathing",
+      "anulom-vilom",
+      "yoga",
+      "growth",
+      "with"
+    ]
+  },
+  {
+    "id": 1630,
+    "title": "Dates & Milk Combo #1630",
+    "category": "Diet",
+    "jugaad": "Dates & Milk Combo  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "diet",
+      "height",
+      "combo",
+      "dates",
+      "growth",
+      "&",
+      "milk"
+    ]
+  },
+  {
+    "id": 1631,
+    "title": "Cow Milk with Turmeric Boost #1631",
+    "category": "Exercise",
+    "jugaad": "Cow Milk with Turmeric Boost  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "exercise",
+      "height",
+      "turmeric",
+      "cow",
+      "milk",
+      "growth",
+      "with",
+      "boost"
+    ]
+  },
+  {
+    "id": 1632,
+    "title": "Cow Milk with Turmeric Boost #1632",
+    "category": "Fitness",
+    "jugaad": "Cow Milk with Turmeric Boost  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Rural",
+    "tags": [
+      "fitness",
+      "height",
+      "turmeric",
+      "cow",
+      "milk",
+      "growth",
+      "with",
+      "boost"
+    ]
+  },
+  {
+    "id": 1633,
+    "title": "Cobra Pose Daily Stretch #1633",
+    "category": "Lifestyle",
+    "jugaad": "Cobra Pose Daily Stretch  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "cobra",
+      "height",
+      "lifestyle",
+      "daily",
+      "growth",
+      "stretch",
+      "pose"
+    ]
+  },
+  {
+    "id": 1634,
+    "title": "Lemon Water Cleanse #1634",
+    "category": "Exercise",
+    "jugaad": "Lemon Water Cleanse  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "exercise",
+      "height",
+      "lemon",
+      "cleanse",
+      "water",
+      "growth"
+    ]
+  },
+  {
+    "id": 1635,
+    "title": "Sirsasana Se Blood Flow #1635",
+    "category": "Lifestyle",
+    "jugaad": "Sirsasana Se Blood Flow  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "flow",
+      "blood",
+      "sirsasana",
+      "lifestyle",
+      "height",
+      "growth",
+      "se"
+    ]
+  },
+  {
+    "id": 1636,
+    "title": "High-Protein Moong Chilla #1636",
+    "category": "Ayurveda",
+    "jugaad": "High-Protein Moong Chilla  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "chilla",
+      "height",
+      "growth",
+      "ayurveda",
+      "moong",
+      "high-protein"
+    ]
+  },
+  {
+    "id": 1637,
+    "title": "Desi Ghee for Bone Strength #1637",
+    "category": "Posture",
+    "jugaad": "Desi Ghee for Bone Strength  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "height",
+      "for",
+      "posture",
+      "bone",
+      "growth",
+      "desi",
+      "strength",
+      "ghee"
+    ]
+  },
+  {
+    "id": 1638,
+    "title": "Clapping Therapy for Hormones #1638",
+    "category": "Fitness",
+    "jugaad": "Clapping Therapy for Hormones  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "fitness",
+      "height",
+      "clapping",
+      "for",
+      "growth",
+      "hormones",
+      "therapy"
+    ]
+  },
+  {
+    "id": 1639,
+    "title": "High-Protein Moong Chilla #1639",
+    "category": "Exercise",
+    "jugaad": "High-Protein Moong Chilla  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "exercise",
+      "chilla",
+      "height",
+      "growth",
+      "moong",
+      "high-protein"
+    ]
+  },
+  {
+    "id": 1640,
+    "title": "Lemon Water Cleanse #1640",
+    "category": "Yoga",
+    "jugaad": "Lemon Water Cleanse  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "height",
+      "lemon",
+      "cleanse",
+      "water",
+      "yoga",
+      "growth"
+    ]
+  },
+  {
+    "id": 1641,
+    "title": "Evening Walks with Light Jog #1641",
+    "category": "Fitness",
+    "jugaad": "Evening Walks with Light Jog  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "fitness",
+      "height",
+      "evening",
+      "light",
+      "jog",
+      "walks",
+      "growth",
+      "with"
+    ]
+  },
+  {
+    "id": 1642,
+    "title": "Horse Pose Yoga Hack #1642",
+    "category": "Posture",
+    "jugaad": "Horse Pose Yoga Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Pan India",
+    "tags": [
+      "hack",
+      "height",
+      "horse",
+      "posture",
+      "yoga",
+      "growth",
+      "pose"
+    ]
+  },
+  {
+    "id": 1643,
+    "title": "Horse Pose Yoga Hack #1643",
+    "category": "Fitness",
+    "jugaad": "Horse Pose Yoga Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "hack",
+      "fitness",
+      "height",
+      "horse",
+      "yoga",
+      "growth",
+      "pose"
+    ]
+  },
+  {
+    "id": 1644,
+    "title": "Rope Climbing for Height #1644",
+    "category": "Exercise",
+    "jugaad": "Rope Climbing for Height  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "exercise",
+      "climbing",
+      "height",
+      "for",
+      "rope",
+      "growth"
+    ]
+  },
+  {
+    "id": 1645,
+    "title": "Gond Katira Smoothie #1645",
+    "category": "Yoga",
+    "jugaad": "Gond Katira Smoothie  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "height",
+      "gond",
+      "katira",
+      "yoga",
+      "growth",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 1646,
+    "title": "Early Morning Stretch Magic #1646",
+    "category": "Diet",
+    "jugaad": "Early Morning Stretch Magic  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "diet",
+      "height",
+      "early",
+      "growth",
+      "morning",
+      "stretch",
+      "magic"
+    ]
+  },
+  {
+    "id": 1647,
+    "title": "Wall Stretch Exercise #1647",
+    "category": "Fitness",
+    "jugaad": "Wall Stretch Exercise  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "exercise",
+      "fitness",
+      "wall",
+      "height",
+      "growth",
+      "stretch"
+    ]
+  },
+  {
+    "id": 1648,
+    "title": "Early Morning Stretch Magic #1648",
+    "category": "Yoga",
+    "jugaad": "Early Morning Stretch Magic  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "height",
+      "early",
+      "yoga",
+      "growth",
+      "morning",
+      "stretch",
+      "magic"
+    ]
+  },
+  {
+    "id": 1649,
+    "title": "Makhan with Jaggery Strength #1649",
+    "category": "Exercise",
+    "jugaad": "Makhan with Jaggery Strength  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "exercise",
+      "height",
+      "makhan",
+      "jaggery",
+      "growth",
+      "with",
+      "strength"
+    ]
+  },
+  {
+    "id": 1650,
+    "title": "Green Veggies Calcium Hack #1650",
+    "category": "Yoga",
+    "jugaad": "Green Veggies Calcium Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Urban",
+    "tags": [
+      "veggies",
+      "green",
+      "hack",
+      "height",
+      "yoga",
+      "growth",
+      "calcium"
+    ]
+  },
+  {
+    "id": 1651,
+    "title": "Sirsasana Se Blood Flow #1651",
+    "category": "Diet",
+    "jugaad": "Sirsasana Se Blood Flow  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "diet",
+      "flow",
+      "blood",
+      "sirsasana",
+      "height",
+      "growth",
+      "se"
+    ]
+  },
+  {
+    "id": 1652,
+    "title": "Balanced Sleep Cycle #1652",
+    "category": "Ayurveda",
+    "jugaad": "Balanced Sleep Cycle  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "height",
+      "sleep",
+      "growth",
+      "ayurveda",
+      "balanced",
+      "cycle"
+    ]
+  },
+  {
+    "id": 1653,
+    "title": "Dates & Milk Combo #1653",
+    "category": "Posture",
+    "jugaad": "Dates & Milk Combo  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "height",
+      "combo",
+      "posture",
+      "dates",
+      "growth",
+      "&",
+      "milk"
+    ]
+  },
+  {
+    "id": 1654,
+    "title": "Shatavari Powder Routine #1654",
+    "category": "Lifestyle",
+    "jugaad": "Shatavari Powder Routine  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Urban",
+    "tags": [
+      "powder",
+      "routine",
+      "height",
+      "lifestyle",
+      "shatavari",
+      "growth"
+    ]
+  },
+  {
+    "id": 1655,
+    "title": "Rope Climbing for Height #1655",
+    "category": "Ayurveda",
+    "jugaad": "Rope Climbing for Height  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "climbing",
+      "height",
+      "for",
+      "rope",
+      "growth",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 1656,
+    "title": "Mulethi Se Hormone Balance #1656",
+    "category": "Ayurveda",
+    "jugaad": "Mulethi Se Hormone Balance  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Urban",
+    "tags": [
+      "height",
+      "hormone",
+      "balance",
+      "growth",
+      "mulethi",
+      "ayurveda",
+      "se"
+    ]
+  },
+  {
+    "id": 1657,
+    "title": "Kapalbhati Detox Breath #1657",
+    "category": "Ayurveda",
+    "jugaad": "Kapalbhati Detox Breath  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "height",
+      "breath",
+      "kapalbhati",
+      "growth",
+      "ayurveda",
+      "detox"
+    ]
+  },
+  {
+    "id": 1658,
+    "title": "Sirsasana Se Blood Flow #1658",
+    "category": "Exercise",
+    "jugaad": "Sirsasana Se Blood Flow  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "exercise",
+      "flow",
+      "blood",
+      "sirsasana",
+      "height",
+      "growth",
+      "se"
+    ]
+  },
+  {
+    "id": 1659,
+    "title": "Mulethi Se Hormone Balance #1659",
+    "category": "Lifestyle",
+    "jugaad": "Mulethi Se Hormone Balance  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "height",
+      "hormone",
+      "lifestyle",
+      "balance",
+      "growth",
+      "mulethi",
+      "se"
+    ]
+  },
+  {
+    "id": 1660,
+    "title": "Cobra Pose Daily Stretch #1660",
+    "category": "Diet",
+    "jugaad": "Cobra Pose Daily Stretch  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "cobra",
+      "diet",
+      "height",
+      "daily",
+      "growth",
+      "stretch",
+      "pose"
+    ]
+  },
+  {
+    "id": 1661,
+    "title": "Makhan with Jaggery Strength #1661",
+    "category": "Posture",
+    "jugaad": "Makhan with Jaggery Strength  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": [
+      "height",
+      "makhan",
+      "jaggery",
+      "posture",
+      "growth",
+      "with",
+      "strength"
+    ]
+  },
+  {
+    "id": 1662,
+    "title": "Balanced Sleep Cycle #1662",
+    "category": "Lifestyle",
+    "jugaad": "Balanced Sleep Cycle  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "height",
+      "lifestyle",
+      "sleep",
+      "growth",
+      "balanced",
+      "cycle"
+    ]
+  },
+  {
+    "id": 1663,
+    "title": "Gond Katira Smoothie #1663",
+    "category": "Lifestyle",
+    "jugaad": "Gond Katira Smoothie  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "height",
+      "lifestyle",
+      "gond",
+      "katira",
+      "growth",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 1664,
+    "title": "Balanced Sleep Cycle #1664",
+    "category": "Posture",
+    "jugaad": "Balanced Sleep Cycle  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "height",
+      "sleep",
+      "posture",
+      "growth",
+      "balanced",
+      "cycle"
+    ]
+  },
+  {
+    "id": 1665,
+    "title": "Early Morning Stretch Magic #1665",
+    "category": "Ayurveda",
+    "jugaad": "Early Morning Stretch Magic  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "height",
+      "early",
+      "growth",
+      "morning",
+      "ayurveda",
+      "stretch",
+      "magic"
+    ]
+  },
+  {
+    "id": 1666,
+    "title": "Jowar Roti Height Secret #1666",
+    "category": "Ayurveda",
+    "jugaad": "Jowar Roti Height Secret  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "secret",
+      "jowar",
+      "height",
+      "growth",
+      "ayurveda",
+      "roti"
+    ]
+  },
+  {
+    "id": 1667,
+    "title": "Rope Climbing for Height #1667",
+    "category": "Exercise",
+    "jugaad": "Rope Climbing for Height  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "exercise",
+      "climbing",
+      "height",
+      "for",
+      "rope",
+      "growth"
+    ]
+  },
+  {
+    "id": 1668,
+    "title": "Cow Milk with Turmeric Boost #1668",
+    "category": "Lifestyle",
+    "jugaad": "Cow Milk with Turmeric Boost  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "height",
+      "turmeric",
+      "lifestyle",
+      "cow",
+      "milk",
+      "growth",
+      "with",
+      "boost"
+    ]
+  },
+  {
+    "id": 1669,
+    "title": "Breathing with Anulom-Vilom #1669",
+    "category": "Exercise",
+    "jugaad": "Breathing with Anulom-Vilom  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "exercise",
+      "height",
+      "breathing",
+      "anulom-vilom",
+      "growth",
+      "with"
+    ]
+  },
+  {
+    "id": 1670,
+    "title": "Calcium Rich Ragi Malt #1670",
+    "category": "Ayurveda",
+    "jugaad": "Calcium Rich Ragi Malt  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "malt",
+      "height",
+      "ayurveda",
+      "ragi",
+      "growth",
+      "calcium",
+      "rich"
+    ]
+  },
+  {
+    "id": 1671,
+    "title": "Toor Dal Protein Power #1671",
+    "category": "Yoga",
+    "jugaad": "Toor Dal Protein Power  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "height",
+      "power",
+      "yoga",
+      "toor",
+      "growth",
+      "protein",
+      "dal"
+    ]
+  },
+  {
+    "id": 1672,
+    "title": "Clapping Therapy for Hormones #1672",
+    "category": "Diet",
+    "jugaad": "Clapping Therapy for Hormones  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "diet",
+      "height",
+      "clapping",
+      "for",
+      "growth",
+      "hormones",
+      "therapy"
+    ]
+  },
+  {
+    "id": 1673,
+    "title": "Horse Pose Yoga Hack #1673",
+    "category": "Diet",
+    "jugaad": "Horse Pose Yoga Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "hack",
+      "diet",
+      "height",
+      "horse",
+      "yoga",
+      "growth",
+      "pose"
+    ]
+  },
+  {
+    "id": 1674,
+    "title": "Sirsasana Se Blood Flow #1674",
+    "category": "Diet",
+    "jugaad": "Sirsasana Se Blood Flow  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "diet",
+      "flow",
+      "blood",
+      "sirsasana",
+      "height",
+      "growth",
+      "se"
+    ]
+  },
+  {
+    "id": 1675,
+    "title": "High-Protein Moong Chilla #1675",
+    "category": "Exercise",
+    "jugaad": "High-Protein Moong Chilla  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "exercise",
+      "chilla",
+      "height",
+      "growth",
+      "moong",
+      "high-protein"
+    ]
+  },
+  {
+    "id": 1676,
+    "title": "Shatavari Powder Routine #1676",
+    "category": "Lifestyle",
+    "jugaad": "Shatavari Powder Routine  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "powder",
+      "routine",
+      "height",
+      "lifestyle",
+      "shatavari",
+      "growth"
+    ]
+  },
+  {
+    "id": 1677,
+    "title": "Jowar Roti Height Secret #1677",
+    "category": "Fitness",
+    "jugaad": "Jowar Roti Height Secret  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": [
+      "secret",
+      "jowar",
+      "fitness",
+      "height",
+      "growth",
+      "roti"
+    ]
+  },
+  {
+    "id": 1678,
+    "title": "Horse Pose Yoga Hack #1678",
+    "category": "Exercise",
+    "jugaad": "Horse Pose Yoga Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": [
+      "exercise",
+      "hack",
+      "height",
+      "horse",
+      "yoga",
+      "growth",
+      "pose"
+    ]
+  },
+  {
+    "id": 1679,
+    "title": "Sirsasana Se Blood Flow #1679",
+    "category": "Ayurveda",
+    "jugaad": "Sirsasana Se Blood Flow  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "flow",
+      "blood",
+      "sirsasana",
+      "height",
+      "growth",
+      "ayurveda",
+      "se"
+    ]
+  },
+  {
+    "id": 1680,
+    "title": "Cobra Pose Daily Stretch #1680",
+    "category": "Diet",
+    "jugaad": "Cobra Pose Daily Stretch  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Rural",
+    "tags": [
+      "cobra",
+      "diet",
+      "height",
+      "daily",
+      "growth",
+      "stretch",
+      "pose"
+    ]
+  },
+  {
+    "id": 1681,
+    "title": "High-Protein Moong Chilla #1681",
+    "category": "Fitness",
+    "jugaad": "High-Protein Moong Chilla  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "chilla",
+      "fitness",
+      "height",
+      "growth",
+      "moong",
+      "high-protein"
+    ]
+  },
+  {
+    "id": 1682,
+    "title": "Toor Dal Protein Power #1682",
+    "category": "Exercise",
+    "jugaad": "Toor Dal Protein Power  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "exercise",
+      "height",
+      "power",
+      "toor",
+      "growth",
+      "protein",
+      "dal"
+    ]
+  },
+  {
+    "id": 1683,
+    "title": "Almonds Soaked Overnight #1683",
+    "category": "Yoga",
+    "jugaad": "Almonds Soaked Overnight  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "height",
+      "overnight",
+      "soaked",
+      "yoga",
+      "growth",
+      "almonds"
+    ]
+  },
+  {
+    "id": 1684,
+    "title": "Swimming for Natural Growth #1684",
+    "category": "Fitness",
+    "jugaad": "Swimming for Natural Growth  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Urban",
+    "tags": [
+      "fitness",
+      "height",
+      "for",
+      "growth",
+      "natural",
+      "swimming"
+    ]
+  },
+  {
+    "id": 1685,
+    "title": "Green Veggies Calcium Hack #1685",
+    "category": "Lifestyle",
+    "jugaad": "Green Veggies Calcium Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "veggies",
+      "green",
+      "hack",
+      "height",
+      "lifestyle",
+      "growth",
+      "calcium"
+    ]
+  },
+  {
+    "id": 1686,
+    "title": "Mulethi Se Hormone Balance #1686",
+    "category": "Ayurveda",
+    "jugaad": "Mulethi Se Hormone Balance  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "height",
+      "hormone",
+      "balance",
+      "growth",
+      "mulethi",
+      "ayurveda",
+      "se"
+    ]
+  },
+  {
+    "id": 1687,
+    "title": "Calcium Rich Ragi Malt #1687",
+    "category": "Fitness",
+    "jugaad": "Calcium Rich Ragi Malt  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": [
+      "malt",
+      "fitness",
+      "height",
+      "ragi",
+      "growth",
+      "calcium",
+      "rich"
+    ]
+  },
+  {
+    "id": 1688,
+    "title": "Sirsasana Se Blood Flow #1688",
+    "category": "Ayurveda",
+    "jugaad": "Sirsasana Se Blood Flow  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "flow",
+      "blood",
+      "sirsasana",
+      "height",
+      "growth",
+      "ayurveda",
+      "se"
+    ]
+  },
+  {
+    "id": 1689,
+    "title": "Standing Yoga Poses #1689",
+    "category": "Diet",
+    "jugaad": "Standing Yoga Poses  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "diet",
+      "poses",
+      "height",
+      "yoga",
+      "growth",
+      "standing"
+    ]
+  },
+  {
+    "id": 1690,
+    "title": "Push Ups for Posture #1690",
+    "category": "Exercise",
+    "jugaad": "Push Ups for Posture  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "exercise",
+      "height",
+      "for",
+      "posture",
+      "growth",
+      "ups",
+      "push"
+    ]
+  },
+  {
+    "id": 1691,
+    "title": "Morning Walk in Sunlight #1691",
+    "category": "Fitness",
+    "jugaad": "Morning Walk in Sunlight  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "fitness",
+      "walk",
+      "height",
+      "in",
+      "growth",
+      "morning",
+      "sunlight"
+    ]
+  },
+  {
+    "id": 1692,
+    "title": "Gond Katira Smoothie #1692",
+    "category": "Yoga",
+    "jugaad": "Gond Katira Smoothie  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "height",
+      "gond",
+      "katira",
+      "yoga",
+      "growth",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 1693,
+    "title": "Morning Walk in Sunlight #1693",
+    "category": "Diet",
+    "jugaad": "Morning Walk in Sunlight  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "diet",
+      "walk",
+      "height",
+      "in",
+      "growth",
+      "morning",
+      "sunlight"
+    ]
+  },
+  {
+    "id": 1694,
+    "title": "Makhan with Jaggery Strength #1694",
+    "category": "Posture",
+    "jugaad": "Makhan with Jaggery Strength  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Rural",
+    "tags": [
+      "height",
+      "makhan",
+      "jaggery",
+      "posture",
+      "growth",
+      "with",
+      "strength"
+    ]
+  },
+  {
+    "id": 1695,
+    "title": "Green Veggies Calcium Hack #1695",
+    "category": "Yoga",
+    "jugaad": "Green Veggies Calcium Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": [
+      "veggies",
+      "green",
+      "hack",
+      "height",
+      "yoga",
+      "growth",
+      "calcium"
+    ]
+  },
+  {
+    "id": 1696,
+    "title": "Cobra Pose Daily Stretch #1696",
+    "category": "Diet",
+    "jugaad": "Cobra Pose Daily Stretch  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "cobra",
+      "diet",
+      "height",
+      "daily",
+      "growth",
+      "stretch",
+      "pose"
+    ]
+  },
+  {
+    "id": 1697,
+    "title": "Makhan with Jaggery Strength #1697",
+    "category": "Yoga",
+    "jugaad": "Makhan with Jaggery Strength  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "height",
+      "makhan",
+      "jaggery",
+      "yoga",
+      "growth",
+      "with",
+      "strength"
+    ]
+  },
+  {
+    "id": 1698,
+    "title": "Swimming for Natural Growth #1698",
+    "category": "Posture",
+    "jugaad": "Swimming for Natural Growth  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "height",
+      "for",
+      "posture",
+      "growth",
+      "natural",
+      "swimming"
+    ]
+  },
+  {
+    "id": 1699,
+    "title": "Mulethi Se Hormone Balance #1699",
+    "category": "Yoga",
+    "jugaad": "Mulethi Se Hormone Balance  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "height",
+      "hormone",
+      "balance",
+      "yoga",
+      "growth",
+      "mulethi",
+      "se"
+    ]
+  },
+  {
+    "id": 1700,
+    "title": "Breathing with Anulom-Vilom #1700",
+    "category": "Fitness",
+    "jugaad": "Breathing with Anulom-Vilom  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "fitness",
+      "height",
+      "breathing",
+      "anulom-vilom",
+      "growth",
+      "with"
+    ]
+  },
+  {
+    "id": 1701,
+    "title": "Breathing with Anulom-Vilom #1701",
+    "category": "Fitness",
+    "jugaad": "Breathing with Anulom-Vilom  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": [
+      "fitness",
+      "height",
+      "breathing",
+      "anulom-vilom",
+      "growth",
+      "with"
+    ]
+  },
+  {
+    "id": 1702,
+    "title": "Almonds Soaked Overnight #1702",
+    "category": "Ayurveda",
+    "jugaad": "Almonds Soaked Overnight  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "height",
+      "overnight",
+      "soaked",
+      "growth",
+      "ayurveda",
+      "almonds"
+    ]
+  },
+  {
+    "id": 1703,
+    "title": "Clapping Therapy for Hormones #1703",
+    "category": "Yoga",
+    "jugaad": "Clapping Therapy for Hormones  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "height",
+      "clapping",
+      "for",
+      "yoga",
+      "growth",
+      "hormones",
+      "therapy"
+    ]
+  },
+  {
+    "id": 1704,
+    "title": "Green Veggies Calcium Hack #1704",
+    "category": "Yoga",
+    "jugaad": "Green Veggies Calcium Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "veggies",
+      "green",
+      "hack",
+      "height",
+      "yoga",
+      "growth",
+      "calcium"
+    ]
+  },
+  {
+    "id": 1705,
+    "title": "Evening Walks with Light Jog #1705",
+    "category": "Yoga",
+    "jugaad": "Evening Walks with Light Jog  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "height",
+      "evening",
+      "light",
+      "jog",
+      "walks",
+      "yoga",
+      "growth",
+      "with"
+    ]
+  },
+  {
+    "id": 1706,
+    "title": "Cobra Pose Daily Stretch #1706",
+    "category": "Yoga",
+    "jugaad": "Cobra Pose Daily Stretch  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "cobra",
+      "height",
+      "daily",
+      "yoga",
+      "growth",
+      "stretch",
+      "pose"
+    ]
+  },
+  {
+    "id": 1707,
+    "title": "Balanced Sleep Cycle #1707",
+    "category": "Fitness",
+    "jugaad": "Balanced Sleep Cycle  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "fitness",
+      "height",
+      "sleep",
+      "growth",
+      "balanced",
+      "cycle"
+    ]
+  },
+  {
+    "id": 1708,
+    "title": "Gond Katira Smoothie #1708",
+    "category": "Ayurveda",
+    "jugaad": "Gond Katira Smoothie  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "height",
+      "ayurveda",
+      "gond",
+      "katira",
+      "growth",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 1709,
+    "title": "Dates & Milk Combo #1709",
+    "category": "Lifestyle",
+    "jugaad": "Dates & Milk Combo  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Pan India",
+    "tags": [
+      "height",
+      "lifestyle",
+      "combo",
+      "dates",
+      "growth",
+      "&",
+      "milk"
+    ]
+  },
+  {
+    "id": 1710,
+    "title": "Sirsasana Se Blood Flow #1710",
+    "category": "Fitness",
+    "jugaad": "Sirsasana Se Blood Flow  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "fitness",
+      "flow",
+      "blood",
+      "sirsasana",
+      "height",
+      "growth",
+      "se"
+    ]
+  },
+  {
+    "id": 1711,
+    "title": "Push Ups for Posture #1711",
+    "category": "Diet",
+    "jugaad": "Push Ups for Posture  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "diet",
+      "height",
+      "for",
+      "posture",
+      "growth",
+      "ups",
+      "push"
+    ]
+  },
+  {
+    "id": 1712,
+    "title": "Kapalbhati Detox Breath #1712",
+    "category": "Diet",
+    "jugaad": "Kapalbhati Detox Breath  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "diet",
+      "height",
+      "breath",
+      "kapalbhati",
+      "growth",
+      "detox"
+    ]
+  },
+  {
+    "id": 1713,
+    "title": "Balanced Sleep Cycle #1713",
+    "category": "Lifestyle",
+    "jugaad": "Balanced Sleep Cycle  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Urban",
+    "tags": [
+      "height",
+      "lifestyle",
+      "sleep",
+      "growth",
+      "balanced",
+      "cycle"
+    ]
+  },
+  {
+    "id": 1714,
+    "title": "Early Morning Stretch Magic #1714",
+    "category": "Ayurveda",
+    "jugaad": "Early Morning Stretch Magic  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "height",
+      "early",
+      "growth",
+      "morning",
+      "ayurveda",
+      "stretch",
+      "magic"
+    ]
+  },
+  {
+    "id": 1715,
+    "title": "Balanced Sleep Cycle #1715",
+    "category": "Posture",
+    "jugaad": "Balanced Sleep Cycle  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Pan India",
+    "tags": [
+      "height",
+      "sleep",
+      "posture",
+      "growth",
+      "balanced",
+      "cycle"
+    ]
+  },
+  {
+    "id": 1716,
+    "title": "Makhan with Jaggery Strength #1716",
+    "category": "Yoga",
+    "jugaad": "Makhan with Jaggery Strength  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Rural",
+    "tags": [
+      "height",
+      "makhan",
+      "jaggery",
+      "yoga",
+      "growth",
+      "with",
+      "strength"
+    ]
+  },
+  {
+    "id": 1717,
+    "title": "Morning Walk in Sunlight #1717",
+    "category": "Lifestyle",
+    "jugaad": "Morning Walk in Sunlight  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Pan India",
+    "tags": [
+      "walk",
+      "height",
+      "lifestyle",
+      "in",
+      "growth",
+      "morning",
+      "sunlight"
+    ]
+  },
+  {
+    "id": 1718,
+    "title": "Balanced Sleep Cycle #1718",
+    "category": "Posture",
+    "jugaad": "Balanced Sleep Cycle  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "height",
+      "sleep",
+      "posture",
+      "growth",
+      "balanced",
+      "cycle"
+    ]
+  },
+  {
+    "id": 1719,
+    "title": "Mulethi Se Hormone Balance #1719",
+    "category": "Fitness",
+    "jugaad": "Mulethi Se Hormone Balance  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "fitness",
+      "height",
+      "hormone",
+      "balance",
+      "growth",
+      "mulethi",
+      "se"
+    ]
+  },
+  {
+    "id": 1720,
+    "title": "Horse Pose Yoga Hack #1720",
+    "category": "Fitness",
+    "jugaad": "Horse Pose Yoga Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": [
+      "hack",
+      "fitness",
+      "height",
+      "horse",
+      "yoga",
+      "growth",
+      "pose"
+    ]
+  },
+  {
+    "id": 1721,
+    "title": "Cobra Pose Daily Stretch #1721",
+    "category": "Lifestyle",
+    "jugaad": "Cobra Pose Daily Stretch  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": [
+      "cobra",
+      "height",
+      "lifestyle",
+      "daily",
+      "growth",
+      "stretch",
+      "pose"
+    ]
+  },
+  {
+    "id": 1722,
+    "title": "Wall Stretch Exercise #1722",
+    "category": "Fitness",
+    "jugaad": "Wall Stretch Exercise  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "exercise",
+      "fitness",
+      "wall",
+      "height",
+      "growth",
+      "stretch"
+    ]
+  },
+  {
+    "id": 1723,
+    "title": "Evening Walks with Light Jog #1723",
+    "category": "Exercise",
+    "jugaad": "Evening Walks with Light Jog  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": [
+      "exercise",
+      "height",
+      "evening",
+      "light",
+      "jog",
+      "walks",
+      "growth",
+      "with"
+    ]
+  },
+  {
+    "id": 1724,
+    "title": "Horse Pose Yoga Hack #1724",
+    "category": "Fitness",
+    "jugaad": "Horse Pose Yoga Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "hack",
+      "fitness",
+      "height",
+      "horse",
+      "yoga",
+      "growth",
+      "pose"
+    ]
+  },
+  {
+    "id": 1725,
+    "title": "Sirsasana Se Blood Flow #1725",
+    "category": "Exercise",
+    "jugaad": "Sirsasana Se Blood Flow  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "exercise",
+      "flow",
+      "blood",
+      "sirsasana",
+      "height",
+      "growth",
+      "se"
+    ]
+  },
+  {
+    "id": 1726,
+    "title": "Calcium Rich Ragi Malt #1726",
+    "category": "Exercise",
+    "jugaad": "Calcium Rich Ragi Malt  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "exercise",
+      "malt",
+      "height",
+      "ragi",
+      "growth",
+      "calcium",
+      "rich"
+    ]
+  },
+  {
+    "id": 1727,
+    "title": "Lemon Water Cleanse #1727",
+    "category": "Diet",
+    "jugaad": "Lemon Water Cleanse  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "diet",
+      "height",
+      "lemon",
+      "cleanse",
+      "water",
+      "growth"
+    ]
+  },
+  {
+    "id": 1728,
+    "title": "Evening Walks with Light Jog #1728",
+    "category": "Ayurveda",
+    "jugaad": "Evening Walks with Light Jog  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Urban",
+    "tags": [
+      "height",
+      "evening",
+      "light",
+      "jog",
+      "walks",
+      "growth",
+      "ayurveda",
+      "with"
+    ]
+  },
+  {
+    "id": 1729,
+    "title": "Clapping Therapy for Hormones #1729",
+    "category": "Ayurveda",
+    "jugaad": "Clapping Therapy for Hormones  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "height",
+      "clapping",
+      "for",
+      "growth",
+      "ayurveda",
+      "hormones",
+      "therapy"
+    ]
+  },
+  {
+    "id": 1730,
+    "title": "Evening Walks with Light Jog #1730",
+    "category": "Exercise",
+    "jugaad": "Evening Walks with Light Jog  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "exercise",
+      "height",
+      "evening",
+      "light",
+      "jog",
+      "walks",
+      "growth",
+      "with"
+    ]
+  },
+  {
+    "id": 1731,
+    "title": "Sirsasana Se Blood Flow #1731",
+    "category": "Exercise",
+    "jugaad": "Sirsasana Se Blood Flow  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Urban",
+    "tags": [
+      "exercise",
+      "flow",
+      "blood",
+      "sirsasana",
+      "height",
+      "growth",
+      "se"
+    ]
+  },
+  {
+    "id": 1732,
+    "title": "Horse Pose Yoga Hack #1732",
+    "category": "Posture",
+    "jugaad": "Horse Pose Yoga Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "hack",
+      "height",
+      "horse",
+      "posture",
+      "yoga",
+      "growth",
+      "pose"
+    ]
+  },
+  {
+    "id": 1733,
+    "title": "Mulethi Se Hormone Balance #1733",
+    "category": "Posture",
+    "jugaad": "Mulethi Se Hormone Balance  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "height",
+      "hormone",
+      "balance",
+      "posture",
+      "growth",
+      "mulethi",
+      "se"
+    ]
+  },
+  {
+    "id": 1734,
+    "title": "Mulethi Se Hormone Balance #1734",
+    "category": "Yoga",
+    "jugaad": "Mulethi Se Hormone Balance  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Rural",
+    "tags": [
+      "height",
+      "hormone",
+      "balance",
+      "yoga",
+      "growth",
+      "mulethi",
+      "se"
+    ]
+  },
+  {
+    "id": 1735,
+    "title": "Jowar Roti Height Secret #1735",
+    "category": "Posture",
+    "jugaad": "Jowar Roti Height Secret  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "secret",
+      "jowar",
+      "height",
+      "posture",
+      "growth",
+      "roti"
+    ]
+  },
+  {
+    "id": 1736,
+    "title": "Handstand Practice #1736",
+    "category": "Exercise",
+    "jugaad": "Handstand Practice  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "practice",
+      "exercise",
+      "height",
+      "handstand",
+      "growth"
+    ]
+  },
+  {
+    "id": 1737,
+    "title": "Makhan with Jaggery Strength #1737",
+    "category": "Yoga",
+    "jugaad": "Makhan with Jaggery Strength  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Rural",
+    "tags": [
+      "height",
+      "makhan",
+      "jaggery",
+      "yoga",
+      "growth",
+      "with",
+      "strength"
+    ]
+  },
+  {
+    "id": 1738,
+    "title": "Green Veggies Calcium Hack #1738",
+    "category": "Diet",
+    "jugaad": "Green Veggies Calcium Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "veggies",
+      "green",
+      "diet",
+      "hack",
+      "height",
+      "growth",
+      "calcium"
+    ]
+  },
+  {
+    "id": 1739,
+    "title": "Swimming for Natural Growth #1739",
+    "category": "Lifestyle",
+    "jugaad": "Swimming for Natural Growth  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "height",
+      "lifestyle",
+      "for",
+      "growth",
+      "natural",
+      "swimming"
+    ]
+  },
+  {
+    "id": 1740,
+    "title": "Seasonal Fruits Daily Trick #1740",
+    "category": "Ayurveda",
+    "jugaad": "Seasonal Fruits Daily Trick  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "trick",
+      "height",
+      "fruits",
+      "seasonal",
+      "daily",
+      "growth",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 1741,
+    "title": "Clapping Therapy for Hormones #1741",
+    "category": "Diet",
+    "jugaad": "Clapping Therapy for Hormones  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "diet",
+      "height",
+      "clapping",
+      "for",
+      "growth",
+      "hormones",
+      "therapy"
+    ]
+  },
+  {
+    "id": 1742,
+    "title": "Gond Katira Smoothie #1742",
+    "category": "Posture",
+    "jugaad": "Gond Katira Smoothie  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "height",
+      "gond",
+      "katira",
+      "posture",
+      "growth",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 1743,
+    "title": "Horse Pose Yoga Hack #1743",
+    "category": "Lifestyle",
+    "jugaad": "Horse Pose Yoga Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Pan India",
+    "tags": [
+      "hack",
+      "height",
+      "lifestyle",
+      "horse",
+      "yoga",
+      "growth",
+      "pose"
+    ]
+  },
+  {
+    "id": 1744,
+    "title": "Almonds Soaked Overnight #1744",
+    "category": "Ayurveda",
+    "jugaad": "Almonds Soaked Overnight  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "height",
+      "overnight",
+      "soaked",
+      "growth",
+      "ayurveda",
+      "almonds"
+    ]
+  },
+  {
+    "id": 1745,
+    "title": "High-Protein Moong Chilla #1745",
+    "category": "Lifestyle",
+    "jugaad": "High-Protein Moong Chilla  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "chilla",
+      "height",
+      "lifestyle",
+      "growth",
+      "moong",
+      "high-protein"
+    ]
+  },
+  {
+    "id": 1746,
+    "title": "Horse Pose Yoga Hack #1746",
+    "category": "Yoga",
+    "jugaad": "Horse Pose Yoga Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": [
+      "hack",
+      "height",
+      "horse",
+      "yoga",
+      "growth",
+      "pose"
+    ]
+  },
+  {
+    "id": 1747,
+    "title": "Horse Pose Yoga Hack #1747",
+    "category": "Lifestyle",
+    "jugaad": "Horse Pose Yoga Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "hack",
+      "height",
+      "lifestyle",
+      "horse",
+      "yoga",
+      "growth",
+      "pose"
+    ]
+  },
+  {
+    "id": 1748,
+    "title": "Gond Katira Smoothie #1748",
+    "category": "Exercise",
+    "jugaad": "Gond Katira Smoothie  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "exercise",
+      "height",
+      "gond",
+      "katira",
+      "growth",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 1749,
+    "title": "Handstand Practice #1749",
+    "category": "Fitness",
+    "jugaad": "Handstand Practice  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "practice",
+      "fitness",
+      "height",
+      "handstand",
+      "growth"
+    ]
+  },
+  {
+    "id": 1750,
+    "title": "Morning Walk in Sunlight #1750",
+    "category": "Ayurveda",
+    "jugaad": "Morning Walk in Sunlight  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "walk",
+      "height",
+      "in",
+      "growth",
+      "morning",
+      "ayurveda",
+      "sunlight"
+    ]
+  },
+  {
+    "id": 1751,
+    "title": "Sirsasana Se Blood Flow #1751",
+    "category": "Lifestyle",
+    "jugaad": "Sirsasana Se Blood Flow  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "flow",
+      "blood",
+      "sirsasana",
+      "lifestyle",
+      "height",
+      "growth",
+      "se"
+    ]
+  },
+  {
+    "id": 1752,
+    "title": "Almonds Soaked Overnight #1752",
+    "category": "Fitness",
+    "jugaad": "Almonds Soaked Overnight  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "fitness",
+      "height",
+      "overnight",
+      "soaked",
+      "growth",
+      "almonds"
+    ]
+  },
+  {
+    "id": 1753,
+    "title": "Lemon Water Cleanse #1753",
+    "category": "Posture",
+    "jugaad": "Lemon Water Cleanse  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "height",
+      "lemon",
+      "cleanse",
+      "water",
+      "posture",
+      "growth"
+    ]
+  },
+  {
+    "id": 1754,
+    "title": "Gond Katira Smoothie #1754",
+    "category": "Lifestyle",
+    "jugaad": "Gond Katira Smoothie  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "height",
+      "lifestyle",
+      "gond",
+      "katira",
+      "growth",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 1755,
+    "title": "Gond Katira Smoothie #1755",
+    "category": "Yoga",
+    "jugaad": "Gond Katira Smoothie  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "height",
+      "gond",
+      "katira",
+      "yoga",
+      "growth",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 1756,
+    "title": "Makhan with Jaggery Strength #1756",
+    "category": "Exercise",
+    "jugaad": "Makhan with Jaggery Strength  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Rural",
+    "tags": [
+      "exercise",
+      "height",
+      "makhan",
+      "jaggery",
+      "growth",
+      "with",
+      "strength"
+    ]
+  },
+  {
+    "id": 1757,
+    "title": "Clapping Therapy for Hormones #1757",
+    "category": "Posture",
+    "jugaad": "Clapping Therapy for Hormones  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "height",
+      "clapping",
+      "for",
+      "posture",
+      "growth",
+      "hormones",
+      "therapy"
+    ]
+  },
+  {
+    "id": 1758,
+    "title": "Early Morning Stretch Magic #1758",
+    "category": "Lifestyle",
+    "jugaad": "Early Morning Stretch Magic  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Rural",
+    "tags": [
+      "height",
+      "lifestyle",
+      "early",
+      "growth",
+      "morning",
+      "stretch",
+      "magic"
+    ]
+  },
+  {
+    "id": 1759,
+    "title": "Swimming for Natural Growth #1759",
+    "category": "Yoga",
+    "jugaad": "Swimming for Natural Growth  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "height",
+      "for",
+      "yoga",
+      "growth",
+      "natural",
+      "swimming"
+    ]
+  },
+  {
+    "id": 1760,
+    "title": "Standing Yoga Poses #1760",
+    "category": "Yoga",
+    "jugaad": "Standing Yoga Poses  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "poses",
+      "height",
+      "growth",
+      "yoga",
+      "standing"
+    ]
+  },
+  {
+    "id": 1761,
+    "title": "Evening Walks with Light Jog #1761",
+    "category": "Fitness",
+    "jugaad": "Evening Walks with Light Jog  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "fitness",
+      "height",
+      "evening",
+      "light",
+      "jog",
+      "walks",
+      "growth",
+      "with"
+    ]
+  },
+  {
+    "id": 1762,
+    "title": "Early Morning Stretch Magic #1762",
+    "category": "Fitness",
+    "jugaad": "Early Morning Stretch Magic  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": [
+      "fitness",
+      "height",
+      "early",
+      "growth",
+      "morning",
+      "stretch",
+      "magic"
+    ]
+  },
+  {
+    "id": 1763,
+    "title": "Swimming for Natural Growth #1763",
+    "category": "Diet",
+    "jugaad": "Swimming for Natural Growth  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "diet",
+      "height",
+      "for",
+      "growth",
+      "natural",
+      "swimming"
+    ]
+  },
+  {
+    "id": 1764,
+    "title": "Kapalbhati Detox Breath #1764",
+    "category": "Lifestyle",
+    "jugaad": "Kapalbhati Detox Breath  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "height",
+      "lifestyle",
+      "breath",
+      "kapalbhati",
+      "growth",
+      "detox"
+    ]
+  },
+  {
+    "id": 1765,
+    "title": "Gond Katira Smoothie #1765",
+    "category": "Fitness",
+    "jugaad": "Gond Katira Smoothie  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "fitness",
+      "height",
+      "gond",
+      "katira",
+      "growth",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 1766,
+    "title": "High-Protein Moong Chilla #1766",
+    "category": "Lifestyle",
+    "jugaad": "High-Protein Moong Chilla  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "chilla",
+      "height",
+      "lifestyle",
+      "growth",
+      "moong",
+      "high-protein"
+    ]
+  },
+  {
+    "id": 1767,
+    "title": "Kapalbhati Detox Breath #1767",
+    "category": "Posture",
+    "jugaad": "Kapalbhati Detox Breath  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "height",
+      "posture",
+      "breath",
+      "kapalbhati",
+      "growth",
+      "detox"
+    ]
+  },
+  {
+    "id": 1768,
+    "title": "Jowar Roti Height Secret #1768",
+    "category": "Posture",
+    "jugaad": "Jowar Roti Height Secret  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Rural",
+    "tags": [
+      "secret",
+      "jowar",
+      "height",
+      "posture",
+      "growth",
+      "roti"
+    ]
+  },
+  {
+    "id": 1769,
+    "title": "Morning Walk in Sunlight #1769",
+    "category": "Posture",
+    "jugaad": "Morning Walk in Sunlight  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Urban",
+    "tags": [
+      "walk",
+      "height",
+      "in",
+      "posture",
+      "growth",
+      "morning",
+      "sunlight"
+    ]
+  },
+  {
+    "id": 1770,
+    "title": "Push Ups for Posture #1770",
+    "category": "Exercise",
+    "jugaad": "Push Ups for Posture  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "exercise",
+      "height",
+      "for",
+      "posture",
+      "growth",
+      "ups",
+      "push"
+    ]
+  },
+  {
+    "id": 1771,
+    "title": "Desi Ghee for Bone Strength #1771",
+    "category": "Lifestyle",
+    "jugaad": "Desi Ghee for Bone Strength  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "height",
+      "lifestyle",
+      "for",
+      "bone",
+      "growth",
+      "desi",
+      "strength",
+      "ghee"
+    ]
+  },
+  {
+    "id": 1772,
+    "title": "Early Morning Stretch Magic #1772",
+    "category": "Diet",
+    "jugaad": "Early Morning Stretch Magic  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Rural",
+    "tags": [
+      "diet",
+      "height",
+      "early",
+      "growth",
+      "morning",
+      "stretch",
+      "magic"
+    ]
+  },
+  {
+    "id": 1773,
+    "title": "Evening Walks with Light Jog #1773",
+    "category": "Yoga",
+    "jugaad": "Evening Walks with Light Jog  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "height",
+      "evening",
+      "light",
+      "jog",
+      "walks",
+      "yoga",
+      "growth",
+      "with"
+    ]
+  },
+  {
+    "id": 1774,
+    "title": "Almonds Soaked Overnight #1774",
+    "category": "Yoga",
+    "jugaad": "Almonds Soaked Overnight  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": [
+      "height",
+      "overnight",
+      "soaked",
+      "yoga",
+      "growth",
+      "almonds"
+    ]
+  },
+  {
+    "id": 1775,
+    "title": "Standing Yoga Poses #1775",
+    "category": "Diet",
+    "jugaad": "Standing Yoga Poses  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "diet",
+      "poses",
+      "height",
+      "yoga",
+      "growth",
+      "standing"
+    ]
+  },
+  {
+    "id": 1776,
+    "title": "Standing Yoga Poses #1776",
+    "category": "Lifestyle",
+    "jugaad": "Standing Yoga Poses  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "poses",
+      "height",
+      "lifestyle",
+      "yoga",
+      "growth",
+      "standing"
+    ]
+  },
+  {
+    "id": 1777,
+    "title": "Seasonal Fruits Daily Trick #1777",
+    "category": "Posture",
+    "jugaad": "Seasonal Fruits Daily Trick  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "trick",
+      "height",
+      "fruits",
+      "seasonal",
+      "daily",
+      "posture",
+      "growth"
+    ]
+  },
+  {
+    "id": 1778,
+    "title": "Cow Milk with Turmeric Boost #1778",
+    "category": "Fitness",
+    "jugaad": "Cow Milk with Turmeric Boost  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Pan India",
+    "tags": [
+      "fitness",
+      "height",
+      "turmeric",
+      "cow",
+      "milk",
+      "growth",
+      "with",
+      "boost"
+    ]
+  },
+  {
+    "id": 1779,
+    "title": "High-Protein Moong Chilla #1779",
+    "category": "Yoga",
+    "jugaad": "High-Protein Moong Chilla  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Rural",
+    "tags": [
+      "chilla",
+      "height",
+      "yoga",
+      "growth",
+      "moong",
+      "high-protein"
+    ]
+  },
+  {
+    "id": 1780,
+    "title": "Desi Ghee for Bone Strength #1780",
+    "category": "Yoga",
+    "jugaad": "Desi Ghee for Bone Strength  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Rural",
+    "tags": [
+      "height",
+      "for",
+      "bone",
+      "yoga",
+      "growth",
+      "desi",
+      "strength",
+      "ghee"
+    ]
+  },
+  {
+    "id": 1781,
+    "title": "Kapalbhati Detox Breath #1781",
+    "category": "Diet",
+    "jugaad": "Kapalbhati Detox Breath  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Urban",
+    "tags": [
+      "diet",
+      "height",
+      "breath",
+      "kapalbhati",
+      "growth",
+      "detox"
+    ]
+  },
+  {
+    "id": 1782,
+    "title": "Lemon Water Cleanse #1782",
+    "category": "Fitness",
+    "jugaad": "Lemon Water Cleanse  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "fitness",
+      "height",
+      "lemon",
+      "cleanse",
+      "water",
+      "growth"
+    ]
+  },
+  {
+    "id": 1783,
+    "title": "High-Protein Moong Chilla #1783",
+    "category": "Diet",
+    "jugaad": "High-Protein Moong Chilla  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "chilla",
+      "diet",
+      "height",
+      "growth",
+      "moong",
+      "high-protein"
+    ]
+  },
+  {
+    "id": 1784,
+    "title": "Makhan with Jaggery Strength #1784",
+    "category": "Fitness",
+    "jugaad": "Makhan with Jaggery Strength  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "fitness",
+      "height",
+      "makhan",
+      "jaggery",
+      "growth",
+      "with",
+      "strength"
+    ]
+  },
+  {
+    "id": 1785,
+    "title": "Wall Stretch Exercise #1785",
+    "category": "Exercise",
+    "jugaad": "Wall Stretch Exercise  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": [
+      "exercise",
+      "wall",
+      "height",
+      "growth",
+      "stretch"
+    ]
+  },
+  {
+    "id": 1786,
+    "title": "Desi Ghee for Bone Strength #1786",
+    "category": "Lifestyle",
+    "jugaad": "Desi Ghee for Bone Strength  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "height",
+      "lifestyle",
+      "for",
+      "bone",
+      "growth",
+      "desi",
+      "strength",
+      "ghee"
+    ]
+  },
+  {
+    "id": 1787,
+    "title": "Breathing with Anulom-Vilom #1787",
+    "category": "Lifestyle",
+    "jugaad": "Breathing with Anulom-Vilom  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": [
+      "height",
+      "breathing",
+      "lifestyle",
+      "anulom-vilom",
+      "growth",
+      "with"
+    ]
+  },
+  {
+    "id": 1788,
+    "title": "Clapping Therapy for Hormones #1788",
+    "category": "Posture",
+    "jugaad": "Clapping Therapy for Hormones  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "height",
+      "clapping",
+      "for",
+      "posture",
+      "growth",
+      "hormones",
+      "therapy"
+    ]
+  },
+  {
+    "id": 1789,
+    "title": "Cow Milk with Turmeric Boost #1789",
+    "category": "Exercise",
+    "jugaad": "Cow Milk with Turmeric Boost  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "exercise",
+      "height",
+      "turmeric",
+      "cow",
+      "milk",
+      "growth",
+      "with",
+      "boost"
+    ]
+  },
+  {
+    "id": 1790,
+    "title": "Horse Pose Yoga Hack #1790",
+    "category": "Diet",
+    "jugaad": "Horse Pose Yoga Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "hack",
+      "diet",
+      "height",
+      "horse",
+      "yoga",
+      "growth",
+      "pose"
+    ]
+  },
+  {
+    "id": 1791,
+    "title": "Makhan with Jaggery Strength #1791",
+    "category": "Fitness",
+    "jugaad": "Makhan with Jaggery Strength  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "fitness",
+      "height",
+      "makhan",
+      "jaggery",
+      "growth",
+      "with",
+      "strength"
+    ]
+  },
+  {
+    "id": 1792,
+    "title": "Sirsasana Se Blood Flow #1792",
+    "category": "Lifestyle",
+    "jugaad": "Sirsasana Se Blood Flow  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": [
+      "flow",
+      "blood",
+      "sirsasana",
+      "lifestyle",
+      "height",
+      "growth",
+      "se"
+    ]
+  },
+  {
+    "id": 1793,
+    "title": "Swimming for Natural Growth #1793",
+    "category": "Yoga",
+    "jugaad": "Swimming for Natural Growth  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "height",
+      "for",
+      "yoga",
+      "growth",
+      "natural",
+      "swimming"
+    ]
+  },
+  {
+    "id": 1794,
+    "title": "Rope Climbing for Height #1794",
+    "category": "Lifestyle",
+    "jugaad": "Rope Climbing for Height  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "climbing",
+      "height",
+      "lifestyle",
+      "for",
+      "rope",
+      "growth"
+    ]
+  },
+  {
+    "id": 1795,
+    "title": "Morning Walk in Sunlight #1795",
+    "category": "Yoga",
+    "jugaad": "Morning Walk in Sunlight  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "walk",
+      "height",
+      "in",
+      "yoga",
+      "growth",
+      "morning",
+      "sunlight"
+    ]
+  },
+  {
+    "id": 1796,
+    "title": "Rope Climbing for Height #1796",
+    "category": "Posture",
+    "jugaad": "Rope Climbing for Height  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "climbing",
+      "height",
+      "for",
+      "rope",
+      "posture",
+      "growth"
+    ]
+  },
+  {
+    "id": 1797,
+    "title": "Lemon Water Cleanse #1797",
+    "category": "Fitness",
+    "jugaad": "Lemon Water Cleanse  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Rural",
+    "tags": [
+      "fitness",
+      "height",
+      "lemon",
+      "cleanse",
+      "water",
+      "growth"
+    ]
+  },
+  {
+    "id": 1798,
+    "title": "Handstand Practice #1798",
+    "category": "Lifestyle",
+    "jugaad": "Handstand Practice  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "practice",
+      "height",
+      "lifestyle",
+      "handstand",
+      "growth"
+    ]
+  },
+  {
+    "id": 1799,
+    "title": "Desi Ghee for Bone Strength #1799",
+    "category": "Ayurveda",
+    "jugaad": "Desi Ghee for Bone Strength  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "height",
+      "for",
+      "bone",
+      "growth",
+      "ayurveda",
+      "desi",
+      "strength",
+      "ghee"
+    ]
+  },
+  {
+    "id": 1800,
+    "title": "Evening Walks with Light Jog #1800",
+    "category": "Ayurveda",
+    "jugaad": "Evening Walks with Light Jog  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Rural",
+    "tags": [
+      "height",
+      "evening",
+      "light",
+      "jog",
+      "walks",
+      "growth",
+      "ayurveda",
+      "with"
+    ]
+  },
+  {
+    "id": 1801,
+    "title": "Almonds Soaked Overnight #1801",
+    "category": "Fitness",
+    "jugaad": "Almonds Soaked Overnight  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "fitness",
+      "height",
+      "overnight",
+      "soaked",
+      "growth",
+      "almonds"
+    ]
+  },
+  {
+    "id": 1802,
+    "title": "Jowar Roti Height Secret #1802",
+    "category": "Exercise",
+    "jugaad": "Jowar Roti Height Secret  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "exercise",
+      "secret",
+      "jowar",
+      "height",
+      "growth",
+      "roti"
+    ]
+  },
+  {
+    "id": 1803,
+    "title": "Standing Yoga Poses #1803",
+    "category": "Exercise",
+    "jugaad": "Standing Yoga Poses  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "exercise",
+      "poses",
+      "height",
+      "yoga",
+      "growth",
+      "standing"
+    ]
+  },
+  {
+    "id": 1804,
+    "title": "Calcium Rich Ragi Malt #1804",
+    "category": "Exercise",
+    "jugaad": "Calcium Rich Ragi Malt  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "exercise",
+      "malt",
+      "height",
+      "ragi",
+      "growth",
+      "calcium",
+      "rich"
+    ]
+  },
+  {
+    "id": 1805,
+    "title": "Mulethi Se Hormone Balance #1805",
+    "category": "Diet",
+    "jugaad": "Mulethi Se Hormone Balance  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Rural",
+    "tags": [
+      "diet",
+      "height",
+      "hormone",
+      "balance",
+      "growth",
+      "mulethi",
+      "se"
+    ]
+  },
+  {
+    "id": 1806,
+    "title": "Breathing with Anulom-Vilom #1806",
+    "category": "Diet",
+    "jugaad": "Breathing with Anulom-Vilom  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "diet",
+      "height",
+      "breathing",
+      "anulom-vilom",
+      "growth",
+      "with"
+    ]
+  },
+  {
+    "id": 1807,
+    "title": "Calcium Rich Ragi Malt #1807",
+    "category": "Fitness",
+    "jugaad": "Calcium Rich Ragi Malt  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": [
+      "malt",
+      "fitness",
+      "height",
+      "ragi",
+      "growth",
+      "calcium",
+      "rich"
+    ]
+  },
+  {
+    "id": 1808,
+    "title": "Handstand Practice #1808",
+    "category": "Exercise",
+    "jugaad": "Handstand Practice  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "practice",
+      "exercise",
+      "height",
+      "handstand",
+      "growth"
+    ]
+  },
+  {
+    "id": 1809,
+    "title": "Sirsasana Se Blood Flow #1809",
+    "category": "Yoga",
+    "jugaad": "Sirsasana Se Blood Flow  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "flow",
+      "blood",
+      "sirsasana",
+      "height",
+      "yoga",
+      "growth",
+      "se"
+    ]
+  },
+  {
+    "id": 1810,
+    "title": "Desi Ghee for Bone Strength #1810",
+    "category": "Diet",
+    "jugaad": "Desi Ghee for Bone Strength  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": [
+      "diet",
+      "height",
+      "for",
+      "bone",
+      "growth",
+      "desi",
+      "strength",
+      "ghee"
+    ]
+  },
+  {
+    "id": 1811,
+    "title": "Wall Stretch Exercise #1811",
+    "category": "Ayurveda",
+    "jugaad": "Wall Stretch Exercise  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "exercise",
+      "wall",
+      "height",
+      "growth",
+      "ayurveda",
+      "stretch"
+    ]
+  },
+  {
+    "id": 1812,
+    "title": "Horse Pose Yoga Hack #1812",
+    "category": "Posture",
+    "jugaad": "Horse Pose Yoga Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "hack",
+      "height",
+      "horse",
+      "posture",
+      "yoga",
+      "growth",
+      "pose"
+    ]
+  },
+  {
+    "id": 1813,
+    "title": "Handstand Practice #1813",
+    "category": "Yoga",
+    "jugaad": "Handstand Practice  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "practice",
+      "height",
+      "handstand",
+      "growth",
+      "yoga"
+    ]
+  },
+  {
+    "id": 1814,
+    "title": "Green Veggies Calcium Hack #1814",
+    "category": "Posture",
+    "jugaad": "Green Veggies Calcium Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "veggies",
+      "green",
+      "hack",
+      "height",
+      "posture",
+      "growth",
+      "calcium"
+    ]
+  },
+  {
+    "id": 1815,
+    "title": "Morning Walk in Sunlight #1815",
+    "category": "Lifestyle",
+    "jugaad": "Morning Walk in Sunlight  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "walk",
+      "height",
+      "lifestyle",
+      "in",
+      "growth",
+      "morning",
+      "sunlight"
+    ]
+  },
+  {
+    "id": 1816,
+    "title": "Evening Walks with Light Jog #1816",
+    "category": "Lifestyle",
+    "jugaad": "Evening Walks with Light Jog  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "height",
+      "lifestyle",
+      "evening",
+      "light",
+      "jog",
+      "walks",
+      "growth",
+      "with"
+    ]
+  },
+  {
+    "id": 1817,
+    "title": "Shatavari Powder Routine #1817",
+    "category": "Yoga",
+    "jugaad": "Shatavari Powder Routine  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "powder",
+      "routine",
+      "height",
+      "shatavari",
+      "yoga",
+      "growth"
+    ]
+  },
+  {
+    "id": 1818,
+    "title": "Evening Walks with Light Jog #1818",
+    "category": "Exercise",
+    "jugaad": "Evening Walks with Light Jog  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "exercise",
+      "height",
+      "evening",
+      "light",
+      "jog",
+      "walks",
+      "growth",
+      "with"
+    ]
+  },
+  {
+    "id": 1819,
+    "title": "Toor Dal Protein Power #1819",
+    "category": "Fitness",
+    "jugaad": "Toor Dal Protein Power  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "fitness",
+      "height",
+      "power",
+      "toor",
+      "growth",
+      "protein",
+      "dal"
+    ]
+  },
+  {
+    "id": 1820,
+    "title": "Seasonal Fruits Daily Trick #1820",
+    "category": "Exercise",
+    "jugaad": "Seasonal Fruits Daily Trick  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Rural",
+    "tags": [
+      "exercise",
+      "trick",
+      "height",
+      "fruits",
+      "seasonal",
+      "daily",
+      "growth"
+    ]
+  },
+  {
+    "id": 1821,
+    "title": "Toor Dal Protein Power #1821",
+    "category": "Exercise",
+    "jugaad": "Toor Dal Protein Power  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "exercise",
+      "height",
+      "power",
+      "toor",
+      "growth",
+      "protein",
+      "dal"
+    ]
+  },
+  {
+    "id": 1822,
+    "title": "Sirsasana Se Blood Flow #1822",
+    "category": "Yoga",
+    "jugaad": "Sirsasana Se Blood Flow  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "flow",
+      "blood",
+      "sirsasana",
+      "height",
+      "yoga",
+      "growth",
+      "se"
+    ]
+  },
+  {
+    "id": 1823,
+    "title": "Push Ups for Posture #1823",
+    "category": "Posture",
+    "jugaad": "Push Ups for Posture  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "height",
+      "for",
+      "posture",
+      "growth",
+      "ups",
+      "push"
+    ]
+  },
+  {
+    "id": 1824,
+    "title": "Calcium Rich Ragi Malt #1824",
+    "category": "Exercise",
+    "jugaad": "Calcium Rich Ragi Malt  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "exercise",
+      "malt",
+      "height",
+      "ragi",
+      "growth",
+      "calcium",
+      "rich"
+    ]
+  },
+  {
+    "id": 1825,
+    "title": "Evening Walks with Light Jog #1825",
+    "category": "Lifestyle",
+    "jugaad": "Evening Walks with Light Jog  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "height",
+      "lifestyle",
+      "evening",
+      "light",
+      "jog",
+      "walks",
+      "growth",
+      "with"
+    ]
+  },
+  {
+    "id": 1826,
+    "title": "Lemon Water Cleanse #1826",
+    "category": "Yoga",
+    "jugaad": "Lemon Water Cleanse  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Urban",
+    "tags": [
+      "height",
+      "lemon",
+      "cleanse",
+      "water",
+      "yoga",
+      "growth"
+    ]
+  },
+  {
+    "id": 1827,
+    "title": "Breathing with Anulom-Vilom #1827",
+    "category": "Lifestyle",
+    "jugaad": "Breathing with Anulom-Vilom  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "height",
+      "breathing",
+      "lifestyle",
+      "anulom-vilom",
+      "growth",
+      "with"
+    ]
+  },
+  {
+    "id": 1828,
+    "title": "Lemon Water Cleanse #1828",
+    "category": "Lifestyle",
+    "jugaad": "Lemon Water Cleanse  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "height",
+      "lifestyle",
+      "lemon",
+      "cleanse",
+      "water",
+      "growth"
+    ]
+  },
+  {
+    "id": 1829,
+    "title": "Swimming for Natural Growth #1829",
+    "category": "Diet",
+    "jugaad": "Swimming for Natural Growth  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "diet",
+      "height",
+      "for",
+      "growth",
+      "natural",
+      "swimming"
+    ]
+  },
+  {
+    "id": 1830,
+    "title": "Sirsasana Se Blood Flow #1830",
+    "category": "Diet",
+    "jugaad": "Sirsasana Se Blood Flow  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "diet",
+      "flow",
+      "blood",
+      "sirsasana",
+      "height",
+      "growth",
+      "se"
+    ]
+  },
+  {
+    "id": 1831,
+    "title": "Handstand Practice #1831",
+    "category": "Diet",
+    "jugaad": "Handstand Practice  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": [
+      "practice",
+      "diet",
+      "height",
+      "handstand",
+      "growth"
+    ]
+  },
+  {
+    "id": 1832,
+    "title": "Rope Climbing for Height #1832",
+    "category": "Exercise",
+    "jugaad": "Rope Climbing for Height  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Pan India",
+    "tags": [
+      "exercise",
+      "climbing",
+      "height",
+      "for",
+      "rope",
+      "growth"
+    ]
+  },
+  {
+    "id": 1833,
+    "title": "Balanced Sleep Cycle #1833",
+    "category": "Ayurveda",
+    "jugaad": "Balanced Sleep Cycle  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "height",
+      "sleep",
+      "growth",
+      "ayurveda",
+      "balanced",
+      "cycle"
+    ]
+  },
+  {
+    "id": 1834,
+    "title": "Mulethi Se Hormone Balance #1834",
+    "category": "Lifestyle",
+    "jugaad": "Mulethi Se Hormone Balance  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "height",
+      "hormone",
+      "lifestyle",
+      "balance",
+      "growth",
+      "mulethi",
+      "se"
+    ]
+  },
+  {
+    "id": 1835,
+    "title": "Cow Milk with Turmeric Boost #1835",
+    "category": "Fitness",
+    "jugaad": "Cow Milk with Turmeric Boost  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "fitness",
+      "height",
+      "turmeric",
+      "cow",
+      "milk",
+      "growth",
+      "with",
+      "boost"
+    ]
+  },
+  {
+    "id": 1836,
+    "title": "Push Ups for Posture #1836",
+    "category": "Ayurveda",
+    "jugaad": "Push Ups for Posture  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "height",
+      "for",
+      "posture",
+      "growth",
+      "ayurveda",
+      "ups",
+      "push"
+    ]
+  },
+  {
+    "id": 1837,
+    "title": "Desi Ghee for Bone Strength #1837",
+    "category": "Yoga",
+    "jugaad": "Desi Ghee for Bone Strength  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "height",
+      "for",
+      "bone",
+      "yoga",
+      "growth",
+      "desi",
+      "strength",
+      "ghee"
+    ]
+  },
+  {
+    "id": 1838,
+    "title": "Handstand Practice #1838",
+    "category": "Ayurveda",
+    "jugaad": "Handstand Practice  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": [
+      "practice",
+      "height",
+      "handstand",
+      "growth",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 1839,
+    "title": "Gond Katira Smoothie #1839",
+    "category": "Exercise",
+    "jugaad": "Gond Katira Smoothie  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": [
+      "exercise",
+      "height",
+      "gond",
+      "katira",
+      "growth",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 1840,
+    "title": "Clapping Therapy for Hormones #1840",
+    "category": "Ayurveda",
+    "jugaad": "Clapping Therapy for Hormones  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "height",
+      "clapping",
+      "for",
+      "growth",
+      "ayurveda",
+      "hormones",
+      "therapy"
+    ]
+  },
+  {
+    "id": 1841,
+    "title": "Kapalbhati Detox Breath #1841",
+    "category": "Fitness",
+    "jugaad": "Kapalbhati Detox Breath  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Rural",
+    "tags": [
+      "fitness",
+      "height",
+      "breath",
+      "kapalbhati",
+      "growth",
+      "detox"
+    ]
+  },
+  {
+    "id": 1842,
+    "title": "Rope Climbing for Height #1842",
+    "category": "Lifestyle",
+    "jugaad": "Rope Climbing for Height  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Urban",
+    "tags": [
+      "climbing",
+      "height",
+      "lifestyle",
+      "for",
+      "rope",
+      "growth"
+    ]
+  },
+  {
+    "id": 1843,
+    "title": "Makhan with Jaggery Strength #1843",
+    "category": "Lifestyle",
+    "jugaad": "Makhan with Jaggery Strength  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "height",
+      "lifestyle",
+      "makhan",
+      "jaggery",
+      "growth",
+      "with",
+      "strength"
+    ]
+  },
+  {
+    "id": 1844,
+    "title": "Early Morning Stretch Magic #1844",
+    "category": "Ayurveda",
+    "jugaad": "Early Morning Stretch Magic  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": [
+      "height",
+      "early",
+      "growth",
+      "morning",
+      "ayurveda",
+      "stretch",
+      "magic"
+    ]
+  },
+  {
+    "id": 1845,
+    "title": "Rope Climbing for Height #1845",
+    "category": "Fitness",
+    "jugaad": "Rope Climbing for Height  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Rural",
+    "tags": [
+      "climbing",
+      "fitness",
+      "height",
+      "for",
+      "rope",
+      "growth"
+    ]
+  },
+  {
+    "id": 1846,
+    "title": "Evening Walks with Light Jog #1846",
+    "category": "Yoga",
+    "jugaad": "Evening Walks with Light Jog  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "height",
+      "evening",
+      "light",
+      "jog",
+      "walks",
+      "yoga",
+      "growth",
+      "with"
+    ]
+  },
+  {
+    "id": 1847,
+    "title": "Breathing with Anulom-Vilom #1847",
+    "category": "Posture",
+    "jugaad": "Breathing with Anulom-Vilom  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "height",
+      "breathing",
+      "posture",
+      "anulom-vilom",
+      "growth",
+      "with"
+    ]
+  },
+  {
+    "id": 1848,
+    "title": "Evening Walks with Light Jog #1848",
+    "category": "Lifestyle",
+    "jugaad": "Evening Walks with Light Jog  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "height",
+      "lifestyle",
+      "evening",
+      "light",
+      "jog",
+      "walks",
+      "growth",
+      "with"
+    ]
+  },
+  {
+    "id": 1849,
+    "title": "Gond Katira Smoothie #1849",
+    "category": "Lifestyle",
+    "jugaad": "Gond Katira Smoothie  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "height",
+      "lifestyle",
+      "gond",
+      "katira",
+      "growth",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 1850,
+    "title": "Morning Walk in Sunlight #1850",
+    "category": "Lifestyle",
+    "jugaad": "Morning Walk in Sunlight  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "walk",
+      "height",
+      "lifestyle",
+      "in",
+      "growth",
+      "morning",
+      "sunlight"
+    ]
+  },
+  {
+    "id": 1851,
+    "title": "Cobra Pose Daily Stretch #1851",
+    "category": "Diet",
+    "jugaad": "Cobra Pose Daily Stretch  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "cobra",
+      "diet",
+      "height",
+      "daily",
+      "growth",
+      "stretch",
+      "pose"
+    ]
+  },
+  {
+    "id": 1852,
+    "title": "Gond Katira Smoothie #1852",
+    "category": "Diet",
+    "jugaad": "Gond Katira Smoothie  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "diet",
+      "height",
+      "gond",
+      "katira",
+      "growth",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 1853,
+    "title": "Balanced Sleep Cycle #1853",
+    "category": "Yoga",
+    "jugaad": "Balanced Sleep Cycle  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "height",
+      "sleep",
+      "yoga",
+      "growth",
+      "balanced",
+      "cycle"
+    ]
+  },
+  {
+    "id": 1854,
+    "title": "Handstand Practice #1854",
+    "category": "Lifestyle",
+    "jugaad": "Handstand Practice  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "practice",
+      "height",
+      "lifestyle",
+      "handstand",
+      "growth"
+    ]
+  },
+  {
+    "id": 1855,
+    "title": "Desi Ghee for Bone Strength #1855",
+    "category": "Fitness",
+    "jugaad": "Desi Ghee for Bone Strength  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Rural",
+    "tags": [
+      "fitness",
+      "height",
+      "for",
+      "bone",
+      "growth",
+      "desi",
+      "strength",
+      "ghee"
+    ]
+  },
+  {
+    "id": 1856,
+    "title": "Kapalbhati Detox Breath #1856",
+    "category": "Posture",
+    "jugaad": "Kapalbhati Detox Breath  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "height",
+      "posture",
+      "breath",
+      "kapalbhati",
+      "growth",
+      "detox"
+    ]
+  },
+  {
+    "id": 1857,
+    "title": "High-Protein Moong Chilla #1857",
+    "category": "Ayurveda",
+    "jugaad": "High-Protein Moong Chilla  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "chilla",
+      "height",
+      "growth",
+      "ayurveda",
+      "moong",
+      "high-protein"
+    ]
+  },
+  {
+    "id": 1858,
+    "title": "Handstand Practice #1858",
+    "category": "Ayurveda",
+    "jugaad": "Handstand Practice  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "practice",
+      "height",
+      "handstand",
+      "growth",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 1859,
+    "title": "Dates & Milk Combo #1859",
+    "category": "Fitness",
+    "jugaad": "Dates & Milk Combo  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "fitness",
+      "height",
+      "combo",
+      "dates",
+      "growth",
+      "&",
+      "milk"
+    ]
+  },
+  {
+    "id": 1860,
+    "title": "Jowar Roti Height Secret #1860",
+    "category": "Diet",
+    "jugaad": "Jowar Roti Height Secret  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "secret",
+      "jowar",
+      "diet",
+      "height",
+      "growth",
+      "roti"
+    ]
+  },
+  {
+    "id": 1861,
+    "title": "Sirsasana Se Blood Flow #1861",
+    "category": "Diet",
+    "jugaad": "Sirsasana Se Blood Flow  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "diet",
+      "flow",
+      "blood",
+      "sirsasana",
+      "height",
+      "growth",
+      "se"
+    ]
+  },
+  {
+    "id": 1862,
+    "title": "High-Protein Moong Chilla #1862",
+    "category": "Posture",
+    "jugaad": "High-Protein Moong Chilla  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "chilla",
+      "height",
+      "posture",
+      "growth",
+      "moong",
+      "high-protein"
+    ]
+  },
+  {
+    "id": 1863,
+    "title": "Horse Pose Yoga Hack #1863",
+    "category": "Exercise",
+    "jugaad": "Horse Pose Yoga Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "exercise",
+      "hack",
+      "height",
+      "horse",
+      "yoga",
+      "growth",
+      "pose"
+    ]
+  },
+  {
+    "id": 1864,
+    "title": "Seasonal Fruits Daily Trick #1864",
+    "category": "Ayurveda",
+    "jugaad": "Seasonal Fruits Daily Trick  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "trick",
+      "height",
+      "fruits",
+      "seasonal",
+      "daily",
+      "growth",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 1865,
+    "title": "Swimming for Natural Growth #1865",
+    "category": "Yoga",
+    "jugaad": "Swimming for Natural Growth  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "height",
+      "for",
+      "yoga",
+      "growth",
+      "natural",
+      "swimming"
+    ]
+  },
+  {
+    "id": 1866,
+    "title": "Seasonal Fruits Daily Trick #1866",
+    "category": "Diet",
+    "jugaad": "Seasonal Fruits Daily Trick  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "trick",
+      "diet",
+      "height",
+      "fruits",
+      "seasonal",
+      "daily",
+      "growth"
+    ]
+  },
+  {
+    "id": 1867,
+    "title": "Clapping Therapy for Hormones #1867",
+    "category": "Yoga",
+    "jugaad": "Clapping Therapy for Hormones  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "height",
+      "clapping",
+      "for",
+      "yoga",
+      "growth",
+      "hormones",
+      "therapy"
+    ]
+  },
+  {
+    "id": 1868,
+    "title": "Makhan with Jaggery Strength #1868",
+    "category": "Diet",
+    "jugaad": "Makhan with Jaggery Strength  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "diet",
+      "height",
+      "makhan",
+      "jaggery",
+      "growth",
+      "with",
+      "strength"
+    ]
+  },
+  {
+    "id": 1869,
+    "title": "Rope Climbing for Height #1869",
+    "category": "Ayurveda",
+    "jugaad": "Rope Climbing for Height  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "climbing",
+      "height",
+      "for",
+      "rope",
+      "growth",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 1870,
+    "title": "Swimming for Natural Growth #1870",
+    "category": "Ayurveda",
+    "jugaad": "Swimming for Natural Growth  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "height",
+      "for",
+      "growth",
+      "natural",
+      "ayurveda",
+      "swimming"
+    ]
+  },
+  {
+    "id": 1871,
+    "title": "Jowar Roti Height Secret #1871",
+    "category": "Lifestyle",
+    "jugaad": "Jowar Roti Height Secret  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": [
+      "secret",
+      "jowar",
+      "height",
+      "lifestyle",
+      "growth",
+      "roti"
+    ]
+  },
+  {
+    "id": 1872,
+    "title": "Lemon Water Cleanse #1872",
+    "category": "Yoga",
+    "jugaad": "Lemon Water Cleanse  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "height",
+      "lemon",
+      "cleanse",
+      "water",
+      "yoga",
+      "growth"
+    ]
+  },
+  {
+    "id": 1873,
+    "title": "Breathing with Anulom-Vilom #1873",
+    "category": "Posture",
+    "jugaad": "Breathing with Anulom-Vilom  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Urban",
+    "tags": [
+      "height",
+      "breathing",
+      "posture",
+      "anulom-vilom",
+      "growth",
+      "with"
+    ]
+  },
+  {
+    "id": 1874,
+    "title": "Mulethi Se Hormone Balance #1874",
+    "category": "Posture",
+    "jugaad": "Mulethi Se Hormone Balance  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Pan India",
+    "tags": [
+      "height",
+      "hormone",
+      "balance",
+      "posture",
+      "growth",
+      "mulethi",
+      "se"
+    ]
+  },
+  {
+    "id": 1875,
+    "title": "Shatavari Powder Routine #1875",
+    "category": "Fitness",
+    "jugaad": "Shatavari Powder Routine  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "powder",
+      "routine",
+      "fitness",
+      "height",
+      "shatavari",
+      "growth"
+    ]
+  },
+  {
+    "id": 1876,
+    "title": "Green Veggies Calcium Hack #1876",
+    "category": "Exercise",
+    "jugaad": "Green Veggies Calcium Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "exercise",
+      "veggies",
+      "green",
+      "hack",
+      "height",
+      "growth",
+      "calcium"
+    ]
+  },
+  {
+    "id": 1877,
+    "title": "Cow Milk with Turmeric Boost #1877",
+    "category": "Lifestyle",
+    "jugaad": "Cow Milk with Turmeric Boost  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": [
+      "height",
+      "turmeric",
+      "lifestyle",
+      "cow",
+      "milk",
+      "growth",
+      "with",
+      "boost"
+    ]
+  },
+  {
+    "id": 1878,
+    "title": "Clapping Therapy for Hormones #1878",
+    "category": "Lifestyle",
+    "jugaad": "Clapping Therapy for Hormones  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "height",
+      "lifestyle",
+      "clapping",
+      "for",
+      "growth",
+      "hormones",
+      "therapy"
+    ]
+  },
+  {
+    "id": 1879,
+    "title": "Morning Walk in Sunlight #1879",
+    "category": "Exercise",
+    "jugaad": "Morning Walk in Sunlight  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "exercise",
+      "walk",
+      "height",
+      "in",
+      "growth",
+      "morning",
+      "sunlight"
+    ]
+  },
+  {
+    "id": 1880,
+    "title": "Lemon Water Cleanse #1880",
+    "category": "Lifestyle",
+    "jugaad": "Lemon Water Cleanse  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "height",
+      "lifestyle",
+      "lemon",
+      "cleanse",
+      "water",
+      "growth"
+    ]
+  },
+  {
+    "id": 1881,
+    "title": "Horse Pose Yoga Hack #1881",
+    "category": "Posture",
+    "jugaad": "Horse Pose Yoga Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "hack",
+      "height",
+      "horse",
+      "posture",
+      "yoga",
+      "growth",
+      "pose"
+    ]
+  },
+  {
+    "id": 1882,
+    "title": "Gond Katira Smoothie #1882",
+    "category": "Yoga",
+    "jugaad": "Gond Katira Smoothie  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "height",
+      "gond",
+      "katira",
+      "yoga",
+      "growth",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 1883,
+    "title": "Handstand Practice #1883",
+    "category": "Exercise",
+    "jugaad": "Handstand Practice  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "practice",
+      "exercise",
+      "height",
+      "handstand",
+      "growth"
+    ]
+  },
+  {
+    "id": 1884,
+    "title": "Dates & Milk Combo #1884",
+    "category": "Fitness",
+    "jugaad": "Dates & Milk Combo  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "fitness",
+      "height",
+      "combo",
+      "dates",
+      "growth",
+      "&",
+      "milk"
+    ]
+  },
+  {
+    "id": 1885,
+    "title": "Gond Katira Smoothie #1885",
+    "category": "Fitness",
+    "jugaad": "Gond Katira Smoothie  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "fitness",
+      "height",
+      "gond",
+      "katira",
+      "growth",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 1886,
+    "title": "Standing Yoga Poses #1886",
+    "category": "Ayurveda",
+    "jugaad": "Standing Yoga Poses  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Pan India",
+    "tags": [
+      "poses",
+      "height",
+      "yoga",
+      "growth",
+      "ayurveda",
+      "standing"
+    ]
+  },
+  {
+    "id": 1887,
+    "title": "Lemon Water Cleanse #1887",
+    "category": "Fitness",
+    "jugaad": "Lemon Water Cleanse  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": [
+      "fitness",
+      "height",
+      "lemon",
+      "cleanse",
+      "water",
+      "growth"
+    ]
+  },
+  {
+    "id": 1888,
+    "title": "Early Morning Stretch Magic #1888",
+    "category": "Exercise",
+    "jugaad": "Early Morning Stretch Magic  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "exercise",
+      "height",
+      "early",
+      "growth",
+      "morning",
+      "stretch",
+      "magic"
+    ]
+  },
+  {
+    "id": 1889,
+    "title": "Makhan with Jaggery Strength #1889",
+    "category": "Lifestyle",
+    "jugaad": "Makhan with Jaggery Strength  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "height",
+      "lifestyle",
+      "makhan",
+      "jaggery",
+      "growth",
+      "with",
+      "strength"
+    ]
+  },
+  {
+    "id": 1890,
+    "title": "Toor Dal Protein Power #1890",
+    "category": "Ayurveda",
+    "jugaad": "Toor Dal Protein Power  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "height",
+      "power",
+      "toor",
+      "growth",
+      "ayurveda",
+      "protein",
+      "dal"
+    ]
+  },
+  {
+    "id": 1891,
+    "title": "Sirsasana Se Blood Flow #1891",
+    "category": "Posture",
+    "jugaad": "Sirsasana Se Blood Flow  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Rural",
+    "tags": [
+      "flow",
+      "blood",
+      "sirsasana",
+      "height",
+      "posture",
+      "growth",
+      "se"
+    ]
+  },
+  {
+    "id": 1892,
+    "title": "Makhan with Jaggery Strength #1892",
+    "category": "Fitness",
+    "jugaad": "Makhan with Jaggery Strength  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "fitness",
+      "height",
+      "makhan",
+      "jaggery",
+      "growth",
+      "with",
+      "strength"
+    ]
+  },
+  {
+    "id": 1893,
+    "title": "Sirsasana Se Blood Flow #1893",
+    "category": "Diet",
+    "jugaad": "Sirsasana Se Blood Flow  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": [
+      "diet",
+      "flow",
+      "blood",
+      "sirsasana",
+      "height",
+      "growth",
+      "se"
+    ]
+  },
+  {
+    "id": 1894,
+    "title": "Desi Ghee for Bone Strength #1894",
+    "category": "Lifestyle",
+    "jugaad": "Desi Ghee for Bone Strength  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Pan India",
+    "tags": [
+      "height",
+      "lifestyle",
+      "for",
+      "bone",
+      "growth",
+      "desi",
+      "strength",
+      "ghee"
+    ]
+  },
+  {
+    "id": 1895,
+    "title": "Handstand Practice #1895",
+    "category": "Ayurveda",
+    "jugaad": "Handstand Practice  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "practice",
+      "height",
+      "handstand",
+      "growth",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 1896,
+    "title": "Dates & Milk Combo #1896",
+    "category": "Fitness",
+    "jugaad": "Dates & Milk Combo  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Pan India",
+    "tags": [
+      "fitness",
+      "height",
+      "combo",
+      "dates",
+      "growth",
+      "&",
+      "milk"
+    ]
+  },
+  {
+    "id": 1897,
+    "title": "Makhan with Jaggery Strength #1897",
+    "category": "Yoga",
+    "jugaad": "Makhan with Jaggery Strength  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "height",
+      "makhan",
+      "jaggery",
+      "yoga",
+      "growth",
+      "with",
+      "strength"
+    ]
+  },
+  {
+    "id": 1898,
+    "title": "Cobra Pose Daily Stretch #1898",
+    "category": "Ayurveda",
+    "jugaad": "Cobra Pose Daily Stretch  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "cobra",
+      "height",
+      "daily",
+      "growth",
+      "ayurveda",
+      "stretch",
+      "pose"
+    ]
+  },
+  {
+    "id": 1899,
+    "title": "Calcium Rich Ragi Malt #1899",
+    "category": "Ayurveda",
+    "jugaad": "Calcium Rich Ragi Malt  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": [
+      "malt",
+      "height",
+      "ayurveda",
+      "ragi",
+      "growth",
+      "calcium",
+      "rich"
+    ]
+  },
+  {
+    "id": 1900,
+    "title": "Cow Milk with Turmeric Boost #1900",
+    "category": "Exercise",
+    "jugaad": "Cow Milk with Turmeric Boost  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Rural",
+    "tags": [
+      "exercise",
+      "height",
+      "turmeric",
+      "cow",
+      "milk",
+      "growth",
+      "with",
+      "boost"
+    ]
+  },
+  {
+    "id": 1901,
+    "title": "Swimming for Natural Growth #1901",
+    "category": "Diet",
+    "jugaad": "Swimming for Natural Growth  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "diet",
+      "height",
+      "for",
+      "growth",
+      "natural",
+      "swimming"
+    ]
+  },
+  {
+    "id": 1902,
+    "title": "Morning Walk in Sunlight #1902",
+    "category": "Ayurveda",
+    "jugaad": "Morning Walk in Sunlight  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": [
+      "walk",
+      "height",
+      "in",
+      "growth",
+      "morning",
+      "ayurveda",
+      "sunlight"
+    ]
+  },
+  {
+    "id": 1903,
+    "title": "Dates & Milk Combo #1903",
+    "category": "Yoga",
+    "jugaad": "Dates & Milk Combo  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "height",
+      "combo",
+      "yoga",
+      "dates",
+      "growth",
+      "&",
+      "milk"
+    ]
+  },
+  {
+    "id": 1904,
+    "title": "Gond Katira Smoothie #1904",
+    "category": "Fitness",
+    "jugaad": "Gond Katira Smoothie  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "fitness",
+      "height",
+      "gond",
+      "katira",
+      "growth",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 1905,
+    "title": "Morning Walk in Sunlight #1905",
+    "category": "Lifestyle",
+    "jugaad": "Morning Walk in Sunlight  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "walk",
+      "height",
+      "lifestyle",
+      "in",
+      "growth",
+      "morning",
+      "sunlight"
+    ]
+  },
+  {
+    "id": 1906,
+    "title": "Calcium Rich Ragi Malt #1906",
+    "category": "Ayurveda",
+    "jugaad": "Calcium Rich Ragi Malt  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "malt",
+      "height",
+      "ayurveda",
+      "ragi",
+      "growth",
+      "calcium",
+      "rich"
+    ]
+  },
+  {
+    "id": 1907,
+    "title": "Gond Katira Smoothie #1907",
+    "category": "Posture",
+    "jugaad": "Gond Katira Smoothie  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Pan India",
+    "tags": [
+      "height",
+      "gond",
+      "katira",
+      "posture",
+      "growth",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 1908,
+    "title": "Morning Walk in Sunlight #1908",
+    "category": "Exercise",
+    "jugaad": "Morning Walk in Sunlight  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "exercise",
+      "walk",
+      "height",
+      "in",
+      "growth",
+      "morning",
+      "sunlight"
+    ]
+  },
+  {
+    "id": 1909,
+    "title": "Rope Climbing for Height #1909",
+    "category": "Posture",
+    "jugaad": "Rope Climbing for Height  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "climbing",
+      "height",
+      "for",
+      "rope",
+      "posture",
+      "growth"
+    ]
+  },
+  {
+    "id": 1910,
+    "title": "Seasonal Fruits Daily Trick #1910",
+    "category": "Lifestyle",
+    "jugaad": "Seasonal Fruits Daily Trick  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "trick",
+      "height",
+      "lifestyle",
+      "fruits",
+      "seasonal",
+      "daily",
+      "growth"
+    ]
+  },
+  {
+    "id": 1911,
+    "title": "Horse Pose Yoga Hack #1911",
+    "category": "Diet",
+    "jugaad": "Horse Pose Yoga Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "hack",
+      "diet",
+      "height",
+      "horse",
+      "yoga",
+      "growth",
+      "pose"
+    ]
+  },
+  {
+    "id": 1912,
+    "title": "Breathing with Anulom-Vilom #1912",
+    "category": "Fitness",
+    "jugaad": "Breathing with Anulom-Vilom  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": [
+      "fitness",
+      "height",
+      "breathing",
+      "anulom-vilom",
+      "growth",
+      "with"
+    ]
+  },
+  {
+    "id": 1913,
+    "title": "Calcium Rich Ragi Malt #1913",
+    "category": "Fitness",
+    "jugaad": "Calcium Rich Ragi Malt  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "malt",
+      "fitness",
+      "height",
+      "ragi",
+      "growth",
+      "calcium",
+      "rich"
+    ]
+  },
+  {
+    "id": 1914,
+    "title": "Jowar Roti Height Secret #1914",
+    "category": "Exercise",
+    "jugaad": "Jowar Roti Height Secret  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "exercise",
+      "secret",
+      "jowar",
+      "height",
+      "growth",
+      "roti"
+    ]
+  },
+  {
+    "id": 1915,
+    "title": "Balanced Sleep Cycle #1915",
+    "category": "Exercise",
+    "jugaad": "Balanced Sleep Cycle  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "exercise",
+      "height",
+      "sleep",
+      "growth",
+      "balanced",
+      "cycle"
+    ]
+  },
+  {
+    "id": 1916,
+    "title": "Lemon Water Cleanse #1916",
+    "category": "Yoga",
+    "jugaad": "Lemon Water Cleanse  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "height",
+      "lemon",
+      "cleanse",
+      "water",
+      "yoga",
+      "growth"
+    ]
+  },
+  {
+    "id": 1917,
+    "title": "Almonds Soaked Overnight #1917",
+    "category": "Fitness",
+    "jugaad": "Almonds Soaked Overnight  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "fitness",
+      "height",
+      "overnight",
+      "soaked",
+      "growth",
+      "almonds"
+    ]
+  },
+  {
+    "id": 1918,
+    "title": "Shatavari Powder Routine #1918",
+    "category": "Exercise",
+    "jugaad": "Shatavari Powder Routine  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": [
+      "powder",
+      "exercise",
+      "routine",
+      "height",
+      "shatavari",
+      "growth"
+    ]
+  },
+  {
+    "id": 1919,
+    "title": "Green Veggies Calcium Hack #1919",
+    "category": "Exercise",
+    "jugaad": "Green Veggies Calcium Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "exercise",
+      "veggies",
+      "green",
+      "hack",
+      "height",
+      "growth",
+      "calcium"
+    ]
+  },
+  {
+    "id": 1920,
+    "title": "Mulethi Se Hormone Balance #1920",
+    "category": "Posture",
+    "jugaad": "Mulethi Se Hormone Balance  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "height",
+      "hormone",
+      "balance",
+      "posture",
+      "growth",
+      "mulethi",
+      "se"
+    ]
+  },
+  {
+    "id": 1921,
+    "title": "Balanced Sleep Cycle #1921",
+    "category": "Exercise",
+    "jugaad": "Balanced Sleep Cycle  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "exercise",
+      "height",
+      "sleep",
+      "growth",
+      "balanced",
+      "cycle"
+    ]
+  },
+  {
+    "id": 1922,
+    "title": "Balanced Sleep Cycle #1922",
+    "category": "Ayurveda",
+    "jugaad": "Balanced Sleep Cycle  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "height",
+      "sleep",
+      "growth",
+      "ayurveda",
+      "balanced",
+      "cycle"
+    ]
+  },
+  {
+    "id": 1923,
+    "title": "Handstand Practice #1923",
+    "category": "Exercise",
+    "jugaad": "Handstand Practice  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "practice",
+      "exercise",
+      "height",
+      "handstand",
+      "growth"
+    ]
+  },
+  {
+    "id": 1924,
+    "title": "Green Veggies Calcium Hack #1924",
+    "category": "Yoga",
+    "jugaad": "Green Veggies Calcium Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Rural",
+    "tags": [
+      "veggies",
+      "green",
+      "hack",
+      "height",
+      "yoga",
+      "growth",
+      "calcium"
+    ]
+  },
+  {
+    "id": 1925,
+    "title": "Jowar Roti Height Secret #1925",
+    "category": "Ayurveda",
+    "jugaad": "Jowar Roti Height Secret  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": [
+      "secret",
+      "jowar",
+      "height",
+      "growth",
+      "ayurveda",
+      "roti"
+    ]
+  },
+  {
+    "id": 1926,
+    "title": "Seasonal Fruits Daily Trick #1926",
+    "category": "Lifestyle",
+    "jugaad": "Seasonal Fruits Daily Trick  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "trick",
+      "height",
+      "lifestyle",
+      "fruits",
+      "seasonal",
+      "daily",
+      "growth"
+    ]
+  },
+  {
+    "id": 1927,
+    "title": "Shatavari Powder Routine #1927",
+    "category": "Fitness",
+    "jugaad": "Shatavari Powder Routine  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": [
+      "powder",
+      "routine",
+      "fitness",
+      "height",
+      "shatavari",
+      "growth"
+    ]
+  },
+  {
+    "id": 1928,
+    "title": "Breathing with Anulom-Vilom #1928",
+    "category": "Posture",
+    "jugaad": "Breathing with Anulom-Vilom  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "height",
+      "breathing",
+      "posture",
+      "anulom-vilom",
+      "growth",
+      "with"
+    ]
+  },
+  {
+    "id": 1929,
+    "title": "Clapping Therapy for Hormones #1929",
+    "category": "Posture",
+    "jugaad": "Clapping Therapy for Hormones  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "height",
+      "clapping",
+      "for",
+      "posture",
+      "growth",
+      "hormones",
+      "therapy"
+    ]
+  },
+  {
+    "id": 1930,
+    "title": "Gond Katira Smoothie #1930",
+    "category": "Posture",
+    "jugaad": "Gond Katira Smoothie  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Urban",
+    "tags": [
+      "height",
+      "gond",
+      "katira",
+      "posture",
+      "growth",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 1931,
+    "title": "Cow Milk with Turmeric Boost #1931",
+    "category": "Yoga",
+    "jugaad": "Cow Milk with Turmeric Boost  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Pan India",
+    "tags": [
+      "height",
+      "turmeric",
+      "cow",
+      "milk",
+      "yoga",
+      "growth",
+      "with",
+      "boost"
+    ]
+  },
+  {
+    "id": 1932,
+    "title": "Calcium Rich Ragi Malt #1932",
+    "category": "Yoga",
+    "jugaad": "Calcium Rich Ragi Malt  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "malt",
+      "height",
+      "yoga",
+      "ragi",
+      "growth",
+      "calcium",
+      "rich"
+    ]
+  },
+  {
+    "id": 1933,
+    "title": "Standing Yoga Poses #1933",
+    "category": "Yoga",
+    "jugaad": "Standing Yoga Poses  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "poses",
+      "height",
+      "growth",
+      "yoga",
+      "standing"
+    ]
+  },
+  {
+    "id": 1934,
+    "title": "Gond Katira Smoothie #1934",
+    "category": "Lifestyle",
+    "jugaad": "Gond Katira Smoothie  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Pan India",
+    "tags": [
+      "height",
+      "lifestyle",
+      "gond",
+      "katira",
+      "growth",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 1935,
+    "title": "Morning Walk in Sunlight #1935",
+    "category": "Lifestyle",
+    "jugaad": "Morning Walk in Sunlight  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Rural",
+    "tags": [
+      "walk",
+      "height",
+      "lifestyle",
+      "in",
+      "growth",
+      "morning",
+      "sunlight"
+    ]
+  },
+  {
+    "id": 1936,
+    "title": "Lemon Water Cleanse #1936",
+    "category": "Ayurveda",
+    "jugaad": "Lemon Water Cleanse  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "height",
+      "lemon",
+      "cleanse",
+      "water",
+      "growth",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 1937,
+    "title": "Early Morning Stretch Magic #1937",
+    "category": "Lifestyle",
+    "jugaad": "Early Morning Stretch Magic  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "height",
+      "lifestyle",
+      "early",
+      "growth",
+      "morning",
+      "stretch",
+      "magic"
+    ]
+  },
+  {
+    "id": 1938,
+    "title": "Dates & Milk Combo #1938",
+    "category": "Lifestyle",
+    "jugaad": "Dates & Milk Combo  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Rural",
+    "tags": [
+      "height",
+      "lifestyle",
+      "combo",
+      "dates",
+      "growth",
+      "&",
+      "milk"
+    ]
+  },
+  {
+    "id": 1939,
+    "title": "Calcium Rich Ragi Malt #1939",
+    "category": "Yoga",
+    "jugaad": "Calcium Rich Ragi Malt  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Urban",
+    "tags": [
+      "malt",
+      "height",
+      "yoga",
+      "ragi",
+      "growth",
+      "calcium",
+      "rich"
+    ]
+  },
+  {
+    "id": 1940,
+    "title": "Balanced Sleep Cycle #1940",
+    "category": "Exercise",
+    "jugaad": "Balanced Sleep Cycle  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Rural",
+    "tags": [
+      "exercise",
+      "height",
+      "sleep",
+      "growth",
+      "balanced",
+      "cycle"
+    ]
+  },
+  {
+    "id": 1941,
+    "title": "Rope Climbing for Height #1941",
+    "category": "Posture",
+    "jugaad": "Rope Climbing for Height  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "climbing",
+      "height",
+      "for",
+      "rope",
+      "posture",
+      "growth"
+    ]
+  },
+  {
+    "id": 1942,
+    "title": "Swimming for Natural Growth #1942",
+    "category": "Posture",
+    "jugaad": "Swimming for Natural Growth  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "height",
+      "for",
+      "posture",
+      "growth",
+      "natural",
+      "swimming"
+    ]
+  },
+  {
+    "id": 1943,
+    "title": "Mulethi Se Hormone Balance #1943",
+    "category": "Posture",
+    "jugaad": "Mulethi Se Hormone Balance  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "height",
+      "hormone",
+      "balance",
+      "posture",
+      "growth",
+      "mulethi",
+      "se"
+    ]
+  },
+  {
+    "id": 1944,
+    "title": "Rope Climbing for Height #1944",
+    "category": "Lifestyle",
+    "jugaad": "Rope Climbing for Height  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "climbing",
+      "height",
+      "lifestyle",
+      "for",
+      "rope",
+      "growth"
+    ]
+  },
+  {
+    "id": 1945,
+    "title": "Cobra Pose Daily Stretch #1945",
+    "category": "Fitness",
+    "jugaad": "Cobra Pose Daily Stretch  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "cobra",
+      "fitness",
+      "height",
+      "daily",
+      "growth",
+      "stretch",
+      "pose"
+    ]
+  },
+  {
+    "id": 1946,
+    "title": "High-Protein Moong Chilla #1946",
+    "category": "Ayurveda",
+    "jugaad": "High-Protein Moong Chilla  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "chilla",
+      "height",
+      "growth",
+      "ayurveda",
+      "moong",
+      "high-protein"
+    ]
+  },
+  {
+    "id": 1947,
+    "title": "Jowar Roti Height Secret #1947",
+    "category": "Diet",
+    "jugaad": "Jowar Roti Height Secret  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "secret",
+      "jowar",
+      "diet",
+      "height",
+      "growth",
+      "roti"
+    ]
+  },
+  {
+    "id": 1948,
+    "title": "Makhan with Jaggery Strength #1948",
+    "category": "Exercise",
+    "jugaad": "Makhan with Jaggery Strength  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Rural",
+    "tags": [
+      "exercise",
+      "height",
+      "makhan",
+      "jaggery",
+      "growth",
+      "with",
+      "strength"
+    ]
+  },
+  {
+    "id": 1949,
+    "title": "Toor Dal Protein Power #1949",
+    "category": "Posture",
+    "jugaad": "Toor Dal Protein Power  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "height",
+      "power",
+      "posture",
+      "toor",
+      "growth",
+      "protein",
+      "dal"
+    ]
+  },
+  {
+    "id": 1950,
+    "title": "High-Protein Moong Chilla #1950",
+    "category": "Posture",
+    "jugaad": "High-Protein Moong Chilla  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "chilla",
+      "height",
+      "posture",
+      "growth",
+      "moong",
+      "high-protein"
+    ]
+  },
+  {
+    "id": 1951,
+    "title": "Calcium Rich Ragi Malt #1951",
+    "category": "Fitness",
+    "jugaad": "Calcium Rich Ragi Malt  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "malt",
+      "fitness",
+      "height",
+      "ragi",
+      "growth",
+      "calcium",
+      "rich"
+    ]
+  },
+  {
+    "id": 1952,
+    "title": "Lemon Water Cleanse #1952",
+    "category": "Ayurveda",
+    "jugaad": "Lemon Water Cleanse  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "height",
+      "lemon",
+      "cleanse",
+      "water",
+      "growth",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 1953,
+    "title": "Almonds Soaked Overnight #1953",
+    "category": "Ayurveda",
+    "jugaad": "Almonds Soaked Overnight  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "height",
+      "overnight",
+      "soaked",
+      "growth",
+      "ayurveda",
+      "almonds"
+    ]
+  },
+  {
+    "id": 1954,
+    "title": "Green Veggies Calcium Hack #1954",
+    "category": "Fitness",
+    "jugaad": "Green Veggies Calcium Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "veggies",
+      "green",
+      "fitness",
+      "hack",
+      "height",
+      "growth",
+      "calcium"
+    ]
+  },
+  {
+    "id": 1955,
+    "title": "Shatavari Powder Routine #1955",
+    "category": "Ayurveda",
+    "jugaad": "Shatavari Powder Routine  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "powder",
+      "routine",
+      "height",
+      "shatavari",
+      "growth",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 1956,
+    "title": "Seasonal Fruits Daily Trick #1956",
+    "category": "Posture",
+    "jugaad": "Seasonal Fruits Daily Trick  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "trick",
+      "height",
+      "fruits",
+      "seasonal",
+      "daily",
+      "posture",
+      "growth"
+    ]
+  },
+  {
+    "id": 1957,
+    "title": "High-Protein Moong Chilla #1957",
+    "category": "Ayurveda",
+    "jugaad": "High-Protein Moong Chilla  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "chilla",
+      "height",
+      "growth",
+      "ayurveda",
+      "moong",
+      "high-protein"
+    ]
+  },
+  {
+    "id": 1958,
+    "title": "Wall Stretch Exercise #1958",
+    "category": "Posture",
+    "jugaad": "Wall Stretch Exercise  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "exercise",
+      "wall",
+      "height",
+      "posture",
+      "growth",
+      "stretch"
+    ]
+  },
+  {
+    "id": 1959,
+    "title": "Breathing with Anulom-Vilom #1959",
+    "category": "Exercise",
+    "jugaad": "Breathing with Anulom-Vilom  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "exercise",
+      "height",
+      "breathing",
+      "anulom-vilom",
+      "growth",
+      "with"
+    ]
+  },
+  {
+    "id": 1960,
+    "title": "Seasonal Fruits Daily Trick #1960",
+    "category": "Diet",
+    "jugaad": "Seasonal Fruits Daily Trick  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "trick",
+      "diet",
+      "height",
+      "fruits",
+      "seasonal",
+      "daily",
+      "growth"
+    ]
+  },
+  {
+    "id": 1961,
+    "title": "Green Veggies Calcium Hack #1961",
+    "category": "Yoga",
+    "jugaad": "Green Veggies Calcium Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "veggies",
+      "green",
+      "hack",
+      "height",
+      "yoga",
+      "growth",
+      "calcium"
+    ]
+  },
+  {
+    "id": 1962,
+    "title": "High-Protein Moong Chilla #1962",
+    "category": "Ayurveda",
+    "jugaad": "High-Protein Moong Chilla  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Urban",
+    "tags": [
+      "chilla",
+      "height",
+      "growth",
+      "ayurveda",
+      "moong",
+      "high-protein"
+    ]
+  },
+  {
+    "id": 1963,
+    "title": "Rope Climbing for Height #1963",
+    "category": "Ayurveda",
+    "jugaad": "Rope Climbing for Height  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": [
+      "climbing",
+      "height",
+      "for",
+      "rope",
+      "growth",
+      "ayurveda"
+    ]
+  },
+  {
+    "id": 1964,
+    "title": "Sirsasana Se Blood Flow #1964",
+    "category": "Lifestyle",
+    "jugaad": "Sirsasana Se Blood Flow  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "flow",
+      "blood",
+      "sirsasana",
+      "lifestyle",
+      "height",
+      "growth",
+      "se"
+    ]
+  },
+  {
+    "id": 1965,
+    "title": "Horse Pose Yoga Hack #1965",
+    "category": "Fitness",
+    "jugaad": "Horse Pose Yoga Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "hack",
+      "fitness",
+      "height",
+      "horse",
+      "yoga",
+      "growth",
+      "pose"
+    ]
+  },
+  {
+    "id": 1966,
+    "title": "Evening Walks with Light Jog #1966",
+    "category": "Posture",
+    "jugaad": "Evening Walks with Light Jog  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "height",
+      "evening",
+      "light",
+      "posture",
+      "jog",
+      "walks",
+      "growth",
+      "with"
+    ]
+  },
+  {
+    "id": 1967,
+    "title": "Wall Stretch Exercise #1967",
+    "category": "Exercise",
+    "jugaad": "Wall Stretch Exercise  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "exercise",
+      "wall",
+      "height",
+      "growth",
+      "stretch"
+    ]
+  },
+  {
+    "id": 1968,
+    "title": "Standing Yoga Poses #1968",
+    "category": "Exercise",
+    "jugaad": "Standing Yoga Poses  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Urban",
+    "tags": [
+      "exercise",
+      "poses",
+      "height",
+      "yoga",
+      "growth",
+      "standing"
+    ]
+  },
+  {
+    "id": 1969,
+    "title": "Horse Pose Yoga Hack #1969",
+    "category": "Ayurveda",
+    "jugaad": "Horse Pose Yoga Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "hack",
+      "height",
+      "horse",
+      "yoga",
+      "growth",
+      "ayurveda",
+      "pose"
+    ]
+  },
+  {
+    "id": 1970,
+    "title": "Gond Katira Smoothie #1970",
+    "category": "Exercise",
+    "jugaad": "Gond Katira Smoothie  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "exercise",
+      "height",
+      "gond",
+      "katira",
+      "growth",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 1971,
+    "title": "Lemon Water Cleanse #1971",
+    "category": "Yoga",
+    "jugaad": "Lemon Water Cleanse  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "height",
+      "lemon",
+      "cleanse",
+      "water",
+      "yoga",
+      "growth"
+    ]
+  },
+  {
+    "id": 1972,
+    "title": "Clapping Therapy for Hormones #1972",
+    "category": "Diet",
+    "jugaad": "Clapping Therapy for Hormones  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "diet",
+      "height",
+      "clapping",
+      "for",
+      "growth",
+      "hormones",
+      "therapy"
+    ]
+  },
+  {
+    "id": 1973,
+    "title": "Handstand Practice #1973",
+    "category": "Fitness",
+    "jugaad": "Handstand Practice  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "practice",
+      "fitness",
+      "height",
+      "handstand",
+      "growth"
+    ]
+  },
+  {
+    "id": 1974,
+    "title": "Early Morning Stretch Magic #1974",
+    "category": "Fitness",
+    "jugaad": "Early Morning Stretch Magic  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "fitness",
+      "height",
+      "early",
+      "growth",
+      "morning",
+      "stretch",
+      "magic"
+    ]
+  },
+  {
+    "id": 1975,
+    "title": "High-Protein Moong Chilla #1975",
+    "category": "Posture",
+    "jugaad": "High-Protein Moong Chilla  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "chilla",
+      "height",
+      "posture",
+      "growth",
+      "moong",
+      "high-protein"
+    ]
+  },
+  {
+    "id": 1976,
+    "title": "Green Veggies Calcium Hack #1976",
+    "category": "Posture",
+    "jugaad": "Green Veggies Calcium Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "veggies",
+      "green",
+      "hack",
+      "height",
+      "posture",
+      "growth",
+      "calcium"
+    ]
+  },
+  {
+    "id": 1977,
+    "title": "Calcium Rich Ragi Malt #1977",
+    "category": "Fitness",
+    "jugaad": "Calcium Rich Ragi Malt  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "malt",
+      "fitness",
+      "height",
+      "ragi",
+      "growth",
+      "calcium",
+      "rich"
+    ]
+  },
+  {
+    "id": 1978,
+    "title": "Evening Walks with Light Jog #1978",
+    "category": "Diet",
+    "jugaad": "Evening Walks with Light Jog  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "diet",
+      "height",
+      "evening",
+      "light",
+      "jog",
+      "walks",
+      "growth",
+      "with"
+    ]
+  },
+  {
+    "id": 1979,
+    "title": "Clapping Therapy for Hormones #1979",
+    "category": "Diet",
+    "jugaad": "Clapping Therapy for Hormones  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Pan India",
+    "tags": [
+      "diet",
+      "height",
+      "clapping",
+      "for",
+      "growth",
+      "hormones",
+      "therapy"
+    ]
+  },
+  {
+    "id": 1980,
+    "title": "Breathing with Anulom-Vilom #1980",
+    "category": "Lifestyle",
+    "jugaad": "Breathing with Anulom-Vilom  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Rural",
+    "tags": [
+      "height",
+      "breathing",
+      "lifestyle",
+      "anulom-vilom",
+      "growth",
+      "with"
+    ]
+  },
+  {
+    "id": 1981,
+    "title": "Wall Stretch Exercise #1981",
+    "category": "Posture",
+    "jugaad": "Wall Stretch Exercise  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Rural",
+    "tags": [
+      "exercise",
+      "wall",
+      "height",
+      "posture",
+      "growth",
+      "stretch"
+    ]
+  },
+  {
+    "id": 1982,
+    "title": "Wall Stretch Exercise #1982",
+    "category": "Lifestyle",
+    "jugaad": "Wall Stretch Exercise  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "exercise",
+      "wall",
+      "height",
+      "lifestyle",
+      "growth",
+      "stretch"
+    ]
+  },
+  {
+    "id": 1983,
+    "title": "Balanced Sleep Cycle #1983",
+    "category": "Lifestyle",
+    "jugaad": "Balanced Sleep Cycle  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "height",
+      "lifestyle",
+      "sleep",
+      "growth",
+      "balanced",
+      "cycle"
+    ]
+  },
+  {
+    "id": 1984,
+    "title": "Morning Walk in Sunlight #1984",
+    "category": "Diet",
+    "jugaad": "Morning Walk in Sunlight  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": [
+      "diet",
+      "walk",
+      "height",
+      "in",
+      "growth",
+      "morning",
+      "sunlight"
+    ]
+  },
+  {
+    "id": 1985,
+    "title": "Cow Milk with Turmeric Boost #1985",
+    "category": "Posture",
+    "jugaad": "Cow Milk with Turmeric Boost  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "height",
+      "turmeric",
+      "cow",
+      "posture",
+      "milk",
+      "growth",
+      "with",
+      "boost"
+    ]
+  },
+  {
+    "id": 1986,
+    "title": "Wall Stretch Exercise #1986",
+    "category": "Diet",
+    "jugaad": "Wall Stretch Exercise  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": [
+      "exercise",
+      "diet",
+      "wall",
+      "height",
+      "growth",
+      "stretch"
+    ]
+  },
+  {
+    "id": 1987,
+    "title": "Standing Yoga Poses #1987",
+    "category": "Lifestyle",
+    "jugaad": "Standing Yoga Poses  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "poses",
+      "height",
+      "lifestyle",
+      "yoga",
+      "growth",
+      "standing"
+    ]
+  },
+  {
+    "id": 1988,
+    "title": "Breathing with Anulom-Vilom #1988",
+    "category": "Exercise",
+    "jugaad": "Breathing with Anulom-Vilom  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Urban",
+    "tags": [
+      "exercise",
+      "height",
+      "breathing",
+      "anulom-vilom",
+      "growth",
+      "with"
+    ]
+  },
+  {
+    "id": 1989,
+    "title": "Balanced Sleep Cycle #1989",
+    "category": "Posture",
+    "jugaad": "Balanced Sleep Cycle  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "height",
+      "sleep",
+      "posture",
+      "growth",
+      "balanced",
+      "cycle"
+    ]
+  },
+  {
+    "id": 1990,
+    "title": "Breathing with Anulom-Vilom #1990",
+    "category": "Fitness",
+    "jugaad": "Breathing with Anulom-Vilom  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Rural",
+    "tags": [
+      "fitness",
+      "height",
+      "breathing",
+      "anulom-vilom",
+      "growth",
+      "with"
+    ]
+  },
+  {
+    "id": 1991,
+    "title": "Cow Milk with Turmeric Boost #1991",
+    "category": "Exercise",
+    "jugaad": "Cow Milk with Turmeric Boost  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Rural",
+    "tags": [
+      "exercise",
+      "height",
+      "turmeric",
+      "cow",
+      "milk",
+      "growth",
+      "with",
+      "boost"
+    ]
+  },
+  {
+    "id": 1992,
+    "title": "High-Protein Moong Chilla #1992",
+    "category": "Posture",
+    "jugaad": "High-Protein Moong Chilla  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "chilla",
+      "height",
+      "posture",
+      "growth",
+      "moong",
+      "high-protein"
+    ]
+  },
+  {
+    "id": 1993,
+    "title": "Calcium Rich Ragi Malt #1993",
+    "category": "Yoga",
+    "jugaad": "Calcium Rich Ragi Malt  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "malt",
+      "height",
+      "yoga",
+      "ragi",
+      "growth",
+      "calcium",
+      "rich"
+    ]
+  },
+  {
+    "id": 1994,
+    "title": "Lemon Water Cleanse #1994",
+    "category": "Exercise",
+    "jugaad": "Lemon Water Cleanse  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "exercise",
+      "height",
+      "lemon",
+      "cleanse",
+      "water",
+      "growth"
+    ]
+  },
+  {
+    "id": 1995,
+    "title": "Mulethi Se Hormone Balance #1995",
+    "category": "Lifestyle",
+    "jugaad": "Mulethi Se Hormone Balance  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Rural",
+    "tags": [
+      "height",
+      "hormone",
+      "lifestyle",
+      "balance",
+      "growth",
+      "mulethi",
+      "se"
+    ]
+  },
+  {
+    "id": 1996,
+    "title": "Breathing with Anulom-Vilom #1996",
+    "category": "Exercise",
+    "jugaad": "Breathing with Anulom-Vilom  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "exercise",
+      "height",
+      "breathing",
+      "anulom-vilom",
+      "growth",
+      "with"
+    ]
+  },
+  {
+    "id": 1997,
+    "title": "Almonds Soaked Overnight #1997",
+    "category": "Diet",
+    "jugaad": "Almonds Soaked Overnight  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "Rural",
+    "tags": [
+      "diet",
+      "height",
+      "overnight",
+      "soaked",
+      "growth",
+      "almonds"
+    ]
+  },
+  {
+    "id": 1998,
+    "title": "Green Veggies Calcium Hack #1998",
+    "category": "Yoga",
+    "jugaad": "Green Veggies Calcium Hack  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "veggies",
+      "green",
+      "hack",
+      "height",
+      "yoga",
+      "growth",
+      "calcium"
+    ]
+  },
+  {
+    "id": 1999,
+    "title": "Morning Walk in Sunlight #1999",
+    "category": "Exercise",
+    "jugaad": "Morning Walk in Sunlight  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "exercise",
+      "walk",
+      "height",
+      "in",
+      "growth",
+      "morning",
+      "sunlight"
+    ]
+  },
+  {
+    "id": 2000,
+    "title": "Early Morning Stretch Magic #2000",
+    "category": "Exercise",
+    "jugaad": "Early Morning Stretch Magic  ek aisa desi nuskha hai jo height badhane mein madad karta hai. Iska niyamit roop se upyog growth hormones ko stimulate karta hai aur posture ya bones ko mazbooti deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "exercise",
+      "height",
+      "early",
+      "growth",
+      "morning",
+      "stretch",
+      "magic"
+    ]
+  },
+
+   {
+    "id": 2001,
+    "title": "Skipping Rope Routine 2001",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Skipping Rope Routine 2001' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2002,
+    "title": "Early Morning Sunlight Trick 2002",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Early Morning Sunlight Trick 2002' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2003,
+    "title": "Climbing Stairs Hack 2003",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Climbing Stairs Hack 2003' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2004,
+    "title": "Copper Water Boost 2004",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Copper Water Boost 2004' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2005,
+    "title": "Stretch Before Sleep 2005",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Stretch Before Sleep 2005' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2006,
+    "title": "Milk with Turmeric Formula 2006",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Milk with Turmeric Formula 2006' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2007,
+    "title": "Wall Hanging Stretch 2007",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Wall Hanging Stretch 2007' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2008,
+    "title": "Trikonasana Hack 2008",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Trikonasana Hack 2008' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2009,
+    "title": "Bar Hanging Boost 2009",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Bar Hanging Boost 2009' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2010,
+    "title": "Double Pillow Technique 2010",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Double Pillow Technique 2010' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2011,
+    "title": "Coconut Milk Remedy 2011",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Coconut Milk Remedy 2011' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2012,
+    "title": "Swimming for Taller Frame 2012",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Swimming for Taller Frame 2012' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2013,
+    "title": "Posture Correction Drill 2013",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Posture Correction Drill 2013' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2014,
+    "title": "Ayurvedic Height Mix 2014",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ayurvedic Height Mix 2014' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2015,
+    "title": "Sleep Cycle Adjustment 2015",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Sleep Cycle Adjustment 2015' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2016,
+    "title": "Daily Skipping Schedule 2016",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Daily Skipping Schedule 2016' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2017,
+    "title": "Ghee and Mishri Combo 2017",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ghee and Mishri Combo 2017' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2018,
+    "title": "Height Boosting Juice 2018",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Height Boosting Juice 2018' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2019,
+    "title": "Panchkarma Cleansing 2019",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Panchkarma Cleansing 2019' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2020,
+    "title": "Amla and Ashwagandha Combo 2020",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Amla and Ashwagandha Combo 2020' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2021,
+    "title": "Skipping Rope Routine 2021",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Skipping Rope Routine 2021' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2022,
+    "title": "Early Morning Sunlight Trick 2022",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Early Morning Sunlight Trick 2022' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2023,
+    "title": "Climbing Stairs Hack 2023",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Climbing Stairs Hack 2023' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2024,
+    "title": "Copper Water Boost 2024",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Copper Water Boost 2024' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2025,
+    "title": "Stretch Before Sleep 2025",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Stretch Before Sleep 2025' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2026,
+    "title": "Milk with Turmeric Formula 2026",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Milk with Turmeric Formula 2026' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2027,
+    "title": "Wall Hanging Stretch 2027",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Wall Hanging Stretch 2027' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2028,
+    "title": "Trikonasana Hack 2028",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Trikonasana Hack 2028' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2029,
+    "title": "Bar Hanging Boost 2029",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Bar Hanging Boost 2029' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2030,
+    "title": "Double Pillow Technique 2030",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Double Pillow Technique 2030' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2031,
+    "title": "Coconut Milk Remedy 2031",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Coconut Milk Remedy 2031' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2032,
+    "title": "Swimming for Taller Frame 2032",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Swimming for Taller Frame 2032' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2033,
+    "title": "Posture Correction Drill 2033",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Posture Correction Drill 2033' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2034,
+    "title": "Ayurvedic Height Mix 2034",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ayurvedic Height Mix 2034' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2035,
+    "title": "Sleep Cycle Adjustment 2035",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Sleep Cycle Adjustment 2035' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2036,
+    "title": "Daily Skipping Schedule 2036",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Daily Skipping Schedule 2036' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2037,
+    "title": "Ghee and Mishri Combo 2037",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ghee and Mishri Combo 2037' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2038,
+    "title": "Height Boosting Juice 2038",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Height Boosting Juice 2038' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2039,
+    "title": "Panchkarma Cleansing 2039",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Panchkarma Cleansing 2039' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2040,
+    "title": "Amla and Ashwagandha Combo 2040",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Amla and Ashwagandha Combo 2040' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2041,
+    "title": "Skipping Rope Routine 2041",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Skipping Rope Routine 2041' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2042,
+    "title": "Early Morning Sunlight Trick 2042",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Early Morning Sunlight Trick 2042' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2043,
+    "title": "Climbing Stairs Hack 2043",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Climbing Stairs Hack 2043' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2044,
+    "title": "Copper Water Boost 2044",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Copper Water Boost 2044' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2045,
+    "title": "Stretch Before Sleep 2045",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Stretch Before Sleep 2045' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2046,
+    "title": "Milk with Turmeric Formula 2046",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Milk with Turmeric Formula 2046' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2047,
+    "title": "Wall Hanging Stretch 2047",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Wall Hanging Stretch 2047' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2048,
+    "title": "Trikonasana Hack 2048",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Trikonasana Hack 2048' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2049,
+    "title": "Bar Hanging Boost 2049",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Bar Hanging Boost 2049' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2050,
+    "title": "Double Pillow Technique 2050",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Double Pillow Technique 2050' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2051,
+    "title": "Coconut Milk Remedy 2051",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Coconut Milk Remedy 2051' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2052,
+    "title": "Swimming for Taller Frame 2052",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Swimming for Taller Frame 2052' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2053,
+    "title": "Posture Correction Drill 2053",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Posture Correction Drill 2053' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2054,
+    "title": "Ayurvedic Height Mix 2054",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ayurvedic Height Mix 2054' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2055,
+    "title": "Sleep Cycle Adjustment 2055",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Sleep Cycle Adjustment 2055' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2056,
+    "title": "Daily Skipping Schedule 2056",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Daily Skipping Schedule 2056' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2057,
+    "title": "Ghee and Mishri Combo 2057",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ghee and Mishri Combo 2057' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2058,
+    "title": "Height Boosting Juice 2058",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Height Boosting Juice 2058' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2059,
+    "title": "Panchkarma Cleansing 2059",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Panchkarma Cleansing 2059' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2060,
+    "title": "Amla and Ashwagandha Combo 2060",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Amla and Ashwagandha Combo 2060' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2061,
+    "title": "Skipping Rope Routine 2061",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Skipping Rope Routine 2061' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2062,
+    "title": "Early Morning Sunlight Trick 2062",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Early Morning Sunlight Trick 2062' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2063,
+    "title": "Climbing Stairs Hack 2063",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Climbing Stairs Hack 2063' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2064,
+    "title": "Copper Water Boost 2064",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Copper Water Boost 2064' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2065,
+    "title": "Stretch Before Sleep 2065",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Stretch Before Sleep 2065' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2066,
+    "title": "Milk with Turmeric Formula 2066",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Milk with Turmeric Formula 2066' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2067,
+    "title": "Wall Hanging Stretch 2067",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Wall Hanging Stretch 2067' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2068,
+    "title": "Trikonasana Hack 2068",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Trikonasana Hack 2068' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2069,
+    "title": "Bar Hanging Boost 2069",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Bar Hanging Boost 2069' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2070,
+    "title": "Double Pillow Technique 2070",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Double Pillow Technique 2070' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2071,
+    "title": "Coconut Milk Remedy 2071",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Coconut Milk Remedy 2071' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2072,
+    "title": "Swimming for Taller Frame 2072",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Swimming for Taller Frame 2072' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2073,
+    "title": "Posture Correction Drill 2073",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Posture Correction Drill 2073' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2074,
+    "title": "Ayurvedic Height Mix 2074",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ayurvedic Height Mix 2074' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2075,
+    "title": "Sleep Cycle Adjustment 2075",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Sleep Cycle Adjustment 2075' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2076,
+    "title": "Daily Skipping Schedule 2076",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Daily Skipping Schedule 2076' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2077,
+    "title": "Ghee and Mishri Combo 2077",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ghee and Mishri Combo 2077' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2078,
+    "title": "Height Boosting Juice 2078",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Height Boosting Juice 2078' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2079,
+    "title": "Panchkarma Cleansing 2079",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Panchkarma Cleansing 2079' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2080,
+    "title": "Amla and Ashwagandha Combo 2080",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Amla and Ashwagandha Combo 2080' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2081,
+    "title": "Skipping Rope Routine 2081",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Skipping Rope Routine 2081' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2082,
+    "title": "Early Morning Sunlight Trick 2082",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Early Morning Sunlight Trick 2082' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2083,
+    "title": "Climbing Stairs Hack 2083",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Climbing Stairs Hack 2083' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2084,
+    "title": "Copper Water Boost 2084",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Copper Water Boost 2084' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2085,
+    "title": "Stretch Before Sleep 2085",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Stretch Before Sleep 2085' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2086,
+    "title": "Milk with Turmeric Formula 2086",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Milk with Turmeric Formula 2086' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2087,
+    "title": "Wall Hanging Stretch 2087",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Wall Hanging Stretch 2087' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2088,
+    "title": "Trikonasana Hack 2088",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Trikonasana Hack 2088' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2089,
+    "title": "Bar Hanging Boost 2089",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Bar Hanging Boost 2089' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2090,
+    "title": "Double Pillow Technique 2090",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Double Pillow Technique 2090' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2091,
+    "title": "Coconut Milk Remedy 2091",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Coconut Milk Remedy 2091' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2092,
+    "title": "Swimming for Taller Frame 2092",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Swimming for Taller Frame 2092' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2093,
+    "title": "Posture Correction Drill 2093",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Posture Correction Drill 2093' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2094,
+    "title": "Ayurvedic Height Mix 2094",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ayurvedic Height Mix 2094' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2095,
+    "title": "Sleep Cycle Adjustment 2095",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Sleep Cycle Adjustment 2095' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2096,
+    "title": "Daily Skipping Schedule 2096",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Daily Skipping Schedule 2096' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2097,
+    "title": "Ghee and Mishri Combo 2097",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ghee and Mishri Combo 2097' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2098,
+    "title": "Height Boosting Juice 2098",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Height Boosting Juice 2098' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2099,
+    "title": "Panchkarma Cleansing 2099",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Panchkarma Cleansing 2099' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2100,
+    "title": "Amla and Ashwagandha Combo 2100",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Amla and Ashwagandha Combo 2100' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2101,
+    "title": "Skipping Rope Routine 2101",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Skipping Rope Routine 2101' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2102,
+    "title": "Early Morning Sunlight Trick 2102",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Early Morning Sunlight Trick 2102' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2103,
+    "title": "Climbing Stairs Hack 2103",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Climbing Stairs Hack 2103' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2104,
+    "title": "Copper Water Boost 2104",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Copper Water Boost 2104' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2105,
+    "title": "Stretch Before Sleep 2105",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Stretch Before Sleep 2105' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2106,
+    "title": "Milk with Turmeric Formula 2106",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Milk with Turmeric Formula 2106' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2107,
+    "title": "Wall Hanging Stretch 2107",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Wall Hanging Stretch 2107' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2108,
+    "title": "Trikonasana Hack 2108",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Trikonasana Hack 2108' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2109,
+    "title": "Bar Hanging Boost 2109",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Bar Hanging Boost 2109' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2110,
+    "title": "Double Pillow Technique 2110",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Double Pillow Technique 2110' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2111,
+    "title": "Coconut Milk Remedy 2111",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Coconut Milk Remedy 2111' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2112,
+    "title": "Swimming for Taller Frame 2112",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Swimming for Taller Frame 2112' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2113,
+    "title": "Posture Correction Drill 2113",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Posture Correction Drill 2113' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2114,
+    "title": "Ayurvedic Height Mix 2114",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ayurvedic Height Mix 2114' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2115,
+    "title": "Sleep Cycle Adjustment 2115",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Sleep Cycle Adjustment 2115' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2116,
+    "title": "Daily Skipping Schedule 2116",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Daily Skipping Schedule 2116' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2117,
+    "title": "Ghee and Mishri Combo 2117",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ghee and Mishri Combo 2117' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2118,
+    "title": "Height Boosting Juice 2118",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Height Boosting Juice 2118' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2119,
+    "title": "Panchkarma Cleansing 2119",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Panchkarma Cleansing 2119' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2120,
+    "title": "Amla and Ashwagandha Combo 2120",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Amla and Ashwagandha Combo 2120' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2121,
+    "title": "Skipping Rope Routine 2121",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Skipping Rope Routine 2121' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2122,
+    "title": "Early Morning Sunlight Trick 2122",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Early Morning Sunlight Trick 2122' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2123,
+    "title": "Climbing Stairs Hack 2123",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Climbing Stairs Hack 2123' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2124,
+    "title": "Copper Water Boost 2124",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Copper Water Boost 2124' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2125,
+    "title": "Stretch Before Sleep 2125",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Stretch Before Sleep 2125' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2126,
+    "title": "Milk with Turmeric Formula 2126",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Milk with Turmeric Formula 2126' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2127,
+    "title": "Wall Hanging Stretch 2127",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Wall Hanging Stretch 2127' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2128,
+    "title": "Trikonasana Hack 2128",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Trikonasana Hack 2128' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2129,
+    "title": "Bar Hanging Boost 2129",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Bar Hanging Boost 2129' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2130,
+    "title": "Double Pillow Technique 2130",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Double Pillow Technique 2130' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2131,
+    "title": "Coconut Milk Remedy 2131",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Coconut Milk Remedy 2131' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2132,
+    "title": "Swimming for Taller Frame 2132",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Swimming for Taller Frame 2132' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2133,
+    "title": "Posture Correction Drill 2133",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Posture Correction Drill 2133' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2134,
+    "title": "Ayurvedic Height Mix 2134",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ayurvedic Height Mix 2134' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2135,
+    "title": "Sleep Cycle Adjustment 2135",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Sleep Cycle Adjustment 2135' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2136,
+    "title": "Daily Skipping Schedule 2136",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Daily Skipping Schedule 2136' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2137,
+    "title": "Ghee and Mishri Combo 2137",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ghee and Mishri Combo 2137' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2138,
+    "title": "Height Boosting Juice 2138",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Height Boosting Juice 2138' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2139,
+    "title": "Panchkarma Cleansing 2139",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Panchkarma Cleansing 2139' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2140,
+    "title": "Amla and Ashwagandha Combo 2140",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Amla and Ashwagandha Combo 2140' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2141,
+    "title": "Skipping Rope Routine 2141",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Skipping Rope Routine 2141' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2142,
+    "title": "Early Morning Sunlight Trick 2142",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Early Morning Sunlight Trick 2142' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2143,
+    "title": "Climbing Stairs Hack 2143",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Climbing Stairs Hack 2143' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2144,
+    "title": "Copper Water Boost 2144",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Copper Water Boost 2144' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2145,
+    "title": "Stretch Before Sleep 2145",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Stretch Before Sleep 2145' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2146,
+    "title": "Milk with Turmeric Formula 2146",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Milk with Turmeric Formula 2146' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2147,
+    "title": "Wall Hanging Stretch 2147",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Wall Hanging Stretch 2147' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2148,
+    "title": "Trikonasana Hack 2148",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Trikonasana Hack 2148' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2149,
+    "title": "Bar Hanging Boost 2149",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Bar Hanging Boost 2149' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2150,
+    "title": "Double Pillow Technique 2150",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Double Pillow Technique 2150' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2151,
+    "title": "Coconut Milk Remedy 2151",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Coconut Milk Remedy 2151' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2152,
+    "title": "Swimming for Taller Frame 2152",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Swimming for Taller Frame 2152' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2153,
+    "title": "Posture Correction Drill 2153",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Posture Correction Drill 2153' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2154,
+    "title": "Ayurvedic Height Mix 2154",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ayurvedic Height Mix 2154' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2155,
+    "title": "Sleep Cycle Adjustment 2155",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Sleep Cycle Adjustment 2155' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2156,
+    "title": "Daily Skipping Schedule 2156",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Daily Skipping Schedule 2156' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2157,
+    "title": "Ghee and Mishri Combo 2157",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ghee and Mishri Combo 2157' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2158,
+    "title": "Height Boosting Juice 2158",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Height Boosting Juice 2158' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2159,
+    "title": "Panchkarma Cleansing 2159",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Panchkarma Cleansing 2159' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2160,
+    "title": "Amla and Ashwagandha Combo 2160",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Amla and Ashwagandha Combo 2160' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2161,
+    "title": "Skipping Rope Routine 2161",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Skipping Rope Routine 2161' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2162,
+    "title": "Early Morning Sunlight Trick 2162",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Early Morning Sunlight Trick 2162' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2163,
+    "title": "Climbing Stairs Hack 2163",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Climbing Stairs Hack 2163' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2164,
+    "title": "Copper Water Boost 2164",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Copper Water Boost 2164' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2165,
+    "title": "Stretch Before Sleep 2165",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Stretch Before Sleep 2165' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2166,
+    "title": "Milk with Turmeric Formula 2166",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Milk with Turmeric Formula 2166' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2167,
+    "title": "Wall Hanging Stretch 2167",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Wall Hanging Stretch 2167' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2168,
+    "title": "Trikonasana Hack 2168",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Trikonasana Hack 2168' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2169,
+    "title": "Bar Hanging Boost 2169",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Bar Hanging Boost 2169' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2170,
+    "title": "Double Pillow Technique 2170",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Double Pillow Technique 2170' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2171,
+    "title": "Coconut Milk Remedy 2171",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Coconut Milk Remedy 2171' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2172,
+    "title": "Swimming for Taller Frame 2172",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Swimming for Taller Frame 2172' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2173,
+    "title": "Posture Correction Drill 2173",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Posture Correction Drill 2173' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2174,
+    "title": "Ayurvedic Height Mix 2174",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ayurvedic Height Mix 2174' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2175,
+    "title": "Sleep Cycle Adjustment 2175",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Sleep Cycle Adjustment 2175' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2176,
+    "title": "Daily Skipping Schedule 2176",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Daily Skipping Schedule 2176' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2177,
+    "title": "Ghee and Mishri Combo 2177",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ghee and Mishri Combo 2177' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2178,
+    "title": "Height Boosting Juice 2178",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Height Boosting Juice 2178' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2179,
+    "title": "Panchkarma Cleansing 2179",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Panchkarma Cleansing 2179' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2180,
+    "title": "Amla and Ashwagandha Combo 2180",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Amla and Ashwagandha Combo 2180' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2181,
+    "title": "Skipping Rope Routine 2181",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Skipping Rope Routine 2181' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2182,
+    "title": "Early Morning Sunlight Trick 2182",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Early Morning Sunlight Trick 2182' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2183,
+    "title": "Climbing Stairs Hack 2183",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Climbing Stairs Hack 2183' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2184,
+    "title": "Copper Water Boost 2184",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Copper Water Boost 2184' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2185,
+    "title": "Stretch Before Sleep 2185",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Stretch Before Sleep 2185' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2186,
+    "title": "Milk with Turmeric Formula 2186",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Milk with Turmeric Formula 2186' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2187,
+    "title": "Wall Hanging Stretch 2187",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Wall Hanging Stretch 2187' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2188,
+    "title": "Trikonasana Hack 2188",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Trikonasana Hack 2188' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2189,
+    "title": "Bar Hanging Boost 2189",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Bar Hanging Boost 2189' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2190,
+    "title": "Double Pillow Technique 2190",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Double Pillow Technique 2190' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2191,
+    "title": "Coconut Milk Remedy 2191",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Coconut Milk Remedy 2191' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2192,
+    "title": "Swimming for Taller Frame 2192",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Swimming for Taller Frame 2192' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2193,
+    "title": "Posture Correction Drill 2193",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Posture Correction Drill 2193' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2194,
+    "title": "Ayurvedic Height Mix 2194",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ayurvedic Height Mix 2194' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2195,
+    "title": "Sleep Cycle Adjustment 2195",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Sleep Cycle Adjustment 2195' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2196,
+    "title": "Daily Skipping Schedule 2196",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Daily Skipping Schedule 2196' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2197,
+    "title": "Ghee and Mishri Combo 2197",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ghee and Mishri Combo 2197' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2198,
+    "title": "Height Boosting Juice 2198",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Height Boosting Juice 2198' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2199,
+    "title": "Panchkarma Cleansing 2199",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Panchkarma Cleansing 2199' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2200,
+    "title": "Amla and Ashwagandha Combo 2200",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Amla and Ashwagandha Combo 2200' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2201,
+    "title": "Skipping Rope Routine 2201",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Skipping Rope Routine 2201' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2202,
+    "title": "Early Morning Sunlight Trick 2202",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Early Morning Sunlight Trick 2202' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2203,
+    "title": "Climbing Stairs Hack 2203",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Climbing Stairs Hack 2203' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2204,
+    "title": "Copper Water Boost 2204",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Copper Water Boost 2204' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2205,
+    "title": "Stretch Before Sleep 2205",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Stretch Before Sleep 2205' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2206,
+    "title": "Milk with Turmeric Formula 2206",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Milk with Turmeric Formula 2206' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2207,
+    "title": "Wall Hanging Stretch 2207",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Wall Hanging Stretch 2207' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2208,
+    "title": "Trikonasana Hack 2208",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Trikonasana Hack 2208' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2209,
+    "title": "Bar Hanging Boost 2209",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Bar Hanging Boost 2209' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2210,
+    "title": "Double Pillow Technique 2210",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Double Pillow Technique 2210' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2211,
+    "title": "Coconut Milk Remedy 2211",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Coconut Milk Remedy 2211' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2212,
+    "title": "Swimming for Taller Frame 2212",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Swimming for Taller Frame 2212' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2213,
+    "title": "Posture Correction Drill 2213",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Posture Correction Drill 2213' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2214,
+    "title": "Ayurvedic Height Mix 2214",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ayurvedic Height Mix 2214' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2215,
+    "title": "Sleep Cycle Adjustment 2215",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Sleep Cycle Adjustment 2215' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2216,
+    "title": "Daily Skipping Schedule 2216",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Daily Skipping Schedule 2216' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2217,
+    "title": "Ghee and Mishri Combo 2217",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ghee and Mishri Combo 2217' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2218,
+    "title": "Height Boosting Juice 2218",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Height Boosting Juice 2218' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2219,
+    "title": "Panchkarma Cleansing 2219",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Panchkarma Cleansing 2219' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2220,
+    "title": "Amla and Ashwagandha Combo 2220",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Amla and Ashwagandha Combo 2220' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2221,
+    "title": "Skipping Rope Routine 2221",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Skipping Rope Routine 2221' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2222,
+    "title": "Early Morning Sunlight Trick 2222",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Early Morning Sunlight Trick 2222' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2223,
+    "title": "Climbing Stairs Hack 2223",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Climbing Stairs Hack 2223' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2224,
+    "title": "Copper Water Boost 2224",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Copper Water Boost 2224' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2225,
+    "title": "Stretch Before Sleep 2225",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Stretch Before Sleep 2225' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2226,
+    "title": "Milk with Turmeric Formula 2226",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Milk with Turmeric Formula 2226' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2227,
+    "title": "Wall Hanging Stretch 2227",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Wall Hanging Stretch 2227' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2228,
+    "title": "Trikonasana Hack 2228",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Trikonasana Hack 2228' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2229,
+    "title": "Bar Hanging Boost 2229",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Bar Hanging Boost 2229' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2230,
+    "title": "Double Pillow Technique 2230",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Double Pillow Technique 2230' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2231,
+    "title": "Coconut Milk Remedy 2231",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Coconut Milk Remedy 2231' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2232,
+    "title": "Swimming for Taller Frame 2232",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Swimming for Taller Frame 2232' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2233,
+    "title": "Posture Correction Drill 2233",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Posture Correction Drill 2233' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2234,
+    "title": "Ayurvedic Height Mix 2234",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ayurvedic Height Mix 2234' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2235,
+    "title": "Sleep Cycle Adjustment 2235",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Sleep Cycle Adjustment 2235' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2236,
+    "title": "Daily Skipping Schedule 2236",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Daily Skipping Schedule 2236' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2237,
+    "title": "Ghee and Mishri Combo 2237",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ghee and Mishri Combo 2237' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2238,
+    "title": "Height Boosting Juice 2238",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Height Boosting Juice 2238' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2239,
+    "title": "Panchkarma Cleansing 2239",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Panchkarma Cleansing 2239' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2240,
+    "title": "Amla and Ashwagandha Combo 2240",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Amla and Ashwagandha Combo 2240' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2241,
+    "title": "Skipping Rope Routine 2241",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Skipping Rope Routine 2241' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2242,
+    "title": "Early Morning Sunlight Trick 2242",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Early Morning Sunlight Trick 2242' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2243,
+    "title": "Climbing Stairs Hack 2243",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Climbing Stairs Hack 2243' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2244,
+    "title": "Copper Water Boost 2244",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Copper Water Boost 2244' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2245,
+    "title": "Stretch Before Sleep 2245",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Stretch Before Sleep 2245' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2246,
+    "title": "Milk with Turmeric Formula 2246",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Milk with Turmeric Formula 2246' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2247,
+    "title": "Wall Hanging Stretch 2247",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Wall Hanging Stretch 2247' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2248,
+    "title": "Trikonasana Hack 2248",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Trikonasana Hack 2248' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2249,
+    "title": "Bar Hanging Boost 2249",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Bar Hanging Boost 2249' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2250,
+    "title": "Double Pillow Technique 2250",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Double Pillow Technique 2250' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2251,
+    "title": "Coconut Milk Remedy 2251",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Coconut Milk Remedy 2251' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2252,
+    "title": "Swimming for Taller Frame 2252",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Swimming for Taller Frame 2252' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2253,
+    "title": "Posture Correction Drill 2253",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Posture Correction Drill 2253' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2254,
+    "title": "Ayurvedic Height Mix 2254",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ayurvedic Height Mix 2254' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2255,
+    "title": "Sleep Cycle Adjustment 2255",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Sleep Cycle Adjustment 2255' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2256,
+    "title": "Daily Skipping Schedule 2256",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Daily Skipping Schedule 2256' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2257,
+    "title": "Ghee and Mishri Combo 2257",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ghee and Mishri Combo 2257' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2258,
+    "title": "Height Boosting Juice 2258",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Height Boosting Juice 2258' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2259,
+    "title": "Panchkarma Cleansing 2259",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Panchkarma Cleansing 2259' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2260,
+    "title": "Amla and Ashwagandha Combo 2260",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Amla and Ashwagandha Combo 2260' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2261,
+    "title": "Skipping Rope Routine 2261",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Skipping Rope Routine 2261' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2262,
+    "title": "Early Morning Sunlight Trick 2262",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Early Morning Sunlight Trick 2262' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2263,
+    "title": "Climbing Stairs Hack 2263",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Climbing Stairs Hack 2263' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2264,
+    "title": "Copper Water Boost 2264",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Copper Water Boost 2264' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2265,
+    "title": "Stretch Before Sleep 2265",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Stretch Before Sleep 2265' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2266,
+    "title": "Milk with Turmeric Formula 2266",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Milk with Turmeric Formula 2266' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2267,
+    "title": "Wall Hanging Stretch 2267",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Wall Hanging Stretch 2267' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2268,
+    "title": "Trikonasana Hack 2268",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Trikonasana Hack 2268' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2269,
+    "title": "Bar Hanging Boost 2269",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Bar Hanging Boost 2269' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2270,
+    "title": "Double Pillow Technique 2270",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Double Pillow Technique 2270' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2271,
+    "title": "Coconut Milk Remedy 2271",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Coconut Milk Remedy 2271' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2272,
+    "title": "Swimming for Taller Frame 2272",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Swimming for Taller Frame 2272' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2273,
+    "title": "Posture Correction Drill 2273",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Posture Correction Drill 2273' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2274,
+    "title": "Ayurvedic Height Mix 2274",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ayurvedic Height Mix 2274' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2275,
+    "title": "Sleep Cycle Adjustment 2275",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Sleep Cycle Adjustment 2275' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2276,
+    "title": "Daily Skipping Schedule 2276",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Daily Skipping Schedule 2276' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2277,
+    "title": "Ghee and Mishri Combo 2277",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ghee and Mishri Combo 2277' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2278,
+    "title": "Height Boosting Juice 2278",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Height Boosting Juice 2278' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2279,
+    "title": "Panchkarma Cleansing 2279",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Panchkarma Cleansing 2279' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2280,
+    "title": "Amla and Ashwagandha Combo 2280",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Amla and Ashwagandha Combo 2280' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2281,
+    "title": "Skipping Rope Routine 2281",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Skipping Rope Routine 2281' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2282,
+    "title": "Early Morning Sunlight Trick 2282",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Early Morning Sunlight Trick 2282' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2283,
+    "title": "Climbing Stairs Hack 2283",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Climbing Stairs Hack 2283' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2284,
+    "title": "Copper Water Boost 2284",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Copper Water Boost 2284' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2285,
+    "title": "Stretch Before Sleep 2285",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Stretch Before Sleep 2285' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2286,
+    "title": "Milk with Turmeric Formula 2286",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Milk with Turmeric Formula 2286' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2287,
+    "title": "Wall Hanging Stretch 2287",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Wall Hanging Stretch 2287' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2288,
+    "title": "Trikonasana Hack 2288",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Trikonasana Hack 2288' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2289,
+    "title": "Bar Hanging Boost 2289",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Bar Hanging Boost 2289' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2290,
+    "title": "Double Pillow Technique 2290",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Double Pillow Technique 2290' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2291,
+    "title": "Coconut Milk Remedy 2291",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Coconut Milk Remedy 2291' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2292,
+    "title": "Swimming for Taller Frame 2292",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Swimming for Taller Frame 2292' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2293,
+    "title": "Posture Correction Drill 2293",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Posture Correction Drill 2293' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2294,
+    "title": "Ayurvedic Height Mix 2294",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ayurvedic Height Mix 2294' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2295,
+    "title": "Sleep Cycle Adjustment 2295",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Sleep Cycle Adjustment 2295' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2296,
+    "title": "Daily Skipping Schedule 2296",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Daily Skipping Schedule 2296' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2297,
+    "title": "Ghee and Mishri Combo 2297",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ghee and Mishri Combo 2297' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2298,
+    "title": "Height Boosting Juice 2298",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Height Boosting Juice 2298' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2299,
+    "title": "Panchkarma Cleansing 2299",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Panchkarma Cleansing 2299' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2300,
+    "title": "Amla and Ashwagandha Combo 2300",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Amla and Ashwagandha Combo 2300' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2301,
+    "title": "Skipping Rope Routine 2301",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Skipping Rope Routine 2301' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2302,
+    "title": "Early Morning Sunlight Trick 2302",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Early Morning Sunlight Trick 2302' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2303,
+    "title": "Climbing Stairs Hack 2303",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Climbing Stairs Hack 2303' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2304,
+    "title": "Copper Water Boost 2304",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Copper Water Boost 2304' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2305,
+    "title": "Stretch Before Sleep 2305",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Stretch Before Sleep 2305' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2306,
+    "title": "Milk with Turmeric Formula 2306",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Milk with Turmeric Formula 2306' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2307,
+    "title": "Wall Hanging Stretch 2307",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Wall Hanging Stretch 2307' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2308,
+    "title": "Trikonasana Hack 2308",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Trikonasana Hack 2308' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2309,
+    "title": "Bar Hanging Boost 2309",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Bar Hanging Boost 2309' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2310,
+    "title": "Double Pillow Technique 2310",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Double Pillow Technique 2310' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2311,
+    "title": "Coconut Milk Remedy 2311",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Coconut Milk Remedy 2311' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2312,
+    "title": "Swimming for Taller Frame 2312",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Swimming for Taller Frame 2312' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2313,
+    "title": "Posture Correction Drill 2313",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Posture Correction Drill 2313' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2314,
+    "title": "Ayurvedic Height Mix 2314",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ayurvedic Height Mix 2314' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2315,
+    "title": "Sleep Cycle Adjustment 2315",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Sleep Cycle Adjustment 2315' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2316,
+    "title": "Daily Skipping Schedule 2316",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Daily Skipping Schedule 2316' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2317,
+    "title": "Ghee and Mishri Combo 2317",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ghee and Mishri Combo 2317' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2318,
+    "title": "Height Boosting Juice 2318",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Height Boosting Juice 2318' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2319,
+    "title": "Panchkarma Cleansing 2319",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Panchkarma Cleansing 2319' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2320,
+    "title": "Amla and Ashwagandha Combo 2320",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Amla and Ashwagandha Combo 2320' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2321,
+    "title": "Skipping Rope Routine 2321",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Skipping Rope Routine 2321' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2322,
+    "title": "Early Morning Sunlight Trick 2322",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Early Morning Sunlight Trick 2322' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2323,
+    "title": "Climbing Stairs Hack 2323",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Climbing Stairs Hack 2323' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2324,
+    "title": "Copper Water Boost 2324",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Copper Water Boost 2324' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2325,
+    "title": "Stretch Before Sleep 2325",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Stretch Before Sleep 2325' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2326,
+    "title": "Milk with Turmeric Formula 2326",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Milk with Turmeric Formula 2326' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2327,
+    "title": "Wall Hanging Stretch 2327",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Wall Hanging Stretch 2327' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2328,
+    "title": "Trikonasana Hack 2328",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Trikonasana Hack 2328' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2329,
+    "title": "Bar Hanging Boost 2329",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Bar Hanging Boost 2329' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2330,
+    "title": "Double Pillow Technique 2330",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Double Pillow Technique 2330' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2331,
+    "title": "Coconut Milk Remedy 2331",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Coconut Milk Remedy 2331' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2332,
+    "title": "Swimming for Taller Frame 2332",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Swimming for Taller Frame 2332' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2333,
+    "title": "Posture Correction Drill 2333",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Posture Correction Drill 2333' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2334,
+    "title": "Ayurvedic Height Mix 2334",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ayurvedic Height Mix 2334' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2335,
+    "title": "Sleep Cycle Adjustment 2335",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Sleep Cycle Adjustment 2335' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2336,
+    "title": "Daily Skipping Schedule 2336",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Daily Skipping Schedule 2336' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2337,
+    "title": "Ghee and Mishri Combo 2337",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ghee and Mishri Combo 2337' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2338,
+    "title": "Height Boosting Juice 2338",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Height Boosting Juice 2338' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2339,
+    "title": "Panchkarma Cleansing 2339",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Panchkarma Cleansing 2339' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2340,
+    "title": "Amla and Ashwagandha Combo 2340",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Amla and Ashwagandha Combo 2340' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2341,
+    "title": "Skipping Rope Routine 2341",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Skipping Rope Routine 2341' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2342,
+    "title": "Early Morning Sunlight Trick 2342",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Early Morning Sunlight Trick 2342' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2343,
+    "title": "Climbing Stairs Hack 2343",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Climbing Stairs Hack 2343' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2344,
+    "title": "Copper Water Boost 2344",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Copper Water Boost 2344' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2345,
+    "title": "Stretch Before Sleep 2345",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Stretch Before Sleep 2345' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2346,
+    "title": "Milk with Turmeric Formula 2346",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Milk with Turmeric Formula 2346' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2347,
+    "title": "Wall Hanging Stretch 2347",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Wall Hanging Stretch 2347' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2348,
+    "title": "Trikonasana Hack 2348",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Trikonasana Hack 2348' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2349,
+    "title": "Bar Hanging Boost 2349",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Bar Hanging Boost 2349' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2350,
+    "title": "Double Pillow Technique 2350",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Double Pillow Technique 2350' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2351,
+    "title": "Coconut Milk Remedy 2351",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Coconut Milk Remedy 2351' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2352,
+    "title": "Swimming for Taller Frame 2352",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Swimming for Taller Frame 2352' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2353,
+    "title": "Posture Correction Drill 2353",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Posture Correction Drill 2353' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2354,
+    "title": "Ayurvedic Height Mix 2354",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ayurvedic Height Mix 2354' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2355,
+    "title": "Sleep Cycle Adjustment 2355",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Sleep Cycle Adjustment 2355' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2356,
+    "title": "Daily Skipping Schedule 2356",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Daily Skipping Schedule 2356' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2357,
+    "title": "Ghee and Mishri Combo 2357",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ghee and Mishri Combo 2357' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2358,
+    "title": "Height Boosting Juice 2358",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Height Boosting Juice 2358' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2359,
+    "title": "Panchkarma Cleansing 2359",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Panchkarma Cleansing 2359' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2360,
+    "title": "Amla and Ashwagandha Combo 2360",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Amla and Ashwagandha Combo 2360' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2361,
+    "title": "Skipping Rope Routine 2361",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Skipping Rope Routine 2361' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2362,
+    "title": "Early Morning Sunlight Trick 2362",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Early Morning Sunlight Trick 2362' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2363,
+    "title": "Climbing Stairs Hack 2363",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Climbing Stairs Hack 2363' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2364,
+    "title": "Copper Water Boost 2364",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Copper Water Boost 2364' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2365,
+    "title": "Stretch Before Sleep 2365",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Stretch Before Sleep 2365' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2366,
+    "title": "Milk with Turmeric Formula 2366",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Milk with Turmeric Formula 2366' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2367,
+    "title": "Wall Hanging Stretch 2367",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Wall Hanging Stretch 2367' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2368,
+    "title": "Trikonasana Hack 2368",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Trikonasana Hack 2368' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2369,
+    "title": "Bar Hanging Boost 2369",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Bar Hanging Boost 2369' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2370,
+    "title": "Double Pillow Technique 2370",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Double Pillow Technique 2370' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2371,
+    "title": "Coconut Milk Remedy 2371",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Coconut Milk Remedy 2371' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2372,
+    "title": "Swimming for Taller Frame 2372",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Swimming for Taller Frame 2372' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2373,
+    "title": "Posture Correction Drill 2373",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Posture Correction Drill 2373' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2374,
+    "title": "Ayurvedic Height Mix 2374",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ayurvedic Height Mix 2374' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2375,
+    "title": "Sleep Cycle Adjustment 2375",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Sleep Cycle Adjustment 2375' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2376,
+    "title": "Daily Skipping Schedule 2376",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Daily Skipping Schedule 2376' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2377,
+    "title": "Ghee and Mishri Combo 2377",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ghee and Mishri Combo 2377' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2378,
+    "title": "Height Boosting Juice 2378",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Height Boosting Juice 2378' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2379,
+    "title": "Panchkarma Cleansing 2379",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Panchkarma Cleansing 2379' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2380,
+    "title": "Amla and Ashwagandha Combo 2380",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Amla and Ashwagandha Combo 2380' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2381,
+    "title": "Skipping Rope Routine 2381",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Skipping Rope Routine 2381' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2382,
+    "title": "Early Morning Sunlight Trick 2382",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Early Morning Sunlight Trick 2382' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2383,
+    "title": "Climbing Stairs Hack 2383",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Climbing Stairs Hack 2383' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2384,
+    "title": "Copper Water Boost 2384",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Copper Water Boost 2384' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2385,
+    "title": "Stretch Before Sleep 2385",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Stretch Before Sleep 2385' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2386,
+    "title": "Milk with Turmeric Formula 2386",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Milk with Turmeric Formula 2386' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2387,
+    "title": "Wall Hanging Stretch 2387",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Wall Hanging Stretch 2387' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2388,
+    "title": "Trikonasana Hack 2388",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Trikonasana Hack 2388' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2389,
+    "title": "Bar Hanging Boost 2389",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Bar Hanging Boost 2389' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2390,
+    "title": "Double Pillow Technique 2390",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Double Pillow Technique 2390' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2391,
+    "title": "Coconut Milk Remedy 2391",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Coconut Milk Remedy 2391' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2392,
+    "title": "Swimming for Taller Frame 2392",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Swimming for Taller Frame 2392' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2393,
+    "title": "Posture Correction Drill 2393",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Posture Correction Drill 2393' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2394,
+    "title": "Ayurvedic Height Mix 2394",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ayurvedic Height Mix 2394' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2395,
+    "title": "Sleep Cycle Adjustment 2395",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Sleep Cycle Adjustment 2395' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2396,
+    "title": "Daily Skipping Schedule 2396",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Daily Skipping Schedule 2396' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2397,
+    "title": "Ghee and Mishri Combo 2397",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ghee and Mishri Combo 2397' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2398,
+    "title": "Height Boosting Juice 2398",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Height Boosting Juice 2398' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2399,
+    "title": "Panchkarma Cleansing 2399",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Panchkarma Cleansing 2399' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2400,
+    "title": "Amla and Ashwagandha Combo 2400",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Amla and Ashwagandha Combo 2400' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2401,
+    "title": "Skipping Rope Routine 2401",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Skipping Rope Routine 2401' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2402,
+    "title": "Early Morning Sunlight Trick 2402",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Early Morning Sunlight Trick 2402' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2403,
+    "title": "Climbing Stairs Hack 2403",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Climbing Stairs Hack 2403' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2404,
+    "title": "Copper Water Boost 2404",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Copper Water Boost 2404' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2405,
+    "title": "Stretch Before Sleep 2405",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Stretch Before Sleep 2405' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2406,
+    "title": "Milk with Turmeric Formula 2406",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Milk with Turmeric Formula 2406' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2407,
+    "title": "Wall Hanging Stretch 2407",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Wall Hanging Stretch 2407' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2408,
+    "title": "Trikonasana Hack 2408",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Trikonasana Hack 2408' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2409,
+    "title": "Bar Hanging Boost 2409",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Bar Hanging Boost 2409' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2410,
+    "title": "Double Pillow Technique 2410",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Double Pillow Technique 2410' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2411,
+    "title": "Coconut Milk Remedy 2411",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Coconut Milk Remedy 2411' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2412,
+    "title": "Swimming for Taller Frame 2412",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Swimming for Taller Frame 2412' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2413,
+    "title": "Posture Correction Drill 2413",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Posture Correction Drill 2413' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2414,
+    "title": "Ayurvedic Height Mix 2414",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ayurvedic Height Mix 2414' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2415,
+    "title": "Sleep Cycle Adjustment 2415",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Sleep Cycle Adjustment 2415' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2416,
+    "title": "Daily Skipping Schedule 2416",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Daily Skipping Schedule 2416' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2417,
+    "title": "Ghee and Mishri Combo 2417",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ghee and Mishri Combo 2417' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2418,
+    "title": "Height Boosting Juice 2418",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Height Boosting Juice 2418' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2419,
+    "title": "Panchkarma Cleansing 2419",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Panchkarma Cleansing 2419' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2420,
+    "title": "Amla and Ashwagandha Combo 2420",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Amla and Ashwagandha Combo 2420' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2421,
+    "title": "Skipping Rope Routine 2421",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Skipping Rope Routine 2421' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2422,
+    "title": "Early Morning Sunlight Trick 2422",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Early Morning Sunlight Trick 2422' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2423,
+    "title": "Climbing Stairs Hack 2423",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Climbing Stairs Hack 2423' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2424,
+    "title": "Copper Water Boost 2424",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Copper Water Boost 2424' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2425,
+    "title": "Stretch Before Sleep 2425",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Stretch Before Sleep 2425' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2426,
+    "title": "Milk with Turmeric Formula 2426",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Milk with Turmeric Formula 2426' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2427,
+    "title": "Wall Hanging Stretch 2427",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Wall Hanging Stretch 2427' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2428,
+    "title": "Trikonasana Hack 2428",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Trikonasana Hack 2428' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2429,
+    "title": "Bar Hanging Boost 2429",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Bar Hanging Boost 2429' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2430,
+    "title": "Double Pillow Technique 2430",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Double Pillow Technique 2430' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2431,
+    "title": "Coconut Milk Remedy 2431",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Coconut Milk Remedy 2431' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2432,
+    "title": "Swimming for Taller Frame 2432",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Swimming for Taller Frame 2432' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2433,
+    "title": "Posture Correction Drill 2433",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Posture Correction Drill 2433' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2434,
+    "title": "Ayurvedic Height Mix 2434",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ayurvedic Height Mix 2434' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2435,
+    "title": "Sleep Cycle Adjustment 2435",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Sleep Cycle Adjustment 2435' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2436,
+    "title": "Daily Skipping Schedule 2436",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Daily Skipping Schedule 2436' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2437,
+    "title": "Ghee and Mishri Combo 2437",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ghee and Mishri Combo 2437' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2438,
+    "title": "Height Boosting Juice 2438",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Height Boosting Juice 2438' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2439,
+    "title": "Panchkarma Cleansing 2439",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Panchkarma Cleansing 2439' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2440,
+    "title": "Amla and Ashwagandha Combo 2440",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Amla and Ashwagandha Combo 2440' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2441,
+    "title": "Skipping Rope Routine 2441",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Skipping Rope Routine 2441' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2442,
+    "title": "Early Morning Sunlight Trick 2442",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Early Morning Sunlight Trick 2442' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2443,
+    "title": "Climbing Stairs Hack 2443",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Climbing Stairs Hack 2443' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2444,
+    "title": "Copper Water Boost 2444",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Copper Water Boost 2444' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2445,
+    "title": "Stretch Before Sleep 2445",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Stretch Before Sleep 2445' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2446,
+    "title": "Milk with Turmeric Formula 2446",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Milk with Turmeric Formula 2446' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2447,
+    "title": "Wall Hanging Stretch 2447",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Wall Hanging Stretch 2447' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2448,
+    "title": "Trikonasana Hack 2448",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Trikonasana Hack 2448' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2449,
+    "title": "Bar Hanging Boost 2449",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Bar Hanging Boost 2449' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2450,
+    "title": "Double Pillow Technique 2450",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Double Pillow Technique 2450' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2451,
+    "title": "Coconut Milk Remedy 2451",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Coconut Milk Remedy 2451' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2452,
+    "title": "Swimming for Taller Frame 2452",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Swimming for Taller Frame 2452' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2453,
+    "title": "Posture Correction Drill 2453",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Posture Correction Drill 2453' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2454,
+    "title": "Ayurvedic Height Mix 2454",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ayurvedic Height Mix 2454' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2455,
+    "title": "Sleep Cycle Adjustment 2455",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Sleep Cycle Adjustment 2455' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2456,
+    "title": "Daily Skipping Schedule 2456",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Daily Skipping Schedule 2456' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2457,
+    "title": "Ghee and Mishri Combo 2457",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ghee and Mishri Combo 2457' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2458,
+    "title": "Height Boosting Juice 2458",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Height Boosting Juice 2458' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2459,
+    "title": "Panchkarma Cleansing 2459",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Panchkarma Cleansing 2459' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2460,
+    "title": "Amla and Ashwagandha Combo 2460",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Amla and Ashwagandha Combo 2460' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2461,
+    "title": "Skipping Rope Routine 2461",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Skipping Rope Routine 2461' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2462,
+    "title": "Early Morning Sunlight Trick 2462",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Early Morning Sunlight Trick 2462' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2463,
+    "title": "Climbing Stairs Hack 2463",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Climbing Stairs Hack 2463' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2464,
+    "title": "Copper Water Boost 2464",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Copper Water Boost 2464' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2465,
+    "title": "Stretch Before Sleep 2465",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Stretch Before Sleep 2465' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2466,
+    "title": "Milk with Turmeric Formula 2466",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Milk with Turmeric Formula 2466' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2467,
+    "title": "Wall Hanging Stretch 2467",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Wall Hanging Stretch 2467' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2468,
+    "title": "Trikonasana Hack 2468",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Trikonasana Hack 2468' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2469,
+    "title": "Bar Hanging Boost 2469",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Bar Hanging Boost 2469' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2470,
+    "title": "Double Pillow Technique 2470",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Double Pillow Technique 2470' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2471,
+    "title": "Coconut Milk Remedy 2471",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Coconut Milk Remedy 2471' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2472,
+    "title": "Swimming for Taller Frame 2472",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Swimming for Taller Frame 2472' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2473,
+    "title": "Posture Correction Drill 2473",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Posture Correction Drill 2473' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2474,
+    "title": "Ayurvedic Height Mix 2474",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ayurvedic Height Mix 2474' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2475,
+    "title": "Sleep Cycle Adjustment 2475",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Sleep Cycle Adjustment 2475' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2476,
+    "title": "Daily Skipping Schedule 2476",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Daily Skipping Schedule 2476' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2477,
+    "title": "Ghee and Mishri Combo 2477",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ghee and Mishri Combo 2477' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2478,
+    "title": "Height Boosting Juice 2478",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Height Boosting Juice 2478' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2479,
+    "title": "Panchkarma Cleansing 2479",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Panchkarma Cleansing 2479' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2480,
+    "title": "Amla and Ashwagandha Combo 2480",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Amla and Ashwagandha Combo 2480' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2481,
+    "title": "Skipping Rope Routine 2481",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Skipping Rope Routine 2481' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2482,
+    "title": "Early Morning Sunlight Trick 2482",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Early Morning Sunlight Trick 2482' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2483,
+    "title": "Climbing Stairs Hack 2483",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Climbing Stairs Hack 2483' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2484,
+    "title": "Copper Water Boost 2484",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Copper Water Boost 2484' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2485,
+    "title": "Stretch Before Sleep 2485",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Stretch Before Sleep 2485' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2486,
+    "title": "Milk with Turmeric Formula 2486",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Milk with Turmeric Formula 2486' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2487,
+    "title": "Wall Hanging Stretch 2487",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Wall Hanging Stretch 2487' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2488,
+    "title": "Trikonasana Hack 2488",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Trikonasana Hack 2488' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2489,
+    "title": "Bar Hanging Boost 2489",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Bar Hanging Boost 2489' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2490,
+    "title": "Double Pillow Technique 2490",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Double Pillow Technique 2490' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2491,
+    "title": "Coconut Milk Remedy 2491",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Coconut Milk Remedy 2491' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2492,
+    "title": "Swimming for Taller Frame 2492",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Swimming for Taller Frame 2492' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2493,
+    "title": "Posture Correction Drill 2493",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Posture Correction Drill 2493' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2494,
+    "title": "Ayurvedic Height Mix 2494",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ayurvedic Height Mix 2494' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2495,
+    "title": "Sleep Cycle Adjustment 2495",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Sleep Cycle Adjustment 2495' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2496,
+    "title": "Daily Skipping Schedule 2496",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Daily Skipping Schedule 2496' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2497,
+    "title": "Ghee and Mishri Combo 2497",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Ghee and Mishri Combo 2497' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2498,
+    "title": "Height Boosting Juice 2498",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Height Boosting Juice 2498' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2499,
+    "title": "Panchkarma Cleansing 2499",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Panchkarma Cleansing 2499' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
+  {
+    "id": 2500,
+    "title": "Amla and Ashwagandha Combo 2500",
+    "category": "Height Increase",
+    "jugaad": "Ye ek desi hack hai jise 'Amla and Ashwagandha Combo 2500' kehte hain. Rozana is tarike ka palan karke aap apni height ko naturally badha sakte hain. Isme Ayurvedic aur daily routine techniques ka mel hota hai jo height growth ko boost karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "India",
+    "tags": [
+      "height",
+      "increase",
+      "ayurveda",
+      "growth",
+      "health"
+    ]
+  },
 ]
