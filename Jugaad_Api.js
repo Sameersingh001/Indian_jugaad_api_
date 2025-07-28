@@ -328,17 +328,24 @@ app.get('/jugaad', (req, res) => {
 
 
 //Get All Data 
-
 app.get('/jugaad/all', (req, res) => {
+  const { page = 1, limit = 50 } = req.query; // default: page 1, 50 items per page
 
-  const jugaad = JugaadData
+  const startIndex = (page - 1) * limit;
+  const endIndex = startIndex + parseInt(limit);
 
-  if (jugaad) {
-    res.send(jugaad);
+  const paginatedData = JugaadData.slice(startIndex, endIndex);
+
+  if (paginatedData.length > 0) {
+    res.json({
+      page: parseInt(page),
+      limit: parseInt(limit),
+      total: JugaadData.length,
+      data: paginatedData
+    });
   } else {
-    res.status(404).type('html').send(errorMessage());
+    res.status(404).json({ error: 'No data found for this page.' });
   }
- 
 });
 
 
