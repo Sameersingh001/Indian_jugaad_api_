@@ -621,7 +621,7350 @@ export const JugaadData = [
     ]
   },
   
-  
+  {
+    "id": 42,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 51,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 52,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 53,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 54,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 55,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 56,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Ayurveda",
+    "jugaad": "Thande kakdi ke slices ko aankhon par 10-15 minute rakhne se aankhon ki sujan aur thakan me rahat milti hai. Rozana istemal se aankhen fresh dikhti hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "cucumber",
+      "slices",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 57,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 58,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 59,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 60,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 61,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 62,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 63,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 64,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 65,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 66,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 67,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 68,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 69,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 70,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 71,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Ayurveda",
+    "jugaad": "Thande kakdi ke slices ko aankhon par 10-15 minute rakhne se aankhon ki sujan aur thakan me rahat milti hai. Rozana istemal se aankhen fresh dikhti hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "cucumber",
+      "slices",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 72,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 73,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Ayurveda",
+    "jugaad": "Thande kakdi ke slices ko aankhon par 10-15 minute rakhne se aankhon ki sujan aur thakan me rahat milti hai. Rozana istemal se aankhen fresh dikhti hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "cucumber",
+      "slices",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 74,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 75,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Ayurveda",
+    "jugaad": "Thande kakdi ke slices ko aankhon par 10-15 minute rakhne se aankhon ki sujan aur thakan me rahat milti hai. Rozana istemal se aankhen fresh dikhti hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "cucumber",
+      "slices",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 76,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 77,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 78,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 79,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 80,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 81,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Ayurveda",
+    "jugaad": "Thande kakdi ke slices ko aankhon par 10-15 minute rakhne se aankhon ki sujan aur thakan me rahat milti hai. Rozana istemal se aankhen fresh dikhti hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "cucumber",
+      "slices",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 82,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 83,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 84,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 85,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 86,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 87,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Ayurveda",
+    "jugaad": "Thande kakdi ke slices ko aankhon par 10-15 minute rakhne se aankhon ki sujan aur thakan me rahat milti hai. Rozana istemal se aankhen fresh dikhti hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "cucumber",
+      "slices",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 88,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 89,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 90,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 91,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 92,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 93,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 94,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 95,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 96,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 97,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 98,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 99,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 100,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 101,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 102,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 103,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 104,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 105,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 106,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 107,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 108,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 109,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 110,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 111,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 112,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 113,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 114,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 115,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 116,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 117,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 118,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 119,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Ayurveda",
+    "jugaad": "Thande kakdi ke slices ko aankhon par 10-15 minute rakhne se aankhon ki sujan aur thakan me rahat milti hai. Rozana istemal se aankhen fresh dikhti hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "cucumber",
+      "slices",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 120,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 121,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 122,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 123,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 124,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 125,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 126,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 127,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 128,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 129,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 130,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 131,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 132,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 133,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 134,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 135,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 136,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 137,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 138,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 139,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 140,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Ayurveda",
+    "jugaad": "Thande kakdi ke slices ko aankhon par 10-15 minute rakhne se aankhon ki sujan aur thakan me rahat milti hai. Rozana istemal se aankhen fresh dikhti hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "cucumber",
+      "slices",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 141,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 142,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 143,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 144,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 145,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 146,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 147,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 148,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 149,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 150,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 151,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 152,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 153,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 154,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 155,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 156,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 157,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 158,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 159,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Ayurveda",
+    "jugaad": "Thande kakdi ke slices ko aankhon par 10-15 minute rakhne se aankhon ki sujan aur thakan me rahat milti hai. Rozana istemal se aankhen fresh dikhti hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "cucumber",
+      "slices",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 160,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 161,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Ayurveda",
+    "jugaad": "Thande kakdi ke slices ko aankhon par 10-15 minute rakhne se aankhon ki sujan aur thakan me rahat milti hai. Rozana istemal se aankhen fresh dikhti hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "cucumber",
+      "slices",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 162,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 163,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 164,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 165,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 166,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 167,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 168,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 169,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 170,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 171,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 172,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 173,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 174,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 175,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 176,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 177,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Ayurveda",
+    "jugaad": "Thande kakdi ke slices ko aankhon par 10-15 minute rakhne se aankhon ki sujan aur thakan me rahat milti hai. Rozana istemal se aankhen fresh dikhti hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "cucumber",
+      "slices",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 178,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 179,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 180,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 181,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 182,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 183,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 184,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 185,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Ayurveda",
+    "jugaad": "Thande kakdi ke slices ko aankhon par 10-15 minute rakhne se aankhon ki sujan aur thakan me rahat milti hai. Rozana istemal se aankhen fresh dikhti hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "cucumber",
+      "slices",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 186,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 187,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 188,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 189,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 190,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 191,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 192,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 193,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 194,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 195,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 196,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 197,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 198,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Ayurveda",
+    "jugaad": "Thande kakdi ke slices ko aankhon par 10-15 minute rakhne se aankhon ki sujan aur thakan me rahat milti hai. Rozana istemal se aankhen fresh dikhti hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "cucumber",
+      "slices",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 199,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 200,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 201,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 202,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 203,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 204,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 205,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 206,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 207,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 208,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 209,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 210,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 211,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 212,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 213,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Ayurveda",
+    "jugaad": "Thande kakdi ke slices ko aankhon par 10-15 minute rakhne se aankhon ki sujan aur thakan me rahat milti hai. Rozana istemal se aankhen fresh dikhti hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "cucumber",
+      "slices",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 214,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 215,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 216,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 217,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 218,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 219,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 220,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Ayurveda",
+    "jugaad": "Thande kakdi ke slices ko aankhon par 10-15 minute rakhne se aankhon ki sujan aur thakan me rahat milti hai. Rozana istemal se aankhen fresh dikhti hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "cucumber",
+      "slices",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 221,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 222,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 223,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 224,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 225,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 226,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 227,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 228,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 229,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 230,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 231,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 232,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Ayurveda",
+    "jugaad": "Thande kakdi ke slices ko aankhon par 10-15 minute rakhne se aankhon ki sujan aur thakan me rahat milti hai. Rozana istemal se aankhen fresh dikhti hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "cucumber",
+      "slices",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 233,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 234,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Ayurveda",
+    "jugaad": "Thande kakdi ke slices ko aankhon par 10-15 minute rakhne se aankhon ki sujan aur thakan me rahat milti hai. Rozana istemal se aankhen fresh dikhti hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "cucumber",
+      "slices",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 235,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 236,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 237,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 238,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 239,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 240,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 241,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 242,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 243,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 244,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 245,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 246,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 247,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 248,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 249,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 250,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 251,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 252,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 253,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 254,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 255,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 256,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 257,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 258,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 259,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 260,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 261,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 262,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 263,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 264,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 265,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 266,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Ayurveda",
+    "jugaad": "Thande kakdi ke slices ko aankhon par 10-15 minute rakhne se aankhon ki sujan aur thakan me rahat milti hai. Rozana istemal se aankhen fresh dikhti hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "cucumber",
+      "slices",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 267,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 268,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 269,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 270,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 271,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 272,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 273,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 274,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Ayurveda",
+    "jugaad": "Thande kakdi ke slices ko aankhon par 10-15 minute rakhne se aankhon ki sujan aur thakan me rahat milti hai. Rozana istemal se aankhen fresh dikhti hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "cucumber",
+      "slices",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 275,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 276,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 277,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 278,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 279,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 280,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 281,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 282,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 283,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 284,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 285,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 286,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Ayurveda",
+    "jugaad": "Thande kakdi ke slices ko aankhon par 10-15 minute rakhne se aankhon ki sujan aur thakan me rahat milti hai. Rozana istemal se aankhen fresh dikhti hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "cucumber",
+      "slices",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 287,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 288,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 289,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Ayurveda",
+    "jugaad": "Thande kakdi ke slices ko aankhon par 10-15 minute rakhne se aankhon ki sujan aur thakan me rahat milti hai. Rozana istemal se aankhen fresh dikhti hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "cucumber",
+      "slices",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 290,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 291,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 292,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 293,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 294,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 295,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 296,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 297,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 298,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 299,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 300,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 301,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Ayurveda",
+    "jugaad": "Thande kakdi ke slices ko aankhon par 10-15 minute rakhne se aankhon ki sujan aur thakan me rahat milti hai. Rozana istemal se aankhen fresh dikhti hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "cucumber",
+      "slices",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 302,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 303,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 304,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Ayurveda",
+    "jugaad": "Thande kakdi ke slices ko aankhon par 10-15 minute rakhne se aankhon ki sujan aur thakan me rahat milti hai. Rozana istemal se aankhen fresh dikhti hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "cucumber",
+      "slices",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 305,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 306,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 307,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 308,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 309,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 310,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 311,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 312,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 313,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 314,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 315,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 316,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 317,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 318,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 319,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 320,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 321,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 322,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Ayurveda",
+    "jugaad": "Thande kakdi ke slices ko aankhon par 10-15 minute rakhne se aankhon ki sujan aur thakan me rahat milti hai. Rozana istemal se aankhen fresh dikhti hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "cucumber",
+      "slices",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 323,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 324,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 325,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 326,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 327,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 328,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 329,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 330,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 331,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 332,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 333,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 334,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 335,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 336,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 337,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 338,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 339,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 340,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 341,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 342,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Ayurveda",
+    "jugaad": "Thande kakdi ke slices ko aankhon par 10-15 minute rakhne se aankhon ki sujan aur thakan me rahat milti hai. Rozana istemal se aankhen fresh dikhti hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "cucumber",
+      "slices",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 343,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 344,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 345,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 346,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 347,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 348,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 349,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 350,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 351,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 352,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 353,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 354,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Ayurveda",
+    "jugaad": "Thande kakdi ke slices ko aankhon par 10-15 minute rakhne se aankhon ki sujan aur thakan me rahat milti hai. Rozana istemal se aankhen fresh dikhti hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "cucumber",
+      "slices",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 355,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 356,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 357,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 358,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 359,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 360,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 361,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 362,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 363,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 364,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 365,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 366,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Ayurveda",
+    "jugaad": "Thande kakdi ke slices ko aankhon par 10-15 minute rakhne se aankhon ki sujan aur thakan me rahat milti hai. Rozana istemal se aankhen fresh dikhti hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "cucumber",
+      "slices",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 367,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 368,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 369,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 370,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 371,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 372,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 373,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 374,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 375,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 376,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 377,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 378,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 379,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 380,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 381,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 382,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 383,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 384,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 385,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Ayurveda",
+    "jugaad": "Thande kakdi ke slices ko aankhon par 10-15 minute rakhne se aankhon ki sujan aur thakan me rahat milti hai. Rozana istemal se aankhen fresh dikhti hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "cucumber",
+      "slices",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 386,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 387,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 388,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 389,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 390,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 391,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Ayurveda",
+    "jugaad": "Thande kakdi ke slices ko aankhon par 10-15 minute rakhne se aankhon ki sujan aur thakan me rahat milti hai. Rozana istemal se aankhen fresh dikhti hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "cucumber",
+      "slices",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 392,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 393,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 394,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Ayurveda",
+    "jugaad": "Thande kakdi ke slices ko aankhon par 10-15 minute rakhne se aankhon ki sujan aur thakan me rahat milti hai. Rozana istemal se aankhen fresh dikhti hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "cucumber",
+      "slices",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 395,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 396,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Ayurveda",
+    "jugaad": "Thande kakdi ke slices ko aankhon par 10-15 minute rakhne se aankhon ki sujan aur thakan me rahat milti hai. Rozana istemal se aankhen fresh dikhti hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "cucumber",
+      "slices",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 397,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 398,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 399,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 400,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 401,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 402,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Ayurveda",
+    "jugaad": "Thande kakdi ke slices ko aankhon par 10-15 minute rakhne se aankhon ki sujan aur thakan me rahat milti hai. Rozana istemal se aankhen fresh dikhti hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "cucumber",
+      "slices",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 403,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 404,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 405,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 406,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 407,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 408,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 409,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 410,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 411,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 412,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 413,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 414,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 415,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 416,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 417,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 418,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 419,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 420,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 421,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 422,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 423,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 424,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 425,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 426,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 427,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 428,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 429,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 430,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 431,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 432,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 433,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 434,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 435,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 436,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 437,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 438,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 439,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 440,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 441,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 442,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 443,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 444,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 445,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 446,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 447,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 448,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 449,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 450,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 451,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Ayurveda",
+    "jugaad": "Thande kakdi ke slices ko aankhon par 10-15 minute rakhne se aankhon ki sujan aur thakan me rahat milti hai. Rozana istemal se aankhen fresh dikhti hain.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "cucumber",
+      "slices",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 452,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 453,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 454,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 455,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 456,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 457,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 458,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "North India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 459,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 460,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 461,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 462,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 463,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 464,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Ayurveda",
+    "jugaad": "Thande kakdi ke slices ko aankhon par 10-15 minute rakhne se aankhon ki sujan aur thakan me rahat milti hai. Rozana istemal se aankhen fresh dikhti hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "cucumber",
+      "slices",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 465,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 466,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 467,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 468,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 469,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 470,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 471,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 472,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 473,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 474,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "South India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 475,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 476,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 477,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "West India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 478,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 479,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 480,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 481,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 482,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 483,
+    "title": "Turmeric Milk for Immunity",
+    "category": "Ayurveda",
+    "jugaad": "Haldi ka chammach ek glass garam doodh me milayein. Raat ko sone se pehle isse piyein. Yeh sharir ko detox karta hai aur immunity strong banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "turmeric",
+      "milk",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 484,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 485,
+    "title": "Clove for Toothache",
+    "category": "Ayurveda",
+    "jugaad": "Ek laung ko affected daant ke paas rakhkar chabayein ya clove oil ko cotton par lagaakar daant ke paas rakhein. Turant dard se rahat milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "East India",
+    "tags": [
+      "clove",
+      "for",
+      "toothache",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 486,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "West India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 487,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 488,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 489,
+    "title": "Amla Juice for Hair Growth",
+    "category": "Ayurveda",
+    "jugaad": "Amla juice ko subah khaali pet ek glass paani me milakar piyein. Yeh baalon ki growth ke liye faaydamand hai. Regular use se baal majboot aur chamakdaar bante hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "amla",
+      "juice",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 490,
+    "title": "Coconut Oil for Hair Lice",
+    "category": "Ayurveda",
+    "jugaad": "Nariyal tel ko halka garam karke sir me lagayein, fir head cap se dhak lein aur raat bhar chhod dein. Subah shampoo se dho lein – joon aur dandruff donon me faayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "North India",
+    "tags": [
+      "coconut",
+      "oil",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 491,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "South India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 492,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 493,
+    "title": "Honey and Ginger for Cough",
+    "category": "Ayurveda",
+    "jugaad": "Adrak ko koot kar ras nikaalein aur shahad milayein. Is mix ko din me 2 baar lene se gale ki kharash aur khaansi me rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "honey",
+      "and",
+      "ginger",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 494,
+    "title": "Cucumber Slices for Puffy Eyes",
+    "category": "Ayurveda",
+    "jugaad": "Thande kakdi ke slices ko aankhon par 10-15 minute rakhne se aankhon ki sujan aur thakan me rahat milti hai. Rozana istemal se aankhen fresh dikhti hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "cucumber",
+      "slices",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 495,
+    "title": "Ashwagandha for Stress Relief",
+    "category": "Ayurveda",
+    "jugaad": "Ashwagandha powder ko har raat garam doodh ke saath milakar peena chahiye. Yeh stress, anxiety aur neend ki samasya me madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Hard",
+    "region": "East India",
+    "tags": [
+      "ashwagandha",
+      "for",
+      "stress",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 496,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 497,
+    "title": "Fenugreek Water for Diabetes",
+    "category": "Ayurveda",
+    "jugaad": "Methi ke daane ko raat bhar paani me bhigo dein. Subah khaali pet yeh paani piyein. Yeh sugar levels ko natural tareeke se control karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "South India",
+    "tags": [
+      "fenugreek",
+      "water",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 498,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "East India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 499,
+    "title": "Mint Leaves for Indigestion",
+    "category": "Ayurveda",
+    "jugaad": "Pudine ke patto ka paste banaakar ya uska paani banakar use khane ke baad piyein. Yeh indigestion, gas aur acidity me turant rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "North India",
+    "tags": [
+      "mint",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
+  {
+    "id": 500,
+    "title": "Tulsi Leaves for Cold Relief",
+    "category": "Ayurveda",
+    "jugaad": "Tulsi ke patte ko chabaayein ya unka kadha banakar din me do baar piyein. Sardard, zukhaam aur galaa kharaab hone par yeh ek prachin aur prabhavi upay hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "West India",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "for",
+      "ayurveda",
+      "health"
+    ]
+  },
 
   {
     "id": 501,
