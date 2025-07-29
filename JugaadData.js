@@ -14474,7 +14474,96 @@ export const JugaadData = [
     "region": "Urban",
     "tags": ["cucumber", "toner", "cooling", "rash", "natural"]
   },
-
+    {
+    "id": 961,
+    "title": "Tulsi Patta Chewing Therapy",
+    "category": "Ayurved",
+    "jugaad": "Roz subah 4-5 fresh tulsi ke patte chabane se immune system strong hota hai, breathing clear rehti hai aur viral infection se bachav hota hai. Khali pet lena best hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["tulsi", "immunity", "viral", "breathing", "natural"]
+  },
+  {
+    "id": 962,
+    "title": "Triphala Night Detox",
+    "category": "Ayurved",
+    "jugaad": "Raat ko sone se pehle ek chammach triphala powder ko garam paani mein ghol kar peene se constipation door hota hai aur body natural detox mode mein chali jaati hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": ["triphala", "detox", "digestion", "constipation", "night"]
+  },
+  {
+    "id": 963,
+    "title": "Giloy Stem Immune Shot",
+    "category": "Ayurved",
+    "jugaad": "Giloy ki fresh stem ko crush karke uska ras nikaalo aur ek shot subah khali pet lo. Yeh immune system boost karta hai aur seasonal fever se protection deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Rural",
+    "tags": ["giloy", "immunity", "fever", "herbal", "ayurvedic"]
+  },
+  {
+    "id": 964,
+    "title": "Neem Leaves for Skin Glow",
+    "category": "Ayurved",
+    "jugaad": "Har din subah neem ke 5-6 patte chabaane se blood purify hota hai jisse pimples aur acne control mein aate hain. Yeh skin naturally glow karti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["neem", "skin", "pimples", "acne", "glow"]
+  },
+  {
+    "id": 965,
+    "title": "Ashwagandha Stress Relief Dose",
+    "category": "Ayurved",
+    "jugaad": "Raat ko ek glass garam doodh mein aadha chammach ashwagandha powder milakar peene se anxiety kam hoti hai, neend behtar aati hai aur mental peace milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": ["ashwagandha", "stress", "sleep", "anxiety", "relax"]
+  },
+  {
+    "id": 966,
+    "title": "Mulethi Cough Soother",
+    "category": "Ayurved",
+    "jugaad": "Sookhi khansi ke liye mulethi (licorice) ki chhoti si stick din mein 2 baar chusne se gale ki kharash aur khansi mein raahat milti hai. Natural antibiotic jaise kaam karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": ["mulethi", "cough", "throat", "natural", "relief"]
+  },
+  {
+    "id": 967,
+    "title": "Ajwain Steam for Sinus",
+    "category": "Ayurved",
+    "jugaad": "Sinus aur nasal congestion ke liye ek bowl garam paani mein 1 chamach ajwain daal kar uski bhaap lein. 5-10 minute ke steam session se raahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": ["ajwain", "sinus", "steam", "cold", "congestion"]
+  },
+  {
+    "id": 968,
+    "title": "Ghee in Navel Trick",
+    "category": "Ayurved",
+    "jugaad": "Raat mein sone se pehle naabhi mein 2-3 boond desi ghee daalne se dry skin aur chapped lips theek ho jaate hain. Body mein internal hydration ka kaam karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": ["ghee", "skin", "lips", "hydration", "navel"]
+  },
+  {
+    "id": 969,
+    "title": "Coriander Seeds Eye Cooler",
+    "category": "Ayurved",
+    "jugaad": "1 chamach dhaniya ke beej raat bhar paani mein bhigo do. Subah is paani se aankhein dhone se thakan aur redness kam hoti hai. Yeh eye coolant ka kaam karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Rural",
+    "tags": ["dhaniya", "eyes", "cooling", "redness", "ayurvedic"]
+  },
   {
     "id": 970,
     "title": "Lemon and Baking Soda for Yellow Teeth",
@@ -26813,20 +26902,22 @@ export const JugaadData = [
       "jacket"
     ]
   },
-  {
-    "id": 1789,
-    "title": "Monitor Height Hack #1789",
-    "category": "Computer",
-    "jugaad": "Computer screen ko aankhon ke level pe laane ke liye uske neeche books rakh do.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Urban",
-    "tags": [
-      "monitor",
-      "height",
-      "hack"
-    ]
-  },
+{
+  "id": 1789,
+  "title": "Raise Your Monitor Without Spending Money",
+  "category": "Computer",
+  "jugaad": "Aankhon ke level par screen lana chahte ho? Apne computer monitor ke neeche kuch moti kitaabein ya cardboard boxes rakh do — simple, adjustable aur bilkul free setup!",
+  "language": "Hinglish",
+  "difficulty": "Easy",
+  "region": "Urban",
+  "tags": [
+    "monitor",
+    "height",
+    "workspace",
+    "desk setup",
+    "hack"
+  ]
+},
   {
     "id": 1790,
     "title": "Whiteboard Marker Smell Fix #1790",
@@ -26925,20 +27016,23 @@ export const JugaadData = [
       "fridge"
     ]
   },
-  {
-    "id": 1797,
-    "title": "Monitor Height Hack #1797",
-    "category": "Computer",
-    "jugaad": "Computer screen ko aankhon ke level pe laane ke liye uske neeche books rakh do.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Urban",
-    "tags": [
-      "monitor",
-      "height",
-      "hack"
-    ]
-  },
+{
+  "id": 1801,
+  "title": "Height Badhane Ka Desi Jugaad",
+  "category": "Height",
+  "jugaad": "Roz subah khali pet 5–10 min taadasan (stretching) karo aur dudh mein ashwagandha milakar peeyo. Yeh natural combination height badhane mein madad karta hai aur posture bhi improve karta hai.",
+  "language": "Hinglish",
+  "difficulty": "Medium",
+  "region": "Rural",
+  "tags": [
+    "height",
+    "health",
+    "ayurveda",
+    "stretching",
+    "jugaad",
+    "fitness"
+  ]
+},
   {
     "id": 1798,
     "title": "Socks in Shoes Trick #1798",
@@ -26967,20 +27061,23 @@ export const JugaadData = [
       "hack"
     ]
   },
-  {
-    "id": 1800,
-    "title": "Monitor Height Hack #1800",
-    "category": "Computer",
-    "jugaad": "Computer screen ko aankhon ke level pe laane ke liye uske neeche books rakh do.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Urban",
-    "tags": [
-      "monitor",
-      "height",
-      "hack"
-    ]
-  },
+{
+  "id": 1800,
+  "title": "Banana and Milk Height Hack #1802",
+  "category": "Height",
+  "jugaad": "Roz raat ko sone se pehle ek kela aur ek glass garam doodh lena shuru karo. Yeh combo body ko natural taur par grow karne mein madad karta hai – height aur overall development ke liye beneficial hai.",
+  "language": "Hinglish",
+  "difficulty": "Easy",
+  "region": "Urban",
+  "tags": [
+    "height",
+    "diet",
+    "banana",
+    "milk",
+    "growth",
+    "jugaad"
+  ]
+},
   {
     "id": 1801,
     "title": "Pen Drive Label Tip #1801",
