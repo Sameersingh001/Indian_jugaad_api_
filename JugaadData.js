@@ -124,7 +124,7 @@ export const JugaadData = [
     "id": 3,
     "title": "Newspaper for Odor Control in Shoes",
     "category": "Lifestyle",
-    "jugaad": "Raat bhar gile shoes me newspaper bhar ke chhod dein. Ye smell aur moisture dono ko absorb karta hai.",
+    "jugaad": "Raat bhar gile shoes me newspaper bhar ke chhod dein. Ye s mell aur moisture dono ko absorb karta hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "South India",
