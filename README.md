@@ -45,11 +45,9 @@ npm install
 ### 3. Start the Server
 
 ```bash
-node index.js
+node Jugaad_Api.js
 ```
 
-Server will start at:
-**`http://localhost:3000/`**
 
 ---
 
