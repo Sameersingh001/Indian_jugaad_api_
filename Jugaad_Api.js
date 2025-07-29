@@ -311,9 +311,6 @@ res.send(`
 
 
 
-
-
-
 // GET random jugaad
 app.get('/jugaad', (req, res) => {
   const index = Math.floor(Math.random() * JugaadData.length);
@@ -327,8 +324,19 @@ app.get('/jugaad', (req, res) => {
 });
 
 
-//Get All Data 
+
+// Get All Data
 app.get('/jugaad/all', (req, res) => {
+  if (JugaadData.length > 0) {
+    res.json(JugaadData);
+  } else {
+    res.status(404).type('html').send(errorMessage());
+  }
+});
+
+
+//Get All Data with pages
+app.get('/jugaad/all/pages', (req, res) => {
   const { page = 1, limit = 50 } = req.query; // default: page 1, 50 items per page
 
   const startIndex = (page - 1) * limit;

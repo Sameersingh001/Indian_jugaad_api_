@@ -23486,4 +23486,6436 @@ export const JugaadData = [
     "tags": ["chia", "hydration", "protein", "height", "growth"]
   },
 
+  {
+    "id": 1513,
+    "title": "Saunf Water Digestion #1513",
+    "category": "Diet",
+    "jugaad": "Raat ko saunf bhigo kar subah us paani ko peene se digestion improve hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "saunf",
+      "water",
+      "digestion"
+    ]
+  },
+  {
+    "id": 1514,
+    "title": "Haldi Milk Joint Pain #1514",
+    "category": "Diet",
+    "jugaad": "Raat ko sone se pehle haldi wala dudh peene se jodon ke dard mein fayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "haldi",
+      "milk",
+      "joint"
+    ]
+  },
+  {
+    "id": 1515,
+    "title": "Neem Leaves Face Wash #1515",
+    "category": "Diet",
+    "jugaad": "Subah neem ke patton ko ubal kar uss paani se chehra dhone se pimples kam hote hain aur twacha nikharti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "neem",
+      "leaves",
+      "face"
+    ]
+  },
+  {
+    "id": 1516,
+    "title": "Ginger Tea Cold Cure #1516",
+    "category": "Diet",
+    "jugaad": "Ginger ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "ginger",
+      "tea",
+      "cold"
+    ]
+  },
+  {
+    "id": 1517,
+    "title": "Apple Vinegar Detox #1517",
+    "category": "Diet",
+    "jugaad": "Apple ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "apple",
+      "vinegar",
+      "detox"
+    ]
+  },
+  {
+    "id": 1518,
+    "title": "Neem Leaves Face Wash #1518",
+    "category": "Diet",
+    "jugaad": "Subah neem ke patton ko ubal kar uss paani se chehra dhone se pimples kam hote hain aur twacha nikharti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "neem",
+      "leaves",
+      "face"
+    ]
+  },
+  {
+    "id": 1519,
+    "title": "Coconut Oil Eyebrows #1519",
+    "category": "Diet",
+    "jugaad": "Raat ko sone se pehle narial tel se eyebrows par malish karne se eyebrows ghane hote hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "coconut",
+      "oil",
+      "eyebrows"
+    ]
+  },
+  {
+    "id": 1520,
+    "title": "Baking Soda Teeth White #1520",
+    "category": "Diet",
+    "jugaad": "Baking ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "baking",
+      "soda",
+      "teeth"
+    ]
+  },
+  {
+    "id": 1521,
+    "title": "Cucumber Eyes Relax #1521",
+    "category": "Diet",
+    "jugaad": "Cucumber ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "cucumber",
+      "eyes",
+      "relax"
+    ]
+  },
+  {
+    "id": 1522,
+    "title": "Rice Water Hair Shine #1522",
+    "category": "Diet",
+    "jugaad": "Bache huye chawal ka paani baalon mein lagane se shine aati hai aur baal majboot hote hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "rice",
+      "water",
+      "hair"
+    ]
+  },
+  {
+    "id": 1523,
+    "title": "Haldi Milk Joint Pain #1523",
+    "category": "Diet",
+    "jugaad": "Raat ko sone se pehle haldi wala dudh peene se jodon ke dard mein fayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "haldi",
+      "milk",
+      "joint"
+    ]
+  },
+  {
+    "id": 1524,
+    "title": "Cucumber Eyes Relax #1524",
+    "category": "Diet",
+    "jugaad": "Cucumber ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "cucumber",
+      "eyes",
+      "relax"
+    ]
+  },
+  {
+    "id": 1525,
+    "title": "Honey Cinnamon Glow #1525",
+    "category": "Diet",
+    "jugaad": "Honey ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "honey",
+      "cinnamon",
+      "glow"
+    ]
+  },
+  {
+    "id": 1526,
+    "title": "Aloe Vera Hair Mask #1526",
+    "category": "Diet",
+    "jugaad": "Aloe vera gel ko scalp par 30 minute laga kar dhone se baalon ka girna kam hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "aloe",
+      "vera",
+      "hair"
+    ]
+  },
+  {
+    "id": 1527,
+    "title": "Rice Water Hair Shine #1527",
+    "category": "Diet",
+    "jugaad": "Bache huye chawal ka paani baalon mein lagane se shine aati hai aur baal majboot hote hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "rice",
+      "water",
+      "hair"
+    ]
+  },
+  {
+    "id": 1528,
+    "title": "Mint Leaves Cooling #1528",
+    "category": "Diet",
+    "jugaad": "Mint ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "mint",
+      "leaves",
+      "cooling"
+    ]
+  },
+  {
+    "id": 1529,
+    "title": "Mulethi for Cough #1529",
+    "category": "Diet",
+    "jugaad": "Mulethi ka chhota tukda chusne se gale ki kharash aur khansi mein rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "mulethi",
+      "for",
+      "cough"
+    ]
+  },
+  {
+    "id": 1530,
+    "title": "Neem Leaves Face Wash #1530",
+    "category": "Diet",
+    "jugaad": "Subah neem ke patton ko ubal kar uss paani se chehra dhone se pimples kam hote hain aur twacha nikharti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "neem",
+      "leaves",
+      "face"
+    ]
+  },
+  {
+    "id": 1531,
+    "title": "Lemon Water Fat Cut #1531",
+    "category": "Diet",
+    "jugaad": "Lemon ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "lemon",
+      "water",
+      "fat"
+    ]
+  },
+  {
+    "id": 1532,
+    "title": "Mustard Oil Cracks Heal #1532",
+    "category": "Diet",
+    "jugaad": "Mustard ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "mustard",
+      "oil",
+      "cracks"
+    ]
+  },
+  {
+    "id": 1533,
+    "title": "Saunf Water Digestion #1533",
+    "category": "Diet",
+    "jugaad": "Raat ko saunf bhigo kar subah us paani ko peene se digestion improve hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "saunf",
+      "water",
+      "digestion"
+    ]
+  },
+  {
+    "id": 1534,
+    "title": "Guava Leaf Hair Fall #1534",
+    "category": "Diet",
+    "jugaad": "Guava ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "guava",
+      "leaf",
+      "hair"
+    ]
+  },
+  {
+    "id": 1535,
+    "title": "Saunf Water Digestion #1535",
+    "category": "Diet",
+    "jugaad": "Raat ko saunf bhigo kar subah us paani ko peene se digestion improve hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "saunf",
+      "water",
+      "digestion"
+    ]
+  },
+  {
+    "id": 1536,
+    "title": "Saunf Water Digestion #1536",
+    "category": "Diet",
+    "jugaad": "Raat ko saunf bhigo kar subah us paani ko peene se digestion improve hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "saunf",
+      "water",
+      "digestion"
+    ]
+  },
+  {
+    "id": 1537,
+    "title": "Black Pepper Metabolism #1537",
+    "category": "Diet",
+    "jugaad": "Black ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "black",
+      "pepper",
+      "metabolism"
+    ]
+  },
+  {
+    "id": 1538,
+    "title": "Clove Toothache Relief #1538",
+    "category": "Diet",
+    "jugaad": "Ek laung ko daant ke neeche daba kar rakhne se daant dard mein aaram milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "clove",
+      "toothache",
+      "relief"
+    ]
+  },
+  {
+    "id": 1539,
+    "title": "Apple Vinegar Detox #1539",
+    "category": "Diet",
+    "jugaad": "Apple ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "apple",
+      "vinegar",
+      "detox"
+    ]
+  },
+  {
+    "id": 1540,
+    "title": "Kalonji Oil Memory Boost #1540",
+    "category": "Diet",
+    "jugaad": "Har din subah 1 chammach kalonji tel lene se yaadashth mazboot hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "kalonji",
+      "oil",
+      "memory"
+    ]
+  },
+  {
+    "id": 1541,
+    "title": "Cucumber Eyes Relax #1541",
+    "category": "Diet",
+    "jugaad": "Cucumber ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "cucumber",
+      "eyes",
+      "relax"
+    ]
+  },
+  {
+    "id": 1542,
+    "title": "Honey Cinnamon Glow #1542",
+    "category": "Diet",
+    "jugaad": "Honey ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "honey",
+      "cinnamon",
+      "glow"
+    ]
+  },
+  {
+    "id": 1543,
+    "title": "Tulsi Leaves Immunity Boost #1543",
+    "category": "Diet",
+    "jugaad": "Har din 4-5 tulsi ke patte khane se immunity strong hoti hai aur sardard se bachav hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "immunity"
+    ]
+  },
+  {
+    "id": 1544,
+    "title": "Haldi Milk Joint Pain #1544",
+    "category": "Diet",
+    "jugaad": "Raat ko sone se pehle haldi wala dudh peene se jodon ke dard mein fayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "haldi",
+      "milk",
+      "joint"
+    ]
+  },
+  {
+    "id": 1545,
+    "title": "Honey Cinnamon Glow #1545",
+    "category": "Diet",
+    "jugaad": "Honey ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "honey",
+      "cinnamon",
+      "glow"
+    ]
+  },
+  {
+    "id": 1546,
+    "title": "Cucumber Eyes Relax #1546",
+    "category": "Diet",
+    "jugaad": "Cucumber ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "cucumber",
+      "eyes",
+      "relax"
+    ]
+  },
+  {
+    "id": 1547,
+    "title": "Kalonji Oil Memory Boost #1547",
+    "category": "Diet",
+    "jugaad": "Har din subah 1 chammach kalonji tel lene se yaadashth mazboot hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "kalonji",
+      "oil",
+      "memory"
+    ]
+  },
+  {
+    "id": 1548,
+    "title": "Baking Soda Teeth White #1548",
+    "category": "Diet",
+    "jugaad": "Baking ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "baking",
+      "soda",
+      "teeth"
+    ]
+  },
+  {
+    "id": 1549,
+    "title": "Guava Leaf Hair Fall #1549",
+    "category": "Diet",
+    "jugaad": "Guava ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "guava",
+      "leaf",
+      "hair"
+    ]
+  },
+  {
+    "id": 1550,
+    "title": "Aloe Vera Hair Mask #1550",
+    "category": "Diet",
+    "jugaad": "Aloe vera gel ko scalp par 30 minute laga kar dhone se baalon ka girna kam hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "aloe",
+      "vera",
+      "hair"
+    ]
+  },
+  {
+    "id": 1551,
+    "title": "Haldi Milk Joint Pain #1551",
+    "category": "Diet",
+    "jugaad": "Raat ko sone se pehle haldi wala dudh peene se jodon ke dard mein fayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "haldi",
+      "milk",
+      "joint"
+    ]
+  },
+  {
+    "id": 1552,
+    "title": "Lemon Water Fat Cut #1552",
+    "category": "Diet",
+    "jugaad": "Lemon ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "lemon",
+      "water",
+      "fat"
+    ]
+  },
+  {
+    "id": 1553,
+    "title": "Mulethi for Cough #1553",
+    "category": "Diet",
+    "jugaad": "Mulethi ka chhota tukda chusne se gale ki kharash aur khansi mein rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "mulethi",
+      "for",
+      "cough"
+    ]
+  },
+  {
+    "id": 1554,
+    "title": "Baking Soda Teeth White #1554",
+    "category": "Diet",
+    "jugaad": "Baking ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "baking",
+      "soda",
+      "teeth"
+    ]
+  },
+  {
+    "id": 1555,
+    "title": "Haldi Milk Joint Pain #1555",
+    "category": "Diet",
+    "jugaad": "Raat ko sone se pehle haldi wala dudh peene se jodon ke dard mein fayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "haldi",
+      "milk",
+      "joint"
+    ]
+  },
+  {
+    "id": 1556,
+    "title": "Black Pepper Metabolism #1556",
+    "category": "Diet",
+    "jugaad": "Black ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "black",
+      "pepper",
+      "metabolism"
+    ]
+  },
+  {
+    "id": 1557,
+    "title": "Coconut Oil Eyebrows #1557",
+    "category": "Diet",
+    "jugaad": "Raat ko sone se pehle narial tel se eyebrows par malish karne se eyebrows ghane hote hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "coconut",
+      "oil",
+      "eyebrows"
+    ]
+  },
+  {
+    "id": 1558,
+    "title": "Clove Toothache Relief #1558",
+    "category": "Diet",
+    "jugaad": "Ek laung ko daant ke neeche daba kar rakhne se daant dard mein aaram milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "clove",
+      "toothache",
+      "relief"
+    ]
+  },
+  {
+    "id": 1559,
+    "title": "Cucumber Eyes Relax #1559",
+    "category": "Diet",
+    "jugaad": "Cucumber ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "cucumber",
+      "eyes",
+      "relax"
+    ]
+  },
+  {
+    "id": 1560,
+    "title": "Haldi Milk Joint Pain #1560",
+    "category": "Diet",
+    "jugaad": "Raat ko sone se pehle haldi wala dudh peene se jodon ke dard mein fayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "haldi",
+      "milk",
+      "joint"
+    ]
+  },
+  {
+    "id": 1561,
+    "title": "Saunf Water Digestion #1561",
+    "category": "Diet",
+    "jugaad": "Raat ko saunf bhigo kar subah us paani ko peene se digestion improve hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "saunf",
+      "water",
+      "digestion"
+    ]
+  },
+  {
+    "id": 1562,
+    "title": "Guava Leaf Hair Fall #1562",
+    "category": "Diet",
+    "jugaad": "Guava ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "guava",
+      "leaf",
+      "hair"
+    ]
+  },
+  {
+    "id": 1563,
+    "title": "Saunf Water Digestion #1563",
+    "category": "Diet",
+    "jugaad": "Raat ko saunf bhigo kar subah us paani ko peene se digestion improve hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "saunf",
+      "water",
+      "digestion"
+    ]
+  },
+  {
+    "id": 1564,
+    "title": "Ginger Tea Cold Cure #1564",
+    "category": "Diet",
+    "jugaad": "Ginger ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "ginger",
+      "tea",
+      "cold"
+    ]
+  },
+  {
+    "id": 1565,
+    "title": "Aloe Vera Hair Mask #1565",
+    "category": "Diet",
+    "jugaad": "Aloe vera gel ko scalp par 30 minute laga kar dhone se baalon ka girna kam hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "aloe",
+      "vera",
+      "hair"
+    ]
+  },
+  {
+    "id": 1566,
+    "title": "Black Pepper Metabolism #1566",
+    "category": "Diet",
+    "jugaad": "Black ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "black",
+      "pepper",
+      "metabolism"
+    ]
+  },
+  {
+    "id": 1567,
+    "title": "Saunf Water Digestion #1567",
+    "category": "Diet",
+    "jugaad": "Raat ko saunf bhigo kar subah us paani ko peene se digestion improve hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "saunf",
+      "water",
+      "digestion"
+    ]
+  },
+  {
+    "id": 1568,
+    "title": "Lemon Water Fat Cut #1568",
+    "category": "Diet",
+    "jugaad": "Lemon ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "lemon",
+      "water",
+      "fat"
+    ]
+  },
+  {
+    "id": 1569,
+    "title": "Guava Leaf Hair Fall #1569",
+    "category": "Diet",
+    "jugaad": "Guava ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "guava",
+      "leaf",
+      "hair"
+    ]
+  },
+  {
+    "id": 1570,
+    "title": "Ginger Tea Cold Cure #1570",
+    "category": "Diet",
+    "jugaad": "Ginger ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "ginger",
+      "tea",
+      "cold"
+    ]
+  },
+  {
+    "id": 1571,
+    "title": "Haldi Milk Joint Pain #1571",
+    "category": "Diet",
+    "jugaad": "Raat ko sone se pehle haldi wala dudh peene se jodon ke dard mein fayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "haldi",
+      "milk",
+      "joint"
+    ]
+  },
+  {
+    "id": 1572,
+    "title": "Apple Vinegar Detox #1572",
+    "category": "Diet",
+    "jugaad": "Apple ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "apple",
+      "vinegar",
+      "detox"
+    ]
+  },
+  {
+    "id": 1573,
+    "title": "Apple Vinegar Detox #1573",
+    "category": "Diet",
+    "jugaad": "Apple ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "apple",
+      "vinegar",
+      "detox"
+    ]
+  },
+  {
+    "id": 1574,
+    "title": "Tulsi Leaves Immunity Boost #1574",
+    "category": "Diet",
+    "jugaad": "Har din 4-5 tulsi ke patte khane se immunity strong hoti hai aur sardard se bachav hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "immunity"
+    ]
+  },
+  {
+    "id": 1575,
+    "title": "Black Pepper Metabolism #1575",
+    "category": "Diet",
+    "jugaad": "Black ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "black",
+      "pepper",
+      "metabolism"
+    ]
+  },
+  {
+    "id": 1576,
+    "title": "Mustard Oil Cracks Heal #1576",
+    "category": "Diet",
+    "jugaad": "Mustard ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "mustard",
+      "oil",
+      "cracks"
+    ]
+  },
+  {
+    "id": 1577,
+    "title": "Neem Leaves Face Wash #1577",
+    "category": "Diet",
+    "jugaad": "Subah neem ke patton ko ubal kar uss paani se chehra dhone se pimples kam hote hain aur twacha nikharti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "neem",
+      "leaves",
+      "face"
+    ]
+  },
+  {
+    "id": 1578,
+    "title": "Neem Leaves Face Wash #1578",
+    "category": "Diet",
+    "jugaad": "Subah neem ke patton ko ubal kar uss paani se chehra dhone se pimples kam hote hain aur twacha nikharti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "neem",
+      "leaves",
+      "face"
+    ]
+  },
+  {
+    "id": 1579,
+    "title": "Mulethi for Cough #1579",
+    "category": "Diet",
+    "jugaad": "Mulethi ka chhota tukda chusne se gale ki kharash aur khansi mein rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "mulethi",
+      "for",
+      "cough"
+    ]
+  },
+  {
+    "id": 1580,
+    "title": "Apple Vinegar Detox #1580",
+    "category": "Diet",
+    "jugaad": "Apple ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "apple",
+      "vinegar",
+      "detox"
+    ]
+  },
+  {
+    "id": 1581,
+    "title": "Apple Vinegar Detox #1581",
+    "category": "Diet",
+    "jugaad": "Apple ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "apple",
+      "vinegar",
+      "detox"
+    ]
+  },
+  {
+    "id": 1582,
+    "title": "Mulethi for Cough #1582",
+    "category": "Diet",
+    "jugaad": "Mulethi ka chhota tukda chusne se gale ki kharash aur khansi mein rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "mulethi",
+      "for",
+      "cough"
+    ]
+  },
+  {
+    "id": 1583,
+    "title": "Haldi Milk Joint Pain #1583",
+    "category": "Diet",
+    "jugaad": "Raat ko sone se pehle haldi wala dudh peene se jodon ke dard mein fayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "haldi",
+      "milk",
+      "joint"
+    ]
+  },
+  {
+    "id": 1584,
+    "title": "Coconut Oil Eyebrows #1584",
+    "category": "Diet",
+    "jugaad": "Raat ko sone se pehle narial tel se eyebrows par malish karne se eyebrows ghane hote hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "coconut",
+      "oil",
+      "eyebrows"
+    ]
+  },
+  {
+    "id": 1585,
+    "title": "Neem Leaves Face Wash #1585",
+    "category": "Diet",
+    "jugaad": "Subah neem ke patton ko ubal kar uss paani se chehra dhone se pimples kam hote hain aur twacha nikharti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "neem",
+      "leaves",
+      "face"
+    ]
+  },
+  {
+    "id": 1586,
+    "title": "Haldi Milk Joint Pain #1586",
+    "category": "Diet",
+    "jugaad": "Raat ko sone se pehle haldi wala dudh peene se jodon ke dard mein fayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "haldi",
+      "milk",
+      "joint"
+    ]
+  },
+  {
+    "id": 1587,
+    "title": "Black Pepper Metabolism #1587",
+    "category": "Diet",
+    "jugaad": "Black ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "black",
+      "pepper",
+      "metabolism"
+    ]
+  },
+  {
+    "id": 1588,
+    "title": "Baking Soda Teeth White #1588",
+    "category": "Diet",
+    "jugaad": "Baking ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "baking",
+      "soda",
+      "teeth"
+    ]
+  },
+  {
+    "id": 1589,
+    "title": "Aloe Vera Hair Mask #1589",
+    "category": "Diet",
+    "jugaad": "Aloe vera gel ko scalp par 30 minute laga kar dhone se baalon ka girna kam hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "aloe",
+      "vera",
+      "hair"
+    ]
+  },
+  {
+    "id": 1590,
+    "title": "Mustard Oil Cracks Heal #1590",
+    "category": "Diet",
+    "jugaad": "Mustard ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "mustard",
+      "oil",
+      "cracks"
+    ]
+  },
+  {
+    "id": 1591,
+    "title": "Mulethi for Cough #1591",
+    "category": "Diet",
+    "jugaad": "Mulethi ka chhota tukda chusne se gale ki kharash aur khansi mein rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "mulethi",
+      "for",
+      "cough"
+    ]
+  },
+  {
+    "id": 1592,
+    "title": "Neem Leaves Face Wash #1592",
+    "category": "Diet",
+    "jugaad": "Subah neem ke patton ko ubal kar uss paani se chehra dhone se pimples kam hote hain aur twacha nikharti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "neem",
+      "leaves",
+      "face"
+    ]
+  },
+  {
+    "id": 1593,
+    "title": "Kalonji Oil Memory Boost #1593",
+    "category": "Diet",
+    "jugaad": "Har din subah 1 chammach kalonji tel lene se yaadashth mazboot hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "kalonji",
+      "oil",
+      "memory"
+    ]
+  },
+  {
+    "id": 1594,
+    "title": "Saunf Water Digestion #1594",
+    "category": "Diet",
+    "jugaad": "Raat ko saunf bhigo kar subah us paani ko peene se digestion improve hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "saunf",
+      "water",
+      "digestion"
+    ]
+  },
+  {
+    "id": 1595,
+    "title": "Clove Toothache Relief #1595",
+    "category": "Diet",
+    "jugaad": "Ek laung ko daant ke neeche daba kar rakhne se daant dard mein aaram milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "clove",
+      "toothache",
+      "relief"
+    ]
+  },
+  {
+    "id": 1596,
+    "title": "Rice Water Hair Shine #1596",
+    "category": "Diet",
+    "jugaad": "Bache huye chawal ka paani baalon mein lagane se shine aati hai aur baal majboot hote hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "rice",
+      "water",
+      "hair"
+    ]
+  },
+  {
+    "id": 1597,
+    "title": "Ginger Tea Cold Cure #1597",
+    "category": "Diet",
+    "jugaad": "Ginger ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "ginger",
+      "tea",
+      "cold"
+    ]
+  },
+  {
+    "id": 1598,
+    "title": "Guava Leaf Hair Fall #1598",
+    "category": "Diet",
+    "jugaad": "Guava ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "guava",
+      "leaf",
+      "hair"
+    ]
+  },
+  {
+    "id": 1599,
+    "title": "Black Pepper Metabolism #1599",
+    "category": "Diet",
+    "jugaad": "Black ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "black",
+      "pepper",
+      "metabolism"
+    ]
+  },
+  {
+    "id": 1600,
+    "title": "Cucumber Eyes Relax #1600",
+    "category": "Diet",
+    "jugaad": "Cucumber ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "cucumber",
+      "eyes",
+      "relax"
+    ]
+  },
+  {
+    "id": 1601,
+    "title": "Black Pepper Metabolism #1601",
+    "category": "Diet",
+    "jugaad": "Black ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "black",
+      "pepper",
+      "metabolism"
+    ]
+  },
+  {
+    "id": 1602,
+    "title": "Lemon Water Fat Cut #1602",
+    "category": "Diet",
+    "jugaad": "Lemon ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "lemon",
+      "water",
+      "fat"
+    ]
+  },
+  {
+    "id": 1603,
+    "title": "Honey Cinnamon Glow #1603",
+    "category": "Diet",
+    "jugaad": "Honey ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "honey",
+      "cinnamon",
+      "glow"
+    ]
+  },
+  {
+    "id": 1604,
+    "title": "Cucumber Eyes Relax #1604",
+    "category": "Diet",
+    "jugaad": "Cucumber ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "cucumber",
+      "eyes",
+      "relax"
+    ]
+  },
+  {
+    "id": 1605,
+    "title": "Mint Leaves Cooling #1605",
+    "category": "Diet",
+    "jugaad": "Mint ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "mint",
+      "leaves",
+      "cooling"
+    ]
+  },
+  {
+    "id": 1606,
+    "title": "Guava Leaf Hair Fall #1606",
+    "category": "Diet",
+    "jugaad": "Guava ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "guava",
+      "leaf",
+      "hair"
+    ]
+  },
+  {
+    "id": 1607,
+    "title": "Ginger Tea Cold Cure #1607",
+    "category": "Diet",
+    "jugaad": "Ginger ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "ginger",
+      "tea",
+      "cold"
+    ]
+  },
+  {
+    "id": 1608,
+    "title": "Mint Leaves Cooling #1608",
+    "category": "Diet",
+    "jugaad": "Mint ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "mint",
+      "leaves",
+      "cooling"
+    ]
+  },
+  {
+    "id": 1609,
+    "title": "Baking Soda Teeth White #1609",
+    "category": "Diet",
+    "jugaad": "Baking ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "baking",
+      "soda",
+      "teeth"
+    ]
+  },
+  {
+    "id": 1610,
+    "title": "Saunf Water Digestion #1610",
+    "category": "Diet",
+    "jugaad": "Raat ko saunf bhigo kar subah us paani ko peene se digestion improve hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "saunf",
+      "water",
+      "digestion"
+    ]
+  },
+  {
+    "id": 1611,
+    "title": "Honey Cinnamon Glow #1611",
+    "category": "Diet",
+    "jugaad": "Honey ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "honey",
+      "cinnamon",
+      "glow"
+    ]
+  },
+  {
+    "id": 1612,
+    "title": "Mulethi for Cough #1612",
+    "category": "Diet",
+    "jugaad": "Mulethi ka chhota tukda chusne se gale ki kharash aur khansi mein rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "mulethi",
+      "for",
+      "cough"
+    ]
+  },
+  {
+    "id": 1613,
+    "title": "Aloe Vera Hair Mask #1613",
+    "category": "Diet",
+    "jugaad": "Aloe vera gel ko scalp par 30 minute laga kar dhone se baalon ka girna kam hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "aloe",
+      "vera",
+      "hair"
+    ]
+  },
+  {
+    "id": 1614,
+    "title": "Honey Cinnamon Glow #1614",
+    "category": "Diet",
+    "jugaad": "Honey ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "honey",
+      "cinnamon",
+      "glow"
+    ]
+  },
+  {
+    "id": 1615,
+    "title": "Mint Leaves Cooling #1615",
+    "category": "Diet",
+    "jugaad": "Mint ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "mint",
+      "leaves",
+      "cooling"
+    ]
+  },
+  {
+    "id": 1616,
+    "title": "Saunf Water Digestion #1616",
+    "category": "Diet",
+    "jugaad": "Raat ko saunf bhigo kar subah us paani ko peene se digestion improve hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "saunf",
+      "water",
+      "digestion"
+    ]
+  },
+  {
+    "id": 1617,
+    "title": "Haldi Milk Joint Pain #1617",
+    "category": "Diet",
+    "jugaad": "Raat ko sone se pehle haldi wala dudh peene se jodon ke dard mein fayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "haldi",
+      "milk",
+      "joint"
+    ]
+  },
+  {
+    "id": 1618,
+    "title": "Neem Leaves Face Wash #1618",
+    "category": "Diet",
+    "jugaad": "Subah neem ke patton ko ubal kar uss paani se chehra dhone se pimples kam hote hain aur twacha nikharti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "neem",
+      "leaves",
+      "face"
+    ]
+  },
+  {
+    "id": 1619,
+    "title": "Mint Leaves Cooling #1619",
+    "category": "Diet",
+    "jugaad": "Mint ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "mint",
+      "leaves",
+      "cooling"
+    ]
+  },
+  {
+    "id": 1620,
+    "title": "Tulsi Leaves Immunity Boost #1620",
+    "category": "Diet",
+    "jugaad": "Har din 4-5 tulsi ke patte khane se immunity strong hoti hai aur sardard se bachav hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "tulsi",
+      "leaves",
+      "immunity"
+    ]
+  },
+  {
+    "id": 1621,
+    "title": "Cucumber Eyes Relax #1621",
+    "category": "Diet",
+    "jugaad": "Cucumber ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "cucumber",
+      "eyes",
+      "relax"
+    ]
+  },
+  {
+    "id": 1622,
+    "title": "Black Pepper Metabolism #1622",
+    "category": "Diet",
+    "jugaad": "Black ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "black",
+      "pepper",
+      "metabolism"
+    ]
+  },
+  {
+    "id": 1623,
+    "title": "Rice Water Hair Shine #1623",
+    "category": "Diet",
+    "jugaad": "Bache huye chawal ka paani baalon mein lagane se shine aati hai aur baal majboot hote hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "rice",
+      "water",
+      "hair"
+    ]
+  },
+  {
+    "id": 1624,
+    "title": "Coconut Oil Eyebrows #1624",
+    "category": "Diet",
+    "jugaad": "Raat ko sone se pehle narial tel se eyebrows par malish karne se eyebrows ghane hote hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "coconut",
+      "oil",
+      "eyebrows"
+    ]
+  },
+  {
+    "id": 1625,
+    "title": "Coconut Oil Eyebrows #1625",
+    "category": "Diet",
+    "jugaad": "Raat ko sone se pehle narial tel se eyebrows par malish karne se eyebrows ghane hote hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "coconut",
+      "oil",
+      "eyebrows"
+    ]
+  },
+  {
+    "id": 1626,
+    "title": "Mint Leaves Cooling #1626",
+    "category": "Diet",
+    "jugaad": "Mint ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "mint",
+      "leaves",
+      "cooling"
+    ]
+  },
+  {
+    "id": 1627,
+    "title": "Rice Water Hair Shine #1627",
+    "category": "Diet",
+    "jugaad": "Bache huye chawal ka paani baalon mein lagane se shine aati hai aur baal majboot hote hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "rice",
+      "water",
+      "hair"
+    ]
+  },
+  {
+    "id": 1628,
+    "title": "Baking Soda Teeth White #1628",
+    "category": "Diet",
+    "jugaad": "Baking ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "baking",
+      "soda",
+      "teeth"
+    ]
+  },
+  {
+    "id": 1629,
+    "title": "Rice Water Hair Shine #1629",
+    "category": "Diet",
+    "jugaad": "Bache huye chawal ka paani baalon mein lagane se shine aati hai aur baal majboot hote hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "rice",
+      "water",
+      "hair"
+    ]
+  },
+  {
+    "id": 1630,
+    "title": "Saunf Water Digestion #1630",
+    "category": "Diet",
+    "jugaad": "Raat ko saunf bhigo kar subah us paani ko peene se digestion improve hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "saunf",
+      "water",
+      "digestion"
+    ]
+  },
+  {
+    "id": 1631,
+    "title": "Honey Cinnamon Glow #1631",
+    "category": "Diet",
+    "jugaad": "Honey ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "honey",
+      "cinnamon",
+      "glow"
+    ]
+  },
+  {
+    "id": 1632,
+    "title": "Mulethi for Cough #1632",
+    "category": "Diet",
+    "jugaad": "Mulethi ka chhota tukda chusne se gale ki kharash aur khansi mein rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "mulethi",
+      "for",
+      "cough"
+    ]
+  },
+  {
+    "id": 1633,
+    "title": "Coconut Oil Eyebrows #1633",
+    "category": "Diet",
+    "jugaad": "Raat ko sone se pehle narial tel se eyebrows par malish karne se eyebrows ghane hote hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "coconut",
+      "oil",
+      "eyebrows"
+    ]
+  },
+  {
+    "id": 1634,
+    "title": "Mulethi for Cough #1634",
+    "category": "Diet",
+    "jugaad": "Mulethi ka chhota tukda chusne se gale ki kharash aur khansi mein rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "mulethi",
+      "for",
+      "cough"
+    ]
+  },
+  {
+    "id": 1635,
+    "title": "Baking Soda Teeth White #1635",
+    "category": "Diet",
+    "jugaad": "Baking ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "baking",
+      "soda",
+      "teeth"
+    ]
+  },
+  {
+    "id": 1636,
+    "title": "Ginger Tea Cold Cure #1636",
+    "category": "Diet",
+    "jugaad": "Ginger ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "ginger",
+      "tea",
+      "cold"
+    ]
+  },
+  {
+    "id": 1637,
+    "title": "Saunf Water Digestion #1637",
+    "category": "Diet",
+    "jugaad": "Raat ko saunf bhigo kar subah us paani ko peene se digestion improve hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "saunf",
+      "water",
+      "digestion"
+    ]
+  },
+  {
+    "id": 1638,
+    "title": "Mulethi for Cough #1638",
+    "category": "Diet",
+    "jugaad": "Mulethi ka chhota tukda chusne se gale ki kharash aur khansi mein rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "mulethi",
+      "for",
+      "cough"
+    ]
+  },
+  {
+    "id": 1639,
+    "title": "Honey Cinnamon Glow #1639",
+    "category": "Diet",
+    "jugaad": "Honey ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "honey",
+      "cinnamon",
+      "glow"
+    ]
+  },
+  {
+    "id": 1640,
+    "title": "Neem Leaves Face Wash #1640",
+    "category": "Diet",
+    "jugaad": "Subah neem ke patton ko ubal kar uss paani se chehra dhone se pimples kam hote hain aur twacha nikharti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "neem",
+      "leaves",
+      "face"
+    ]
+  },
+  {
+    "id": 1641,
+    "title": "Aloe Vera Hair Mask #1641",
+    "category": "Diet",
+    "jugaad": "Aloe vera gel ko scalp par 30 minute laga kar dhone se baalon ka girna kam hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "aloe",
+      "vera",
+      "hair"
+    ]
+  },
+  {
+    "id": 1642,
+    "title": "Guava Leaf Hair Fall #1642",
+    "category": "Diet",
+    "jugaad": "Guava ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "guava",
+      "leaf",
+      "hair"
+    ]
+  },
+  {
+    "id": 1643,
+    "title": "Mustard Oil Cracks Heal #1643",
+    "category": "Diet",
+    "jugaad": "Mustard ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "mustard",
+      "oil",
+      "cracks"
+    ]
+  },
+  {
+    "id": 1644,
+    "title": "Honey Cinnamon Glow #1644",
+    "category": "Diet",
+    "jugaad": "Honey ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "honey",
+      "cinnamon",
+      "glow"
+    ]
+  },
+  {
+    "id": 1645,
+    "title": "Kalonji Oil Memory Boost #1645",
+    "category": "Diet",
+    "jugaad": "Har din subah 1 chammach kalonji tel lene se yaadashth mazboot hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "kalonji",
+      "oil",
+      "memory"
+    ]
+  },
+  {
+    "id": 1646,
+    "title": "Baking Soda Teeth White #1646",
+    "category": "Diet",
+    "jugaad": "Baking ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "baking",
+      "soda",
+      "teeth"
+    ]
+  },
+  {
+    "id": 1647,
+    "title": "Mulethi for Cough #1647",
+    "category": "Diet",
+    "jugaad": "Mulethi ka chhota tukda chusne se gale ki kharash aur khansi mein rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "mulethi",
+      "for",
+      "cough"
+    ]
+  },
+  {
+    "id": 1648,
+    "title": "Aloe Vera Hair Mask #1648",
+    "category": "Diet",
+    "jugaad": "Aloe vera gel ko scalp par 30 minute laga kar dhone se baalon ka girna kam hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "aloe",
+      "vera",
+      "hair"
+    ]
+  },
+  {
+    "id": 1649,
+    "title": "Neem Leaves Face Wash #1649",
+    "category": "Diet",
+    "jugaad": "Subah neem ke patton ko ubal kar uss paani se chehra dhone se pimples kam hote hain aur twacha nikharti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "neem",
+      "leaves",
+      "face"
+    ]
+  },
+  {
+    "id": 1650,
+    "title": "Honey Cinnamon Glow #1650",
+    "category": "Diet",
+    "jugaad": "Honey ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "honey",
+      "cinnamon",
+      "glow"
+    ]
+  },
+  {
+    "id": 1651,
+    "title": "Lemon Water Fat Cut #1651",
+    "category": "Diet",
+    "jugaad": "Lemon ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "lemon",
+      "water",
+      "fat"
+    ]
+  },
+  {
+    "id": 1652,
+    "title": "Kalonji Oil Memory Boost #1652",
+    "category": "Diet",
+    "jugaad": "Har din subah 1 chammach kalonji tel lene se yaadashth mazboot hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "kalonji",
+      "oil",
+      "memory"
+    ]
+  },
+  {
+    "id": 1653,
+    "title": "Mustard Oil Cracks Heal #1653",
+    "category": "Diet",
+    "jugaad": "Mustard ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "mustard",
+      "oil",
+      "cracks"
+    ]
+  },
+  {
+    "id": 1654,
+    "title": "Guava Leaf Hair Fall #1654",
+    "category": "Diet",
+    "jugaad": "Guava ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "guava",
+      "leaf",
+      "hair"
+    ]
+  },
+  {
+    "id": 1655,
+    "title": "Neem Leaves Face Wash #1655",
+    "category": "Diet",
+    "jugaad": "Subah neem ke patton ko ubal kar uss paani se chehra dhone se pimples kam hote hain aur twacha nikharti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "neem",
+      "leaves",
+      "face"
+    ]
+  },
+  {
+    "id": 1656,
+    "title": "Baking Soda Teeth White #1656",
+    "category": "Diet",
+    "jugaad": "Baking ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "baking",
+      "soda",
+      "teeth"
+    ]
+  },
+  {
+    "id": 1657,
+    "title": "Black Pepper Metabolism #1657",
+    "category": "Diet",
+    "jugaad": "Black ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "black",
+      "pepper",
+      "metabolism"
+    ]
+  },
+  {
+    "id": 1658,
+    "title": "Ginger Tea Cold Cure #1658",
+    "category": "Diet",
+    "jugaad": "Ginger ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "ginger",
+      "tea",
+      "cold"
+    ]
+  },
+  {
+    "id": 1659,
+    "title": "Mint Leaves Cooling #1659",
+    "category": "Diet",
+    "jugaad": "Mint ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "mint",
+      "leaves",
+      "cooling"
+    ]
+  },
+  {
+    "id": 1660,
+    "title": "Ginger Tea Cold Cure #1660",
+    "category": "Diet",
+    "jugaad": "Ginger ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "ginger",
+      "tea",
+      "cold"
+    ]
+  },
+  {
+    "id": 1661,
+    "title": "Rice Water Hair Shine #1661",
+    "category": "Diet",
+    "jugaad": "Bache huye chawal ka paani baalon mein lagane se shine aati hai aur baal majboot hote hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "rice",
+      "water",
+      "hair"
+    ]
+  },
+  {
+    "id": 1662,
+    "title": "Ginger Tea Cold Cure #1662",
+    "category": "Diet",
+    "jugaad": "Ginger ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "ginger",
+      "tea",
+      "cold"
+    ]
+  },
+  {
+    "id": 1663,
+    "title": "Ginger Tea Cold Cure #1663",
+    "category": "Diet",
+    "jugaad": "Ginger ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "ginger",
+      "tea",
+      "cold"
+    ]
+  },
+  {
+    "id": 1664,
+    "title": "Black Pepper Metabolism #1664",
+    "category": "Diet",
+    "jugaad": "Black ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "black",
+      "pepper",
+      "metabolism"
+    ]
+  },
+  {
+    "id": 1665,
+    "title": "Neem Leaves Face Wash #1665",
+    "category": "Diet",
+    "jugaad": "Subah neem ke patton ko ubal kar uss paani se chehra dhone se pimples kam hote hain aur twacha nikharti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "neem",
+      "leaves",
+      "face"
+    ]
+  },
+  {
+    "id": 1666,
+    "title": "Lemon Water Fat Cut #1666",
+    "category": "Diet",
+    "jugaad": "Lemon ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "lemon",
+      "water",
+      "fat"
+    ]
+  },
+  {
+    "id": 1667,
+    "title": "Mustard Oil Cracks Heal #1667",
+    "category": "Diet",
+    "jugaad": "Mustard ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "mustard",
+      "oil",
+      "cracks"
+    ]
+  },
+  {
+    "id": 1668,
+    "title": "Apple Vinegar Detox #1668",
+    "category": "Diet",
+    "jugaad": "Apple ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "apple",
+      "vinegar",
+      "detox"
+    ]
+  },
+  {
+    "id": 1669,
+    "title": "Mint Leaves Cooling #1669",
+    "category": "Diet",
+    "jugaad": "Mint ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "mint",
+      "leaves",
+      "cooling"
+    ]
+  },
+  {
+    "id": 1670,
+    "title": "Neem Leaves Face Wash #1670",
+    "category": "Diet",
+    "jugaad": "Subah neem ke patton ko ubal kar uss paani se chehra dhone se pimples kam hote hain aur twacha nikharti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "neem",
+      "leaves",
+      "face"
+    ]
+  },
+  {
+    "id": 1671,
+    "title": "Haldi Milk Joint Pain #1671",
+    "category": "Diet",
+    "jugaad": "Raat ko sone se pehle haldi wala dudh peene se jodon ke dard mein fayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "haldi",
+      "milk",
+      "joint"
+    ]
+  },
+  {
+    "id": 1672,
+    "title": "Apple Vinegar Detox #1672",
+    "category": "Diet",
+    "jugaad": "Apple ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "apple",
+      "vinegar",
+      "detox"
+    ]
+  },
+  {
+    "id": 1673,
+    "title": "Baking Soda Teeth White #1673",
+    "category": "Diet",
+    "jugaad": "Baking ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "baking",
+      "soda",
+      "teeth"
+    ]
+  },
+  {
+    "id": 1674,
+    "title": "Kalonji Oil Memory Boost #1674",
+    "category": "Diet",
+    "jugaad": "Har din subah 1 chammach kalonji tel lene se yaadashth mazboot hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "kalonji",
+      "oil",
+      "memory"
+    ]
+  },
+  {
+    "id": 1675,
+    "title": "Apple Vinegar Detox #1675",
+    "category": "Diet",
+    "jugaad": "Apple ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "apple",
+      "vinegar",
+      "detox"
+    ]
+  },
+  {
+    "id": 1676,
+    "title": "Coconut Oil Eyebrows #1676",
+    "category": "Diet",
+    "jugaad": "Raat ko sone se pehle narial tel se eyebrows par malish karne se eyebrows ghane hote hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "coconut",
+      "oil",
+      "eyebrows"
+    ]
+  },
+  {
+    "id": 1677,
+    "title": "Mulethi for Cough #1677",
+    "category": "Diet",
+    "jugaad": "Mulethi ka chhota tukda chusne se gale ki kharash aur khansi mein rahat milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "mulethi",
+      "for",
+      "cough"
+    ]
+  },
+  {
+    "id": 1678,
+    "title": "Cucumber Eyes Relax #1678",
+    "category": "Diet",
+    "jugaad": "Cucumber ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "cucumber",
+      "eyes",
+      "relax"
+    ]
+  },
+  {
+    "id": 1679,
+    "title": "Mint Leaves Cooling #1679",
+    "category": "Diet",
+    "jugaad": "Mint ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "mint",
+      "leaves",
+      "cooling"
+    ]
+  },
+  {
+    "id": 1680,
+    "title": "Haldi Milk Joint Pain #1680",
+    "category": "Diet",
+    "jugaad": "Raat ko sone se pehle haldi wala dudh peene se jodon ke dard mein fayda hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "haldi",
+      "milk",
+      "joint"
+    ]
+  },
+  {
+    "id": 1681,
+    "title": "Lemon Water Fat Cut #1681",
+    "category": "Diet",
+    "jugaad": "Lemon ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "lemon",
+      "water",
+      "fat"
+    ]
+  },
+  {
+    "id": 1682,
+    "title": "Mint Leaves Cooling #1682",
+    "category": "Diet",
+    "jugaad": "Mint ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "mint",
+      "leaves",
+      "cooling"
+    ]
+  },
+  {
+    "id": 1683,
+    "title": "Mint Leaves Cooling #1683",
+    "category": "Diet",
+    "jugaad": "Mint ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "mint",
+      "leaves",
+      "cooling"
+    ]
+  },
+  {
+    "id": 1684,
+    "title": "Baking Soda Teeth White #1684",
+    "category": "Diet",
+    "jugaad": "Baking ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "baking",
+      "soda",
+      "teeth"
+    ]
+  },
+  {
+    "id": 1685,
+    "title": "Black Pepper Metabolism #1685",
+    "category": "Diet",
+    "jugaad": "Black ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "black",
+      "pepper",
+      "metabolism"
+    ]
+  },
+  {
+    "id": 1686,
+    "title": "Saunf Water Digestion #1686",
+    "category": "Diet",
+    "jugaad": "Raat ko saunf bhigo kar subah us paani ko peene se digestion improve hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "saunf",
+      "water",
+      "digestion"
+    ]
+  },
+  {
+    "id": 1687,
+    "title": "Saunf Water Digestion #1687",
+    "category": "Diet",
+    "jugaad": "Raat ko saunf bhigo kar subah us paani ko peene se digestion improve hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "saunf",
+      "water",
+      "digestion"
+    ]
+  },
+  {
+    "id": 1688,
+    "title": "Neem Leaves Face Wash #1688",
+    "category": "Diet",
+    "jugaad": "Subah neem ke patton ko ubal kar uss paani se chehra dhone se pimples kam hote hain aur twacha nikharti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "neem",
+      "leaves",
+      "face"
+    ]
+  },
+  {
+    "id": 1689,
+    "title": "Honey Cinnamon Glow #1689",
+    "category": "Diet",
+    "jugaad": "Honey ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "honey",
+      "cinnamon",
+      "glow"
+    ]
+  },
+  {
+    "id": 1690,
+    "title": "Kalonji Oil Memory Boost #1690",
+    "category": "Diet",
+    "jugaad": "Har din subah 1 chammach kalonji tel lene se yaadashth mazboot hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "kalonji",
+      "oil",
+      "memory"
+    ]
+  },
+  {
+    "id": 1691,
+    "title": "Clove Toothache Relief #1691",
+    "category": "Diet",
+    "jugaad": "Ek laung ko daant ke neeche daba kar rakhne se daant dard mein aaram milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "clove",
+      "toothache",
+      "relief"
+    ]
+  },
+  {
+    "id": 1692,
+    "title": "Kalonji Oil Memory Boost #1692",
+    "category": "Diet",
+    "jugaad": "Har din subah 1 chammach kalonji tel lene se yaadashth mazboot hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "kalonji",
+      "oil",
+      "memory"
+    ]
+  },
+  {
+    "id": 1693,
+    "title": "Neem Leaves Face Wash #1693",
+    "category": "Diet",
+    "jugaad": "Subah neem ke patton ko ubal kar uss paani se chehra dhone se pimples kam hote hain aur twacha nikharti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "neem",
+      "leaves",
+      "face"
+    ]
+  },
+  {
+    "id": 1694,
+    "title": "Cucumber Eyes Relax #1694",
+    "category": "Diet",
+    "jugaad": "Cucumber ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "cucumber",
+      "eyes",
+      "relax"
+    ]
+  },
+  {
+    "id": 1695,
+    "title": "Honey Cinnamon Glow #1695",
+    "category": "Diet",
+    "jugaad": "Honey ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "honey",
+      "cinnamon",
+      "glow"
+    ]
+  },
+  {
+    "id": 1696,
+    "title": "Saunf Water Digestion #1696",
+    "category": "Diet",
+    "jugaad": "Raat ko saunf bhigo kar subah us paani ko peene se digestion improve hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "saunf",
+      "water",
+      "digestion"
+    ]
+  },
+  {
+    "id": 1697,
+    "title": "Baking Soda Teeth White #1697",
+    "category": "Diet",
+    "jugaad": "Baking ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "baking",
+      "soda",
+      "teeth"
+    ]
+  },
+  {
+    "id": 1698,
+    "title": "Saunf Water Digestion #1698",
+    "category": "Diet",
+    "jugaad": "Raat ko saunf bhigo kar subah us paani ko peene se digestion improve hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "saunf",
+      "water",
+      "digestion"
+    ]
+  },
+  {
+    "id": 1699,
+    "title": "Coconut Oil Eyebrows #1699",
+    "category": "Diet",
+    "jugaad": "Raat ko sone se pehle narial tel se eyebrows par malish karne se eyebrows ghane hote hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "coconut",
+      "oil",
+      "eyebrows"
+    ]
+  },
+  {
+    "id": 1700,
+    "title": "Clove Toothache Relief #1700",
+    "category": "Diet",
+    "jugaad": "Ek laung ko daant ke neeche daba kar rakhne se daant dard mein aaram milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "clove",
+      "toothache",
+      "relief"
+    ]
+  },
+  {
+    "id": 1701,
+    "title": "Mouse Pad from Notebook #1701",
+    "category": "Computer",
+    "jugaad": "Emergency mein mouse pad ki jagah ek rough notebook bhi kaam karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "mouse",
+      "pad",
+      "from"
+    ]
+  },
+  {
+    "id": 1702,
+    "title": "Rice Sock Warmer #1702",
+    "category": "Winter",
+    "jugaad": "Ek purani moze mein chawal bhar ke microwave karo – bed warmer ready.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "rice",
+      "sock",
+      "warmer"
+    ]
+  },
+  {
+    "id": 1703,
+    "title": "Toothbrush for Keyboard #1703",
+    "category": "Laptop",
+    "jugaad": "Soft toothbrush se laptop keyboard ke corners easily saaf hote hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "toothbrush",
+      "for",
+      "keyboard"
+    ]
+  },
+  {
+    "id": 1704,
+    "title": "Sticky Note for Ports #1704",
+    "category": "Laptop",
+    "jugaad": "Laptop ke unused ports mein dust se bachav ke liye sticky note ka tukda laga do.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "sticky",
+      "note",
+      "for"
+    ]
+  },
+  {
+    "id": 1705,
+    "title": "Onion Peel for Shine #1705",
+    "category": "Kitchen",
+    "jugaad": "Onion ke chilko se steel ke bartan ragadne se chamak aati hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "onion",
+      "peel",
+      "for"
+    ]
+  },
+  {
+    "id": 1706,
+    "title": "HDMI Backup Cable #1706",
+    "category": "Laptop",
+    "jugaad": "Presentation ke time extra HDMI cable carry karna smart move hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "hdmi",
+      "backup",
+      "cable"
+    ]
+  },
+  {
+    "id": 1707,
+    "title": "Salt in Fridge #1707",
+    "category": "Kitchen",
+    "jugaad": "Fridge ke corner mein namak rakhne se badbu absorb hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "salt",
+      "in",
+      "fridge"
+    ]
+  },
+  {
+    "id": 1708,
+    "title": "Blanket Under Sheet #1708",
+    "category": "Winter",
+    "jugaad": "Bedsheet ke neeche extra kambal bichao – zyada warmth milega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "blanket",
+      "under",
+      "sheet"
+    ]
+  },
+  {
+    "id": 1709,
+    "title": "Layered Newspaper Jacket #1709",
+    "category": "Winter",
+    "jugaad": "Andar newspaper ke layer se body heat retain hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "layered",
+      "newspaper",
+      "jacket"
+    ]
+  },
+  {
+    "id": 1710,
+    "title": "Gloves Dryer Sheet #1710",
+    "category": "Winter",
+    "jugaad": "Gloves mein dryer sheet rakhne se haath fresh aur warm rehte hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "gloves",
+      "dryer",
+      "sheet"
+    ]
+  },
+  {
+    "id": 1711,
+    "title": "Aloe Ice Cubes #1711",
+    "category": "Summer",
+    "jugaad": "Aloe vera gel ko ice tray mein freeze karke cooling cubes banao – sunburn pe lagao.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "aloe",
+      "ice",
+      "cubes"
+    ]
+  },
+  {
+    "id": 1712,
+    "title": "Reuse Lemon Peel #1712",
+    "category": "Kitchen",
+    "jugaad": "Use kiye huye nimbu se sink ragadne se bad smell door hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "reuse",
+      "lemon",
+      "peel"
+    ]
+  },
+  {
+    "id": 1713,
+    "title": "Tea Bag Drawer Freshener #1713",
+    "category": "Office",
+    "jugaad": "Used tea bag ko dry karke drawer mein rakho – badbu door hogi.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "tea",
+      "bag",
+      "drawer"
+    ]
+  },
+  {
+    "id": 1714,
+    "title": "Cotton Sheet Trick #1714",
+    "category": "Summer",
+    "jugaad": "Sone se pehle bed sheet ko thoda geela kar do – cooling effect milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "cotton",
+      "sheet",
+      "trick"
+    ]
+  },
+  {
+    "id": 1715,
+    "title": "Portable Charger Check #1715",
+    "category": "Travel",
+    "jugaad": "Power bank ko fully charge karke le jaana na bhoolen – safar mein phone zaroori hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "portable",
+      "charger",
+      "check"
+    ]
+  },
+  {
+    "id": 1716,
+    "title": "Fan Behind CPU #1716",
+    "category": "Computer",
+    "jugaad": "Old table fan ko CPU ke peeche rakhkar overheating se bachav hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "fan",
+      "behind",
+      "cpu"
+    ]
+  },
+  {
+    "id": 1717,
+    "title": "Binder Clip Cable Holder #1717",
+    "category": "Office",
+    "jugaad": "Desk pe cables ko manage karne ke liye binder clip ka use karo.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "binder",
+      "clip",
+      "cable"
+    ]
+  },
+  {
+    "id": 1718,
+    "title": "Portable Charger Check #1718",
+    "category": "Travel",
+    "jugaad": "Power bank ko fully charge karke le jaana na bhoolen – safar mein phone zaroori hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "portable",
+      "charger",
+      "check"
+    ]
+  },
+  {
+    "id": 1719,
+    "title": "Reuse Lemon Peel #1719",
+    "category": "Kitchen",
+    "jugaad": "Use kiye huye nimbu se sink ragadne se bad smell door hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "reuse",
+      "lemon",
+      "peel"
+    ]
+  },
+  {
+    "id": 1720,
+    "title": "Binder Clip Cable Holder #1720",
+    "category": "Office",
+    "jugaad": "Desk pe cables ko manage karne ke liye binder clip ka use karo.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "binder",
+      "clip",
+      "cable"
+    ]
+  },
+  {
+    "id": 1721,
+    "title": "Plastic Wrap on Bottles #1721",
+    "category": "Travel",
+    "jugaad": "Shampoo ya lotion bottle pe plastic wrap kar ke cap band karo – leakage nahi hoga.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "plastic",
+      "wrap",
+      "on"
+    ]
+  },
+  {
+    "id": 1722,
+    "title": "Chapati Soft Hack #1722",
+    "category": "Kitchen",
+    "jugaad": "Aate mein thoda dahi mila ke gundo – roti soft banti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "chapati",
+      "soft",
+      "hack"
+    ]
+  },
+  {
+    "id": 1723,
+    "title": "Plastic Wrap on Bottles #1723",
+    "category": "Travel",
+    "jugaad": "Shampoo ya lotion bottle pe plastic wrap kar ke cap band karo – leakage nahi hoga.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "plastic",
+      "wrap",
+      "on"
+    ]
+  },
+  {
+    "id": 1724,
+    "title": "Fan Behind CPU #1724",
+    "category": "Computer",
+    "jugaad": "Old table fan ko CPU ke peeche rakhkar overheating se bachav hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "fan",
+      "behind",
+      "cpu"
+    ]
+  },
+  {
+    "id": 1725,
+    "title": "HDMI Backup Cable #1725",
+    "category": "Laptop",
+    "jugaad": "Presentation ke time extra HDMI cable carry karna smart move hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "hdmi",
+      "backup",
+      "cable"
+    ]
+  },
+  {
+    "id": 1726,
+    "title": "Layered Newspaper Jacket #1726",
+    "category": "Winter",
+    "jugaad": "Andar newspaper ke layer se body heat retain hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "layered",
+      "newspaper",
+      "jacket"
+    ]
+  },
+  {
+    "id": 1727,
+    "title": "Gloves Dryer Sheet #1727",
+    "category": "Winter",
+    "jugaad": "Gloves mein dryer sheet rakhne se haath fresh aur warm rehte hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "gloves",
+      "dryer",
+      "sheet"
+    ]
+  },
+  {
+    "id": 1728,
+    "title": "Pen Drive Label Tip #1728",
+    "category": "Computer",
+    "jugaad": "Multiple pen drives pe masking tape laga ke naam likho – confusion nahi hoga.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "pen",
+      "drive",
+      "label"
+    ]
+  },
+  {
+    "id": 1729,
+    "title": "Toothbrush for Keyboard #1729",
+    "category": "Laptop",
+    "jugaad": "Soft toothbrush se laptop keyboard ke corners easily saaf hote hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "toothbrush",
+      "for",
+      "keyboard"
+    ]
+  },
+  {
+    "id": 1730,
+    "title": "Shortcut Cheat Sheet #1730",
+    "category": "Computer",
+    "jugaad": "Frequently used software ke shortcuts ek sheet pe likh kar monitor ke side chipka lo.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "shortcut",
+      "cheat",
+      "sheet"
+    ]
+  },
+  {
+    "id": 1731,
+    "title": "Cotton Sheet Trick #1731",
+    "category": "Summer",
+    "jugaad": "Sone se pehle bed sheet ko thoda geela kar do – cooling effect milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "cotton",
+      "sheet",
+      "trick"
+    ]
+  },
+  {
+    "id": 1732,
+    "title": "Pen Drive Label Tip #1732",
+    "category": "Computer",
+    "jugaad": "Multiple pen drives pe masking tape laga ke naam likho – confusion nahi hoga.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "pen",
+      "drive",
+      "label"
+    ]
+  },
+  {
+    "id": 1733,
+    "title": "Binder Clip Cable Holder #1733",
+    "category": "Office",
+    "jugaad": "Desk pe cables ko manage karne ke liye binder clip ka use karo.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "binder",
+      "clip",
+      "cable"
+    ]
+  },
+  {
+    "id": 1734,
+    "title": "Pen Drive Label Tip #1734",
+    "category": "Computer",
+    "jugaad": "Multiple pen drives pe masking tape laga ke naam likho – confusion nahi hoga.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "pen",
+      "drive",
+      "label"
+    ]
+  },
+  {
+    "id": 1735,
+    "title": "Aloe Ice Cubes #1735",
+    "category": "Summer",
+    "jugaad": "Aloe vera gel ko ice tray mein freeze karke cooling cubes banao – sunburn pe lagao.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "aloe",
+      "ice",
+      "cubes"
+    ]
+  },
+  {
+    "id": 1736,
+    "title": "Sandal Powder Feet #1736",
+    "category": "Summer",
+    "jugaad": "Talcum powder ko chappal mein chhidakne se pair chipakte nahi.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "sandal",
+      "powder",
+      "feet"
+    ]
+  },
+  {
+    "id": 1737,
+    "title": "Onion Peel for Shine #1737",
+    "category": "Kitchen",
+    "jugaad": "Onion ke chilko se steel ke bartan ragadne se chamak aati hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "onion",
+      "peel",
+      "for"
+    ]
+  },
+  {
+    "id": 1738,
+    "title": "Onion Peel for Shine #1738",
+    "category": "Kitchen",
+    "jugaad": "Onion ke chilko se steel ke bartan ragadne se chamak aati hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "onion",
+      "peel",
+      "for"
+    ]
+  },
+  {
+    "id": 1739,
+    "title": "Cotton Sheet Trick #1739",
+    "category": "Summer",
+    "jugaad": "Sone se pehle bed sheet ko thoda geela kar do – cooling effect milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "cotton",
+      "sheet",
+      "trick"
+    ]
+  },
+  {
+    "id": 1740,
+    "title": "Reuse Silica Gel #1740",
+    "category": "Laptop",
+    "jugaad": "Laptop bag mein silica gel rakhne se moisture se protection milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "reuse",
+      "silica",
+      "gel"
+    ]
+  },
+  {
+    "id": 1741,
+    "title": "Monitor Height Hack #1741",
+    "category": "Computer",
+    "jugaad": "Computer screen ko aankhon ke level pe laane ke liye uske neeche books rakh do.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "monitor",
+      "height",
+      "hack"
+    ]
+  },
+  {
+    "id": 1742,
+    "title": "Socks in Shoes Trick #1742",
+    "category": "Travel",
+    "jugaad": "Travel bag mein jagah bachane ke liye moze jooton ke andar rakh do.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "socks",
+      "in",
+      "shoes"
+    ]
+  },
+  {
+    "id": 1743,
+    "title": "Salt in Fridge #1743",
+    "category": "Kitchen",
+    "jugaad": "Fridge ke corner mein namak rakhne se badbu absorb hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "salt",
+      "in",
+      "fridge"
+    ]
+  },
+  {
+    "id": 1744,
+    "title": "Gloves Dryer Sheet #1744",
+    "category": "Winter",
+    "jugaad": "Gloves mein dryer sheet rakhne se haath fresh aur warm rehte hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "gloves",
+      "dryer",
+      "sheet"
+    ]
+  },
+  {
+    "id": 1745,
+    "title": "Binder Clip Cable Holder #1745",
+    "category": "Office",
+    "jugaad": "Desk pe cables ko manage karne ke liye binder clip ka use karo.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "binder",
+      "clip",
+      "cable"
+    ]
+  },
+  {
+    "id": 1746,
+    "title": "Petroleum Jelly Shoe Hack #1746",
+    "category": "Winter",
+    "jugaad": "Boots ke andar petroleum jelly lagao – feet dry nahi hote.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "petroleum",
+      "jelly",
+      "shoe"
+    ]
+  },
+  {
+    "id": 1747,
+    "title": "Onion Peel for Shine #1747",
+    "category": "Kitchen",
+    "jugaad": "Onion ke chilko se steel ke bartan ragadne se chamak aati hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "onion",
+      "peel",
+      "for"
+    ]
+  },
+  {
+    "id": 1748,
+    "title": "Tea Bag Drawer Freshener #1748",
+    "category": "Office",
+    "jugaad": "Used tea bag ko dry karke drawer mein rakho – badbu door hogi.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "tea",
+      "bag",
+      "drawer"
+    ]
+  },
+  {
+    "id": 1749,
+    "title": "Cap Wet Cloth Insert #1749",
+    "category": "Summer",
+    "jugaad": "Topi ke andar geela rumal rakhne se sir thanda rehta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "cap",
+      "wet",
+      "cloth"
+    ]
+  },
+  {
+    "id": 1750,
+    "title": "Cotton Sheet Trick #1750",
+    "category": "Summer",
+    "jugaad": "Sone se pehle bed sheet ko thoda geela kar do – cooling effect milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "cotton",
+      "sheet",
+      "trick"
+    ]
+  },
+  {
+    "id": 1751,
+    "title": "Salt in Fridge #1751",
+    "category": "Kitchen",
+    "jugaad": "Fridge ke corner mein namak rakhne se badbu absorb hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "salt",
+      "in",
+      "fridge"
+    ]
+  },
+  {
+    "id": 1752,
+    "title": "Reuse Lemon Peel #1752",
+    "category": "Kitchen",
+    "jugaad": "Use kiye huye nimbu se sink ragadne se bad smell door hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "reuse",
+      "lemon",
+      "peel"
+    ]
+  },
+  {
+    "id": 1753,
+    "title": "Chair Roller Clean Hack #1753",
+    "category": "Office",
+    "jugaad": "Office chair ke wheels par comb ghuma ke baal nikaal sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "chair",
+      "roller",
+      "clean"
+    ]
+  },
+  {
+    "id": 1754,
+    "title": "Cap Wet Cloth Insert #1754",
+    "category": "Summer",
+    "jugaad": "Topi ke andar geela rumal rakhne se sir thanda rehta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "cap",
+      "wet",
+      "cloth"
+    ]
+  },
+  {
+    "id": 1755,
+    "title": "Cotton Sheet Trick #1755",
+    "category": "Summer",
+    "jugaad": "Sone se pehle bed sheet ko thoda geela kar do – cooling effect milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "cotton",
+      "sheet",
+      "trick"
+    ]
+  },
+  {
+    "id": 1756,
+    "title": "Rice Sock Warmer #1756",
+    "category": "Winter",
+    "jugaad": "Ek purani moze mein chawal bhar ke microwave karo – bed warmer ready.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "rice",
+      "sock",
+      "warmer"
+    ]
+  },
+  {
+    "id": 1757,
+    "title": "Reuse Silica Gel #1757",
+    "category": "Laptop",
+    "jugaad": "Laptop bag mein silica gel rakhne se moisture se protection milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "reuse",
+      "silica",
+      "gel"
+    ]
+  },
+  {
+    "id": 1758,
+    "title": "Layered Newspaper Jacket #1758",
+    "category": "Winter",
+    "jugaad": "Andar newspaper ke layer se body heat retain hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "layered",
+      "newspaper",
+      "jacket"
+    ]
+  },
+  {
+    "id": 1759,
+    "title": "Tea Bag Drawer Freshener #1759",
+    "category": "Office",
+    "jugaad": "Used tea bag ko dry karke drawer mein rakho – badbu door hogi.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "tea",
+      "bag",
+      "drawer"
+    ]
+  },
+  {
+    "id": 1760,
+    "title": "Layered Newspaper Jacket #1760",
+    "category": "Winter",
+    "jugaad": "Andar newspaper ke layer se body heat retain hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "layered",
+      "newspaper",
+      "jacket"
+    ]
+  },
+  {
+    "id": 1761,
+    "title": "Shortcut Cheat Sheet #1761",
+    "category": "Computer",
+    "jugaad": "Frequently used software ke shortcuts ek sheet pe likh kar monitor ke side chipka lo.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "shortcut",
+      "cheat",
+      "sheet"
+    ]
+  },
+  {
+    "id": 1762,
+    "title": "Boil Water First #1762",
+    "category": "Kitchen",
+    "jugaad": "Ande ubalne se pehle paani ubalne do – shell asani se chhutega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "boil",
+      "water",
+      "first"
+    ]
+  },
+  {
+    "id": 1763,
+    "title": "Whiteboard Marker Smell Fix #1763",
+    "category": "Office",
+    "jugaad": "Old marker ka cap tight karne ke baad fridge mein 1 din rakhne se fir se likhne lagta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "whiteboard",
+      "marker",
+      "smell"
+    ]
+  },
+  {
+    "id": 1764,
+    "title": "Reuse Silica Gel #1764",
+    "category": "Laptop",
+    "jugaad": "Laptop bag mein silica gel rakhne se moisture se protection milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "reuse",
+      "silica",
+      "gel"
+    ]
+  },
+  {
+    "id": 1765,
+    "title": "Whiteboard Marker Smell Fix #1765",
+    "category": "Office",
+    "jugaad": "Old marker ka cap tight karne ke baad fridge mein 1 din rakhne se fir se likhne lagta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "whiteboard",
+      "marker",
+      "smell"
+    ]
+  },
+  {
+    "id": 1766,
+    "title": "Socks in Shoes Trick #1766",
+    "category": "Travel",
+    "jugaad": "Travel bag mein jagah bachane ke liye moze jooton ke andar rakh do.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "socks",
+      "in",
+      "shoes"
+    ]
+  },
+  {
+    "id": 1767,
+    "title": "Petroleum Jelly Shoe Hack #1767",
+    "category": "Winter",
+    "jugaad": "Boots ke andar petroleum jelly lagao – feet dry nahi hote.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "petroleum",
+      "jelly",
+      "shoe"
+    ]
+  },
+  {
+    "id": 1768,
+    "title": "Mouse Pad from Notebook #1768",
+    "category": "Computer",
+    "jugaad": "Emergency mein mouse pad ki jagah ek rough notebook bhi kaam karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "mouse",
+      "pad",
+      "from"
+    ]
+  },
+  {
+    "id": 1769,
+    "title": "Layered Newspaper Jacket #1769",
+    "category": "Winter",
+    "jugaad": "Andar newspaper ke layer se body heat retain hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "layered",
+      "newspaper",
+      "jacket"
+    ]
+  },
+  {
+    "id": 1770,
+    "title": "Blanket Under Sheet #1770",
+    "category": "Winter",
+    "jugaad": "Bedsheet ke neeche extra kambal bichao – zyada warmth milega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "blanket",
+      "under",
+      "sheet"
+    ]
+  },
+  {
+    "id": 1771,
+    "title": "Socks in Shoes Trick #1771",
+    "category": "Travel",
+    "jugaad": "Travel bag mein jagah bachane ke liye moze jooton ke andar rakh do.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "socks",
+      "in",
+      "shoes"
+    ]
+  },
+  {
+    "id": 1772,
+    "title": "T-shirt Rolling Hack #1772",
+    "category": "Travel",
+    "jugaad": "Kapdon ko fold karne ki jagah roll karo – bag mein zyada samaan aayega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "t-shirt",
+      "rolling",
+      "hack"
+    ]
+  },
+  {
+    "id": 1773,
+    "title": "Chapati Soft Hack #1773",
+    "category": "Kitchen",
+    "jugaad": "Aate mein thoda dahi mila ke gundo – roti soft banti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "chapati",
+      "soft",
+      "hack"
+    ]
+  },
+  {
+    "id": 1774,
+    "title": "Portable Charger Check #1774",
+    "category": "Travel",
+    "jugaad": "Power bank ko fully charge karke le jaana na bhoolen – safar mein phone zaroori hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "portable",
+      "charger",
+      "check"
+    ]
+  },
+  {
+    "id": 1775,
+    "title": "Blanket Under Sheet #1775",
+    "category": "Winter",
+    "jugaad": "Bedsheet ke neeche extra kambal bichao – zyada warmth milega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "blanket",
+      "under",
+      "sheet"
+    ]
+  },
+  {
+    "id": 1776,
+    "title": "Portable Charger Check #1776",
+    "category": "Travel",
+    "jugaad": "Power bank ko fully charge karke le jaana na bhoolen – safar mein phone zaroori hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "portable",
+      "charger",
+      "check"
+    ]
+  },
+  {
+    "id": 1777,
+    "title": "Sticky Note Keyboard Cleaner #1777",
+    "category": "Office",
+    "jugaad": "Sticky note ka chipchipa hissa keyboard ke beech gande hisson ko saaf karne ke kaam aata hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "sticky",
+      "note",
+      "keyboard"
+    ]
+  },
+  {
+    "id": 1778,
+    "title": "Socks in Shoes Trick #1778",
+    "category": "Travel",
+    "jugaad": "Travel bag mein jagah bachane ke liye moze jooton ke andar rakh do.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "socks",
+      "in",
+      "shoes"
+    ]
+  },
+  {
+    "id": 1779,
+    "title": "Sticky Note Keyboard Cleaner #1779",
+    "category": "Office",
+    "jugaad": "Sticky note ka chipchipa hissa keyboard ke beech gande hisson ko saaf karne ke kaam aata hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "sticky",
+      "note",
+      "keyboard"
+    ]
+  },
+  {
+    "id": 1780,
+    "title": "Tea Bag Drawer Freshener #1780",
+    "category": "Office",
+    "jugaad": "Used tea bag ko dry karke drawer mein rakho – badbu door hogi.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "tea",
+      "bag",
+      "drawer"
+    ]
+  },
+  {
+    "id": 1781,
+    "title": "Reuse Lemon Peel #1781",
+    "category": "Kitchen",
+    "jugaad": "Use kiye huye nimbu se sink ragadne se bad smell door hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "reuse",
+      "lemon",
+      "peel"
+    ]
+  },
+  {
+    "id": 1782,
+    "title": "Petroleum Jelly Shoe Hack #1782",
+    "category": "Winter",
+    "jugaad": "Boots ke andar petroleum jelly lagao – feet dry nahi hote.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "petroleum",
+      "jelly",
+      "shoe"
+    ]
+  },
+  {
+    "id": 1783,
+    "title": "Sticky Note for Ports #1783",
+    "category": "Laptop",
+    "jugaad": "Laptop ke unused ports mein dust se bachav ke liye sticky note ka tukda laga do.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "sticky",
+      "note",
+      "for"
+    ]
+  },
+  {
+    "id": 1784,
+    "title": "Whiteboard Marker Smell Fix #1784",
+    "category": "Office",
+    "jugaad": "Old marker ka cap tight karne ke baad fridge mein 1 din rakhne se fir se likhne lagta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "whiteboard",
+      "marker",
+      "smell"
+    ]
+  },
+  {
+    "id": 1785,
+    "title": "Salt in Fridge #1785",
+    "category": "Kitchen",
+    "jugaad": "Fridge ke corner mein namak rakhne se badbu absorb hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "salt",
+      "in",
+      "fridge"
+    ]
+  },
+  {
+    "id": 1786,
+    "title": "Boil Water First #1786",
+    "category": "Kitchen",
+    "jugaad": "Ande ubalne se pehle paani ubalne do – shell asani se chhutega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "boil",
+      "water",
+      "first"
+    ]
+  },
+  {
+    "id": 1787,
+    "title": "Toothbrush for Keyboard #1787",
+    "category": "Laptop",
+    "jugaad": "Soft toothbrush se laptop keyboard ke corners easily saaf hote hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "toothbrush",
+      "for",
+      "keyboard"
+    ]
+  },
+  {
+    "id": 1788,
+    "title": "Layered Newspaper Jacket #1788",
+    "category": "Winter",
+    "jugaad": "Andar newspaper ke layer se body heat retain hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "layered",
+      "newspaper",
+      "jacket"
+    ]
+  },
+  {
+    "id": 1789,
+    "title": "Monitor Height Hack #1789",
+    "category": "Computer",
+    "jugaad": "Computer screen ko aankhon ke level pe laane ke liye uske neeche books rakh do.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "monitor",
+      "height",
+      "hack"
+    ]
+  },
+  {
+    "id": 1790,
+    "title": "Whiteboard Marker Smell Fix #1790",
+    "category": "Office",
+    "jugaad": "Old marker ka cap tight karne ke baad fridge mein 1 din rakhne se fir se likhne lagta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "whiteboard",
+      "marker",
+      "smell"
+    ]
+  },
+  {
+    "id": 1791,
+    "title": "Pen Drive Label Tip #1791",
+    "category": "Computer",
+    "jugaad": "Multiple pen drives pe masking tape laga ke naam likho – confusion nahi hoga.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "pen",
+      "drive",
+      "label"
+    ]
+  },
+  {
+    "id": 1792,
+    "title": "Portable Charger Check #1792",
+    "category": "Travel",
+    "jugaad": "Power bank ko fully charge karke le jaana na bhoolen – safar mein phone zaroori hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "portable",
+      "charger",
+      "check"
+    ]
+  },
+  {
+    "id": 1793,
+    "title": "Petroleum Jelly Shoe Hack #1793",
+    "category": "Winter",
+    "jugaad": "Boots ke andar petroleum jelly lagao – feet dry nahi hote.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "petroleum",
+      "jelly",
+      "shoe"
+    ]
+  },
+  {
+    "id": 1794,
+    "title": "Socks in Shoes Trick #1794",
+    "category": "Travel",
+    "jugaad": "Travel bag mein jagah bachane ke liye moze jooton ke andar rakh do.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "socks",
+      "in",
+      "shoes"
+    ]
+  },
+  {
+    "id": 1795,
+    "title": "T-shirt Rolling Hack #1795",
+    "category": "Travel",
+    "jugaad": "Kapdon ko fold karne ki jagah roll karo – bag mein zyada samaan aayega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "t-shirt",
+      "rolling",
+      "hack"
+    ]
+  },
+  {
+    "id": 1796,
+    "title": "Salt in Fridge #1796",
+    "category": "Kitchen",
+    "jugaad": "Fridge ke corner mein namak rakhne se badbu absorb hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "salt",
+      "in",
+      "fridge"
+    ]
+  },
+  {
+    "id": 1797,
+    "title": "Monitor Height Hack #1797",
+    "category": "Computer",
+    "jugaad": "Computer screen ko aankhon ke level pe laane ke liye uske neeche books rakh do.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "monitor",
+      "height",
+      "hack"
+    ]
+  },
+  {
+    "id": 1798,
+    "title": "Socks in Shoes Trick #1798",
+    "category": "Travel",
+    "jugaad": "Travel bag mein jagah bachane ke liye moze jooton ke andar rakh do.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "socks",
+      "in",
+      "shoes"
+    ]
+  },
+  {
+    "id": 1799,
+    "title": "Chapati Soft Hack #1799",
+    "category": "Kitchen",
+    "jugaad": "Aate mein thoda dahi mila ke gundo – roti soft banti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "chapati",
+      "soft",
+      "hack"
+    ]
+  },
+  {
+    "id": 1800,
+    "title": "Monitor Height Hack #1800",
+    "category": "Computer",
+    "jugaad": "Computer screen ko aankhon ke level pe laane ke liye uske neeche books rakh do.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "monitor",
+      "height",
+      "hack"
+    ]
+  },
+  {
+    "id": 1801,
+    "title": "Pen Drive Label Tip #1801",
+    "category": "Computer",
+    "jugaad": "Multiple pen drives pe masking tape laga ke naam likho – confusion nahi hoga.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "pen",
+      "drive",
+      "label"
+    ]
+  },
+  {
+    "id": 1802,
+    "title": "Reuse Silica Gel #1802",
+    "category": "Laptop",
+    "jugaad": "Laptop bag mein silica gel rakhne se moisture se protection milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "reuse",
+      "silica",
+      "gel"
+    ]
+  },
+  {
+    "id": 1803,
+    "title": "Reuse Lemon Peel #1803",
+    "category": "Kitchen",
+    "jugaad": "Use kiye huye nimbu se sink ragadne se bad smell door hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "reuse",
+      "lemon",
+      "peel"
+    ]
+  },
+  {
+    "id": 1804,
+    "title": "Freeze Water Bottle Half #1804",
+    "category": "Summer",
+    "jugaad": "Bottle ko aadha paani daal kar freeze karo – baad mein thanda paani milega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "freeze",
+      "water",
+      "bottle"
+    ]
+  },
+  {
+    "id": 1805,
+    "title": "Freeze Water Bottle Half #1805",
+    "category": "Summer",
+    "jugaad": "Bottle ko aadha paani daal kar freeze karo – baad mein thanda paani milega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "freeze",
+      "water",
+      "bottle"
+    ]
+  },
+  {
+    "id": 1806,
+    "title": "Freeze Water Bottle Half #1806",
+    "category": "Summer",
+    "jugaad": "Bottle ko aadha paani daal kar freeze karo – baad mein thanda paani milega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "freeze",
+      "water",
+      "bottle"
+    ]
+  },
+  {
+    "id": 1807,
+    "title": "Tea Bag Drawer Freshener #1807",
+    "category": "Office",
+    "jugaad": "Used tea bag ko dry karke drawer mein rakho – badbu door hogi.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "tea",
+      "bag",
+      "drawer"
+    ]
+  },
+  {
+    "id": 1808,
+    "title": "Toothbrush for Keyboard #1808",
+    "category": "Laptop",
+    "jugaad": "Soft toothbrush se laptop keyboard ke corners easily saaf hote hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "toothbrush",
+      "for",
+      "keyboard"
+    ]
+  },
+  {
+    "id": 1809,
+    "title": "Tea Bag Drawer Freshener #1809",
+    "category": "Office",
+    "jugaad": "Used tea bag ko dry karke drawer mein rakho – badbu door hogi.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "tea",
+      "bag",
+      "drawer"
+    ]
+  },
+  {
+    "id": 1810,
+    "title": "Sticky Note Keyboard Cleaner #1810",
+    "category": "Office",
+    "jugaad": "Sticky note ka chipchipa hissa keyboard ke beech gande hisson ko saaf karne ke kaam aata hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "sticky",
+      "note",
+      "keyboard"
+    ]
+  },
+  {
+    "id": 1811,
+    "title": "Binder Clip Cable Holder #1811",
+    "category": "Office",
+    "jugaad": "Desk pe cables ko manage karne ke liye binder clip ka use karo.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "binder",
+      "clip",
+      "cable"
+    ]
+  },
+  {
+    "id": 1812,
+    "title": "Fan Behind CPU #1812",
+    "category": "Computer",
+    "jugaad": "Old table fan ko CPU ke peeche rakhkar overheating se bachav hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "fan",
+      "behind",
+      "cpu"
+    ]
+  },
+  {
+    "id": 1813,
+    "title": "Sticky Note for Ports #1813",
+    "category": "Laptop",
+    "jugaad": "Laptop ke unused ports mein dust se bachav ke liye sticky note ka tukda laga do.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "sticky",
+      "note",
+      "for"
+    ]
+  },
+  {
+    "id": 1814,
+    "title": "Tea Bag Drawer Freshener #1814",
+    "category": "Office",
+    "jugaad": "Used tea bag ko dry karke drawer mein rakho – badbu door hogi.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "tea",
+      "bag",
+      "drawer"
+    ]
+  },
+  {
+    "id": 1815,
+    "title": "Pen Drive Label Tip #1815",
+    "category": "Computer",
+    "jugaad": "Multiple pen drives pe masking tape laga ke naam likho – confusion nahi hoga.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "pen",
+      "drive",
+      "label"
+    ]
+  },
+  {
+    "id": 1816,
+    "title": "Gloves Dryer Sheet #1816",
+    "category": "Winter",
+    "jugaad": "Gloves mein dryer sheet rakhne se haath fresh aur warm rehte hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "gloves",
+      "dryer",
+      "sheet"
+    ]
+  },
+  {
+    "id": 1817,
+    "title": "Pen Drive Label Tip #1817",
+    "category": "Computer",
+    "jugaad": "Multiple pen drives pe masking tape laga ke naam likho – confusion nahi hoga.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "pen",
+      "drive",
+      "label"
+    ]
+  },
+  {
+    "id": 1818,
+    "title": "Aloe Ice Cubes #1818",
+    "category": "Summer",
+    "jugaad": "Aloe vera gel ko ice tray mein freeze karke cooling cubes banao – sunburn pe lagao.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "aloe",
+      "ice",
+      "cubes"
+    ]
+  },
+  {
+    "id": 1819,
+    "title": "Sticky Note Keyboard Cleaner #1819",
+    "category": "Office",
+    "jugaad": "Sticky note ka chipchipa hissa keyboard ke beech gande hisson ko saaf karne ke kaam aata hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "sticky",
+      "note",
+      "keyboard"
+    ]
+  },
+  {
+    "id": 1820,
+    "title": "Cotton Sheet Trick #1820",
+    "category": "Summer",
+    "jugaad": "Sone se pehle bed sheet ko thoda geela kar do – cooling effect milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "cotton",
+      "sheet",
+      "trick"
+    ]
+  },
+  {
+    "id": 1821,
+    "title": "Tea Bag Drawer Freshener #1821",
+    "category": "Office",
+    "jugaad": "Used tea bag ko dry karke drawer mein rakho – badbu door hogi.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "tea",
+      "bag",
+      "drawer"
+    ]
+  },
+  {
+    "id": 1822,
+    "title": "Rice Sock Warmer #1822",
+    "category": "Winter",
+    "jugaad": "Ek purani moze mein chawal bhar ke microwave karo – bed warmer ready.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "rice",
+      "sock",
+      "warmer"
+    ]
+  },
+  {
+    "id": 1823,
+    "title": "Salt in Fridge #1823",
+    "category": "Kitchen",
+    "jugaad": "Fridge ke corner mein namak rakhne se badbu absorb hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "salt",
+      "in",
+      "fridge"
+    ]
+  },
+  {
+    "id": 1824,
+    "title": "HDMI Backup Cable #1824",
+    "category": "Laptop",
+    "jugaad": "Presentation ke time extra HDMI cable carry karna smart move hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "hdmi",
+      "backup",
+      "cable"
+    ]
+  },
+  {
+    "id": 1825,
+    "title": "T-shirt Rolling Hack #1825",
+    "category": "Travel",
+    "jugaad": "Kapdon ko fold karne ki jagah roll karo – bag mein zyada samaan aayega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "t-shirt",
+      "rolling",
+      "hack"
+    ]
+  },
+  {
+    "id": 1826,
+    "title": "Fan Behind CPU #1826",
+    "category": "Computer",
+    "jugaad": "Old table fan ko CPU ke peeche rakhkar overheating se bachav hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "fan",
+      "behind",
+      "cpu"
+    ]
+  },
+  {
+    "id": 1827,
+    "title": "Onion Peel for Shine #1827",
+    "category": "Kitchen",
+    "jugaad": "Onion ke chilko se steel ke bartan ragadne se chamak aati hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "onion",
+      "peel",
+      "for"
+    ]
+  },
+  {
+    "id": 1828,
+    "title": "Reuse Lemon Peel #1828",
+    "category": "Kitchen",
+    "jugaad": "Use kiye huye nimbu se sink ragadne se bad smell door hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "reuse",
+      "lemon",
+      "peel"
+    ]
+  },
+  {
+    "id": 1829,
+    "title": "Chair Roller Clean Hack #1829",
+    "category": "Office",
+    "jugaad": "Office chair ke wheels par comb ghuma ke baal nikaal sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "chair",
+      "roller",
+      "clean"
+    ]
+  },
+  {
+    "id": 1830,
+    "title": "Binder Clip Cable Holder #1830",
+    "category": "Office",
+    "jugaad": "Desk pe cables ko manage karne ke liye binder clip ka use karo.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "binder",
+      "clip",
+      "cable"
+    ]
+  },
+  {
+    "id": 1831,
+    "title": "Binder Clip Cable Holder #1831",
+    "category": "Office",
+    "jugaad": "Desk pe cables ko manage karne ke liye binder clip ka use karo.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "binder",
+      "clip",
+      "cable"
+    ]
+  },
+  {
+    "id": 1832,
+    "title": "Mouse Pad from Notebook #1832",
+    "category": "Computer",
+    "jugaad": "Emergency mein mouse pad ki jagah ek rough notebook bhi kaam karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "mouse",
+      "pad",
+      "from"
+    ]
+  },
+  {
+    "id": 1833,
+    "title": "Rice Sock Warmer #1833",
+    "category": "Winter",
+    "jugaad": "Ek purani moze mein chawal bhar ke microwave karo – bed warmer ready.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "rice",
+      "sock",
+      "warmer"
+    ]
+  },
+  {
+    "id": 1834,
+    "title": "Shortcut Cheat Sheet #1834",
+    "category": "Computer",
+    "jugaad": "Frequently used software ke shortcuts ek sheet pe likh kar monitor ke side chipka lo.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "shortcut",
+      "cheat",
+      "sheet"
+    ]
+  },
+  {
+    "id": 1835,
+    "title": "T-shirt Rolling Hack #1835",
+    "category": "Travel",
+    "jugaad": "Kapdon ko fold karne ki jagah roll karo – bag mein zyada samaan aayega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "t-shirt",
+      "rolling",
+      "hack"
+    ]
+  },
+  {
+    "id": 1836,
+    "title": "Chair Roller Clean Hack #1836",
+    "category": "Office",
+    "jugaad": "Office chair ke wheels par comb ghuma ke baal nikaal sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "chair",
+      "roller",
+      "clean"
+    ]
+  },
+  {
+    "id": 1837,
+    "title": "Chapati Soft Hack #1837",
+    "category": "Kitchen",
+    "jugaad": "Aate mein thoda dahi mila ke gundo – roti soft banti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "chapati",
+      "soft",
+      "hack"
+    ]
+  },
+  {
+    "id": 1838,
+    "title": "Whiteboard Marker Smell Fix #1838",
+    "category": "Office",
+    "jugaad": "Old marker ka cap tight karne ke baad fridge mein 1 din rakhne se fir se likhne lagta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "whiteboard",
+      "marker",
+      "smell"
+    ]
+  },
+  {
+    "id": 1839,
+    "title": "Blanket Under Sheet #1839",
+    "category": "Winter",
+    "jugaad": "Bedsheet ke neeche extra kambal bichao – zyada warmth milega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "blanket",
+      "under",
+      "sheet"
+    ]
+  },
+  {
+    "id": 1840,
+    "title": "Whiteboard Marker Smell Fix #1840",
+    "category": "Office",
+    "jugaad": "Old marker ka cap tight karne ke baad fridge mein 1 din rakhne se fir se likhne lagta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "whiteboard",
+      "marker",
+      "smell"
+    ]
+  },
+  {
+    "id": 1841,
+    "title": "Onion Peel for Shine #1841",
+    "category": "Kitchen",
+    "jugaad": "Onion ke chilko se steel ke bartan ragadne se chamak aati hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "onion",
+      "peel",
+      "for"
+    ]
+  },
+  {
+    "id": 1842,
+    "title": "Freeze Water Bottle Half #1842",
+    "category": "Summer",
+    "jugaad": "Bottle ko aadha paani daal kar freeze karo – baad mein thanda paani milega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "freeze",
+      "water",
+      "bottle"
+    ]
+  },
+  {
+    "id": 1843,
+    "title": "Laptop Stand from Books #1843",
+    "category": "Laptop",
+    "jugaad": "Garam laptop ko cool rakhne ke liye neeche 2 moti kitaabein rakh do.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "laptop",
+      "stand",
+      "from"
+    ]
+  },
+  {
+    "id": 1844,
+    "title": "Tea Bag Drawer Freshener #1844",
+    "category": "Office",
+    "jugaad": "Used tea bag ko dry karke drawer mein rakho – badbu door hogi.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "tea",
+      "bag",
+      "drawer"
+    ]
+  },
+  {
+    "id": 1845,
+    "title": "Blanket Under Sheet #1845",
+    "category": "Winter",
+    "jugaad": "Bedsheet ke neeche extra kambal bichao – zyada warmth milega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "blanket",
+      "under",
+      "sheet"
+    ]
+  },
+  {
+    "id": 1846,
+    "title": "Freeze Water Bottle Half #1846",
+    "category": "Summer",
+    "jugaad": "Bottle ko aadha paani daal kar freeze karo – baad mein thanda paani milega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "freeze",
+      "water",
+      "bottle"
+    ]
+  },
+  {
+    "id": 1847,
+    "title": "Backup Email Scan #1847",
+    "category": "Travel",
+    "jugaad": "Travel documents ka scan apne email pe bhej do – emergency mein kaam aayega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "backup",
+      "email",
+      "scan"
+    ]
+  },
+  {
+    "id": 1848,
+    "title": "Whiteboard Marker Smell Fix #1848",
+    "category": "Office",
+    "jugaad": "Old marker ka cap tight karne ke baad fridge mein 1 din rakhne se fir se likhne lagta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "whiteboard",
+      "marker",
+      "smell"
+    ]
+  },
+  {
+    "id": 1849,
+    "title": "Fan Behind CPU #1849",
+    "category": "Computer",
+    "jugaad": "Old table fan ko CPU ke peeche rakhkar overheating se bachav hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "fan",
+      "behind",
+      "cpu"
+    ]
+  },
+  {
+    "id": 1850,
+    "title": "Reuse Silica Gel #1850",
+    "category": "Laptop",
+    "jugaad": "Laptop bag mein silica gel rakhne se moisture se protection milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "reuse",
+      "silica",
+      "gel"
+    ]
+  },
+  {
+    "id": 1851,
+    "title": "Onion Peel for Shine #1851",
+    "category": "Kitchen",
+    "jugaad": "Onion ke chilko se steel ke bartan ragadne se chamak aati hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "onion",
+      "peel",
+      "for"
+    ]
+  },
+  {
+    "id": 1852,
+    "title": "Cotton Sheet Trick #1852",
+    "category": "Summer",
+    "jugaad": "Sone se pehle bed sheet ko thoda geela kar do – cooling effect milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "cotton",
+      "sheet",
+      "trick"
+    ]
+  },
+  {
+    "id": 1853,
+    "title": "Cotton Sheet Trick #1853",
+    "category": "Summer",
+    "jugaad": "Sone se pehle bed sheet ko thoda geela kar do – cooling effect milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "cotton",
+      "sheet",
+      "trick"
+    ]
+  },
+  {
+    "id": 1854,
+    "title": "Whiteboard Marker Smell Fix #1854",
+    "category": "Office",
+    "jugaad": "Old marker ka cap tight karne ke baad fridge mein 1 din rakhne se fir se likhne lagta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "whiteboard",
+      "marker",
+      "smell"
+    ]
+  },
+  {
+    "id": 1855,
+    "title": "Toothbrush for Keyboard #1855",
+    "category": "Laptop",
+    "jugaad": "Soft toothbrush se laptop keyboard ke corners easily saaf hote hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "toothbrush",
+      "for",
+      "keyboard"
+    ]
+  },
+  {
+    "id": 1856,
+    "title": "Portable Charger Check #1856",
+    "category": "Travel",
+    "jugaad": "Power bank ko fully charge karke le jaana na bhoolen – safar mein phone zaroori hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "portable",
+      "charger",
+      "check"
+    ]
+  },
+  {
+    "id": 1857,
+    "title": "Sticky Note Keyboard Cleaner #1857",
+    "category": "Office",
+    "jugaad": "Sticky note ka chipchipa hissa keyboard ke beech gande hisson ko saaf karne ke kaam aata hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "sticky",
+      "note",
+      "keyboard"
+    ]
+  },
+  {
+    "id": 1858,
+    "title": "Backup Email Scan #1858",
+    "category": "Travel",
+    "jugaad": "Travel documents ka scan apne email pe bhej do – emergency mein kaam aayega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "backup",
+      "email",
+      "scan"
+    ]
+  },
+  {
+    "id": 1859,
+    "title": "Layered Newspaper Jacket #1859",
+    "category": "Winter",
+    "jugaad": "Andar newspaper ke layer se body heat retain hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "layered",
+      "newspaper",
+      "jacket"
+    ]
+  },
+  {
+    "id": 1860,
+    "title": "Toothbrush for Keyboard #1860",
+    "category": "Laptop",
+    "jugaad": "Soft toothbrush se laptop keyboard ke corners easily saaf hote hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "toothbrush",
+      "for",
+      "keyboard"
+    ]
+  },
+  {
+    "id": 1861,
+    "title": "Chapati Soft Hack #1861",
+    "category": "Kitchen",
+    "jugaad": "Aate mein thoda dahi mila ke gundo – roti soft banti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "chapati",
+      "soft",
+      "hack"
+    ]
+  },
+  {
+    "id": 1862,
+    "title": "Laptop Stand from Books #1862",
+    "category": "Laptop",
+    "jugaad": "Garam laptop ko cool rakhne ke liye neeche 2 moti kitaabein rakh do.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "laptop",
+      "stand",
+      "from"
+    ]
+  },
+  {
+    "id": 1863,
+    "title": "Chair Roller Clean Hack #1863",
+    "category": "Office",
+    "jugaad": "Office chair ke wheels par comb ghuma ke baal nikaal sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "chair",
+      "roller",
+      "clean"
+    ]
+  },
+  {
+    "id": 1864,
+    "title": "Blanket Under Sheet #1864",
+    "category": "Winter",
+    "jugaad": "Bedsheet ke neeche extra kambal bichao – zyada warmth milega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "blanket",
+      "under",
+      "sheet"
+    ]
+  },
+  {
+    "id": 1865,
+    "title": "Shortcut Cheat Sheet #1865",
+    "category": "Computer",
+    "jugaad": "Frequently used software ke shortcuts ek sheet pe likh kar monitor ke side chipka lo.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "shortcut",
+      "cheat",
+      "sheet"
+    ]
+  },
+  {
+    "id": 1866,
+    "title": "Whiteboard Marker Smell Fix #1866",
+    "category": "Office",
+    "jugaad": "Old marker ka cap tight karne ke baad fridge mein 1 din rakhne se fir se likhne lagta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "whiteboard",
+      "marker",
+      "smell"
+    ]
+  },
+  {
+    "id": 1867,
+    "title": "Laptop Stand from Books #1867",
+    "category": "Laptop",
+    "jugaad": "Garam laptop ko cool rakhne ke liye neeche 2 moti kitaabein rakh do.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "laptop",
+      "stand",
+      "from"
+    ]
+  },
+  {
+    "id": 1868,
+    "title": "T-shirt Rolling Hack #1868",
+    "category": "Travel",
+    "jugaad": "Kapdon ko fold karne ki jagah roll karo – bag mein zyada samaan aayega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "t-shirt",
+      "rolling",
+      "hack"
+    ]
+  },
+  {
+    "id": 1869,
+    "title": "Whiteboard Marker Smell Fix #1869",
+    "category": "Office",
+    "jugaad": "Old marker ka cap tight karne ke baad fridge mein 1 din rakhne se fir se likhne lagta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "whiteboard",
+      "marker",
+      "smell"
+    ]
+  },
+  {
+    "id": 1870,
+    "title": "Fan Behind CPU #1870",
+    "category": "Computer",
+    "jugaad": "Old table fan ko CPU ke peeche rakhkar overheating se bachav hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "fan",
+      "behind",
+      "cpu"
+    ]
+  },
+  {
+    "id": 1871,
+    "title": "Portable Charger Check #1871",
+    "category": "Travel",
+    "jugaad": "Power bank ko fully charge karke le jaana na bhoolen – safar mein phone zaroori hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "portable",
+      "charger",
+      "check"
+    ]
+  },
+  {
+    "id": 1872,
+    "title": "Whiteboard Marker Smell Fix #1872",
+    "category": "Office",
+    "jugaad": "Old marker ka cap tight karne ke baad fridge mein 1 din rakhne se fir se likhne lagta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "whiteboard",
+      "marker",
+      "smell"
+    ]
+  },
+  {
+    "id": 1873,
+    "title": "Chair Roller Clean Hack #1873",
+    "category": "Office",
+    "jugaad": "Office chair ke wheels par comb ghuma ke baal nikaal sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "chair",
+      "roller",
+      "clean"
+    ]
+  },
+  {
+    "id": 1874,
+    "title": "Freeze Water Bottle Half #1874",
+    "category": "Summer",
+    "jugaad": "Bottle ko aadha paani daal kar freeze karo – baad mein thanda paani milega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "freeze",
+      "water",
+      "bottle"
+    ]
+  },
+  {
+    "id": 1875,
+    "title": "Portable Charger Check #1875",
+    "category": "Travel",
+    "jugaad": "Power bank ko fully charge karke le jaana na bhoolen – safar mein phone zaroori hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "portable",
+      "charger",
+      "check"
+    ]
+  },
+  {
+    "id": 1876,
+    "title": "Onion Peel for Shine #1876",
+    "category": "Kitchen",
+    "jugaad": "Onion ke chilko se steel ke bartan ragadne se chamak aati hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "onion",
+      "peel",
+      "for"
+    ]
+  },
+  {
+    "id": 1877,
+    "title": "Aloe Ice Cubes #1877",
+    "category": "Summer",
+    "jugaad": "Aloe vera gel ko ice tray mein freeze karke cooling cubes banao – sunburn pe lagao.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "aloe",
+      "ice",
+      "cubes"
+    ]
+  },
+  {
+    "id": 1878,
+    "title": "Petroleum Jelly Shoe Hack #1878",
+    "category": "Winter",
+    "jugaad": "Boots ke andar petroleum jelly lagao – feet dry nahi hote.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "petroleum",
+      "jelly",
+      "shoe"
+    ]
+  },
+  {
+    "id": 1879,
+    "title": "Backup Email Scan #1879",
+    "category": "Travel",
+    "jugaad": "Travel documents ka scan apne email pe bhej do – emergency mein kaam aayega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "backup",
+      "email",
+      "scan"
+    ]
+  },
+  {
+    "id": 1880,
+    "title": "Layered Newspaper Jacket #1880",
+    "category": "Winter",
+    "jugaad": "Andar newspaper ke layer se body heat retain hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "layered",
+      "newspaper",
+      "jacket"
+    ]
+  },
+  {
+    "id": 1881,
+    "title": "Fan Behind CPU #1881",
+    "category": "Computer",
+    "jugaad": "Old table fan ko CPU ke peeche rakhkar overheating se bachav hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "fan",
+      "behind",
+      "cpu"
+    ]
+  },
+  {
+    "id": 1882,
+    "title": "Fan Behind CPU #1882",
+    "category": "Computer",
+    "jugaad": "Old table fan ko CPU ke peeche rakhkar overheating se bachav hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "fan",
+      "behind",
+      "cpu"
+    ]
+  },
+  {
+    "id": 1883,
+    "title": "T-shirt Rolling Hack #1883",
+    "category": "Travel",
+    "jugaad": "Kapdon ko fold karne ki jagah roll karo – bag mein zyada samaan aayega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "t-shirt",
+      "rolling",
+      "hack"
+    ]
+  },
+  {
+    "id": 1884,
+    "title": "Chapati Soft Hack #1884",
+    "category": "Kitchen",
+    "jugaad": "Aate mein thoda dahi mila ke gundo – roti soft banti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "chapati",
+      "soft",
+      "hack"
+    ]
+  },
+  {
+    "id": 1885,
+    "title": "Aloe Ice Cubes #1885",
+    "category": "Summer",
+    "jugaad": "Aloe vera gel ko ice tray mein freeze karke cooling cubes banao – sunburn pe lagao.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "aloe",
+      "ice",
+      "cubes"
+    ]
+  },
+  {
+    "id": 1886,
+    "title": "Gloves Dryer Sheet #1886",
+    "category": "Winter",
+    "jugaad": "Gloves mein dryer sheet rakhne se haath fresh aur warm rehte hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "gloves",
+      "dryer",
+      "sheet"
+    ]
+  },
+  {
+    "id": 1887,
+    "title": "Chair Roller Clean Hack #1887",
+    "category": "Office",
+    "jugaad": "Office chair ke wheels par comb ghuma ke baal nikaal sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "chair",
+      "roller",
+      "clean"
+    ]
+  },
+  {
+    "id": 1888,
+    "title": "Sandal Powder Feet #1888",
+    "category": "Summer",
+    "jugaad": "Talcum powder ko chappal mein chhidakne se pair chipakte nahi.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "sandal",
+      "powder",
+      "feet"
+    ]
+  },
+  {
+    "id": 1889,
+    "title": "Freeze Water Bottle Half #1889",
+    "category": "Summer",
+    "jugaad": "Bottle ko aadha paani daal kar freeze karo – baad mein thanda paani milega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "freeze",
+      "water",
+      "bottle"
+    ]
+  },
+  {
+    "id": 1890,
+    "title": "Chair Roller Clean Hack #1890",
+    "category": "Office",
+    "jugaad": "Office chair ke wheels par comb ghuma ke baal nikaal sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "chair",
+      "roller",
+      "clean"
+    ]
+  },
+  {
+    "id": 1891,
+    "title": "Laptop Stand from Books #1891",
+    "category": "Laptop",
+    "jugaad": "Garam laptop ko cool rakhne ke liye neeche 2 moti kitaabein rakh do.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "laptop",
+      "stand",
+      "from"
+    ]
+  },
+  {
+    "id": 1892,
+    "title": "Freeze Water Bottle Half #1892",
+    "category": "Summer",
+    "jugaad": "Bottle ko aadha paani daal kar freeze karo – baad mein thanda paani milega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "freeze",
+      "water",
+      "bottle"
+    ]
+  },
+  {
+    "id": 1893,
+    "title": "Sticky Note for Ports #1893",
+    "category": "Laptop",
+    "jugaad": "Laptop ke unused ports mein dust se bachav ke liye sticky note ka tukda laga do.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "sticky",
+      "note",
+      "for"
+    ]
+  },
+  {
+    "id": 1894,
+    "title": "Cotton Sheet Trick #1894",
+    "category": "Summer",
+    "jugaad": "Sone se pehle bed sheet ko thoda geela kar do – cooling effect milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "cotton",
+      "sheet",
+      "trick"
+    ]
+  },
+  {
+    "id": 1895,
+    "title": "Boil Water First #1895",
+    "category": "Kitchen",
+    "jugaad": "Ande ubalne se pehle paani ubalne do – shell asani se chhutega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "boil",
+      "water",
+      "first"
+    ]
+  },
+  {
+    "id": 1896,
+    "title": "Fan Behind CPU #1896",
+    "category": "Computer",
+    "jugaad": "Old table fan ko CPU ke peeche rakhkar overheating se bachav hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "fan",
+      "behind",
+      "cpu"
+    ]
+  },
+  {
+    "id": 1897,
+    "title": "Cotton Sheet Trick #1897",
+    "category": "Summer",
+    "jugaad": "Sone se pehle bed sheet ko thoda geela kar do – cooling effect milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "cotton",
+      "sheet",
+      "trick"
+    ]
+  },
+  {
+    "id": 1898,
+    "title": "Sandal Powder Feet #1898",
+    "category": "Summer",
+    "jugaad": "Talcum powder ko chappal mein chhidakne se pair chipakte nahi.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "sandal",
+      "powder",
+      "feet"
+    ]
+  },
+  {
+    "id": 1899,
+    "title": "Plastic Wrap on Bottles #1899",
+    "category": "Travel",
+    "jugaad": "Shampoo ya lotion bottle pe plastic wrap kar ke cap band karo – leakage nahi hoga.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "plastic",
+      "wrap",
+      "on"
+    ]
+  },
+  {
+    "id": 1900,
+    "title": "Backup Email Scan #1900",
+    "category": "Travel",
+    "jugaad": "Travel documents ka scan apne email pe bhej do – emergency mein kaam aayega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": [
+      "backup",
+      "email",
+      "scan"
+    ]
+  },
+  {
+    "id": 1901,
+    "title": "Banana Peel Teeth Whitener",
+    "category": "Skincare",
+    "jugaad": "Har din kele ke chilke ko daanton pe 2 minute tak rub karo. Yeh natural tarike se daanton ke peelepan ko kam karta hai aur whitening mein madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["teeth", "whitening", "natural", "banana", "remedy"]
+  },
+  {
+    "id": 1902,
+    "title": "Neem Face Pack Acne Cure",
+    "category": "Skincare",
+    "jugaad": "Neem ke patton ko pees kar paste bana lo aur use face pe 15 minute lagakar dho do. Yeh acne aur pimples ko kam karta hai aur skin ko fresh rakhta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": ["neem", "acne", "facepack", "natural", "remedy"]
+  },
+  {
+    "id": 1903,
+    "title": "Tulsi Chai Immunity Booster",
+    "category": "Health",
+    "jugaad": "Subah ki chai mein 4-5 tulsi ke patte ubal kar daal do. Yeh immunity badhata hai aur seasonal flu se bachata hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["tulsi", "chai", "immunity", "flu", "natural"]
+  },
+  {
+    "id": 1904,
+    "title": "Tomato Sugar Face Scrub",
+    "category": "Skincare",
+    "jugaad": "Ek tamatar ko aadha kaat kar uspe cheeni chhidak do aur face pe halka rub karo. Yeh dead skin hata kar skin ko glow deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["tomato", "scrub", "glow", "natural", "face"]
+  },
+  {
+    "id": 1905,
+    "title": "Turmeric Milk Sleep Trick",
+    "category": "Mental Wellness",
+    "jugaad": "Raat ko sone se pehle ek glass doodh mein 1 chhutki haldi daal kar peene se achhi neend aati hai aur stress kam hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Semi-Urban",
+    "tags": ["turmeric", "milk", "sleep", "stress", "natural"]
+  },
+  {
+    "id": 1906,
+    "title": "Rice Water Hair Therapy",
+    "category": "Haircare",
+    "jugaad": "Chawal ubalne ke baad uska paani thanda karke shampoo ke baad baalon mein daalo aur 15 min baad dho lo. Yeh baalon ko strong aur shiny banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["hair", "ricewater", "shiny", "strong", "natural"]
+  },
+  {
+    "id": 1907,
+    "title": "Aloe Vera Sunburn Saviour",
+    "category": "Skincare",
+    "jugaad": "Aloe vera gel ko fridge mein thanda karke sunburn wali jagah pe lagao. Instant cooling aur redness mein relief milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["aloe", "sunburn", "cooling", "redness", "gel"]
+  },
+  {
+    "id": 1908,
+    "title": "Clove Mouth Freshener",
+    "category": "Health",
+    "jugaad": "1-2 laung ko din mein chabane se muh ki badbu kam hoti hai aur oral hygiene improve hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": ["clove", "oral", "fresh", "breath", "natural"]
+  },
+  {
+    "id": 1909,
+    "title": "Baking Soda Shoe Deodorizer",
+    "category": "Home Remedy",
+    "jugaad": "Purane moze mein 2 chammach baking soda bhar kar juto mein rakh do. Yeh badbu absorb karta hai aur shoes fresh rehte hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["baking", "soda", "shoes", "odor", "hack"]
+  },
+{
+    "id": 1910,
+    "title": "Coconut Oil Lip Balm",
+    "category": "Skincare",
+    "jugaad": "Har raat sone se pehle thoda sa coconut oil hothon par lagao. Yeh unhe moisturize karta hai aur crack-free banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["lip", "balm", "coconut", "moisture", "skincare"]
+  },
+  {
+    "id": 1911,
+    "title": "Salt Steam Cold Relief",
+    "category": "Health",
+    "jugaad": "Ek patile mein garam paani lo, usme 1 chamach namak daal kar uski steam lo. Yeh nasal blockage aur sardi mein rahat deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Semi-Urban",
+    "tags": ["steam", "cold", "salt", "nasal", "relief"]
+  },
+  {
+    "id": 1912,
+    "title": "Lemon Peel Fridge Freshener",
+    "category": "Home Remedy",
+    "jugaad": "Nimbu ke chilke ko fridge ke kone mein rakh do. Yeh badbu absorb karta hai aur fridge ko fresh banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["lemon", "fridge", "fresh", "odor", "hack"]
+  },
+  {
+    "id": 1913,
+    "title": "Onion Cough Syrup",
+    "category": "Health",
+    "jugaad": "Ek pyaaz ko crush karke uska ras nikaalo aur usme shahad mila kar lo. Yeh khaansi mein natural relief deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Rural",
+    "tags": ["onion", "cough", "syrup", "natural", "remedy"]
+  },
+  {
+    "id": 1914,
+    "title": "Mint Water Energy Booster",
+    "category": "Diet",
+    "jugaad": "Ek bottle paani mein 7-8 pudina ke patte raat bhar bhigo do. Subah peene se body detox hoti hai aur freshness milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["mint", "hydration", "detox", "energy", "diet"]
+  },
+  {
+    "id": 1915,
+    "title": "Potato Slice Eye Relax",
+    "category": "Skincare",
+    "jugaad": "Thandi aloo ki slice ko aankhon par 10 minute tak rakhne se dark circles aur puffiness kam hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["eye", "relax", "puffiness", "darkcircle", "skincare"]
+  },
+  {
+    "id": 1916,
+    "title": "Cucumber Desk Cooler",
+    "category": "Productivity",
+    "jugaad": "Kaam ke dauraan ek plate mein thanda cucumber slice rakhne se aankhon ko freshness milti hai aur focus bana rehta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["cucumber", "focus", "cooling", "eyes", "work"]
+  },
+  {
+    "id": 1917,
+    "title": "Fenugreek Hair Fall Hack",
+    "category": "Haircare",
+    "jugaad": "Methi daana ko raat bhar bhigo kar paste bana lo, aur scalp par 30 minute lagaao. Baal girna kam hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Rural",
+    "tags": ["methi", "hairfall", "haircare", "remedy", "natural"]
+  },
+  {
+    "id": 1918,
+    "title": "Curry Leaves Hair Growth",
+    "category": "Haircare",
+    "jugaad": "Curry leaves ko coconut oil mein ubal kar baalon mein lagao. Hair growth aur shine dono improve hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Semi-Urban",
+    "tags": ["hair", "growth", "shine", "curry", "oil"]
+  },
+  {
+    "id": 1919,
+    "title": "Coffee Face Polish",
+    "category": "Skincare",
+    "jugaad": "1 chammach coffee powder aur thoda dahi mila kar face pe lagao. Skin exfoliate hoti hai aur glow badhta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["coffee", "face", "glow", "scrub", "natural"]
+  },
+  {
+    "id": 1920,
+    "title": "Cold Spoon Eye De-Puff",
+    "category": "Skincare",
+    "jugaad": "2 chammach ko fridge mein 10 minute thanda karke aankhon par 5-7 minute lagao. Puffiness instantly kam hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["cold", "spoon", "eyes", "puffiness", "quick"]
+  },
+  {
+    "id": 1921,
+    "title": "Orange Peel Room Freshener",
+    "category": "Home Remedy",
+    "jugaad": "Orange ke chilke ko sukha kar kapde ke pouch mein bhar lo aur room mein latka do. Natural fragrance deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": ["orange", "peel", "fresh", "room", "natural"]
+  },
+  {
+    "id": 1922,
+    "title": "Ghee Nose Drop Sleep Trick",
+    "category": "Mental Wellness",
+    "jugaad": "Raat mein sone se pehle dono naak mein 1-1 boond desi ghee daalo. Yeh neend aur concentration dono mein madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": ["ghee", "sleep", "nose", "ayurveda", "focus"]
+  },
+  {
+    "id": 1923,
+    "title": "Almond Brain Fuel",
+    "category": "Study Hack",
+    "jugaad": "Subah 5 bhige badam chabaane se yaadash aur dimaag ki taqat badhti hai. Students ke liye best hack hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["almond", "memory", "student", "brain", "study"]
+  },
+  {
+    "id": 1924,
+    "title": "Basil Anti-Anxiety Tea",
+    "category": "Mental Wellness",
+    "jugaad": "Tulsi ke 6-7 patte ko paani mein ubal kar chaye ki tarah piyo. Anxiety aur stress mein relief milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Semi-Urban",
+    "tags": ["tulsi", "anxiety", "tea", "stress", "calm"]
+  },
+  {
+    "id": 1925,
+    "title": "Toothpaste Nail Cleaner",
+    "category": "Home Remedy",
+    "jugaad": "Thoda sa toothpaste brush par laga kar nails ko saaf karo. Instant shine aur safai milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["toothpaste", "nail", "clean", "shine", "trick"]
+  },
+  {
+    "id": 1926,
+    "title": "Black Pepper Hiccup Cure",
+    "category": "Health",
+    "jugaad": "Thoda sa kala mirch chaatne se hichki turant ruk jaati hai – yeh ek proven desi hack hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": ["hiccup", "pepper", "health", "instant", "natural"]
+  },
+  {
+    "id": 1927,
+    "title": "Besan Tan Remover",
+    "category": "Skincare",
+    "jugaad": "Besan aur dahi ka paste banaakar 20 min lagao. Yeh tanning door karta hai aur skin tone sudhaarta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["besan", "tan", "face", "mask", "glow"]
+  },
+  {
+    "id": 1928,
+    "title": "Carrot Juice Eye Vision",
+    "category": "Diet",
+    "jugaad": "Roz subah ek glass gajar ka juice peene se aankhon ki roshni badhti hai aur vitamin A milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["carrot", "eye", "vision", "juice", "vitaminA"]
+  },
+   {
+    "id": 1929,
+    "title": "Honey Cinnamon Fat Cutter",
+    "category": "Diet",
+    "jugaad": "Subah khali pet ek glass garam paani mein 1 chammach shahad aur 1/2 chammach daalchini powder mila kar peene se metabolism tez hota hai aur fat burn mein help milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": ["honey", "cinnamon", "fatburn", "metabolism", "weightloss"]
+  },
+  {
+    "id": 1930,
+    "title": "Garlic Immunity Shot",
+    "category": "Health",
+    "jugaad": "Ek lahsun ki kali ko kuchal kar subah ek glass garam paani ke saath khaane se immunity strong hoti hai aur seasonal infection se protection milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Rural",
+    "tags": ["garlic", "immunity", "cold", "protection", "natural"]
+  },
+  {
+    "id": 1931,
+    "title": "Tulsi Steam Face Detox",
+    "category": "Skincare",
+    "jugaad": "Ek patile mein paani ubal kar usme tulsi ke patte daal kar steam lo. Yeh skin pores ko cleanse karta hai aur acne reduce karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["tulsi", "steam", "face", "detox", "skincare"]
+  },
+  {
+    "id": 1932,
+    "title": "Amla Juice Hair Strengthener",
+    "category": "Haircare",
+    "jugaad": "Har din subah ek glass amla juice peene se baal jhadna kam hota hai aur unki growth aur shine barhti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["amla", "hair", "growth", "shine", "juice"]
+  },
+  {
+    "id": 1933,
+    "title": "Green Tea Under Eye Relief",
+    "category": "Skincare",
+    "jugaad": "Use kiye hue green tea bags ko thanda karke aankhon par 10 minute rakho. Yeh dark circles aur tiredness kam karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["green tea", "eye", "darkcircles", "relief", "skincare"]
+  },
+  {
+    "id": 1934,
+    "title": "Baking Soda Teeth Polish",
+    "category": "Home Remedy",
+    "jugaad": "Haftay mein ek baar brush par thoda baking soda lagakar brush karo. Daanton se yellow stains hatkar shine aati hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": ["baking soda", "teeth", "whitening", "shine", "remedy"]
+  },
+  {
+    "id": 1935,
+    "title": "Cucumber Water Hydration Hack",
+    "category": "Diet",
+    "jugaad": "Ek jug paani mein kheere ke patle slice daal kar din bhar peene se body hydrate rehti hai aur skin bhi fresh lagti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Semi-Urban",
+    "tags": ["cucumber", "hydration", "skin", "cooling", "diet"]
+  },
+  {
+    "id": 1936,
+    "title": "Ginger Tea Bloating Relief",
+    "category": "Health",
+    "jugaad": "Ek cup paani mein adrak ka tukda ubal kar chai ki tarah piyo. Yeh gas aur bloating mein relief deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": ["ginger", "tea", "bloating", "digestion", "gas"]
+  },
+  {
+    "id": 1937,
+    "title": "Papaya Peel Acne Control",
+    "category": "Skincare",
+    "jugaad": "Papaya ke chilke ko acne wali skin par halki tarah se rub karo. Yeh skin ko gently exfoliate karta hai aur pimples reduce karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": ["papaya", "acne", "peel", "skincare", "pimple"]
+  },
+  {
+    "id": 1938,
+    "title": "Sandalwood Powder Tan Fix",
+    "category": "Skincare",
+    "jugaad": "Chandan powder mein gulab jal mila kar paste banao aur tanned skin par 15 minute lagao. Skin bright aur clear hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": ["sandalwood", "tan", "skin", "remedy", "natural"]
+  },
+  {
+    "id": 1939,
+    "title": "Lauki Juice Liver Detox",
+    "category": "Diet",
+    "jugaad": "Subah khali pet ek glass lauki juice peene se liver detox hota hai aur digestion bhi better hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Rural",
+    "tags": ["lauki", "juice", "liver", "detox", "digestion"]
+  },
+  {
+    "id": 1940,
+    "title": "Coriander Seeds Eye Soother",
+    "category": "Health",
+    "jugaad": "1 chamach dhaniya beej ko raat bhar paani mein bhigo kar uska paani aankhon mein daalo – thandak milti hai aur redness kam hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Rural",
+    "tags": ["coriander", "eye", "redness", "cooling", "herbal"]
+  },
+  {
+    "id": 1941,
+    "title": "Clove Toothache Relief",
+    "category": "Health",
+    "jugaad": "Toothache ke dauraan 1 laung ko daant ke paas dabakar rakho – yeh pain relieve karta hai aur bacteria ko bhi rokta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["clove", "toothache", "pain", "remedy", "oral"]
+  },
+  {
+    "id": 1942,
+    "title": "Beetroot Lip Tint",
+    "category": "Skincare",
+    "jugaad": "Beetroot ka ras cotton se hothon par lagao – yeh natural tint deta hai aur lips ko soft banata hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["beetroot", "lip", "tint", "natural", "color"]
+  },
+  {
+    "id": 1943,
+    "title": "Fenugreek Digestive Drink",
+    "category": "Diet",
+    "jugaad": "Methi daana ko raat bhar paani mein bhigo kar subah uska paani peene se acidity aur gas door hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Rural",
+    "tags": ["fenugreek", "digestion", "gas", "remedy", "drink"]
+  },
+  {
+    "id": 1944,
+    "title": "Tomato Juice Skin Tone Fix",
+    "category": "Skincare",
+    "jugaad": "Tamatar ka ras cotton se face par lagao aur 10 minute baad dho lo. Skin ka tan kam hota hai aur tone even hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["tomato", "skin", "tone", "face", "glow"]
+  },
+  {
+    "id": 1945,
+    "title": "Lemon Salt Elbow Cleaner",
+    "category": "Home Remedy",
+    "jugaad": "Nimbu ke tukde mein namak daal kar elbows par rub karo. Dead skin nikal jaati hai aur elbows clean ho jaate hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": ["lemon", "salt", "elbow", "clean", "scrub"]
+  },
+  {
+    "id": 1946,
+    "title": "Peppermint Foot Relaxer",
+    "category": "Health",
+    "jugaad": "Foot soak ke paani mein kuch drops peppermint oil daal kar pair dubaane se thakan kam hoti hai aur freshness milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["peppermint", "foot", "relax", "oil", "soak"]
+  },
+  {
+    "id": 1947,
+    "title": "Guava Leaf Mouthwash",
+    "category": "Health",
+    "jugaad": "Amrud ke patte ubal kar thanda karke gargle karo – yeh gums strong karta hai aur mouth ulcers mein aaram deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Rural",
+    "tags": ["guava", "mouthwash", "ulcer", "gums", "oral"]
+  },
+  {
+    "id": 1948,
+    "title": "Apple Cider Face Toner",
+    "category": "Skincare",
+    "jugaad": "Apple cider vinegar ko paani mein dilute karke cotton se face par lagao. Pores shrink hote hain aur skin smooth dikhti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": ["apple cider", "toner", "face", "pores", "smooth"]
+  },
+  {
+    "id": 1949,
+    "title": "Cumin Seed Detox Water",
+    "category": "Diet",
+    "jugaad": "Jeera ko raat bhar paani mein bhigo kar subah peene se digestion improve hota hai aur body detox hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": ["cumin", "detox", "digestion", "health", "jeera"]
+  },
+  {
+    "id": 1950,
+    "title": "Coffee Filter Phone Cleaner",
+    "category": "Tech Hack",
+    "jugaad": "Ek saaf coffee filter se phone screen ko gently wipe karo – ye lint-free hota hai aur screen safe tareeke se clean hoti hai bina scratches ke.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["tech", "phone", "cleaning", "screen", "dust"]
+  },
+  {
+    "id": 1951,
+    "title": "Toothpaste Mirror Shine",
+    "category": "Home Remedy",
+    "jugaad": "Thoda sa non-gel toothpaste ek soft cloth par lagakar mirror par circular motion mein rub karo – phir paani se saaf karo. Mirror sparkling clean dikhega bina water marks ke.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": ["mirror", "shine", "toothpaste", "home", "cleaning"]
+  },
+  {
+    "id": 1952,
+    "title": "Jeera Water for Digestion",
+    "category": "Ayurveda",
+    "jugaad": "Raat bhar 1 chamach jeera paani mein bhigo do. Subah is paani ko ubal kar thanda hone par peeyo – ye acidity aur bloating mein relief deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": ["jeera", "digestion", "ayurveda", "stomach", "gas"]
+  },
+  {
+    "id": 1953,
+    "title": "Ice Cube Makeup Primer",
+    "category": "Beauty Hack",
+    "jugaad": "Makeup lagane se pehle ek ice cube se face ko 1 minute tak gently rub karo – pores shrink hote hain aur makeup zyada der tak tikta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["ice", "makeup", "beauty", "primer", "hack"]
+  },
+  {
+    "id": 1954,
+    "title": "Onion Socks Fever Hack",
+    "category": "Folk Remedy",
+    "jugaad": "Raat ko sone se pehle onion ke slices ko socks mein daal kar pehno – ye body se toxins nikalta hai aur bukhaar kam karta hai (ancient remedy).",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Rural",
+    "tags": ["onion", "fever", "folk", "traditional", "natural"]
+  },
+  {
+    "id": 1955,
+    "title": "Basil Steam for Sinus",
+    "category": "Health",
+    "jugaad": "Ek patile mein paani ubal kar usmein 5-6 tulsi ke patte daalo aur uska steam lo – nasal congestion aur sinus pressure mein relief milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Semi-Urban",
+    "tags": ["basil", "steam", "sinus", "cold", "tulsi"]
+  },
+  {
+    "id": 1956,
+    "title": "Lemon Peel Fridge Freshener",
+    "category": "Kitchen Hack",
+    "jugaad": "Fridge ke kone mein kuch fresh lemon peels rakh do – ye bad smell ko absorb karta hai aur fridge naturally fresh mahakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["fridge", "lemon", "smell", "fresh", "kitchen"]
+  },
+  {
+    "id": 1957,
+    "title": "Flour Dust Ant Control",
+    "category": "Eco Hack",
+    "jugaad": "Chini ke aas paas ya jahan ants aate hain, wahan thoda aata chhidak do – ants confuse ho jaate hain aur raste bhool jaate hain (natural barrier).",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Rural",
+    "tags": ["ants", "natural", "eco", "flour", "control"]
+  },
+  {
+    "id": 1958,
+    "title": "Camphor Room Energizer",
+    "category": "Vastu Hack",
+    "jugaad": "Ek bowl mein kapur jalakar ghar ke kone mein rakhne se negativity door hoti hai aur room mein positive energy ka flow badhta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["kapur", "vastu", "positive", "energy", "room"]
+  },
+  {
+    "id": 1959,
+    "title": "Clove Tea for Toothache",
+    "category": "First Aid",
+    "jugaad": "1 cup garam paani mein 2-3 laung daal kar 5 minute tak chhano. Isse gargle karo ya thoda sip karo – daant ke dard mein aram milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Semi-Urban",
+    "tags": ["clove", "toothache", "pain", "natural", "tea"]
+  },
+   {
+    "id": 1960,
+    "title": "Car AC Fragrance Clip",
+    "category": "Car",
+    "jugaad": "Clip-type room freshener ko car AC vent par lagao – jab AC chalu hoga tab pura car me fresh fragrance fail jaata hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["car", "fragrance", "freshener", "vent", "travel"]
+  },
+  {
+    "id": 1961,
+    "title": "Office Pin Dispenser Hack",
+    "category": "Office",
+    "jugaad": "Empty tic-tac box ko pin ya paper clip dispenser ke roop mein use karo – desk pe scattered clips ko organize karne ke liye perfect hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["office", "organizer", "desk", "reuse", "clip"]
+  },
+  {
+    "id": 1962,
+    "title": "Train Seat Hook Hanger",
+    "category": "Train",
+    "jugaad": "Train journey ke dauran bag ya bottle ko handle se latkane ke liye ek metal hook le jao – seat ke upar ya side rail mein fit ho jata hai aur jagah bachti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Semi-Urban",
+    "tags": ["train", "travel", "organizer", "space-saving", "hook"]
+  },
+  {
+    "id": 1963,
+    "title": "Helmet Under-Seat Locker",
+    "category": "Bike",
+    "jugaad": "Scooter ya bike ke seat ke neeche ek steel cable lock rakho – helmet ko handle ya footrest se lock kar ke secure kar sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": ["bike", "helmet", "safety", "lock", "travel"]
+  },
+  {
+    "id": 1964,
+    "title": "Power Bank Fan on Train",
+    "category": "Train",
+    "jugaad": "Garami ke season mein ek USB mini fan aur power bank le jao – window seat ke pass fan laga ke personal AC ka maza lo.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": ["train", "fan", "summer", "cooling", "travel"]
+  },
+  {
+    "id": 1965,
+    "title": "DIY Laptop Riser from Books",
+    "category": "Office",
+    "jugaad": "Laptop height increase karne ke liye 2-3 moti kitaabein rakho – neck pain kam hota hai aur posture improve hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["office", "laptop", "ergonomics", "desk", "posture"]
+  },
+  {
+    "id": 1966,
+    "title": "Mirror Vision Bike Blind Spot Hack",
+    "category": "Bike",
+    "jugaad": "Chhota convex mirror handle mirror pe stick karo – blind spot dikhta hai aur turning safe hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": ["bike", "mirror", "blind spot", "safety", "travel"]
+  },
+  {
+    "id": 1967,
+    "title": "AC Vent Phone Mount",
+    "category": "Car",
+    "jugaad": "Car AC vent pe magnet mount lagakar phone rakh sakte ho – GPS access easy hota hai bina distraction ke.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": ["car", "phone", "mount", "gps", "travel"]
+  },
+  {
+    "id": 1968,
+    "title": "Plastic Bag Rain Shield for Bike Seat",
+    "category": "Bike",
+    "jugaad": "Plastic shopping bag ko fold karke seat ke neeche rakho – baarish mein seat cover karne ke kaam aata hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["bike", "rain", "seat", "protection", "plastic"]
+  },
+  {
+    "id": 1969,
+    "title": "Train Ticket Holder Clip",
+    "category": "Train",
+    "jugaad": "Old ID badge holder mein train ticket daal ke chain ya pocket se chipka do – baar baar nikalna nahi padta.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["train", "ticket", "holder", "convenience", "journey"]
+  },
+  {
+    "id": 1970,
+    "title": "Cushion from Folded Towel",
+    "category": "Traveling",
+    "jugaad": "Long journey ke dauran towel ko fold karke neck cushion bana lo – lightweight aur neck support deta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": ["travel", "neck", "comfort", "journey", "towel"]
+  },
+  {
+    "id": 1971,
+    "title": "DIY Office Whiteboard",
+    "category": "Office",
+    "jugaad": "Old glass frame ke andar white paper daal kar marker se likh lo – reusable whiteboard ready ho gaya!",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": ["office", "whiteboard", "diy", "notes", "reuse"]
+  },
+  {
+    "id": 1972,
+    "title": "Coin Holder for Highway Tolls",
+    "category": "Car",
+    "jugaad": "Empty medicine strip ko dashboard pe chipka lo – usme toll ke liye coins organize karke rakh sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["car", "toll", "coin", "organizer", "travel"]
+  },
+  {
+    "id": 1973,
+    "title": "Mobile Stand from Sunglass Box",
+    "category": "Traveling",
+    "jugaad": "Sunglass hard case ko ulta rakhkar phone ka stand bana lo – videos dekhna easy ho jata hai during travel.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["travel", "mobile", "stand", "box", "hack"]
+  },
+  {
+    "id": 1974,
+    "title": "Helmet Inner Cooling Pad",
+    "category": "Bike",
+    "jugaad": "Cotton pad mein thoda sa rose water daal ke helmet ke andar lagao – summer ride fresh aur cool ho jaati hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": ["bike", "helmet", "cooling", "comfort", "summer"]
+  },
+  {
+    "id": 1975,
+    "title": "Sticky Note Bookmark for Train Reads",
+    "category": "Train",
+    "jugaad": "Train travel ke dauran books padhte waqt sticky notes ka use bookmark aur page notes dono ke liye karo.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["train", "reading", "bookmark", "book", "travel"]
+  },
+  {
+    "id": 1976,
+    "title": "Waterproof Office File Cover",
+    "category": "Office",
+    "jugaad": "Transparent zip-lock bag ka use kar ke important documents ko waterproof banaya ja sakta hai – especially rainy season mein.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["office", "files", "waterproof", "documents", "rain"]
+  },
+  {
+    "id": 1977,
+    "title": "Car Window Curtain Using Clip",
+    "category": "Car",
+    "jugaad": "Chhoti bedsheet aur clip ka use kar ke car window curtain banaye – sunlight se bachaav aur privacy dono milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Semi-Urban",
+    "tags": ["car", "curtain", "sun", "privacy", "clip"]
+  },
+  {
+    "id": 1978,
+    "title": "Bike Handle Lock Reminder Band",
+    "category": "Bike",
+    "jugaad": "Ek rubber band ko handle grip par fix karo – jab tak lock na karo, band ko wrist me mat daalo – yaad rakhne mein madad karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": ["bike", "safety", "reminder", "handle", "lock"]
+  },
+  {
+    "id": 1979,
+    "title": "Noise Cancelling Earbuds Case",
+    "category": "Traveling",
+    "jugaad": "Old earplug box mein apne earbuds rakho – train ya bus ke noise mein music ka maza bina interruption ke milega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["travel", "earbuds", "noise", "case", "train"]
+  },
+  {
+    "id": 1980,
+    "title": "Office Chair Wheel Cleaner",
+    "category": "Office",
+    "jugaad": "Old toothbrush aur sanitizer spray ka use karke office chair ke wheels ko clean karo – smooth rolling wapas milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": ["office", "chair", "cleaning", "wheels", "sanitizer"]
+  },
+  {
+    "id": 1981,
+    "title": "Office Chair Back Support Hack",
+    "category": "Office",
+    "jugaad": "Agar office chair mein back pain ho raha hai to ek chhota cushion ya rolled towel ko lower back ke peeche rakh lo – isse posture sudharta hai aur din bhar kaam mein comfort milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["chair", "support", "posture", "comfort", "office"]
+  },
+  {
+    "id": 1982,
+    "title": "Mobile Holder on Bike",
+    "category": "Bike",
+    "jugaad": "Ek sturdy rubber band aur plastic clip se phone ko bike handle pe attach karo – GPS navigation ke liye sasta aur effective mobile holder ban jata hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": ["bike", "mobile", "holder", "GPS", "travel"]
+  },
+  {
+    "id": 1983,
+    "title": "Train Window Curtain Clip",
+    "category": "Train",
+    "jugaad": "Train ke window pe suraj ki roshni zyada ho to ek clip aur newspaper ka use karke temporary curtain bana lo – neend aur privacy dono milegi.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Semi-Urban",
+    "tags": ["train", "curtain", "privacy", "sunlight", "sleep"]
+  },
+  {
+    "id": 1984,
+    "title": "Travel Bag Chain Lock Trick",
+    "category": "Traveling",
+    "jugaad": "Long journey mein safety ke liye bag ki dono chain ends ko ek chhoti lock se band kar do – pickpocketing se protection milega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "All",
+    "tags": ["travel", "bag", "lock", "safety", "hack"]
+  },
+  {
+    "id": 1985,
+    "title": "Office Desk Cable Organizer",
+    "category": "Office",
+    "jugaad": "Binder clips ko desk ke side mein lagakar charging cables ko pass karo – wire tangling se chutkaara milega aur desk organized dikhega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["desk", "cable", "office", "organizer", "clip"]
+  },
+  {
+    "id": 1986,
+    "title": "Helmet Cleaning with Toothbrush",
+    "category": "Bike",
+    "jugaad": "Helmet ke tight corners ko saaf karne ke liye purana toothbrush use karo – dirt aur bacteria clean ho jaate hain bina helmet damage kiye.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["helmet", "cleaning", "bike", "toothbrush", "hygiene"]
+  },
+  {
+    "id": 1987,
+    "title": "Train Pillow Seat Hack",
+    "category": "Train",
+    "jugaad": "Train mein long ride ke liye apne bag ko ek soft towel mein lapetkar pillow bana lo – portable aur comfortable solution hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "All",
+    "tags": ["train", "pillow", "comfort", "bag", "hack"]
+  },
+  {
+    "id": 1988,
+    "title": "Travel Footrest DIY",
+    "category": "Traveling",
+    "jugaad": "Long travel ke dauran ek folded dupatta ya thick cloth ko seat ke aage latka do – instant footrest ban jata hai aur pair sukoon mein rehte hain.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": ["travel", "footrest", "comfort", "DIY", "cloth"]
+  },
+  {
+    "id": 1989,
+    "title": "Office Whiteboard Cleaner",
+    "category": "Office",
+    "jugaad": "Whiteboard cleaner nahi ho to thoda sa sanitizer aur soft cloth se board saaf karo – ink marks asani se nikal jaate hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["whiteboard", "cleaner", "office", "hack", "sanitizer"]
+  },
+  {
+    "id": 1990,
+    "title": "Bike Fuel Indicator Jugaad",
+    "category": "Bike",
+    "jugaad": "Agar bike ka fuel meter kharab hai to tank full karne ke baad trip meter reset karo – average nikalke fuel estimate kar sakte ho.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "All",
+    "tags": ["fuel", "bike", "indicator", "trip", "mileage"]
+  },
+  {
+    "id": 1991,
+    "title": "Train Footwear Security",
+    "category": "Train",
+    "jugaad": "Sone se pehle shoes ko ek plastic bag mein daalkar apne bag ke andar rakh lo ya uske sath bandho – shoe chori se bachaav.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "All",
+    "tags": ["train", "shoes", "safety", "luggage", "hack"]
+  },
+  {
+    "id": 1992,
+    "title": "Travel Toothbrush Cap Hack",
+    "category": "Traveling",
+    "jugaad": "Toothbrush cover nahi ho to ek chhoti plastic spoon ke cover ya medicine strip ka use karo – brush safe aur hygienic rahega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["toothbrush", "travel", "cover", "hygiene", "DIY"]
+  },
+  {
+    "id": 1993,
+    "title": "Office Table Light Reflector",
+    "category": "Office",
+    "jugaad": "Low light area mein ek white paper ko table lamp ke opposite lagao – light reflect ho kar better visibility milti hai bina zyada electricity ke.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["light", "reflector", "office", "visibility", "paper"]
+  },
+  {
+    "id": 1994,
+    "title": "Bike Mirror Rain Guard",
+    "category": "Bike",
+    "jugaad": "Bike mirror par transparent plastic ko tape se chipka do – barish mein mirror par paani nahi tikta, clear view milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "All",
+    "tags": ["mirror", "bike", "rain", "view", "plastic"]
+  },
+  {
+    "id": 1995,
+    "title": "Train Bag Alarm Hack",
+    "category": "Train",
+    "jugaad": "Bag mein ek low-cost keychain alarm lagao jo vibration detect karta ho – koi haath lagaayega to alarm bajega.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": ["bag", "train", "alarm", "safety", "anti-theft"]
+  },
+  {
+    "id": 1996,
+    "title": "Travel Soap Box Substitute",
+    "category": "Traveling",
+    "jugaad": "Travel mein sabun ko rakhne ke liye ek used plastic medicine strip use karo – leak-proof aur lightweight solution hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": ["soap", "box", "travel", "strip", "medicine"]
+  },
+  {
+    "id": 1997,
+    "title": "Office Fan Direction Fix",
+    "category": "Office",
+    "jugaad": "Agar fan directly face pe aa raha ho to ek paper sheet ko clip karke angle adjust karo – hawa indirectly milegi aur comfort badega.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["fan", "office", "airflow", "paper", "comfort"]
+  },
+  {
+    "id": 1998,
+    "title": "Bike Chain Cleaner Hack",
+    "category": "Bike",
+    "jugaad": "Used toothbrush aur thoda diesel se bike chain saaf karo – grime nikal jaata hai aur performance better hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Medium",
+    "region": "Urban",
+    "tags": ["bike", "chain", "cleaning", "diesel", "performance"]
+  },
+  {
+    "id": 1999,
+    "title": "Train Ticket Saver Tip",
+    "category": "Train",
+    "jugaad": "Ticket ko ek transparent phone cover ke andar rakho – fold nahi hoti aur baar baar nikalne mein damage bhi nahi hoti.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "All",
+    "tags": ["ticket", "train", "cover", "save", "travel"]
+  },
+  {
+    "id": 2000,
+    "title": "Car Perfume with Cotton Ball",
+    "category": "Car",
+    "jugaad": "Thoda sa perfume cotton ball mein daal kar car ke AC vent ke paas rakh do – pure car mein fresh smell fail jaata hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["car", "perfume", "smell", "cotton", "fresh"]
+  }
 ]
