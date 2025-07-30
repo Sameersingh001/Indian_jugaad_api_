@@ -1,4 +1,4 @@
-export const JugaadData = [
+ export const JugaadData = [
    {
     "id": 1,
     "title": "Old Sock for Cable Management",
@@ -23264,9 +23264,9 @@ export const JugaadData = [
   },
   {
     "id": 1529,
-    "title": "Mulethi for Cough #1529",
-    "category": "Diet",
-    "jugaad": "Mulethi ka chhota tukda chusne se gale ki kharash aur khansi mein rahat milti hai.",
+    "title": "Phone ke speaker sound ko boost karne ke liye glass ka use karo.",
+    "category": "Mobile Hacks",
+    "jugaad": "Phone ke speaker ke sound ko boost karne ke liye ek glass ka use karo. Phone ko glass ke andar rakhne se sound quality aur volume dono improve hote hain.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -23600,9 +23600,9 @@ export const JugaadData = [
   },
   {
     "id": 1553,
-    "title": "Mulethi for Cough #1553",
-    "category": "Diet",
-    "jugaad": "Mulethi ka chhota tukda chusne se gale ki kharash aur khansi mein rahat milti hai.",
+    "title": "Flashlight ko soft banane ke liye uske upar white plastic spoon ya balloon lagao",
+    "category": "Mobile Hacks",
+    "jugaad": "Flashlight ke upar white plastic spoon ya balloon lagane se uska light soft ho jata hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -23964,9 +23964,9 @@ export const JugaadData = [
   },
   {
     "id": 1579,
-    "title": "Mulethi for Cough #1579",
-    "category": "Diet",
-    "jugaad": "Mulethi ka chhota tukda chusne se gale ki kharash aur khansi mein rahat milti hai.",
+    "title": "Camera pe ek pani ki boond daal kar macro zoom milta hai.",
+    "category": "Photography Hacks",
+    "jugaad": "Clean finger se camera lens pe carefully ek boond daalo, macro photo lo.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -23978,7 +23978,7 @@ export const JugaadData = [
   },
   {
     "id": 1580,
-    "title": "Apple Vinegar Detox #1580",
+    "title": "Apple Vinegar Detox ",
     "category": "Diet",
     "jugaad": "Apple ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
     "language": "Hinglish",
@@ -23992,7 +23992,7 @@ export const JugaadData = [
   },
   {
     "id": 1581,
-    "title": "Apple Vinegar Detox #1581",
+    "title": "Apple Vinegar Detox ",
     "category": "Diet",
     "jugaad": "Apple ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
     "language": "Hinglish",
@@ -24006,7 +24006,7 @@ export const JugaadData = [
   },
   {
     "id": 1582,
-    "title": "Mulethi for Cough #1582",
+    "title": "Mulethi for Cough ",
     "category": "Diet",
     "jugaad": "Mulethi ka chhota tukda chusne se gale ki kharash aur khansi mein rahat milti hai.",
     "language": "Hinglish",
@@ -24020,7 +24020,7 @@ export const JugaadData = [
   },
   {
     "id": 1583,
-    "title": "Haldi Milk Joint Pain #1583",
+    "title": "Haldi Milk Joint Pain ",
     "category": "Diet",
     "jugaad": "Raat ko sone se pehle haldi wala dudh peene se jodon ke dard mein fayda hota hai.",
     "language": "Hinglish",
@@ -24034,7 +24034,7 @@ export const JugaadData = [
   },
   {
     "id": 1584,
-    "title": "Coconut Oil Eyebrows #1584",
+    "title": "Coconut Oil Eyebrows ",
     "category": "Diet",
     "jugaad": "Raat ko sone se pehle narial tel se eyebrows par malish karne se eyebrows ghane hote hain.",
     "language": "Hinglish",
@@ -24048,7 +24048,7 @@ export const JugaadData = [
   },
   {
     "id": 1585,
-    "title": "Neem Leaves Face Wash #1585",
+    "title": "Neem Leaves Face Wash ",
     "category": "Diet",
     "jugaad": "Subah neem ke patton ko ubal kar uss paani se chehra dhone se pimples kam hote hain aur twacha nikharti hai.",
     "language": "Hinglish",
@@ -24062,7 +24062,7 @@ export const JugaadData = [
   },
   {
     "id": 1586,
-    "title": "Haldi Milk Joint Pain #1586",
+    "title": "Haldi Milk Joint Pain ",
     "category": "Diet",
     "jugaad": "Raat ko sone se pehle haldi wala dudh peene se jodon ke dard mein fayda hota hai.",
     "language": "Hinglish",
@@ -24076,7 +24076,7 @@ export const JugaadData = [
   },
   {
     "id": 1587,
-    "title": "Black Pepper Metabolism #1587",
+    "title": "Black Pepper Metabolism ",
     "category": "Diet",
     "jugaad": "Black ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
     "language": "Hinglish",
@@ -24090,7 +24090,7 @@ export const JugaadData = [
   },
   {
     "id": 1588,
-    "title": "Baking Soda Teeth White #1588",
+    "title": "Baking Soda Teeth White ",
     "category": "Diet",
     "jugaad": "Baking ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
     "language": "Hinglish",
@@ -24104,7 +24104,7 @@ export const JugaadData = [
   },
   {
     "id": 1589,
-    "title": "Aloe Vera Hair Mask #1589",
+    "title": "Aloe Vera Hair Mask ",
     "category": "Diet",
     "jugaad": "Aloe vera gel ko scalp par 30 minute laga kar dhone se baalon ka girna kam hota hai.",
     "language": "Hinglish",
@@ -24118,7 +24118,7 @@ export const JugaadData = [
   },
   {
     "id": 1590,
-    "title": "Mustard Oil Cracks Heal #1590",
+    "title": "Mustard Oil Cracks Heal ",
     "category": "Diet",
     "jugaad": "Mustard ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
     "language": "Hinglish",
@@ -24132,7 +24132,7 @@ export const JugaadData = [
   },
   {
     "id": 1591,
-    "title": "Mulethi for Cough #1591",
+    "title": "Mulethi for Cough ",
     "category": "Diet",
     "jugaad": "Mulethi ka chhota tukda chusne se gale ki kharash aur khansi mein rahat milti hai.",
     "language": "Hinglish",
@@ -24146,7 +24146,7 @@ export const JugaadData = [
   },
   {
     "id": 1592,
-    "title": "Neem Leaves Face Wash #1592",
+    "title": "Neem Leaves Face Wash ",
     "category": "Diet",
     "jugaad": "Subah neem ke patton ko ubal kar uss paani se chehra dhone se pimples kam hote hain aur twacha nikharti hai.",
     "language": "Hinglish",
@@ -24160,7 +24160,7 @@ export const JugaadData = [
   },
   {
     "id": 1593,
-    "title": "Kalonji Oil Memory Boost #1593",
+    "title": "Kalonji Oil Memory Boost ",
     "category": "Diet",
     "jugaad": "Har din subah 1 chammach kalonji tel lene se yaadashth mazboot hoti hai.",
     "language": "Hinglish",
@@ -24174,7 +24174,7 @@ export const JugaadData = [
   },
   {
     "id": 1594,
-    "title": "Saunf Water Digestion #1594",
+    "title": "Saunf Water Digestion ",
     "category": "Diet",
     "jugaad": "Raat ko saunf bhigo kar subah us paani ko peene se digestion improve hota hai.",
     "language": "Hinglish",
@@ -24188,7 +24188,7 @@ export const JugaadData = [
   },
   {
     "id": 1595,
-    "title": "Clove Toothache Relief #1595",
+    "title": "Clove Toothache Relief ",
     "category": "Diet",
     "jugaad": "Ek laung ko daant ke neeche daba kar rakhne se daant dard mein aaram milta hai.",
     "language": "Hinglish",
@@ -24202,7 +24202,7 @@ export const JugaadData = [
   },
   {
     "id": 1596,
-    "title": "Rice Water Hair Shine #1596",
+    "title": "Rice Water Hair Shine ",
     "category": "Diet",
     "jugaad": "Bache huye chawal ka paani baalon mein lagane se shine aati hai aur baal majboot hote hain.",
     "language": "Hinglish",
@@ -24216,7 +24216,7 @@ export const JugaadData = [
   },
   {
     "id": 1597,
-    "title": "Ginger Tea Cold Cure #1597",
+    "title": "Ginger Tea Cold Cure ",
     "category": "Diet",
     "jugaad": "Ginger ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
     "language": "Hinglish",
@@ -24230,7 +24230,7 @@ export const JugaadData = [
   },
   {
     "id": 1598,
-    "title": "Guava Leaf Hair Fall #1598",
+    "title": "Guava Leaf Hair Fall ",
     "category": "Diet",
     "jugaad": "Guava ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
     "language": "Hinglish",
@@ -24244,7 +24244,7 @@ export const JugaadData = [
   },
   {
     "id": 1599,
-    "title": "Black Pepper Metabolism #1599",
+    "title": "Black Pepper Metabolism ",
     "category": "Diet",
     "jugaad": "Black ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
     "language": "Hinglish",
@@ -24258,7 +24258,7 @@ export const JugaadData = [
   },
   {
     "id": 1600,
-    "title": "Cucumber Eyes Relax #1600",
+    "title": "Cucumber Eyes Relax ",
     "category": "Diet",
     "jugaad": "Cucumber ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
     "language": "Hinglish",
@@ -24272,7 +24272,7 @@ export const JugaadData = [
   },
   {
     "id": 1601,
-    "title": "Black Pepper Metabolism #1601",
+    "title": "Black Pepper Metabolism ",
     "category": "Diet",
     "jugaad": "Black ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
     "language": "Hinglish",
@@ -24286,7 +24286,7 @@ export const JugaadData = [
   },
   {
     "id": 1602,
-    "title": "Lemon Water Fat Cut #1602",
+    "title": "Lemon Water Fat Cut ",
     "category": "Diet",
     "jugaad": "Lemon ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
     "language": "Hinglish",
@@ -24300,7 +24300,7 @@ export const JugaadData = [
   },
   {
     "id": 1603,
-    "title": "Honey Cinnamon Glow #1603",
+    "title": "Honey Cinnamon Glow ",
     "category": "Diet",
     "jugaad": "Honey ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
     "language": "Hinglish",
@@ -24314,7 +24314,7 @@ export const JugaadData = [
   },
   {
     "id": 1604,
-    "title": "Cucumber Eyes Relax #1604",
+    "title": "Cucumber Eyes Relax ",
     "category": "Diet",
     "jugaad": "Cucumber ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
     "language": "Hinglish",
@@ -24328,7 +24328,7 @@ export const JugaadData = [
   },
   {
     "id": 1605,
-    "title": "Mint Leaves Cooling #1605",
+    "title": "Mint Leaves Cooling ",
     "category": "Diet",
     "jugaad": "Mint ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
     "language": "Hinglish",
@@ -24342,7 +24342,7 @@ export const JugaadData = [
   },
   {
     "id": 1606,
-    "title": "Guava Leaf Hair Fall #1606",
+    "title": "Guava Leaf Hair Fall ",
     "category": "Diet",
     "jugaad": "Guava ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
     "language": "Hinglish",
@@ -24356,7 +24356,7 @@ export const JugaadData = [
   },
   {
     "id": 1607,
-    "title": "Ginger Tea Cold Cure #1607",
+    "title": "Ginger Tea Cold Cure ",
     "category": "Diet",
     "jugaad": "Ginger ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
     "language": "Hinglish",
@@ -24370,7 +24370,7 @@ export const JugaadData = [
   },
   {
     "id": 1608,
-    "title": "Mint Leaves Cooling #1608",
+    "title": "Mint Leaves Cooling ",
     "category": "Diet",
     "jugaad": "Mint ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
     "language": "Hinglish",
@@ -24384,7 +24384,7 @@ export const JugaadData = [
   },
   {
     "id": 1609,
-    "title": "Baking Soda Teeth White #1609",
+    "title": "Baking Soda Teeth White ",
     "category": "Diet",
     "jugaad": "Baking ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
     "language": "Hinglish",
@@ -24398,7 +24398,7 @@ export const JugaadData = [
   },
   {
     "id": 1610,
-    "title": "Saunf Water Digestion #1610",
+    "title": "Saunf Water Digestion ",
     "category": "Diet",
     "jugaad": "Raat ko saunf bhigo kar subah us paani ko peene se digestion improve hota hai.",
     "language": "Hinglish",
@@ -24412,7 +24412,7 @@ export const JugaadData = [
   },
   {
     "id": 1611,
-    "title": "Honey Cinnamon Glow #1611",
+    "title": "Honey Cinnamon Glow ",
     "category": "Diet",
     "jugaad": "Honey ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
     "language": "Hinglish",
@@ -24426,7 +24426,7 @@ export const JugaadData = [
   },
   {
     "id": 1612,
-    "title": "Mulethi for Cough #1612",
+    "title": "Mulethi for Cough ",
     "category": "Diet",
     "jugaad": "Mulethi ka chhota tukda chusne se gale ki kharash aur khansi mein rahat milti hai.",
     "language": "Hinglish",
@@ -24440,7 +24440,7 @@ export const JugaadData = [
   },
   {
     "id": 1613,
-    "title": "Aloe Vera Hair Mask #1613",
+    "title": "Aloe Vera Hair Mask ",
     "category": "Diet",
     "jugaad": "Aloe vera gel ko scalp par 30 minute laga kar dhone se baalon ka girna kam hota hai.",
     "language": "Hinglish",
@@ -24454,7 +24454,7 @@ export const JugaadData = [
   },
   {
     "id": 1614,
-    "title": "Honey Cinnamon Glow #1614",
+    "title": "Honey Cinnamon Glow ",
     "category": "Diet",
     "jugaad": "Honey ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
     "language": "Hinglish",
@@ -24468,7 +24468,7 @@ export const JugaadData = [
   },
   {
     "id": 1615,
-    "title": "Mint Leaves Cooling #1615",
+    "title": "Mint Leaves Cooling ",
     "category": "Diet",
     "jugaad": "Mint ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
     "language": "Hinglish",
@@ -24482,7 +24482,7 @@ export const JugaadData = [
   },
   {
     "id": 1616,
-    "title": "Saunf Water Digestion #1616",
+    "title": "Saunf Water Digestion ",
     "category": "Diet",
     "jugaad": "Raat ko saunf bhigo kar subah us paani ko peene se digestion improve hota hai.",
     "language": "Hinglish",
@@ -24496,7 +24496,7 @@ export const JugaadData = [
   },
   {
     "id": 1617,
-    "title": "Haldi Milk Joint Pain #1617",
+    "title": "Haldi Milk Joint Pain ",
     "category": "Diet",
     "jugaad": "Raat ko sone se pehle haldi wala dudh peene se jodon ke dard mein fayda hota hai.",
     "language": "Hinglish",
@@ -24510,7 +24510,7 @@ export const JugaadData = [
   },
   {
     "id": 1618,
-    "title": "Neem Leaves Face Wash #1618",
+    "title": "Neem Leaves Face Wash ",
     "category": "Diet",
     "jugaad": "Subah neem ke patton ko ubal kar uss paani se chehra dhone se pimples kam hote hain aur twacha nikharti hai.",
     "language": "Hinglish",
@@ -24524,7 +24524,7 @@ export const JugaadData = [
   },
   {
     "id": 1619,
-    "title": "Mint Leaves Cooling #1619",
+    "title": "Mint Leaves Cooling ",
     "category": "Diet",
     "jugaad": "Mint ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
     "language": "Hinglish",
@@ -24538,7 +24538,7 @@ export const JugaadData = [
   },
   {
     "id": 1620,
-    "title": "Tulsi Leaves Immunity Boost #1620",
+    "title": "Tulsi Leaves Immunity Boost ",
     "category": "Diet",
     "jugaad": "Har din 4-5 tulsi ke patte khane se immunity strong hoti hai aur sardard se bachav hota hai.",
     "language": "Hinglish",
@@ -24552,9 +24552,9 @@ export const JugaadData = [
   },
   {
     "id": 1621,
-    "title": "Cucumber Eyes Relax #1621",
+    "title": "Iron aur foil se pizza heat kar sakte ho. ",
     "category": "Diet",
-    "jugaad": "Cucumber ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "jugaad": "Pizza ko foil mein lapet ke iron se upar niche se press karo (carefully).",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -24566,7 +24566,7 @@ export const JugaadData = [
   },
   {
     "id": 1622,
-    "title": "Black Pepper Metabolism #1622",
+    "title": "Black Pepper Metabolism ",
     "category": "Diet",
     "jugaad": "Black ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
     "language": "Hinglish",
@@ -24580,9 +24580,9 @@ export const JugaadData = [
   },
   {
     "id": 1623,
-    "title": "Rice Water Hair Shine #1623",
-    "category": "Diet",
-    "jugaad": "Bache huye chawal ka paani baalon mein lagane se shine aati hai aur baal majboot hote hain.",
+    "title": "Binder Cable Holder",
+    "category": "Home",
+    "jugaad": "Desk ke edge par binder clip lagao aur wire usme se pass karo. Ye cable tangle hone se bachata hai aur charging setup ko organized rakhta hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -24594,8 +24594,8 @@ export const JugaadData = [
   },
   {
     "id": 1624,
-    "title": "Coconut Oil Eyebrows #1624",
-    "category": "Diet",
+    "title": "Coconut Oil Eyebrows ",
+    "category": "Beauty",
     "jugaad": "Raat ko sone se pehle narial tel se eyebrows par malish karne se eyebrows ghane hote hain.",
     "language": "Hinglish",
     "difficulty": "Easy",
@@ -24608,9 +24608,9 @@ export const JugaadData = [
   },
   {
     "id": 1625,
-    "title": "Coconut Oil Eyebrows #1625",
-    "category": "Diet",
-    "jugaad": "Raat ko sone se pehle narial tel se eyebrows par malish karne se eyebrows ghane hote hain.",
+    "title": "Old Sock Duster",
+    "category": "Home",
+    "jugaad": "Ek purani cotton wali jhurri wali socks ko haath mein pehen kar surface dust wipe karo. Yeh microfiber cloth se bhi zyada effective hoti hai furniture ke liye.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -24622,7 +24622,7 @@ export const JugaadData = [
   },
   {
     "id": 1626,
-    "title": "Mint Leaves Cooling #1626",
+    "title": "Mint Leaves Cooling",
     "category": "Diet",
     "jugaad": "Mint ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
     "language": "Hinglish",
@@ -24636,9 +24636,9 @@ export const JugaadData = [
   },
   {
     "id": 1627,
-    "title": "Rice Water Hair Shine #1627",
-    "category": "Diet",
-    "jugaad": "Bache huye chawal ka paani baalon mein lagane se shine aati hai aur baal majboot hote hain.",
+    "title": "Ice Pack Sponge",
+    "category": "Beauty",
+    "jugaad": "Ek sponge ko paani mein bhigo kar ziplock bag mein daalo aur freeze karo. Travel ke liye leak-proof aur reusable ice pack ban jaata hai instantly.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -24650,9 +24650,9 @@ export const JugaadData = [
   },
   {
     "id": 1628,
-    "title": "Baking Soda Teeth White #1628",
-    "category": "Diet",
-    "jugaad": "Baking ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "title": " Rubber Door Stopper",
+    "category": "Home",
+    "jugaad": "Do door knobs ke beech ek rubber band lapet do. Door latch compress rahega aur door band nahi hoga. Silent entry-exit ke liye useful hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -24664,9 +24664,9 @@ export const JugaadData = [
   },
   {
     "id": 1629,
-    "title": "Rice Water Hair Shine #1629",
-    "category": "Diet",
-    "jugaad": "Bache huye chawal ka paani baalon mein lagane se shine aati hai aur baal majboot hote hain.",
+    "title": "Eggshell Plant Pot",
+    "category": "Home",
+    "jugaad": "Khali anda ke shell mein mitti aur seed daal kar mini sapling grow karo. Yeh biodegradable pot ban jata hai aur directly garden mein transfer bhi ho sakta hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -24678,7 +24678,7 @@ export const JugaadData = [
   },
   {
     "id": 1630,
-    "title": "Saunf Water Digestion #1630",
+    "title": "Saunf Water Digestion ",
     "category": "Diet",
     "jugaad": "Raat ko saunf bhigo kar subah us paani ko peene se digestion improve hota hai.",
     "language": "Hinglish",
@@ -24692,7 +24692,7 @@ export const JugaadData = [
   },
   {
     "id": 1631,
-    "title": "Honey Cinnamon Glow #1631",
+    "title": "Honey Cinnamon Glow ",
     "category": "Diet",
     "jugaad": "Honey ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
     "language": "Hinglish",
@@ -24706,9 +24706,9 @@ export const JugaadData = [
   },
   {
     "id": 1632,
-    "title": "Mulethi for Cough #1632",
-    "category": "Diet",
-    "jugaad": "Mulethi ka chhota tukda chusne se gale ki kharash aur khansi mein rahat milti hai.",
+    "title": "Shoe Rack from Box",
+    "category": "Home",
+    "jugaad": "Shoebox ko tilt karke wall mount karo. Yeh small wall-mounted shoe rack ban jaata hai jo entryway ko clutter-free rakhta hai bina extra furniture ke.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -24720,9 +24720,9 @@ export const JugaadData = [
   },
   {
     "id": 1633,
-    "title": "Coconut Oil Eyebrows #1633",
-    "category": "Diet",
-    "jugaad": "Raat ko sone se pehle narial tel se eyebrows par malish karne se eyebrows ghane hote hain.",
+    "title": "Lemon Microwave Cleaner",
+    "category": "Kitchen",
+    "jugaad": "Ek bowl mein paani aur lemon slices rakhkar microwave mein heat karo. Steam se stains aur smell nikal jaate hain. Cloth se easily wipe karo aur microwave fresh ho jaata hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -24734,9 +24734,9 @@ export const JugaadData = [
   },
   {
     "id": 1634,
-    "title": "Mulethi for Cough #1634",
-    "category": "Diet",
-    "jugaad": "Mulethi ka chhota tukda chusne se gale ki kharash aur khansi mein rahat milti hai.",
+    "title": "Plastic Bag Dispenser",
+    "category": "Home",
+    "jugaad": "Old tissue box mein folded plastic bags daal do. Ek-ek karke nikalne mein easy hota hai aur kitchen ya bathroom ka drawer organized bana rehta hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -24748,9 +24748,9 @@ export const JugaadData = [
   },
   {
     "id": 1635,
-    "title": "Baking Soda Teeth White #1635",
-    "category": "Diet",
-    "jugaad": "Baking ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "title": " Bottle Cap Light Diffuser",
+    "category": "Home",
+    "jugaad": "Torch ya mobile flashlight par white bottle cap laga do. Light soft aur evenly spread hoti hai, perfect for emergency lamp ya soft reading light banane ke liye.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -24762,9 +24762,9 @@ export const JugaadData = [
   },
   {
     "id": 1636,
-    "title": "Ginger Tea Cold Cure #1636",
-    "category": "Diet",
-    "jugaad": "Ginger ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "title": "Shoe Polish with Banana Peel",
+    "category": "Fation",
+    "jugaad": " Banana peel ke inner part se leather shoes rub karo. Peel mein natural oils hote hain jo polish jaisa effect dete hain aur shoes shine karte hain instantly.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -24776,9 +24776,9 @@ export const JugaadData = [
   },
   {
     "id": 1637,
-    "title": "Saunf Water Digestion #1637",
-    "category": "Diet",
-    "jugaad": "Raat ko saunf bhigo kar subah us paani ko peene se digestion improve hota hai.",
+    "title": "Safety Pin SIM Ejector",
+    "category": "Tech",
+    "jugaad": "Safety pin ya sewing needle ko SIM ejector tool ki jagah use karo. Travel ya urgent situation mein yeh perfectly kaam karta hai bina kisi risk ke.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -24790,9 +24790,9 @@ export const JugaadData = [
   },
   {
     "id": 1638,
-    "title": "Mulethi for Cough #1638",
-    "category": "Diet",
-    "jugaad": "Mulethi ka chhota tukda chusne se gale ki kharash aur khansi mein rahat milti hai.",
+    "title": " Plastic Bottle Funnel",
+    "category": "Kitchen",
+    "jugaad": " Bottle ke upper part ko cut karke funnel banao. Flour, oil ya water transfer karne ke liye ideal hai. Light-weight aur spill-free solution bina kuch kharche ke.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -24804,9 +24804,9 @@ export const JugaadData = [
   },
   {
     "id": 1639,
-    "title": "Honey Cinnamon Glow #1639",
-    "category": "Diet",
-    "jugaad": "Honey ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "title": "Coin Battery Tester",
+    "category": "DIY",
+    "jugaad": "1 rupee coin ko battery ke dono ends pe press karo. Agar spark ya warmth feel hoti hai to battery active hai — basic battery checking trick.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -24818,7 +24818,7 @@ export const JugaadData = [
   },
   {
     "id": 1640,
-    "title": "Neem Leaves Face Wash #1640",
+    "title": "Neem Leaves Face Wash ",
     "category": "Diet",
     "jugaad": "Subah neem ke patton ko ubal kar uss paani se chehra dhone se pimples kam hote hain aur twacha nikharti hai.",
     "language": "Hinglish",
@@ -24832,7 +24832,7 @@ export const JugaadData = [
   },
   {
     "id": 1641,
-    "title": "Aloe Vera Hair Mask #1641",
+    "title": "Aloe Vera Hair Mask",
     "category": "Diet",
     "jugaad": "Aloe vera gel ko scalp par 30 minute laga kar dhone se baalon ka girna kam hota hai.",
     "language": "Hinglish",
@@ -24846,7 +24846,7 @@ export const JugaadData = [
   },
   {
     "id": 1642,
-    "title": "Guava Leaf Hair Fall #1642",
+    "title": "Guava Leaf Hair Fall",
     "category": "Diet",
     "jugaad": "Guava ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
     "language": "Hinglish",
@@ -24860,7 +24860,7 @@ export const JugaadData = [
   },
   {
     "id": 1643,
-    "title": "Mustard Oil Cracks Heal #1643",
+    "title": "Mustard Oil Cracks Heal",
     "category": "Diet",
     "jugaad": "Mustard ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
     "language": "Hinglish",
@@ -24874,9 +24874,9 @@ export const JugaadData = [
   },
   {
     "id": 1644,
-    "title": "Honey Cinnamon Glow #1644",
-    "category": "Diet",
-    "jugaad": "Honey ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "title": "Salt Water Gargle",
+    "category": "Health",
+    "jugaad": " Garm paani mein namak milakar gargle karne se throat infection aur ulcers kam hote hain. Yeh easy home remedy hai sore throat aur oral hygiene ke liye.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -24888,7 +24888,7 @@ export const JugaadData = [
   },
   {
     "id": 1645,
-    "title": "Kalonji Oil Memory Boost #1645",
+    "title": "Kalonji Oil Memory Boost",
     "category": "Diet",
     "jugaad": "Har din subah 1 chammach kalonji tel lene se yaadashth mazboot hoti hai.",
     "language": "Hinglish",
@@ -24902,9 +24902,9 @@ export const JugaadData = [
   },
   {
     "id": 1646,
-    "title": "Baking Soda Teeth White #1646",
-    "category": "Diet",
-    "jugaad": "Baking ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "title": "Turmeric Paste for Pain",
+    "category": "Health",
+    "jugaad": "Haldi aur mustard oil ka paste banakar joint pain area par lagao. Yeh natural anti-inflammatory ka kaam karta hai, swelling kam karta hai aur pain relief deta hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -24916,9 +24916,9 @@ export const JugaadData = [
   },
   {
     "id": 1647,
-    "title": "Mulethi for Cough #1647",
-    "category": "Diet",
-    "jugaad": "Mulethi ka chhota tukda chusne se gale ki kharash aur khansi mein rahat milti hai.",
+    "title": "Coconut Oil Makeup Remover",
+    "category": "Beauty",
+    "jugaad": "Cotton pad par thoda coconut oil daal kar makeup gently remove karo. Skin bhi moisturized rehti hai aur harsh chemical remover ki zarurat nahi padti.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -24930,9 +24930,9 @@ export const JugaadData = [
   },
   {
     "id": 1648,
-    "title": "Aloe Vera Hair Mask #1648",
-    "category": "Diet",
-    "jugaad": "Aloe vera gel ko scalp par 30 minute laga kar dhone se baalon ka girna kam hota hai.",
+    "title": "Aloe Vera Ice Cubes",
+    "category": "Beauty",
+    "jugaad": "Aloe vera gel ko ice tray mein freeze karke use karo. Face pe rub karne se cooling milta hai, acne kam hota hai aur skin fresh lagti hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -24944,9 +24944,9 @@ export const JugaadData = [
   },
   {
     "id": 1649,
-    "title": "Neem Leaves Face Wash #1649",
-    "category": "Diet",
-    "jugaad": "Subah neem ke patton ko ubal kar uss paani se chehra dhone se pimples kam hote hain aur twacha nikharti hai.",
+    "title": "Green Tea Toner",
+    "category": "Beauty",
+    "jugaad": "Brewed green tea ko thanda karke spray bottle mein rakho. Daily toner ke roop mein use karne se acne control hota hai aur skin tight aur hydrated rehti hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -24958,9 +24958,9 @@ export const JugaadData = [
   },
   {
     "id": 1650,
-    "title": "Honey Cinnamon Glow #1650",
-    "category": "Diet",
-    "jugaad": "Honey ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "title": "Coffee Body Scrub",
+    "category": "Beauty",
+    "jugaad": "Coffee powder aur coconut oil ka scrub banakar skin pe rub karo. Dead skin nikalta hai, blood circulation improve hoti hai aur natural glow aata hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -24972,7 +24972,7 @@ export const JugaadData = [
   },
   {
     "id": 1651,
-    "title": "Lemon Water Fat Cut #1651",
+    "title": "Lemon Water Fat Cut ",
     "category": "Diet",
     "jugaad": "Lemon ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
     "language": "Hinglish",
@@ -24986,9 +24986,9 @@ export const JugaadData = [
   },
   {
     "id": 1652,
-    "title": "Kalonji Oil Memory Boost #1652",
-    "category": "Diet",
-    "jugaad": "Har din subah 1 chammach kalonji tel lene se yaadashth mazboot hoti hai.",
+    "title": "Surya Namaskar Daily",
+    "category": "Height",
+    "jugaad": "Roz subah 12 sets Surya Namaskar karne se posture improve hota hai, spinal flexibility badhti hai aur body tall aur aligned dikhti hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -25000,9 +25000,9 @@ export const JugaadData = [
   },
   {
     "id": 1653,
-    "title": "Mustard Oil Cracks Heal #1653",
-    "category": "Diet",
-    "jugaad": "Mustard ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "title": "Wall Stretch Routine",
+    "category": "Height",
+    "jugaad": "Roz raat ko wall ke against khade ho kar poore pair aur hath seedhe karke 3 minute tak stretch karo. Spine alignment aur height me daily improvement hota hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -25014,9 +25014,9 @@ export const JugaadData = [
   },
   {
     "id": 1654,
-    "title": "Guava Leaf Hair Fall #1654",
-    "category": "Diet",
-    "jugaad": "Guava ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "title": "Amla Honey Shot",
+    "category": "Ayurveda",
+    "jugaad": " Amla powder ya juice mein thoda honey mila kar daily consume karo. Yeh vitamin C source hai, skin glow aur hair strength mein madad karta hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -25028,9 +25028,9 @@ export const JugaadData = [
   },
   {
     "id": 1655,
-    "title": "Neem Leaves Face Wash #1655",
-    "category": "Diet",
-    "jugaad": "Subah neem ke patton ko ubal kar uss paani se chehra dhone se pimples kam hote hain aur twacha nikharti hai.",
+    "title": "Copper Water Detox",
+    "category": "Ayurveda",
+    "jugaad": "Raat bhar copper bottle mein paani bhar ke subah khali pet piyein. Yeh Ayurvedic detox method hai jo digestion, skin aur liver function ko boost karta hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -25042,9 +25042,9 @@ export const JugaadData = [
   },
   {
     "id": 1656,
-    "title": "Baking Soda Teeth White #1656",
+    "title": "Turmeric Nose Dip",
     "category": "Diet",
-    "jugaad": "Baking ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "jugaad": "Raat mein sone se pehle haldi aur mustard oil mix karke naak ke bahar halka lagao. Yeh cold, dry nose aur sinus blockage mein natural relief deta hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -25056,9 +25056,9 @@ export const JugaadData = [
   },
   {
     "id": 1657,
-    "title": "Black Pepper Metabolism #1657",
-    "category": "Diet",
-    "jugaad": "Black ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "title": "Cumin Water Start",
+    "category": "DailyHealth",
+    "jugaad": "Subah 1 chamach jeera ko raat bhar bhigo kar uska paani peeyo. Digestion improve hota hai aur bloating kam hoti hai — lightweight aur fresh feel hoti hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -25070,9 +25070,9 @@ export const JugaadData = [
   },
   {
     "id": 1658,
-    "title": "Ginger Tea Cold Cure #1658",
-    "category": "Diet",
-    "jugaad": "Ginger ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "title": " Ghee in Navel Trick",
+    "category": "DailyHealth",
+    "jugaad": "Raat ko sone se pehle 2-3 drops desi ghee naabhi mein daal kar halka massage karo. Skin soft hoti hai, mood better hota hai aur dryness kam hoti hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -25084,9 +25084,9 @@ export const JugaadData = [
   },
   {
     "id": 1659,
-    "title": "Mint Leaves Cooling #1659",
-    "category": "Diet",
-    "jugaad": "Mint ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "title": "Ajwain Kadha Relief",
+    "category": "Periods",
+    "jugaad": " Ajwain, saunf aur kala namak ka kadha banakar peene se cramps aur bloating kam hoti hai. Yeh natural painkiller jaise kaam karta hai aur digestion bhi improve karta hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -25098,9 +25098,9 @@ export const JugaadData = [
   },
   {
     "id": 1660,
-    "title": "Ginger Tea Cold Cure #1660",
-    "category": "Diet",
-    "jugaad": "Ginger ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "title": "Hot Water Bottle",
+    "category": "Periods",
+    "jugaad": "Lower abdomen pe hot water bag rakhne se muscle relax hoti hai, blood flow improve hota hai aur period cramps mein instant relief milta hai — age-old solution.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -25112,9 +25112,9 @@ export const JugaadData = [
   },
   {
     "id": 1661,
-    "title": "Rice Water Hair Shine #1661",
-    "category": "Diet",
-    "jugaad": "Bache huye chawal ka paani baalon mein lagane se shine aati hai aur baal majboot hote hain.",
+    "title": "Tulsi Ginger Tea",
+    "category": "Periods",
+    "jugaad": "Tulsi aur adrak wali herbal chai roz periods ke dino mein peene se hormonal balance aur cramps dono mein comfort milta hai — natural Ayurvedic chai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -25126,9 +25126,9 @@ export const JugaadData = [
   },
   {
     "id": 1662,
-    "title": "Ginger Tea Cold Cure #1662",
-    "category": "Diet",
-    "jugaad": "Ginger ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "title": "Banana with Black Salt",
+    "category": "Periods",
+    "jugaad": "Ek kachha banana par kala namak daal kar khane se bloating kam hoti hai, potassium level maintain hota hai aur cramps mein comfort milta hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -25140,9 +25140,9 @@ export const JugaadData = [
   },
   {
     "id": 1663,
-    "title": "Ginger Tea Cold Cure #1663",
-    "category": "Diet",
-    "jugaad": "Ginger ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "title": "Cumin Water",
+    "category": "Periods",
+    "jugaad": "Jeera pani subah khali pet peene se digestion improve hota hai aur acidity ya cramps mein comfort milta hai — warm and calming natural drink.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -25154,9 +25154,9 @@ export const JugaadData = [
   },
   {
     "id": 1664,
-    "title": "Black Pepper Metabolism #1664",
-    "category": "Diet",
-    "jugaad": "Black ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "title": "Cinnamon Milk",
+    "category": "Periods",
+    "jugaad": "Doodh mein ½ chammach dalchini powder daal kar peene se period cramps mein comfort milta hai, blood circulation better hota hai — natural warming drink.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -25168,9 +25168,9 @@ export const JugaadData = [
   },
   {
     "id": 1665,
-    "title": "Neem Leaves Face Wash #1665",
-    "category": "Diet",
-    "jugaad": "Subah neem ke patton ko ubal kar uss paani se chehra dhone se pimples kam hote hain aur twacha nikharti hai.",
+    "title": "Pineapple Slice Trick",
+    "category": "Periods",
+    "jugaad": "Pineapple mein bromelain enzyme hota hai jo muscle relax karta hai. Periods ke dino mein ek slice pineapple se pain reduce hota hai — tasty and useful.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -25182,9 +25182,9 @@ export const JugaadData = [
   },
   {
     "id": 1666,
-    "title": "Lemon Water Fat Cut #1666",
-    "category": "Diet",
-    "jugaad": "Lemon ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "title": "Amla Juice Cleanse",
+    "category": "Periods",
+    "jugaad": " Amla juice hormone balance mein help karta hai. Periods irregular ho to daily 20ml amla juice peena beneficial hota hai — rich in iron and vitamin C.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -25196,9 +25196,9 @@ export const JugaadData = [
   },
   {
     "id": 1667,
-    "title": "Mustard Oil Cracks Heal #1667",
-    "category": "Diet",
-    "jugaad": "Mustard ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "title": "Yoga Child’s Pose",
+    "category": "Periods",
+    "jugaad": "Balasana (child’s pose) yoga se uterus compress hota hai aur cramps relief milta hai. Light yoga safe hoti hai periods ke dino mein.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -25210,7 +25210,7 @@ export const JugaadData = [
   },
   {
     "id": 1668,
-    "title": "Apple Vinegar Detox #1668",
+    "title": "Apple Vinegar Detox",
     "category": "Diet",
     "jugaad": "Apple ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
     "language": "Hinglish",
@@ -25224,9 +25224,9 @@ export const JugaadData = [
   },
   {
     "id": 1669,
-    "title": "Mint Leaves Cooling #1669",
-    "category": "Diet",
-    "jugaad": "Mint ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "title": "Warm Shower Relax",
+    "category": "Periods",
+    "jugaad": "Garam paani se nahaane se muscles relax hoti hain, body fresh feel karti hai aur stress kam hota hai. Daily shower essential hai during menstruation.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -25238,9 +25238,9 @@ export const JugaadData = [
   },
   {
     "id": 1670,
-    "title": "Neem Leaves Face Wash #1670",
-    "category": "Diet",
-    "jugaad": "Subah neem ke patton ko ubal kar uss paani se chehra dhone se pimples kam hote hain aur twacha nikharti hai.",
+    "title": "Nariyal Pani Balance",
+    "category": "Periods",
+    "jugaad": " Nariyal pani hydration ke sath body ke minerals ko balance karta hai. Periods ke dino mein fatigue aur dizziness kam hota hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -25252,9 +25252,9 @@ export const JugaadData = [
   },
   {
     "id": 1671,
-    "title": "Haldi Milk Joint Pain #1671",
-    "category": "Diet",
-    "jugaad": "Raat ko sone se pehle haldi wala dudh peene se jodon ke dard mein fayda hota hai.",
+    "title": "Dahi for Digestion",
+    "category": "Periods",
+    "jugaad": "Probiotic-rich dahi lene se digestion better hota hai. Periods mein constipation aur acidity hoti hai to dahi natural remedy hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -25266,9 +25266,9 @@ export const JugaadData = [
   },
   {
     "id": 1672,
-    "title": "Apple Vinegar Detox #1672",
-    "category": "Diet",
-    "jugaad": "Apple ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "title": "Avoid Cold Drinks",
+    "category": "Periods",
+    "jugaad": "Periods ke dino mein cold drink ya thanda paani avoid karo. Yeh blood flow disturb karta hai aur cramps badha sakta hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -25280,9 +25280,9 @@ export const JugaadData = [
   },
   {
     "id": 1673,
-    "title": "Baking Soda Teeth White #1673",
-    "category": "Diet",
-    "jugaad": "Baking ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "title": "Use Cloth Pads Option",
+    "category": "Periods",
+    "jugaad": "Cloth pads ka upyog karne se periods ke dino mein comfort aur hygiene better hota hai. Yeh eco-friendly bhi hote hain.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -25294,9 +25294,9 @@ export const JugaadData = [
   },
   {
     "id": 1674,
-    "title": "Kalonji Oil Memory Boost #1674",
-    "category": "Diet",
-    "jugaad": "Har din subah 1 chammach kalonji tel lene se yaadashth mazboot hoti hai.",
+    "title": "Sleep on Left Side",
+    "category": "Periods",
+    "jugaad": "Period cramps mein left side par sone se uterus aur digestion dono ko comfort milta hai. Back pain aur bloating se bhi relief milta hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
@@ -25306,398 +25306,287 @@ export const JugaadData = [
       "memory"
     ]
   },
-  {
+{
     "id": 1675,
-    "title": "Apple Vinegar Detox #1675",
-    "category": "Diet",
-    "jugaad": "Apple ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "title": "Ajwain Remedy",
+    "category": "Stomach",
+    "jugaad": "Subah khali pet 1 chammach ajwain garam paani ke sath lene se acidity aur pet dard mein rahat milti hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
     "tags": [
-      "apple",
-      "vinegar",
-      "detox"
+      "health",
+      "remedy",
+      "natural"
     ]
   },
   {
     "id": 1676,
-    "title": "Coconut Oil Eyebrows #1676",
-    "category": "Diet",
-    "jugaad": "Raat ko sone se pehle narial tel se eyebrows par malish karne se eyebrows ghane hote hain.",
+    "title": "Banana Trick",
+    "category": "Stomach",
+    "jugaad": "Banana mein potassium hota hai jo pet ko calm karta hai. Dard ho to ek banana lein.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
     "tags": [
-      "coconut",
-      "oil",
-      "eyebrows"
+      "health",
+      "remedy",
+      "natural"
     ]
   },
   {
     "id": 1677,
-    "title": "Mulethi for Cough #1677",
-    "category": "Diet",
-    "jugaad": "Mulethi ka chhota tukda chusne se gale ki kharash aur khansi mein rahat milti hai.",
+    "title": "Mint Water",
+    "category": "Stomach",
+    "jugaad": "Pudina ka paani banakar peene se pet ki jalan aur ghabrahat mein araam milta hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
     "tags": [
-      "mulethi",
-      "for",
-      "cough"
+      "health",
+      "remedy",
+      "natural"
     ]
   },
   {
     "id": 1678,
-    "title": "Cucumber Eyes Relax #1678",
-    "category": "Diet",
-    "jugaad": "Cucumber ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "title": "Cumin Detox",
+    "category": "Stomach",
+    "jugaad": "Raat bhar jeera bhigo ke subah nikal ke uska paani peene se digestion improve hota hai aur acidity door hoti hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
     "tags": [
-      "cucumber",
-      "eyes",
-      "relax"
+      "digestion",
+      "remedy",
+      "natural"
     ]
   },
   {
     "id": 1679,
-    "title": "Mint Leaves Cooling #1679",
-    "category": "Diet",
-    "jugaad": "Mint ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "title": "Lemon Honey Mix",
+    "category": "Stomach",
+    "jugaad": "Garam paani mein nimbu aur shahad milakar peene se pet saaf rehta hai aur gas nahi banti.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
     "tags": [
-      "mint",
-      "leaves",
-      "cooling"
+      "gas",
+      "natural",
+      "detox"
     ]
   },
   {
     "id": 1680,
-    "title": "Haldi Milk Joint Pain #1680",
-    "category": "Diet",
-    "jugaad": "Raat ko sone se pehle haldi wala dudh peene se jodon ke dard mein fayda hota hai.",
+    "title": "Hot Water Pad",
+    "category": "Periods",
+    "jugaad": "Lower abdomen pe hot water bottle rakhne se periods pain mein instant relief milta hai. Yeh ek tested and instant comfort method hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
     "tags": [
-      "haldi",
-      "milk",
-      "joint"
+      "relief",
+      "cramps",
+      "women"
     ]
   },
   {
     "id": 1681,
-    "title": "Lemon Water Fat Cut #1681",
-    "category": "Diet",
-    "jugaad": "Lemon ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "title": "Fennel Tea",
+    "category": "Periods",
+    "jugaad": "Saunf wali chai peene se periods ke dauraan cramps mein bahut rahat milti hai aur digestion bhi improve hota hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
     "tags": [
-      "lemon",
-      "water",
-      "fat"
+      "women",
+      "pain",
+      "natural"
     ]
   },
   {
     "id": 1682,
-    "title": "Mint Leaves Cooling #1682",
-    "category": "Diet",
-    "jugaad": "Mint ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "title": "Turmeric Milk",
+    "category": "Periods",
+    "jugaad": "Haldi wala doodh raat ko peene se internal inflammation kam hoti hai aur period cramps mein comfort milta hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
     "tags": [
-      "mint",
-      "leaves",
-      "cooling"
+      "healing",
+      "cramps",
+      "natural"
     ]
   },
   {
     "id": 1683,
-    "title": "Mint Leaves Cooling #1683",
-    "category": "Diet",
-    "jugaad": "Mint ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "title": "Cinnamon Water",
+    "category": "Periods",
+    "jugaad": "Dalchini ko garam paani mein ubal kar peene se mood swings aur cramps dono mein aram milta hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
     "tags": [
-      "mint",
-      "leaves",
-      "cooling"
+      "relief",
+      "mood",
+      "natural"
     ]
   },
   {
     "id": 1684,
-    "title": "Baking Soda Teeth White #1684",
-    "category": "Diet",
-    "jugaad": "Baking ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "title": "Aloe Vera Juice",
+    "category": "Periods",
+    "jugaad": "Roz subah aloe vera juice peene se hormonal balance maintain hota hai aur periods regular bante hain.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
     "tags": [
-      "baking",
-      "soda",
-      "teeth"
+      "natural",
+      "hormones",
+      "juice"
     ]
   },
   {
     "id": 1685,
-    "title": "Black Pepper Metabolism #1685",
-    "category": "Diet",
-    "jugaad": "Black ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "title": "Sesame Oil Massage",
+    "category": "Body Pain",
+    "jugaad": "Til tel se body massage karne se joint pain aur thakan mein relief milta hai. Rozana malish se blood circulation bhi behtar hota hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
     "tags": [
-      "black",
-      "pepper",
-      "metabolism"
+      "pain",
+      "relax",
+      "ayurveda"
     ]
   },
   {
     "id": 1686,
-    "title": "Saunf Water Digestion #1686",
-    "category": "Diet",
-    "jugaad": "Raat ko saunf bhigo kar subah us paani ko peene se digestion improve hota hai.",
+    "title": "Mustard Oil Rub",
+    "category": "Body Pain",
+    "jugaad": "Sarson ke tel ko garam karke dard wale hisson par malish karne se muscle pain mein aaram milta hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
     "tags": [
-      "saunf",
-      "water",
-      "digestion"
+      "muscle",
+      "joint",
+      "pain"
     ]
   },
   {
     "id": 1687,
-    "title": "Saunf Water Digestion #1687",
-    "category": "Diet",
-    "jugaad": "Raat ko saunf bhigo kar subah us paani ko peene se digestion improve hota hai.",
+    "title": "Epsom Salt Bath",
+    "category": "Body Pain",
+    "jugaad": "Epsom salt se garam paani mein nahaane se body pain aur stress dono kam hote hain.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
     "tags": [
-      "saunf",
-      "water",
-      "digestion"
+      "relax",
+      "bath",
+      "body"
     ]
   },
   {
     "id": 1688,
-    "title": "Neem Leaves Face Wash #1688",
-    "category": "Diet",
-    "jugaad": "Subah neem ke patton ko ubal kar uss paani se chehra dhone se pimples kam hote hain aur twacha nikharti hai.",
+    "title": "Castor Oil Wrap",
+    "category": "Body Pain",
+    "jugaad": "Castor oil ko kapde mein laga kar affected area pe bandhne se pain mein kam hota hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
     "tags": [
-      "neem",
-      "leaves",
-      "face"
+      "castor",
+      "pain",
+      "wrap"
     ]
   },
   {
     "id": 1689,
-    "title": "Honey Cinnamon Glow #1689",
-    "category": "Diet",
-    "jugaad": "Honey ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "title": "Stretching Routine",
+    "category": "Body Pain",
+    "jugaad": "Rozana halki stretching karne se body flexible rehti hai aur pain hone ka chance kam hota hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
     "tags": [
-      "honey",
-      "cinnamon",
-      "glow"
+      "flexibility",
+      "stretch",
+      "routine"
     ]
   },
   {
     "id": 1690,
-    "title": "Kalonji Oil Memory Boost #1690",
-    "category": "Diet",
-    "jugaad": "Har din subah 1 chammach kalonji tel lene se yaadashth mazboot hoti hai.",
+    "title": "Cold Compress",
+    "category": "Head",
+    "jugaad": "Sir dard hone par cold compress lagane se swelling kam hoti hai aur turant aaram milta hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
     "tags": [
-      "kalonji",
-      "oil",
-      "memory"
+      "cold",
+      "headache",
+      "pain"
     ]
   },
   {
     "id": 1691,
-    "title": "Clove Toothache Relief #1691",
-    "category": "Diet",
-    "jugaad": "Ek laung ko daant ke neeche daba kar rakhne se daant dard mein aaram milta hai.",
+    "title": "Peppermint Balm",
+    "category": "Head",
+    "jugaad": "Peppermint balm ko forehead par lagane se thandak milti hai jo headache relief mein madad karti hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
     "tags": [
-      "clove",
-      "toothache",
-      "relief"
+      "head",
+      "relief",
+      "balm"
     ]
   },
   {
     "id": 1692,
-    "title": "Kalonji Oil Memory Boost #1692",
-    "category": "Diet",
-    "jugaad": "Har din subah 1 chammach kalonji tel lene se yaadashth mazboot hoti hai.",
+    "title": "Yoga Child Pose",
+    "category": "Periods",
+    "jugaad": "Periods ke dauraan Balasana yoga pose se uterus relax hota hai aur cramps mein relief milta hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
     "tags": [
-      "kalonji",
-      "oil",
-      "memory"
+      "health",
+      "remedy",
+      "natural"
     ]
   },
   {
     "id": 1693,
-    "title": "Neem Leaves Face Wash #1693",
-    "category": "Diet",
-    "jugaad": "Subah neem ke patton ko ubal kar uss paani se chehra dhone se pimples kam hote hain aur twacha nikharti hai.",
+    "title": "Head Tap Trick",
+    "category": "Head",
+    "jugaad": "Sar ke upar halka tapping karne se stress aur head pressure mein farak padta hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
     "tags": [
-      "neem",
-      "leaves",
-      "face"
+      "health",
+      "remedy",
+      "natural"
     ]
   },
   {
     "id": 1694,
-    "title": "Cucumber Eyes Relax #1694",
-    "category": "Diet",
-    "jugaad": "Cucumber ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
+    "title": "Ajwain Steam Inhale",
+    "category": "Head",
+    "jugaad": "Ajwain ko garam paani mein daal kar steam lene se sar dard aur congestion kam hota hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
     "tags": [
-      "cucumber",
-      "eyes",
-      "relax"
+      "health",
+      "remedy",
+      "natural"
     ]
   },
-  {
-    "id": 1695,
-    "title": "Honey Cinnamon Glow #1695",
-    "category": "Diet",
-    "jugaad": "Honey ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Urban",
-    "tags": [
-      "honey",
-      "cinnamon",
-      "glow"
-    ]
-  },
-  {
-    "id": 1696,
-    "title": "Saunf Water Digestion #1696",
-    "category": "Diet",
-    "jugaad": "Raat ko saunf bhigo kar subah us paani ko peene se digestion improve hota hai.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Urban",
-    "tags": [
-      "saunf",
-      "water",
-      "digestion"
-    ]
-  },
-  {
-    "id": 1697,
-    "title": "Baking Soda Teeth White #1697",
-    "category": "Diet",
-    "jugaad": "Baking ka upyog subah khaali pet karne se health mein improvement dekha gaya hai.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Urban",
-    "tags": [
-      "baking",
-      "soda",
-      "teeth"
-    ]
-  },
-  {
-    "id": 1698,
-    "title": "Saunf Water Digestion #1698",
-    "category": "Diet",
-    "jugaad": "Raat ko saunf bhigo kar subah us paani ko peene se digestion improve hota hai.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Urban",
-    "tags": [
-      "saunf",
-      "water",
-      "digestion"
-    ]
-  },
-  {
-    "id": 1699,
-    "title": "Coconut Oil Eyebrows #1699",
-    "category": "Diet",
-    "jugaad": "Raat ko sone se pehle narial tel se eyebrows par malish karne se eyebrows ghane hote hain.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Urban",
-    "tags": [
-      "coconut",
-      "oil",
-      "eyebrows"
-    ]
-  },
-  {
-    "id": 1700,
-    "title": "Clove Toothache Relief #1700",
-    "category": "Diet",
-    "jugaad": "Ek laung ko daant ke neeche daba kar rakhne se daant dard mein aaram milta hai.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Urban",
-    "tags": [
-      "clove",
-      "toothache",
-      "relief"
-    ]
-  },
-  {
-    "id": 1701,
-    "title": "Mouse Pad from Notebook #1701",
-    "category": "Computer",
-    "jugaad": "Emergency mein mouse pad ki jagah ek rough notebook bhi kaam karta hai.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Urban",
-    "tags": [
-      "mouse",
-      "pad",
-      "from"
-    ]
-  },
-  {
-    "id": 1702,
-    "title": "Rice Sock Warmer #1702",
-    "category": "Winter",
-    "jugaad": "Ek purani moze mein chawal bhar ke microwave karo – bed warmer ready.",
-    "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Urban",
-    "tags": [
-      "rice",
-      "sock",
-      "warmer"
-    ]
-  },
+ 
   {
     "id": 1703,
     "title": "Toothbrush for Keyboard #1703",
@@ -29479,3 +29368,5 @@ export const JugaadData = [
     "tags": ["car", "perfume", "smell", "cotton", "fresh"]
   }
 ]
+
+

@@ -6,6 +6,7 @@
   "main": "Jugaad_Api.js",
   "scripts": {
     "start": "node Jugaad_Api.js",
+    "dev": "nodemon Jugaad_Api.js",
     "test": "jest"
   },
   "author": "Sameer Singh",

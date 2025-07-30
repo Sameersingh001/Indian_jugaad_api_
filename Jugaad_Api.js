@@ -1,6 +1,6 @@
 import express from 'express';
 import cors from 'cors';
-import { JugaadData } from './JugaadData.js';
+import {JugaadData}  from './JugaadData.js';
 
 const app = express();
 const port = 3000;
@@ -362,9 +362,9 @@ app.get('/jugaad/all/pages', (req, res) => {
 app.get('/jugaad/search/id/:id', (req, res) => {
   const ID = parseInt(req.params.id);
 
-  const jugaadData = JugaadData.find(item => item.id === ID);
-  if (jugaadData) {
-    res.json(jugaadData);
+  const JugaadData = JugaadData.find(item => item.id === ID);
+  if (JugaadData) {
+    res.json(JugaadData);
   } else {
     res.status(404).type('html').send(errorMessage());
   }
