@@ -25586,679 +25586,567 @@
       "natural"
     ]
   },
- 
+   {
+        "id": 1695,
+        "title": "Ginger Lemon Shot",
+        "category": "Stomach",
+        "jugaad": "Subah khali pet adrak aur nimbu ka ek chhota shot peene se digestion boost hota hai, nausea kam hota hai aur pet halka mehsoos hota hai.",
+        "language": "Hinglish",
+        "difficulty": "Easy",
+        "region": "Urban",
+        "tags": ["stomach", "digestion", "natural"]
+    },
+    {
+        "id": 1696,
+        "title": "Baking Soda Sip",
+        "category": "Stomach",
+        "jugaad": "Ek glass paani mein aadha chammach baking soda mix karke turant sip karo; acidity aur heartburn mein jaldi rahat milti hai, pet ki jalan kam hoti hai.",
+        "language": "Hinglish",
+        "difficulty": "Easy",
+        "region": "Urban",
+        "tags": ["acidity", "remedy", "stomach"]
+    },
+    {
+        "id": 1697,
+        "title": "Clove Compress",
+        "category": "Head",
+        "jugaad": "Laung ko garam paani mein bhigo kar cloth se forehead par compress lagao; clove oil ke vapours se headache aur sinus pressure mein instant soothing relief milta hai.",
+        "language": "Hinglish",
+        "difficulty": "Easy",
+        "region": "Urban",
+        "tags": ["headache", "sinus", "clove"]
+    },
+    {
+        "id": 1698,
+        "title": "Rosemary Steam",
+        "category": "Head",
+        "jugaad": "Garam paani mein rosemary leaves daal kar steam lo; herbal vapours nasal passages clear karte hain, migraine ka pressure kam karte hain aur mind fresh feel karta hai.",
+        "language": "Hinglish",
+        "difficulty": "Easy",
+        "region": "Urban",
+        "tags": ["migraine", "herbal", "steam"]
+    },
+    {
+        "id": 1699,
+        "title": "Chamomile Pack",
+        "category": "Periods",
+        "jugaad": "Chamomile tea bag ko garam paani mein dip karke thoda thanda hone do, phir lower abdomen pe rakh kar relax karo; cramps soothe hote hain aur mood calm hota hai.",
+        "language": "Hinglish",
+        "difficulty": "Easy",
+        "region": "Urban",
+        "tags": ["cramps", "relax", "herbal"]
+    },
+    {
+        "id": 1700,
+        "title": "Dark Chocolate Bite",
+        "category": "Periods",
+        "jugaad": "70% dark chocolate ka chhota tukda khane se magnesium milta hai, mood hormones balance hote hain aur period cravings satisfy ho kar pain perception naturally kam hota hai.",
+        "language": "Hinglish",
+        "difficulty": "Easy",
+        "region": "Urban",
+        "tags": ["periods", "cravings", "relief"]
+    },
+  {
+    "id": 1701,
+    "title": "Warm Turmeric Milk",
+    "category": "Immunity",
+    "jugaad": "Garama garam doodh mein haldi daal kar peene se body ki immunity strong hoti hai aur infections se bachav hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": ["immunity", "natural remedy", "health"]
+  },
+  {
+    "id": 1702,
+    "title": "Cold Water Splash",
+    "category": "Mental Health",
+    "jugaad": "Thoda thanda paani face par splash karne se stress kam hota hai aur mind fresh feel karta hai.",
+    "language": "Hinglish",
+    "difficulty": "Very Easy",
+    "region": "Urban",
+    "tags": ["stress relief", "mental clarity", "quick tips"]
+  },
   {
     "id": 1703,
-    "title": "Toothbrush for Keyboard #1703",
-    "category": "Laptop",
-    "jugaad": "Soft toothbrush se laptop keyboard ke corners easily saaf hote hain.",
+    "title": "Tulsi Tea",
+    "category": "Respiratory Health",
+    "jugaad": "Tulsi ki chai roz peene se saans ki takleef kam hoti hai aur cough bhi kam hota hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
-    "tags": [
-      "toothbrush",
-      "for",
-      "keyboard"
-    ]
+    "tags": ["respiratory", "natural cure", "herbal"]
   },
   {
     "id": 1704,
-    "title": "Sticky Note for Ports #1704",
-    "category": "Laptop",
-    "jugaad": "Laptop ke unused ports mein dust se bachav ke liye sticky note ka tukda laga do.",
+    "title": "Aloe Vera Gel",
+    "category": "Skin Care",
+    "jugaad": "Aloe vera ka gel directly skin par lagane se dryness kam hoti hai aur natural glow aata hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
-    "region": "Urban",
-    "tags": [
-      "sticky",
-      "note",
-      "for"
-    ]
+    "region": "Rural",
+    "tags": ["skin care", "natural remedy", "hydration"]
   },
   {
     "id": 1705,
-    "title": "Onion Peel for Shine #1705",
-    "category": "Kitchen",
-    "jugaad": "Onion ke chilko se steel ke bartan ragadne se chamak aati hai.",
+    "title": "Cumin Water",
+    "category": "Digestion",
+    "jugaad": "Raat ko jeera paani bhigo kar subah peene se digestion better hota hai aur pet ki gas kam hoti hai.",
     "language": "Hinglish",
-    "difficulty": "Easy",
+    "difficulty": "Very Easy",
     "region": "Urban",
-    "tags": [
-      "onion",
-      "peel",
-      "for"
-    ]
+    "tags": ["digestion", "gut health", "natural"]
   },
   {
     "id": 1706,
-    "title": "HDMI Backup Cable #1706",
-    "category": "Laptop",
-    "jugaad": "Presentation ke time extra HDMI cable carry karna smart move hai.",
+    "title": "Rose Water Face Mist",
+    "category": "Beauty",
+    "jugaad": "Gulab jal ko spray karne se skin fresh aur hydrated rehti hai, especially garmiyon mein.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
-    "tags": [
-      "hdmi",
-      "backup",
-      "cable"
-    ]
+    "tags": ["beauty", "skincare", "refresh"]
   },
   {
     "id": 1707,
-    "title": "Salt in Fridge #1707",
-    "category": "Kitchen",
-    "jugaad": "Fridge ke corner mein namak rakhne se badbu absorb hoti hai.",
+    "title": "Brahmi Oil Massage",
+    "category": "Hair Care",
+    "jugaad": "Brahmi tel se sir par massaging karne se baalon ki jadh mazboot hoti hai aur dandruff kam hota hai.",
     "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Urban",
-    "tags": [
-      "salt",
-      "in",
-      "fridge"
-    ]
+    "difficulty": "Moderate",
+    "region": "Rural",
+    "tags": ["hair care", "dandruff", "natural oils"]
   },
   {
     "id": 1708,
-    "title": "Blanket Under Sheet #1708",
-    "category": "Winter",
-    "jugaad": "Bedsheet ke neeche extra kambal bichao – zyada warmth milega.",
+    "title": "Honey Lemon Water",
+    "category": "Detox",
+    "jugaad": "Nimboo aur shahad mila kar garam pani subah lene se body detoxify hoti hai aur metabolism better hota hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
-    "tags": [
-      "blanket",
-      "under",
-      "sheet"
-    ]
+    "tags": ["detox", "metabolism", "health"]
   },
   {
     "id": 1709,
-    "title": "Layered Newspaper Jacket #1709",
-    "category": "Winter",
-    "jugaad": "Andar newspaper ke layer se body heat retain hoti hai.",
+    "title": "Salt Gargle",
+    "category": "Oral Health",
+    "jugaad": "Garam paani mein namak dal kar gargle karne se gala kharab aur infection kam hote hain.",
     "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Urban",
-    "tags": [
-      "layered",
-      "newspaper",
-      "jacket"
-    ]
+    "difficulty": "Very Easy",
+    "region": "Rural",
+    "tags": ["oral health", "infection", "remedy"]
   },
   {
     "id": 1710,
-    "title": "Gloves Dryer Sheet #1710",
-    "category": "Winter",
-    "jugaad": "Gloves mein dryer sheet rakhne se haath fresh aur warm rehte hain.",
+    "title": "Mint Leaves Juice",
+    "category": "Weight Management",
+    "jugaad": "Pudine ke patte juice mein mila kar peene se cravings kam hoti hain aur weight control mein madad milti hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
-    "tags": [
-      "gloves",
-      "dryer",
-      "sheet"
-    ]
+    "tags": ["weight", "cravings", "natural"]
   },
   {
     "id": 1711,
-    "title": "Aloe Ice Cubes #1711",
-    "category": "Summer",
-    "jugaad": "Aloe vera gel ko ice tray mein freeze karke cooling cubes banao – sunburn pe lagao.",
+    "title": "Fenugreek Seed Soak",
+    "category": "Blood Sugar Control",
+    "jugaad": "Methi dana ko raat bhar paani mein bhigo kar subah khali pet peene se blood sugar level maintain hota hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
-    "region": "Urban",
-    "tags": [
-      "aloe",
-      "ice",
-      "cubes"
-    ]
+    "region": "Rural",
+    "tags": ["blood sugar", "diabetes", "natural"]
   },
   {
     "id": 1712,
-    "title": "Reuse Lemon Peel #1712",
-    "category": "Kitchen",
-    "jugaad": "Use kiye huye nimbu se sink ragadne se bad smell door hoti hai.",
+    "title": "Ashwagandha Powder",
+    "category": "Stress Management",
+    "jugaad": "Ashwagandha powder doodh mein mila kar roz lene se stress aur anxiety kam hoti hai.",
     "language": "Hinglish",
-    "difficulty": "Easy",
+    "difficulty": "Moderate",
     "region": "Urban",
-    "tags": [
-      "reuse",
-      "lemon",
-      "peel"
-    ]
+    "tags": ["stress", "anxiety", "adaptogen"]
   },
   {
     "id": 1713,
-    "title": "Tea Bag Drawer Freshener #1713",
-    "category": "Office",
-    "jugaad": "Used tea bag ko dry karke drawer mein rakho – badbu door hogi.",
+    "title": "Ginger and Honey",
+    "category": "Cold & Flu",
+    "jugaad": "Adrak ka ras aur shahad mila kar khane se zukhaam aur khansi mein rahat milti hai.",
     "language": "Hinglish",
-    "difficulty": "Easy",
+    "difficulty": "Very Easy",
     "region": "Urban",
-    "tags": [
-      "tea",
-      "bag",
-      "drawer"
-    ]
+    "tags": ["cold", "flu", "immunity"]
   },
   {
     "id": 1714,
-    "title": "Cotton Sheet Trick #1714",
-    "category": "Summer",
-    "jugaad": "Sone se pehle bed sheet ko thoda geela kar do – cooling effect milta hai.",
+    "title": "Neem Leaf Powder",
+    "category": "Detoxification",
+    "jugaad": "Neem patton ka powder subah garam pani ke sath lene se khoon saaf hota hai aur immunity badhti hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
-    "region": "Urban",
-    "tags": [
-      "cotton",
-      "sheet",
-      "trick"
-    ]
+    "region": "Rural",
+    "tags": ["detox", "immunity", "natural"]
   },
   {
     "id": 1715,
-    "title": "Portable Charger Check #1715",
-    "category": "Travel",
-    "jugaad": "Power bank ko fully charge karke le jaana na bhoolen – safar mein phone zaroori hai.",
+    "title": "Coconut Oil Pulling",
+    "category": "Oral Hygiene",
+    "jugaad": "Nariyal tel muh mein 10 minute tak ghumaane se daanton ki safai hoti hai aur bacteria kam hote hain.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
-    "tags": [
-      "portable",
-      "charger",
-      "check"
-    ]
+    "tags": ["oral hygiene", "gum care", "natural"]
   },
   {
     "id": 1716,
-    "title": "Fan Behind CPU #1716",
-    "category": "Computer",
-    "jugaad": "Old table fan ko CPU ke peeche rakhkar overheating se bachav hota hai.",
+    "title": "Carom Seeds Tea",
+    "category": "Menstrual Health",
+    "jugaad": "Ajwain ki chai peene se menstrual cramps kam hoti hain aur digestion bhi theek rehta hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
-    "region": "Urban",
-    "tags": [
-      "fan",
-      "behind",
-      "cpu"
-    ]
+    "region": "Rural",
+    "tags": ["menstrual health", "cramps", "digestion"]
   },
   {
     "id": 1717,
-    "title": "Binder Clip Cable Holder #1717",
-    "category": "Office",
-    "jugaad": "Desk pe cables ko manage karne ke liye binder clip ka use karo.",
+    "title": "Lemon and Ginger Detox Drink",
+    "category": "Liver Health",
+    "jugaad": "Nimboo aur adrak ka juice roz subah lene se liver ki safai hoti hai aur metabolism improve hota hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
-    "tags": [
-      "binder",
-      "clip",
-      "cable"
-    ]
+    "tags": ["liver health", "detox", "metabolism"]
   },
   {
     "id": 1718,
-    "title": "Portable Charger Check #1718",
-    "category": "Travel",
-    "jugaad": "Power bank ko fully charge karke le jaana na bhoolen – safar mein phone zaroori hai.",
+    "title": "Egg White Face Pack",
+    "category": "Anti-Aging",
+    "jugaad": "Anda safedi ko face par lagane se wrinkles kam hote hain aur skin tight hoti hai.",
     "language": "Hinglish",
-    "difficulty": "Easy",
+    "difficulty": "Moderate",
     "region": "Urban",
-    "tags": [
-      "portable",
-      "charger",
-      "check"
-    ]
+    "tags": ["anti-aging", "skin care", "wrinkles"]
   },
   {
     "id": 1719,
-    "title": "Reuse Lemon Peel #1719",
-    "category": "Kitchen",
-    "jugaad": "Use kiye huye nimbu se sink ragadne se bad smell door hoti hai.",
+    "title": "Chamomile Tea",
+    "category": "Sleep Aid",
+    "jugaad": "Chamomile ka herbal tea raat ko peene se neend achhi aati hai aur mind relax hota hai.",
     "language": "Hinglish",
-    "difficulty": "Easy",
+    "difficulty": "Very Easy",
     "region": "Urban",
-    "tags": [
-      "reuse",
-      "lemon",
-      "peel"
-    ]
+    "tags": ["sleep", "relaxation", "herbal"]
   },
   {
     "id": 1720,
-    "title": "Binder Clip Cable Holder #1720",
-    "category": "Office",
-    "jugaad": "Desk pe cables ko manage karne ke liye binder clip ka use karo.",
+    "title": "Black Salt Water",
+    "category": "Electrolyte Balance",
+    "jugaad": "Kala namak garam pani mein milakar peene se body ka electrolyte balance bana rehta hai, especially garmi mein.",
     "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Urban",
-    "tags": [
-      "binder",
-      "clip",
-      "cable"
-    ]
+    "difficulty": "Very Easy",
+    "region": "Rural",
+    "tags": ["electrolytes", "hydration", "heat"]
   },
   {
     "id": 1721,
-    "title": "Plastic Wrap on Bottles #1721",
-    "category": "Travel",
-    "jugaad": "Shampoo ya lotion bottle pe plastic wrap kar ke cap band karo – leakage nahi hoga.",
+    "title": "Warm Ginger Water",
+    "category": "Joint Pain",
+    "jugaad": "Adrak ka garam paani roz subah peene se joint pain aur sujan mein farak padta hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
-    "tags": [
-      "plastic",
-      "wrap",
-      "on"
-    ]
+    "tags": ["joint pain", "inflammation", "natural"]
   },
   {
     "id": 1722,
-    "title": "Chapati Soft Hack #1722",
-    "category": "Kitchen",
-    "jugaad": "Aate mein thoda dahi mila ke gundo – roti soft banti hai.",
+    "title": "Cinnamon Tea",
+    "category": "Metabolic Health",
+    "jugaad": "Dalchini ki chai roz lene se metabolism tez hota hai aur sugar control mein madad milti hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
-    "tags": [
-      "chapati",
-      "soft",
-      "hack"
-    ]
+    "tags": ["metabolism", "blood sugar", "health"]
   },
   {
     "id": 1723,
-    "title": "Plastic Wrap on Bottles #1723",
-    "category": "Travel",
-    "jugaad": "Shampoo ya lotion bottle pe plastic wrap kar ke cap band karo – leakage nahi hoga.",
+    "title": "Boiled Carrot Juice",
+    "category": "Eye Health",
+    "jugaad": "Uble huye gajar ka ras roz peene se aankhon ki roshni behtar hoti hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
-    "region": "Urban",
-    "tags": [
-      "plastic",
-      "wrap",
-      "on"
-    ]
+    "region": "Rural",
+    "tags": ["eye health", "vision", "natural"]
   },
   {
     "id": 1724,
-    "title": "Fan Behind CPU #1724",
-    "category": "Computer",
-    "jugaad": "Old table fan ko CPU ke peeche rakhkar overheating se bachav hota hai.",
+    "title": "Baking Soda Paste",
+    "category": "Skin Infection",
+    "jugaad": "Thode se baking soda ko pani mein mila kar skin infection wale sthaan par lagane se infection kam hota hai.",
     "language": "Hinglish",
-    "difficulty": "Easy",
+    "difficulty": "Moderate",
     "region": "Urban",
-    "tags": [
-      "fan",
-      "behind",
-      "cpu"
-    ]
+    "tags": ["skin infection", "remedy", "natural"]
   },
   {
     "id": 1725,
-    "title": "HDMI Backup Cable #1725",
-    "category": "Laptop",
-    "jugaad": "Presentation ke time extra HDMI cable carry karna smart move hai.",
+    "title": "Fennel Seeds Chew",
+    "category": "Bad Breath",
+    "jugaad": "Saunf chabane se muh ki badboo door hoti hai aur digestion bhi better hota hai.",
     "language": "Hinglish",
-    "difficulty": "Easy",
+    "difficulty": "Very Easy",
     "region": "Urban",
-    "tags": [
-      "hdmi",
-      "backup",
-      "cable"
-    ]
+    "tags": ["bad breath", "digestion", "natural"]
   },
   {
     "id": 1726,
-    "title": "Layered Newspaper Jacket #1726",
-    "category": "Winter",
-    "jugaad": "Andar newspaper ke layer se body heat retain hoti hai.",
+    "title": "Coriander Water",
+    "category": "Detox",
+    "jugaad": "Dhaniya ko paani mein bhigo kar subah peene se body detox hoti hai aur skin clear hoti hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
-    "region": "Urban",
-    "tags": [
-      "layered",
-      "newspaper",
-      "jacket"
-    ]
+    "region": "Rural",
+    "tags": ["detox", "skin", "natural"]
   },
   {
     "id": 1727,
-    "title": "Gloves Dryer Sheet #1727",
-    "category": "Winter",
-    "jugaad": "Gloves mein dryer sheet rakhne se haath fresh aur warm rehte hain.",
+    "title": "Mint & Lemon Face Pack",
+    "category": "Skin Brightening",
+    "jugaad": "Pudina aur nimboo ka face pack skin ko bright aur fresh banata hai.",
     "language": "Hinglish",
-    "difficulty": "Easy",
+    "difficulty": "Moderate",
     "region": "Urban",
-    "tags": [
-      "gloves",
-      "dryer",
-      "sheet"
-    ]
+    "tags": ["skin brightening", "beauty", "natural"]
   },
   {
     "id": 1728,
-    "title": "Pen Drive Label Tip #1728",
-    "category": "Computer",
-    "jugaad": "Multiple pen drives pe masking tape laga ke naam likho – confusion nahi hoga.",
+    "title": "Steam Inhalation",
+    "category": "Sinus Relief",
+    "jugaad": "Garama garam pani ki bhaap lene se naak band hona khulta hai aur sinus mein rahat milti hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
-    "tags": [
-      "pen",
-      "drive",
-      "label"
-    ]
+    "tags": ["sinus", "respiratory", "remedy"]
   },
   {
     "id": 1729,
-    "title": "Toothbrush for Keyboard #1729",
-    "category": "Laptop",
-    "jugaad": "Soft toothbrush se laptop keyboard ke corners easily saaf hote hain.",
+    "title": "Sweet Potato Mash",
+    "category": "Heart Health",
+    "jugaad": "Shakarkandi khane se heart strong rehta hai aur blood pressure control mein madad milti hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
-    "region": "Urban",
-    "tags": [
-      "toothbrush",
-      "for",
-      "keyboard"
-    ]
+    "region": "Rural",
+    "tags": ["heart health", "blood pressure", "natural"]
   },
   {
     "id": 1730,
-    "title": "Shortcut Cheat Sheet #1730",
-    "category": "Computer",
-    "jugaad": "Frequently used software ke shortcuts ek sheet pe likh kar monitor ke side chipka lo.",
+    "title": "Warm Milk with Nutmeg",
+    "category": "Sleep Quality",
+    "jugaad": "Doodh mein jaiphal daal kar raat ko peene se neend achhi aati hai aur stress kam hota hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
-    "tags": [
-      "shortcut",
-      "cheat",
-      "sheet"
-    ]
+    "tags": ["sleep", "stress relief", "natural"]
   },
   {
     "id": 1731,
-    "title": "Cotton Sheet Trick #1731",
-    "category": "Summer",
-    "jugaad": "Sone se pehle bed sheet ko thoda geela kar do – cooling effect milta hai.",
+    "title": "Apple Cider Vinegar",
+    "category": "Weight Loss",
+    "jugaad": "Sev ka sirka garam pani mein mila kar roz subah peene se weight loss mein madad milti hai.",
     "language": "Hinglish",
-    "difficulty": "Easy",
+    "difficulty": "Moderate",
     "region": "Urban",
-    "tags": [
-      "cotton",
-      "sheet",
-      "trick"
-    ]
+    "tags": ["weight loss", "metabolism", "natural"]
   },
   {
     "id": 1732,
-    "title": "Pen Drive Label Tip #1732",
-    "category": "Computer",
-    "jugaad": "Multiple pen drives pe masking tape laga ke naam likho – confusion nahi hoga.",
+    "title": "Holy Basil Leaves Chew",
+    "category": "Oral Immunity",
+    "jugaad": "Tulsi patte chabane se muh ki immunity badhti hai aur infections kam hote hain.",
     "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Urban",
-    "tags": [
-      "pen",
-      "drive",
-      "label"
-    ]
+    "difficulty": "Very Easy",
+    "region": "Rural",
+    "tags": ["oral immunity", "natural", "herbal"]
   },
   {
     "id": 1733,
-    "title": "Binder Clip Cable Holder #1733",
-    "category": "Office",
-    "jugaad": "Desk pe cables ko manage karne ke liye binder clip ka use karo.",
+    "title": "Cucumber Face Pack",
+    "category": "Hydration",
+    "jugaad": "Kheera grind kar ke face par lagane se skin hydrated aur fresh lagti hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
-    "tags": [
-      "binder",
-      "clip",
-      "cable"
-    ]
+    "tags": ["hydration", "skin care", "natural"]
   },
   {
     "id": 1734,
-    "title": "Pen Drive Label Tip #1734",
-    "category": "Computer",
-    "jugaad": "Multiple pen drives pe masking tape laga ke naam likho – confusion nahi hoga.",
+    "title": "Black Pepper and Honey",
+    "category": "Cough Relief",
+    "jugaad": "Kali mirch aur shahad mila kar khane se khansi aur gale ki jalan mein aaram milta hai.",
     "language": "Hinglish",
-    "difficulty": "Easy",
+    "difficulty": "Very Easy",
     "region": "Urban",
-    "tags": [
-      "pen",
-      "drive",
-      "label"
-    ]
+    "tags": ["cough", "natural remedy", "relief"]
   },
   {
     "id": 1735,
-    "title": "Aloe Ice Cubes #1735",
-    "category": "Summer",
-    "jugaad": "Aloe vera gel ko ice tray mein freeze karke cooling cubes banao – sunburn pe lagao.",
+    "title": "Yoga Breathing",
+    "category": "Breathing Exercise",
+    "jugaad": "Roz thodi der yogic breathing (pranayama) karne se lungs strong hote hain aur stress kam hota hai.",
     "language": "Hinglish",
-    "difficulty": "Easy",
+    "difficulty": "Moderate",
     "region": "Urban",
-    "tags": [
-      "aloe",
-      "ice",
-      "cubes"
-    ]
+    "tags": ["breathing", "stress", "lung health"]
   },
   {
     "id": 1736,
-    "title": "Sandal Powder Feet #1736",
-    "category": "Summer",
-    "jugaad": "Talcum powder ko chappal mein chhidakne se pair chipakte nahi.",
+    "title": "Turmeric Face Pack",
+    "category": "Acne Treatment",
+    "jugaad": "Haldi aur besan mila kar face pack lagane se daane kam hote hain aur skin saaf hoti hai.",
     "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Urban",
-    "tags": [
-      "sandal",
-      "powder",
-      "feet"
-    ]
+    "difficulty": "Moderate",
+    "region": "Rural",
+    "tags": ["acne", "skin care", "natural"]
   },
   {
     "id": 1737,
-    "title": "Onion Peel for Shine #1737",
-    "category": "Kitchen",
-    "jugaad": "Onion ke chilko se steel ke bartan ragadne se chamak aati hai.",
+    "title": "Guava Fruit",
+    "category": "Vitamin C Boost",
+    "jugaad": "Amrud roz khane se vitamin C milta hai aur immunity strong hoti hai.",
     "language": "Hinglish",
-    "difficulty": "Easy",
+    "difficulty": "Very Easy",
     "region": "Urban",
-    "tags": [
-      "onion",
-      "peel",
-      "for"
-    ]
+    "tags": ["vitamin C", "immunity", "fruits"]
   },
   {
     "id": 1738,
-    "title": "Onion Peel for Shine #1738",
-    "category": "Kitchen",
-    "jugaad": "Onion ke chilko se steel ke bartan ragadne se chamak aati hai.",
+    "title": "Watermelon Juice",
+    "category": "Hydration",
+    "jugaad": "Tarbooz ka fresh juice garamiyon mein peene se body hydrated rehti hai aur energy milti hai.",
     "language": "Hinglish",
-    "difficulty": "Easy",
+    "difficulty": "Very Easy",
     "region": "Urban",
-    "tags": [
-      "onion",
-      "peel",
-      "for"
-    ]
+    "tags": ["hydration", "energy", "natural"]
   },
   {
     "id": 1739,
-    "title": "Cotton Sheet Trick #1739",
-    "category": "Summer",
-    "jugaad": "Sone se pehle bed sheet ko thoda geela kar do – cooling effect milta hai.",
+    "title": "Honey and Lemon Scrub",
+    "category": "Skin Exfoliation",
+    "jugaad": "Shahad aur nimboo mila kar gentle scrub banakar skin par lagane se dead skin nikalti hai aur glow aata hai.",
     "language": "Hinglish",
-    "difficulty": "Easy",
+    "difficulty": "Moderate",
     "region": "Urban",
-    "tags": [
-      "cotton",
-      "sheet",
-      "trick"
-    ]
+    "tags": ["skin care", "exfoliation", "natural"]
   },
   {
     "id": 1740,
-    "title": "Reuse Silica Gel #1740",
-    "category": "Laptop",
-    "jugaad": "Laptop bag mein silica gel rakhne se moisture se protection milta hai.",
+    "title": "Warm Sesame Oil Massage",
+    "category": "Relaxation",
+    "jugaad": "Abhyang tel se sarir ki malish karne se body aur mind relax hote hain.",
     "language": "Hinglish",
-    "difficulty": "Easy",
-    "region": "Urban",
-    "tags": [
-      "reuse",
-      "silica",
-      "gel"
-    ]
+    "difficulty": "Moderate",
+    "region": "Rural",
+    "tags": ["massage", "relaxation", "natural"]
   },
   {
     "id": 1741,
-    "title": "Monitor Height Hack #1741",
-    "category": "Computer",
-    "jugaad": "Computer screen ko aankhon ke level pe laane ke liye uske neeche books rakh do.",
+    "title": "Beetroot Juice",
+    "category": "Blood Purification",
+    "jugaad": "Chukandar ka ras roz peene se khoon saaf hota hai aur blood pressure control rehta hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
-    "tags": [
-      "monitor",
-      "height",
-      "hack"
-    ]
+    "tags": ["blood health", "detox", "natural"]
   },
   {
     "id": 1742,
-    "title": "Socks in Shoes Trick #1742",
-    "category": "Travel",
-    "jugaad": "Travel bag mein jagah bachane ke liye moze jooton ke andar rakh do.",
+    "title": "Warm Honey Water",
+    "category": "Digestion Aid",
+    "jugaad": "Garam pani mein shahad mila kar subah peene se pet ki problems kam hoti hain.",
     "language": "Hinglish",
-    "difficulty": "Easy",
+    "difficulty": "Very Easy",
     "region": "Urban",
-    "tags": [
-      "socks",
-      "in",
-      "shoes"
-    ]
+    "tags": ["digestion", "natural remedy", "health"]
   },
   {
     "id": 1743,
-    "title": "Salt in Fridge #1743",
-    "category": "Kitchen",
-    "jugaad": "Fridge ke corner mein namak rakhne se badbu absorb hoti hai.",
+    "title": "Papaya Slices",
+    "category": "Digestive Health",
+    "jugaad": "Papita khane se digestion sudharata hai aur pet hamesha light rehta hai.",
     "language": "Hinglish",
-    "difficulty": "Easy",
+    "difficulty": "Very Easy",
     "region": "Urban",
-    "tags": [
-      "salt",
-      "in",
-      "fridge"
-    ]
+    "tags": ["digestion", "natural", "fruits"]
   },
   {
     "id": 1744,
-    "title": "Gloves Dryer Sheet #1744",
-    "category": "Winter",
-    "jugaad": "Gloves mein dryer sheet rakhne se haath fresh aur warm rehte hain.",
+    "title": "Green Tea with Lemon",
+    "category": "Antioxidants",
+    "jugaad": "Green tea mein nimboo daal kar peene se antioxidants milte hain jo body ko toxins se bachate hain.",
     "language": "Hinglish",
     "difficulty": "Easy",
     "region": "Urban",
-    "tags": [
-      "gloves",
-      "dryer",
-      "sheet"
-    ]
+    "tags": ["antioxidants", "detox", "natural"]
   },
   {
     "id": 1745,
-    "title": "Binder Clip Cable Holder #1745",
-    "category": "Office",
-    "jugaad": "Desk pe cables ko manage karne ke liye binder clip ka use karo.",
+    "title": "Apple and Cinnamon",
+    "category": "Blood Sugar Control",
+    "jugaad": "Seb aur dalchini roz khane se blood sugar stable rehta hai.",
     "language": "Hinglish",
-    "difficulty": "Easy",
+    "difficulty": "Moderate",
     "region": "Urban",
-    "tags": [
-      "binder",
-      "clip",
-      "cable"
-    ]
+    "tags": ["blood sugar", "natural", "fruits"]
   },
   {
     "id": 1746,
-    "title": "Petroleum Jelly Shoe Hack #1746",
-    "category": "Winter",
-    "jugaad": "Boots ke andar petroleum jelly lagao – feet dry nahi hote.",
+    "title": "Warm Mustard Oil Soak",
+    "category": "Muscle Cramps",
+    "jugaad": "Garam sarson tel se pair dhone ya malish karne se muscle cramp kam hota hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
-    "region": "Urban",
-    "tags": [
-      "petroleum",
-      "jelly",
-      "shoe"
-    ]
+    "region": "Rural",
+    "tags": ["muscle cramps", "pain relief", "natural"]
   },
   {
     "id": 1747,
-    "title": "Onion Peel for Shine #1747",
-    "category": "Kitchen",
-    "jugaad": "Onion ke chilko se steel ke bartan ragadne se chamak aati hai.",
+    "title": "Basil Leaves Inhalation",
+    "category": "Cold Relief",
+    "jugaad": "Tulsi ke patte garam pani mein daal kar bhaap lene se sardi aur zukhaam mein aaram milta hai.",
     "language": "Hinglish",
-    "difficulty": "Easy",
+    "difficulty": "Very Easy",
     "region": "Urban",
-    "tags": [
-      "onion",
-      "peel",
-      "for"
-    ]
+    "tags": ["cold", "immunity", "herbal"]
   },
   {
     "id": 1748,
-    "title": "Tea Bag Drawer Freshener #1748",
-    "category": "Office",
-    "jugaad": "Used tea bag ko dry karke drawer mein rakho – badbu door hogi.",
+    "title": "Coconut Water",
+    "category": "Hydration",
+    "jugaad": "Nariyal paani sharir ko hydrated rakhta hai aur energy provide karta hai, khaaskar garmiyon mein.",
     "language": "Hinglish",
-    "difficulty": "Easy",
+    "difficulty": "Very Easy",
     "region": "Urban",
-    "tags": [
-      "tea",
-      "bag",
-      "drawer"
-    ]
+    "tags": ["hydration", "energy", "natural"]
   },
   {
     "id": 1749,
-    "title": "Cap Wet Cloth Insert #1749",
-    "category": "Summer",
-    "jugaad": "Topi ke andar geela rumal rakhne se sir thanda rehta hai.",
+    "title": "Pumpkin Seeds",
+    "category": "Sleep Improvement",
+    "jugaad": "Kaddu ke beej raat ko khane se neend sudharati hai aur body relaxed rehti hai.",
     "language": "Hinglish",
     "difficulty": "Easy",
-    "region": "Urban",
-    "tags": [
-      "cap",
-      "wet",
-      "cloth"
-    ]
+    "region": "Rural",
+    "tags": ["sleep", "natural", "seeds"]
   },
   {
     "id": 1750,
-    "title": "Cotton Sheet Trick #1750",
-    "category": "Summer",
-    "jugaad": "Sone se pehle bed sheet ko thoda geela kar do – cooling effect milta hai.",
+    "title": "Honey and Cinnamon Mix",
+    "category": "Immunity Booster",
+    "jugaad": "Shahad aur dalchini ko mila kar roz subah lene se immunity strong hoti hai aur infection kam hote hain.",
     "language": "Hinglish",
-    "difficulty": "Easy",
+    "difficulty": "Moderate",
     "region": "Urban",
-    "tags": [
-      "cotton",
-      "sheet",
-      "trick"
-    ]
+    "tags": ["immunity", "natural", "health"]
   },
+
   {
     "id": 1751,
     "title": "Salt in Fridge #1751",
@@ -29366,6 +29254,416 @@
     "difficulty": "Easy",
     "region": "Urban",
     "tags": ["car", "perfume", "smell", "cotton", "fresh"]
+  },
+    {
+    "id": 2001,
+    "title": "Saffron Water Glow",
+    "category": "Pigmentation Care",
+    "jugaad": "Kesar ko raat bhar pani mein bhigo kar subah lagane se pigmentation kam hoti hai aur skin glow karti hai.",
+    "language": "Hinglish",
+    "difficulty": "Moderate",
+    "region": "Urban",
+    "tags": ["pigmentation", "skin glow", "natural"]
+  },
+  {
+    "id": 2002,
+    "title": "Morning Pranayama",
+    "category": "Energy Boost",
+    "jugaad": "Subah ke time 15 minute pranayama karne se din bhar energy bani rehti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["energy", "pranayama", "yoga"]
+  },
+  {
+    "id": 2003,
+    "title": "Red Rice Porridge",
+    "category": "Cholesterol Management",
+    "jugaad": "Laal chawal ka porridge roz khane se cholesterol ki level natural way mein kam hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Moderate",
+    "region": "Rural",
+    "tags": ["cholesterol", "diet", "natural"]
+  },
+  {
+    "id": 2004,
+    "title": "Cabbage Leaf Patch",
+    "category": "Swelling Relief",
+    "jugaad": "Bandgobhi ke patte thande kar ke sujan par lagane se swelling aur pain dono mein aaram milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["swelling", "relief", "natural"]
+  },
+  {
+    "id": 2005,
+    "title": "Pomegranate Juice",
+    "category": "Hemoglobin Boost",
+    "jugaad": "Anaemia ya low hemoglobin ke liye anaar ka juice roz peene se khoon badhta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": ["hemoglobin", "anaemia", "remedy"]
+  },
+  {
+    "id": 2006,
+    "title": "Chia Seed Water",
+    "category": "Constipation Relief",
+    "jugaad": "Ek glass pani mein chia seeds bhigo kar raat bhar chhod do, subah peene se constipation mein relief milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Very Easy",
+    "region": "Urban",
+    "tags": ["constipation", "digestion", "hydrate"]
+  },
+  {
+    "id": 2007,
+    "title": "Almond Oil Drops",
+    "category": "Ear Care",
+    "jugaad": "Garam badam tel ki 2-3 boondein kaan mein dalne se sookhe kaan aur halka pain theek ho jata hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": ["ear", "natural", "oil"]
+  },
+  {
+    "id": 2008,
+    "title": "Sandalwood Paste",
+    "category": "Heat Rash Relief",
+    "jugaad": "Chandan ka lep garmi ke daanon par lagane se thandak pohanchti hai aur rashes kam hote hain.",
+    "language": "Hinglish",
+    "difficulty": "Moderate",
+    "region": "Urban",
+    "tags": ["heat rash", "skin", "cooling"]
+  },
+  {
+    "id": 2009,
+    "title": "Guava Leaf Tea",
+    "category": "Blood Sugar Balance",
+    "jugaad": "Amrud ke patton ki chai roz peene se sugar level control mein rehta hai.",
+    "language": "Hinglish",
+    "difficulty": "Moderate",
+    "region": "Urban",
+    "tags": ["blood sugar", "herbal", "diabetes"]
+  },
+  {
+    "id": 2010,
+    "title": "Onion Juice Rub",
+    "category": "Scalp Health",
+    "jugaad": "Pyaz ka ras scalp par lagane se dandruff kam hota hai aur baalon ki growth hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Moderate",
+    "region": "Rural",
+    "tags": ["scalp", "dandruff", "hair growth"]
+  },
+  {
+    "id": 2011,
+    "title": "Apricot Face Scrub",
+    "category": "Blackhead Removal",
+    "jugaad": "Khubani ka powder thoda dahi ke sath face par rub karo, blackheads naturally nikal jayenge.",
+    "language": "Hinglish",
+    "difficulty": "Moderate",
+    "region": "Urban",
+    "tags": ["blackhead", "face scrub", "beauty"]
+  },
+  {
+    "id": 2012,
+    "title": "Mustard Foot Soak",
+    "category": "Cracked Heels",
+    "jugaad": "Sarson ke daane aur kuch drops tel ko paani mein mila kar pair dhone se cracked heels soft ho jati hain.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": ["foot care", "cracked heels", "softening"]
+  },
+  {
+    "id": 2013,
+    "title": "Lassi with Cumin",
+    "category": "Acid Reflux Relief",
+    "jugaad": "Jeera powder waali lassi peene se acid reflux ya heartburn mein turant aaram milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Very Easy",
+    "region": "Urban",
+    "tags": ["acid reflux", "digestion", "cooling"]
+  },
+  {
+    "id": 2014,
+    "title": "Amla Candy Munch",
+    "category": "Youthful Skin",
+    "jugaad": "Roz amla candy khane se skin mein natural tightness aur glow bana rehta hai.",
+    "language": "Hinglish",
+    "difficulty": "Very Easy",
+    "region": "Urban",
+    "tags": ["youthful skin", "amla", "vitamin C"]
+  },
+  {
+    "id": 2015,
+    "title": "Pumpkin Soup",
+    "category": "Eye Nutrition",
+    "jugaad": "Kaddu ka soup ya sabzi roz diet mein shamil karne se aankhon ki roshni sudhar jaati hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": ["eye health", "nutrition", "vision"]
+  },
+  {
+    "id": 2016,
+    "title": "Fresh Mint Rinse",
+    "category": "Tongue Cleanliness",
+    "jugaad": "Pudina patte ko paani mein ubal kar gargle se zubaan aur mu ka swad fresh rehta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["tongue", "oral hygiene", "freshness"]
+  },
+  {
+    "id": 2017,
+    "title": "Neem Bark Chew",
+    "category": "Gum Strength",
+    "jugaad": "Neem ki chaal chabane se masoodon ki majbooti badhti hai aur infection kam hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Moderate",
+    "region": "Rural",
+    "tags": ["gum health", "oral", "immunity"]
+  },
+  {
+    "id": 2018,
+    "title": "Rosemary Tea",
+    "category": "Memory Power",
+    "jugaad": "Rosemary ki chai roz peene se yaad-dasht tez hoti hai aur mind sharp banta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["memory", "brain", "herbal"]
+  },
+  {
+    "id": 2019,
+    "title": "Barley Drink",
+    "category": "Urinary Tract Health",
+    "jugaad": "Jau ka paani peene se urine infection aur bladder problems mein aaram milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Very Easy",
+    "region": "Rural",
+    "tags": ["urinary", "infection", "barley"]
+  },
+  {
+    "id": 2020,
+    "title": "Basil Compress",
+    "category": "Insect Bite Relief",
+    "jugaad": "Tulsi patte ka lep insect bite par lagane se itching kam hoti hai aur swelling utar jaati hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["insect bite", "stings", "remedy"]
+  },
+   {
+    "id": 2020,
+    "title": "Basil Compress",
+    "category": "Insect Bite Relief",
+    "jugaad": "Tulsi patte ka lep insect bite par lagane se itching kam hoti hai aur swelling utar jaati hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["insect bite", "stings", "remedy"]
+  },
+  {
+    "id": 2021,
+    "title": "Millet Porridge",
+    "category": "Gluten-Free Diet",
+    "jugaad": "Jowar ya bajra ka porridge gluten intolerance walon ke liye best hota hai—pachne mein aasan aur body ko protein milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": ["gluten-free", "grains", "nutrition"]
+  },
+  {
+    "id": 2022,
+    "title": "Flaxseed Chutney",
+    "category": "Omega-3 Boost",
+    "jugaad": "Alsi ki chutney daily khane se body mein omega-3 fatty acids badh jaate hain aur dil healthy rehta hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["omega-3", "heart health", "flaxseed"]
+  },
+  {
+    "id": 2023,
+    "title": "Papaya Leaf Juice",
+    "category": "Platelet Count Increase",
+    "jugaad": "Dengue ke time papita ke patte ka juice peene se platelet count natural tariqe se badh sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Moderate",
+    "region": "Urban",
+    "tags": ["platelets", "dengue", "natural"]
+  },
+  {
+    "id": 2024,
+    "title": "Beeswax Lip Balm",
+    "category": "Chapped Lips",
+    "jugaad": "Moom (beeswax) se bana balm lagane se dry lips jaldi theek ho jaate hain aur natural protection milti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": ["lip care", "natural balm", "dry lips"]
+  },
+  {
+    "id": 2025,
+    "title": "Pumpkin Seed Chew",
+    "category": "Prostate Health",
+    "jugaad": "Kaddu ke beej khane se prostate ki sujan aur infection se bachav hota hai terutama mardon ke liye.",
+    "language": "Hinglish",
+    "difficulty": "Moderate",
+    "region": "Urban",
+    "tags": ["prostate", "men's health", "seeds"]
+  },
+  {
+    "id": 2026,
+    "title": "Rice Starch Bath",
+    "category": "Child Skin Soothing",
+    "jugaad": "Chawal ke paani se bachchon ko nahaane par unki skin soft aur irritation-free rehti hai.",
+    "language": "Hinglish",
+    "difficulty": "Very Easy",
+    "region": "Rural",
+    "tags": ["child skin", "mild bath", "rice water"]
+  },
+  {
+    "id": 2027,
+    "title": "Cucumber Eye Patch",
+    "category": "Under Eye Puffiness",
+    "jugaad": "Kheera ke tukde aankhon par rakhne se puffiness aur dark circles natural kam hote hain.",
+    "language": "Hinglish",
+    "difficulty": "Very Easy",
+    "region": "Urban",
+    "tags": ["under eye", "puffiness", "natural"]
+  },
+  {
+    "id": 2028,
+    "title": "Fenugreek Water Gargle",
+    "category": "Sore Throat",
+    "jugaad": "Methi daane ka paani garam karke gargle karne se gale ka dard kam ho jata hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Rural",
+    "tags": ["sore throat", "gargle", "fenugreek"]
+  },
+  {
+    "id": 2029,
+    "title": "Mango Leaf Chew",
+    "category": "Gum Bleeding",
+    "jugaad": "Aam ke patte chabane se masoodon se khoon aana kam hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Moderate",
+    "region": "Urban",
+    "tags": ["gum health", "bleeding", "mango leaf"]
+  },
+  {
+    "id": 2030,
+    "title": "Sesame Oil Pulling",
+    "category": "Detox Oral",
+    "jugaad": "Til ka tel muh mein ghoomne se mouth detox hota hai aur breath fresh rehti hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["detox", "oral care", "sesame oil"]
+  },
+  {
+    "id": 2031,
+    "title": "Ajwain Fume Inhale",
+    "category": "Nasal Blockage",
+    "jugaad": "Ajwain ko garam tave par dal kar uska dhuaan inhale karne se naak ka blockage khul jaata hai.",
+    "language": "Hinglish",
+    "difficulty": "Moderate",
+    "region": "Rural",
+    "tags": ["nasal blockage", "fume", "ajwain"]
+  },
+  {
+    "id": 2032,
+    "title": "Spinach Smoothie",
+    "category": "Iron Deficiency",
+    "jugaad": "Palak ka smoothie roz peene se khoon mein iron level badhta hai.",
+    "language": "Hinglish",
+    "difficulty": "Very Easy",
+    "region": "Urban",
+    "tags": ["iron", "nutrition", "spinach"]
+  },
+  {
+    "id": 2033,
+    "title": "Potato Slice Rub",
+    "category": "Wart Removal",
+    "jugaad": "Aloo ka slice din mein 2 baar wart par rub karne se wart dheere-dheere gaayab ho sakta hai.",
+    "language": "Hinglish",
+    "difficulty": "Moderate",
+    "region": "Urban",
+    "tags": ["warts", "skin", "potato"]
+  },
+  {
+    "id": 2034,
+    "title": "Hing Paste Belt",
+    "category": "Colic Relief",
+    "jugaad": "Hing ko pani mein mila kar pet par lagane se bachchon ka colic pain kam hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Very Easy",
+    "region": "Rural",
+    "tags": ["colic", "baby", "hing"]
+  },
+  {
+    "id": 2035,
+    "title": "Pineapple Core Snack",
+    "category": "Digestive Enzyme",
+    "jugaad": "Ananas ke core ko thoda kha lene se digestion mein madad milti hai kyunki usme bromelain hota hai.",
+    "language": "Hinglish",
+    "difficulty": "Easy",
+    "region": "Urban",
+    "tags": ["digestion", "enzyme", "pineapple"]
+  },
+  {
+    "id": 2036,
+    "title": "Mint Water Sip",
+    "category": "Nausea Control",
+    "jugaad": "Pudina patte paani mein daal kar peene se ulti ya nausea mein aaraam milta hai.",
+    "language": "Hinglish",
+    "difficulty": "Very Easy",
+    "region": "Rural",
+    "tags": ["nausea", "mint", "remedy"]
+  },
+  {
+    "id": 2037,
+    "title": "Coriander Seed Chew",
+    "category": "Bad Breath",
+    "jugaad": "Dhaniya ke beej chabane se muh ki badboo kam hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Very Easy",
+    "region": "Urban",
+    "tags": ["bad breath", "coriander", "oral hygiene"]
+  },
+  {
+    "id": 2038,
+    "title": "Red Lentil Scrub",
+    "category": "Skin Polishing",
+    "jugaad": "Masoor dal ko soak karke ubtan bana ke lagane se skin naturally polish ho jaati hai.",
+    "language": "Hinglish",
+    "difficulty": "Moderate",
+    "region": "Rural",
+    "tags": ["skin", "exfoliation", "masoor dal"]
+  },
+  {
+    "id": 2039,
+    "title": "Lemon Honey Drink",
+    "category": "Throat Coating",
+    "jugaad": "Nimboo aur shahad ka paani peene se gala smooth rehta hai aur irritation kam hoti hai.",
+    "language": "Hinglish",
+    "difficulty": "Very Easy",
+    "region": "Urban",
+    "tags": ["throat", "soothing", "drink"]
+  },
+  {
+    "id": 2040,
+    "title": "Ginger Oil Massage",
+    "category": "Leg Pain Relief",
+    "jugaad": "Adrak tel se pairon ki malish karne se thakan aur dard mein farak padta hai.",
+    "language": "Hinglish",
+    "difficulty": "Moderate",
+    "region": "Rural",
+    "tags": ["leg pain", "ginger oil", "massage"]
   }
 ]
 
